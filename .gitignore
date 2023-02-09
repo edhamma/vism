@@ -1,5 +1,3 @@
-latex/html
-latex/*.pdf
 *.aux
 *.toc
 *.log
@@ -13,5 +11,3 @@ latex/vism-glossary.tex
 latex/vism-index.tex
 sphinx/build
 tmp/
-
-
