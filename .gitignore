@@ -1,0 +1,17 @@
+latex/html
+latex/*.pdf
+*.aux
+*.toc
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.paux
+latex/vism-body.tex
+latex/vism-glossary.tex
+latex/vism-index.tex
+sphinx/build
+tmp/
+
+

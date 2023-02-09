@@ -1,6 +1,11 @@
 build:
-	latexmk -cd xml/vism.tex
+	latexmk -cd latex/vism.tex
 	make -C sphinx html
+	cd latex; plastex -c plastex.ini vism.tex
 deploy:
-	# checkout gh-pages branch, copy output from build there, commit, checkout main again
+	git checkout gh-pages
+	git add latex/html latex/vism.pdf sphinx/build/html
+	git commit -m 'updated build'
+	git push origin gh-pages
+	git checkout main
 	# evince vism.pdf &
