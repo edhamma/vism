@@ -8,6 +8,7 @@
 	\def\frontmatter{\setcounter{part}{-1}\part{[Front]}} % Part 0 in roman will show as Part, giving Part [Front]
 	\def\mainmatter{\setcounter{chapter}{0}}
 	\def\backmatter{\setcounter{part}{-1}\part{[Back]}}
+	\def\linkdest#1{\hypertarget{#1}{}}
 	%\def\BPSed#1{\textbf{#1}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
@@ -32,6 +33,10 @@
 		\hfuzz=10cm
 		\vfuzz=10cm
 		\parskip=.4\baselineskip
+	% https://tex.stackexchange.com/a/412381
+	\makeatletter
+	   \newcommand{\linkdest}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
+	\makeatother
 \fi
 
 % number chapter with roman numbers
