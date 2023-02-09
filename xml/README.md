@@ -16,4 +16,6 @@ XML tags
    * `bib` is bibliography link (citation), `target` attribute being the bibliography key (such as `M`) and `loc` the rest of the citation (e.g. ` I 54`), for `M I 54`
 
 * `vism-para`: Visudhimagga paragraph number marker (such as 272)
+* `book`: top-level tag for the main text
+* `list`: top-level tag for index or glossary
 
