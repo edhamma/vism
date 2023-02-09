@@ -6,6 +6,8 @@
 *.fdb_latexmk
 *.out
 *.paux
+latex/*.pdf
+latex/html
 latex/vism-body.tex
 latex/vism-glossary.tex
 latex/vism-index.tex
