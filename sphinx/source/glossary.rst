@@ -2039,7 +2039,7 @@ Glossary
           duty
 
    \*vattana
-          performance of duties: :ref:`III.71 <III.71>`  ( [Vin I]_  *61*\  ) 
+          performance of duties: :ref:`III.71 <III.71>`  ( [Vin]_  *I 61*\  ) 
 
    \*vatthika
           clothable: :ref:`VII.79 <VII.79>` 

@@ -42,6 +42,10 @@ Bibliography
 
 .. [Netti] *Nettipakaraṇa*
 
+.. [Nidd] I: Mahā Niddesa 
+
+    II: Cūḷa Niddesa (Siamese ed.)
+
 .. [Nidd I] Mahā Niddesa
 
 .. [Nidd II] Cūḷa Niddesa (Siamese ed.)
@@ -51,6 +55,10 @@ Bibliography
 .. [Paṭis] Paṭisambhidāmagga
 
 .. [Paṭis-a] *Paṭisambhidāmagga Aṭṭhakathā = Saddhammappakāsinī* (Sinhalese Hewavitarne ed.).
+
+.. [Paṭṭh] I: Paṭṭhāna, Tika Paṭṭhāna
+
+     II Paṭṭhāna, Duka Paṭṭhāna (Se and Be.)
 
 .. [Paṭṭh I] Paṭṭhāna, Tika Paṭṭhāna % has numerous continuations: , 34, 44 (in index)
 
@@ -80,6 +88,16 @@ Bibliography
 
 .. [Vv] Vimānavatthu
 
+.. [Vin] I: Vinaya Piṭaka I: (3)—Mahāvagga
+
+      II: Vinaya Piṭaka II: (4)—Cūḷavagga
+
+      III: Vinaya Piṭaka III: (1)—Suttavibhaṅga 1
+
+      IV: Vinaya Piṭaka IV: (2)—Suttavibhaṅga 2
+
+      V: Vinaya Piṭaka V: (5)—Parivāra
+
 .. [Vin I] Vinaya Piṭaka I: (3)—Mahāvagga
 
 .. [Vin II] Vinaya Piṭaka II: (4)—Cūḷavagga
@@ -94,4 +112,3 @@ Bibliography
 
 .. [Vism-mhṭ] Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)
 
-.. [
