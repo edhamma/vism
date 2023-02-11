@@ -1,4 +1,9 @@
 \documentclass[a4paper]{book}
+
+\usepackage[bookmarksnumbered=true]{hyperref}
+\usepackage{multicol}
+\usepackage{xcolor}
+
 % for LaTex, disable plastex parts
 \newif\ifplastex\plastexfalse
 \ifplastex
@@ -11,6 +16,8 @@
 	%% vism-specific macros for PlasTeX
 	\def\vismHypertarget#1{\hypertarget{#1}{}}
 	\def\vismAssertFootnoteCounter#1{\relax}
+	% HTML version only
+	\usepackage{minitoc}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
 	% use the same-looking font like BPS2011
@@ -40,6 +47,9 @@
 	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 	\makeatother
 	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
+	% no-op minitoc
+	%\let\dominitoc\relax \let\minitoc\relax \let\mtcskip\relax
+	\usepackage{minitoc}
 \fi
 
 % number chapter with roman numbers
@@ -48,13 +58,11 @@
 \renewcommand{\thepart}{Part \Roman{part}}
 \renewcommand{\partname}{} 
 
-\usepackage[bookmarksnumbered=true]{hyperref}
-\usepackage{multicol}
-\usepackage{xcolor}
 
 \bibliographystyle{abstract}
 
 \begin{document}
+	\dominitoc
 	\title{The Path of Purification \\ (\emph{Visuddhimagga})}
 	\date{(decompiled preview full of errors)}
 	\author{
