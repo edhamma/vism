@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<bibliography>
+  <title>References</title>
+  <biblioentry><abbrev>A</abbrev><title>Aṅguttara Nikāya</title></biblioentry>
+  <biblioentry><abbrev>A-a</abbrev><title><emphasis>Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Cp</abbrev><title>Cariyāpiṭaka</title></biblioentry>
+  <biblioentry><abbrev>Cp-a</abbrev><title><emphasis>Cariyāpiṭaka Aṭṭhakathā</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Dhp</abbrev><title>Dhammapada</title></biblioentry>
+  <biblioentry><abbrev>Dhp-a</abbrev><title><emphasis>Dhammapada Aṭṭhakathā</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Dhs</abbrev><title>Dhammasaṅgaṇī</title></biblioentry>
+  <biblioentry><abbrev>Dhs-a</abbrev><title><emphasis>Dhammasaṅgaṇi Aṭṭhakathā = Atthasālinī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Dhs-ṭ</abbrev><title><emphasis>Dhammasaṅgaṇī Ṭīkā = Mūla Ṭīkā II</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Dhātuk</abbrev><title>Dhātukathā</title></biblioentry>
+  <biblioentry><abbrev>D</abbrev><title>Dīgha Nikāya</title></biblioentry>
+  <biblioentry><abbrev>D-a</abbrev><title><emphasis>Dīgha Nikāya Aṭṭhakathā = Sumaṅgala-vilāsinī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>It</abbrev><title>Itivuttaka</title></biblioentry>
+  <biblioentry><abbrev>J-a</abbrev><title><emphasis>Jātaka-aṭṭhakathā</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Kv</abbrev><title>Kathāvatthu</title></biblioentry>
+  <biblioentry><abbrev>Mhv</abbrev><title><emphasis>Mahāvaṃsa</emphasis></title></biblioentry>
+  <biblioentry><abbrev>M</abbrev><title>Majjhima Nikāya</title></biblioentry>
+  <biblioentry><abbrev>M-a</abbrev><title><emphasis>Majjhima Nikāya Aṭṭhakathā = Papañca-sūdanī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Mil</abbrev><title><emphasis>Milindapañhā</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Netti</abbrev><title><emphasis>Nettipakaraṇa</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Nidd</abbrev><title><itemizedlist><listitem><para>I: Mahā Niddesa</para></listitem><listitem><para>II: Cūḷa Niddesa (Siamese ed.)</para></listitem></itemizedlist></title></biblioentry>
+  <biblioentry><abbrev>Nikāya-s</abbrev><title><emphasis>Nikāyasaṃgrahaya</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Paṭis</abbrev><title>Paṭisambhidāmagga</title></biblioentry>
+  <biblioentry><abbrev>Paṭis-a</abbrev><title><emphasis>Paṭisambhidāmagga Aṭṭhakathā = Saddhammappakāsinī</emphasis> (Sinhalese Hewavitarne ed.).</title></biblioentry>
+  <biblioentry><abbrev>Paṭṭh</abbrev><title><itemizedlist><listitem><para>I: Paṭṭhāna, Tika Paṭṭhāna</para></listitem><listitem><para>II Paṭṭhāna, Duka Paṭṭhāna (Se and Be.)</para></listitem></itemizedlist></title></biblioentry>
+  <biblioentry><abbrev>Peṭ</abbrev><title><emphasis>Peṭakopadesa</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Pv</abbrev><title>Petavatthu</title></biblioentry>
+  <biblioentry><abbrev>S</abbrev><title>Saṃyutta Nikāya</title></biblioentry>
+  <biblioentry><abbrev>S-a</abbrev><title><emphasis>Saṃyutta Nikāya Aṭṭhakathā = Sāratthappakāsinī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Sn</abbrev><title>Sutta-nipāta</title></biblioentry>
+  <biblioentry><abbrev>Sn-a</abbrev><title><emphasis>Sutta-nipāta Aṭṭhakathā = Paramatthajotikā</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Th</abbrev><title>Thera-gāthā</title></biblioentry>
+  <biblioentry><abbrev>Ud</abbrev><title>Udāna</title></biblioentry>
+  <biblioentry><abbrev>Vibh</abbrev><title>Vibhaṅga</title></biblioentry>
+  <biblioentry><abbrev>Vibh-a</abbrev><title><emphasis>Vibhaṅga Aṭṭhakathā = Sammohavinodanī</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Vibh-ṭ</abbrev><title><emphasis>Vibhaṅga Ṭīkā = Mūla Ṭīkā II</emphasis></title></biblioentry>
+  <biblioentry><abbrev>Vv</abbrev><title>Vimānavatthu</title></biblioentry>
+  <biblioentry><abbrev>Vin</abbrev><title><itemizedlist><listitem><para>I: Vinaya Piṭaka I: (3)—Mahāvagga</para></listitem><listitem><para>II: Vinaya Piṭaka II: (4)—Cūḷavagga</para></listitem><listitem><para>III: Vinaya Piṭaka III: (1)—Suttavibhaṅga 1</para></listitem><listitem><para>IV: Vinaya Piṭaka IV: (2)—Suttavibhaṅga 2</para></listitem><listitem><para>V: Vinaya Piṭaka V: (5)—Parivāra</para></listitem></itemizedlist></title></biblioentry>
+  <biblioentry><abbrev>Vism] <emphasis>Visuddhimagga</emphasis> (PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae</abbrev><title>)</title></biblioentry>
+  <biblioentry><abbrev>Vism-mhṭ</abbrev><title>Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)</title></biblioentry>
+</bibliography>
