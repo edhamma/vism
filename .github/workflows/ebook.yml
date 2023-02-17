@@ -10,8 +10,8 @@ jobs:
         run: |
           wget 'https://www.apache.org/dyn/closer.cgi?filename=/xmlgraphics/fop/binaries/fop-2.8-bin.tar.gz&action=download' -O fop-2.8-bin.tar.gz
           tar xfz fop-2.8-bin.tar.gz
-          sudo apt-get update && sudo apt-get install texlive-latex-recommended docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless
-          pip install sphinx jupyterlab nbconvert lxml
+          sudo apt-get update && sudo apt-get install docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless texlive-latex-recommended latexmk fonts-texgyre
+          pip install sphinx jupyterlab nbconvert lxml plastex
       - name: Build E-Books 🔧
         run: |
           make FOP=fop-2.8/fop/fop build
