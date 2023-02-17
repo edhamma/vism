@@ -65,7 +65,8 @@
 		\marginnote{\footnotesize\textcolor{purple}{#1}}%
 	}
 	\def\vismParaPage{
-		\ifthenelse{%
+		% use \csname ... \endcsname so that plasTeX does not fail parsing the expression
+		\csname ifthenelse\endcsname{%
 			\equal{\topshortmark\vismMark}{\botshortmark\vismMark}%
 		}{%
 			\topshortmark\vismMark%
