@@ -7,16 +7,16 @@ build/book.sectioned.xml: src/*.xml
 
 build: build-latex build-docbook build-sphinx build-web
 
-build-latex: build/book.sectioned.xml build/latex/vism.tex
+build-latex: build/book.sectioned.xml latex/*
 	cp -r latex build/
 	cd build/latex && \
 		latexmk vism.tex && \
 		plastex -c plastex.ini vism.tex
 
-build-sphinx: build/book.sectioned.xml
+build-sphinx: build/book.sectioned.xml sphinx/source/*
 	cp -r sphinx build/
 	make -C build/sphinx html epub
-build-docbook: build/book.sectioned.xml
+build-docbook: build/book.sectioned.xml docbook/*
 	cp -r docbook build/
 	cd build/docbook && \
 		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml && \
