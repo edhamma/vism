@@ -20,11 +20,11 @@
 		<h2>Motivation</h2>
 			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
 		<h2>Goal</h2>
-			<p>This project aims at providing high-quality machine-readable Visuddhimagga, plus various electronic editions (such as HTML, ePub, PDF).</p>
-			<p><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em></p>
+			<p>This project aims at providing high-quality machine-readable Visuddhimagga, plus several machine-generated electronic editions (such as HTML, ePub, PDF).</p>
+			<p></p>
 			<h3>Steps</h3>
 				<dl>
-					<dt>(0. politics ✅)</dt><dd>I contacted the publisher (BPS) which has © on the 2011 edition we used for the start; I hope to get green light (or even their source data) to continue. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
+					<dt>(0. politics ✅)</dt><dd><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em> It would be nice to have green light (or even source data) from BPS. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
 					<dt>1. semantic representation ✅</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
 					<dt>2. verification ✅</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
 					<dt>3. automation ✅</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
@@ -35,9 +35,9 @@
 							<li>cross-references which were not parsed correctly;</li>
 							<li>incorrectly parsed entries in the index and glossary;</li>
 							<li>some (sub)section header are missing, as they were not parsed correctly;</li>
-							<li>tables which were not processed at all;</li>
+							<li>tables were not processed at all, they will be format-specific.</li>
 						</ul>
-					<dt>5. enhancements 🔧</dt><dd>👉 Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
+					<dt>5. enhancements 🔧</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
 					<dt>6. publication ✨</dt><dd>Final and fine-tuned outputs. Perhaps even an offline app (why not?).</dd>
 					<dt>7. beyond ✨</dt><dd>Vimuttimagga? Patisambhidamagga?</dd>
 				</dl>
