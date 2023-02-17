@@ -6,18 +6,18 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
-      - name: Install deps
+      - name: Install deps 🛒
         run: |
           wget --no-verbose 'https://www.apache.org/dyn/closer.cgi?filename=/xmlgraphics/fop/binaries/fop-2.8-bin.tar.gz&action=download' -O fop-2.8-bin.tar.gz
           tar xfz fop-2.8-bin.tar.gz
-          sudo apt-get update && sudo apt-get install xsltproc docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless texlive-latex-recommended latexmk fonts-texgyre
+          sudo apt-get update && sudo apt-get install xsltproc docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless texlive-latex-recommended latexmk fonts-texgyre gsfonts
           pip install sphinx jupyterlab nbconvert lxml plastex
       - name: Build E-Books 🔧
         run: |
           make FOP=../../fop-2.8/fop/fop build # relative to build/docbook
           cp src/index.html build/index.html
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
