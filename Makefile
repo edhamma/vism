@@ -10,7 +10,7 @@ build: build-latex build-docbook build-sphinx build-web
 build-latex: build/book.sectioned.xml
 	cp -r latex build/
 	cd build/latex && \
-		latexmk -quiet vism.tex && \
+		latexmk vism.tex && \
 		plastex -c plastex.ini vism.tex
 
 build-sphinx: build/book.sectioned.xml
