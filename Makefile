@@ -28,17 +28,3 @@ build-web:
 
 clean:
 	rm -rf build gh-pages/docbook gh-pages/latex gh-pages/sphinx
-
-deploy:
-	rm -rf gh-pages/docbook gh-pages/latex gh-pages/sphinx
-	mkdir -p gh-pages/latex gh-pages/sphinx/build gh-pages/docbook
-	rsync -rav build/latex/html gh-pages/latex/
-	rsync -rav build/sphinx/build/html gh-pages/sphinx/build/
-	rsync -av build/sphinx/build/epub/vism.epub gh-pages/sphinx/build/epub/
-	rsync -av build/latex/vism.pdf gh-pages/latex/
-	rsync -av build/docbook/vism.docbook.pdf gh-pages/docbook/
-	rsync -av build/docbook/vism.xhtml gh-pages/docbook/
-	rsync -av build/docbook/docbook.css gh-pages/docbook/
-	git -C gh-pages add -A .
-	git -C gh-pages commit -m 'updates build'
-	git -C gh-pages push origin gh-pages
