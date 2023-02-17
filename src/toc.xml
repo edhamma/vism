@@ -2,13 +2,13 @@
   <chapter num="I">
     <sect para="1" title="I. Introductory"/>
     <sect para="16" title="II. Virtue"/>
-    <sect para="17" title="(i) What is virtue?" precedes="It is the states beginning"/>
+    <sect para="17" title="(i) What is virtue?" starts_at="It is the states beginning"/>
     <sect para="19" title="(ii) In what sense is it virtue?"/>
     <sect para="20" title="(iii) What are its characteristic, etc.?"/>
     <sect para="23" title="(iv) What are the benefits of virtue?"/>
     <sect para="25" title="(v) How many kinds of virtue are there?">
        <sect para="26" title="1. Monad"/>
-       <sect para="26" title="2.–8. Dyads"/>
+       <sect para="26" title="2.–8. Dyads" starts_at="2. "/>
        <sect para="33" title="9.–13. Triads"/>
        <sect para="39" title="14.–17. Tetrads">
           <sect para="42" title="Virtue of the fourfold purification"/>
@@ -21,15 +21,15 @@
     <sect para="2" title="The 13 kinds of Ascetic Practices"/>
   </chapter>
   <chapter num="III">
-    <sect para="2" title="(i) What is concentration?" precedes="Concentration is of many sorts"/>
+    <sect para="2" title="(i) What is concentration?" starts_at="Concentration is of many sorts"/>
     <sect para="3" title="(ii) In what sense is it concentration?"/>
     <sect para="4" title="(iii) What are its characteristic, etc.?"/>
     <sect para="5" title="(iv) How many kinds of concentration are there?"/>
     <sect para="26" title="(v), (vi) What are the defiling and the cleansing of it?"/>
     <sect para="27" title="(vii) How is it developed?">
-      <sect para="27" title="A. Development in Brief" precedes="The method of developing"/>
+      <sect para="27" title="A. Development in Brief" starts_at="The method of developing"/>
       <sect para="29" title="B. Development in Detail">
-         <sect para="29" title="The ten impediments" precedes="Firstly it was said above,"/>
+         <sect para="29" title="The ten impediments" starts_at="Firstly it was said above,"/>
          <sect para="57" title="Meditation subjects etc." comment="These two are swapped in BPS, and both in §57 … ?"/>
          <sect para="61" title="The good friend"/>
          <sect para="74" title="Temperaments"/>
@@ -54,7 +54,7 @@
     <sect para="67" title="The five similes"/>
     <sect para="74" title="Absorption in the cognitive series"/>
     <sect para="79" title="The first jhāna"/>
-    <sect para="126" title="Extension of the sign" precedes="In order to perfect the develo"/>
+    <sect para="126" title="Extension of the sign" starts_at="In order to perfect the develo"/>
     <sect para="139" title="The second jhāna"/>
     <sect para="153" title="The third jhāna"/>
     <sect para="183" title="The fourth jhāna"/>
@@ -111,7 +111,7 @@
       <sect para="94" title="Fit for Gifts"/>
       <sect para="96" title="Fit for Hospitality"/>
       <sect para="97" title="Fit for Offering"/>
-      <sect para="97" title="Fit for Salutation" precedes="It is worthy of being accorded"/>
+      <sect para="97" title="Fit for Salutation" starts_at="It is worthy of being accorded"/>
       <sect para="98" title="As an Incomparable Field of Merit for the World"/>
     </sect>
     <sect para="101" title="(4) Recollection of Virtue"/>
@@ -153,7 +153,7 @@
   </chapter>
   <chapter num="XII">
     <sect para="1" title="The Benefits of Concentration (Continued)">
-      <sect para="2" title="(1) The Kinds of Supernormal Power" precedes="If a meditator wants to begin "/>
+      <sect para="2" title="(1) The Kinds of Supernormal Power" starts_at="If a meditator wants to begin "/>
     </sect>
   </chapter>
   <chapter num="XIII">
@@ -167,12 +167,12 @@
   </chapter>
   <chapter num="XIV">
     <sect para="1" title="A. Understanding"/>
-    <sect para="2" title="(i) What is understanding?" precedes="Understanding ("/>
+    <sect para="2" title="(i) What is understanding?" starts_at="Understanding ("/>
     <sect para="33" title="B. Description of the Five Aggregates">
       <sect para="34" title="The Materiality Aggregate"/>
       <sect para="81" title="The Consciousness Aggregate"/>
     </sect>
-    <sect para="82" title="The 89 Kinds of Consciousness—see Table III" precedes="That same [consciousness], tho"/>
+    <sect para="82" title="The 89 Kinds of Consciousness—see Table III" starts_at="That same [consciousness], tho"/>
     <sect para="111" title="The 14 Modes of Occurrence of Consciousness">
       <sect para="125" title="The Feeling Aggregate"/>
       <sect para="129" title="The Perception Aggregate"/>
@@ -184,7 +184,7 @@
     <sect para="197" title="Feeling">
       <sect para="210" title="Perception, Formations and Consciousness"/>
     </sect>
-    <sect para="210" title="D. Classes of Knowledge of the Aggregates" precedes="Having understood this, again "/>
+    <sect para="210" title="D. Classes of Knowledge of the Aggregates" starts_at="Having understood this, again "/>
   </chapter>
   <chapter num="XV">
     <sect para="1" title="A. Description of the Bases"/>
@@ -218,7 +218,7 @@
       <sect para="25" title="I. Preamble"/>
       <sect para="27" title="II. Brief Exposition"/>
       <sect para="27" title="III. Detailed Exposition"/>
-      <sect para="58" title="(i) Ignorance" precedes="According to the Suttanta meth"/>
+      <sect para="58" title="(i) Ignorance" starts_at="According to the Suttanta meth"/>
       <sect para="60" title="(ii) Formations"/>
       <sect para="186" title="(iv) Mentality-Materiality"/>
       <sect para="203" title="(v) The Sixfold Base"/>
@@ -236,8 +236,8 @@
     </sect>
   </chapter>
   <chapter num="XVIII">
-    <sect para="2" title="Defining of Mentality-Materiality" precedes="[(a) Starting with Mentality]">
-      <sect para="2" title="(1) Definition Based on the Four Primaries" precedes="[(a) Starting with Mentality]"/>
+    <sect para="2" title="Defining of Mentality-Materiality" starts_at="[(a) Starting with Mentality]">
+      <sect para="2" title="(1) Definition Based on the Four Primaries" starts_at="[(a) Starting with Mentality]"/>
       <sect para="9" title="(2) Definition Based on the Eighteen Elements"/>
       <sect para="12" title="(3) Definition Based on the Twelve Bases"/>
       <sect para="13" title="(4) Definition Based on the Five Aggregates"/>
@@ -256,7 +256,7 @@
     <sect para="11" title="Dependent Origination in Reverse Order"/>
     <sect para="12" title="Dependent Origination in Direct Order"/>
     <sect para="13" title="Kamma and Kamma-Result"/>
-    <sect para="19" title="No Doer Apart from Kamma and Result" precedes="In all kinds of becoming, gene"/>
+    <sect para="19" title="No Doer Apart from Kamma and Result" starts_at="In all kinds of becoming, gene"/>
     <sect para="21" title="Full-Understanding of the Known"/>
   </chapter>
   <chapter num="XX">
@@ -272,7 +272,7 @@
       <sect para="39" title="(d) Temperature-Born Materiality"/>
     </sect>
     <sect para="43" title="Comprehension of the Immaterial"/>
-    <sect para="45" title="The Material Septad" precedes="Another comprehends formations"/>
+    <sect para="45" title="The Material Septad" starts_at="Another comprehends formations"/>
     <sect para="76" title="The Immaterial Septad"/>
     <sect para="89" title="The Eighteen Principal Insights"/>
     <sect para="93" title="Knowledge of Rise and Fall—I"/>
@@ -291,7 +291,7 @@
     <sect para="53" title="Discerning Formations as Void">
       <sect para="61" title="8. Knowledge of Equanimity about Formations"/>
     </sect>
-    <sect para="66" title="The Triple Gateway to Liberation" precedes="It enters upon the state of th"/>
+    <sect para="66" title="The Triple Gateway to Liberation" starts_at="It enters upon the state of th"/>
     <sect para="74" title="The Seven Kinds of Noble Persons"/>
     <sect para="79" title="The Last Three Knowledges are One"/>
     <sect para="83" title="Insight Leading to Emergence"/>
@@ -313,11 +313,11 @@
     <sect para="30" title="The Fourth Fruition—Eighth Noble Person"/>
     <sect para="32" title="II. The States Associated with the Path, Etc."/>
     <sect para="92" title="The Four Functions"/>
-    <sect para="92" title="The Four Functions in a Single Moment" precedes="6."/>
+    <sect para="92" title="The Four Functions in a Single Moment" starts_at="6."/>
     <sect para="104" title="The Four Functions Described Separately"/>
     <sect para="129" title="Conclusion"/>
   </chapter>
   <chapter num="XXIII">
-    <sect para="60" title="Postscript" precedes="This "/>
+    <sect para="60" title="Postscript" starts_at="This "/>
   </chapter>
 </toc>

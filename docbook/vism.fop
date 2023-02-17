@@ -10,11 +10,12 @@
             <font kerning="yes" embed-url="file:///usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf">
               <font-triplet name="TeX Gyre Pagella" style="italic" weight="normal"/>
             </font>
-            <!--
             <font kerning="yes" embed-url="/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf">
-              <font-triplet name="TeX Gyre Pagella" style="bold" weight="normal"/>
+              <font-triplet name="TeX Gyre Pagella" style="normal" weight="bold"/>
             </font>
-            -->
+            <font kerning="yes" embed-url="/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bolditalic.otf">
+              <font-triplet name="TeX Gyre Pagella" style="italic" weight="bold"/>
+            </font>
        </fonts>
     </renderer>
   </renderers>
