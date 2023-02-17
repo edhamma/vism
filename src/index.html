@@ -6,69 +6,49 @@
 		<style>dt { font-weight:bold; }</style>
 	</head>
 	<body>
-		<h1>Visuddhimagga digital</h1>
+	<h1>Visuddhimagga digital</h1>
+		<h2>Work-in-progress outputs</h2>
+			<ul>
+				<li><a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via XML → LaTeX source → LuaLaTeX)
+				<li><a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)
+				<li><a href="sphinx/build/html/index.html">HTML</a>(via XML → Sphinx)
+				<li><a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via XML → Sphinx)
+				<li><a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XML → DocBook → XSLT → FOP)
+				<li><a href="docbook/vism.xhtml">HTML</a> (via XML → DocBook → XHTML5)
+			</ul>
 		<h2>Motivation</h2>
 			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
-		<h2>Goals</h2>
-			<p>This project aims at providing high-quality machine-readable Visuddhimagga, which can serve as a basis for various electronic editions (such as HTML and ePub).</p>
-			Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.
-		<h3>Done and not done</h3>
-			<p>The BPS edition was used as a basis for XML (semantic) representation of the contents. This was done in a <a href="https://github.com/eudoxos/vism/blob/main/03-lxml-html.ipynb">pretty ugly way</a> (conversion to HTML via pdfminer, then processing that with LXML, with bunch of hacks and heuristics), but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such) and example tools validate the output (see below).</p>
-			<p>There are some known errors in the data, such as
-				<ul>
-					<li>obvious errors in the BPS edition (few);</li>
-					<li>trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
-					<li>cross-references which were not parsed correctly;</li>
-					<li>incorrectly parsed entries in the index and glossary;</li>
-					<li>some (sub)section header are missing, as they were not parsed correctly;</li>
-					<li>tables were not processed at all (one in introduction is missing, one is rendered as text; and 4 tables at the end are not included at all);</li>
-					<li>and perhaps others.</li>
-				</ul>
-		<h3>Next steps</h3>
-			<dl>
-				<dt>(0. politics)</dt><dd>I contacted the publisher (BPS) which has © on the 2011 edition we used for the start; I hope to get green light (or even their source data) to continue. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
-				<dt>1. verification</dt><dd>make sure that current data are fairly complete and don't suffer from a structural problem.</dd>
-				<dt>2. corrections</dt><dd>Start hand-editing the data to fix non-structural errors mentioned above. <b>This must only be done once the verification is complete:</b> should the data be re-generated, all hand-tuning will be lost and will have to be re-applied.</dd>
-				<dt>3. enhancements</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
-				<dt>4. publication</dt><dd>Actually produce something digestible, such as various PDFs, HTML, ePub, <tt>.mobi</tt>, an offline app (why not?).</dd>
-				<dt>6. beyond</dt><dd>Vimuttimagga? Patisambhidamagga?</dd>
-			</dl>
-		</h3>
-		<h3>How can you help?</h3>
-			<p><em>Yes, you who are reading this page right now.</em></p>
-			<p>At this moment, the most useful thing would be to work on the <b>1. verification</b>.
-			<ul>
-				<li>Look at the current outputs below and do a cursory check that nothing is completely off. I did that already quite a bit, obviously, but more eyes see more.</li>
-				<li>If you are fluent with XML, look at the data sources and see if there is not something obviously wrong with the.</li>
-			</ul>
-			<p>If you spot anything worth attention, <a href="https://github.com/eudoxos/vism/issues">file an issue at github</a> (I don't think anyone will open a pull request for the current processing notebook). Do not yet file issues about minor corrections (such as listed above).</p>
-			<p>If you want to work on any of the other points, go ahead and let me know! Pull Requests are welcome.</p>
-		<h2>Inputs &amp; outputs</h2>
-		<h3>Inputs</h3>
-			<p>All the data are in the <a href="https://github.com/eudoxos/vism">GitHub repository</a>.</p>
-			<p>The data are split several XML files (most use <a href="https://github.com/eudoxos/vism/blob/main/src/README.md">custom tags</a>):
-				<ul>
-					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/book.6.xml">book</a> (introductory chapters and main text); 
-					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/index.xml">index</a></li>
-					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/gloss.xml">glossary</a></li>
-					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/toc.xml">sectioning</a>: Visuddhimagga text is originally divided into chapters only (as fas as I know). The PTS edition added paragraph numbers within each chapter. Ech edition (including BPS2011) adds extra sectioning to make the text more navigable. This was split off the main document, so that modifications are easier, and is merged during the build process.</li>
-				</ul>
-			</p>
-		<h3>Processing</h3>
-			<p>Current processing routines to spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>, <a href="https://sphinx-doc">Sphinx</a> and <a href="https://docbook.org">DocBook</a> sources (at the end of <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">the notebook</a>) and are fairly simple: English editions of <em>Visuddhimagga</em> use traditional book organization, which is straightfoward with LaTeX.</p>
+		<h2>Goal</h2>
+			<p>This project aims at providing high-quality machine-readable Visuddhimagga, plus various electronic editions (such as HTML, ePub, PDF).</p>
+			<p><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em></p>
+			<h3>Steps</h3>
+				<dl>
+					<dt>(0. politics ✅)</dt><dd>I contacted the publisher (BPS) which has © on the 2011 edition we used for the start; I hope to get green light (or even their source data) to continue. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
+					<dt>1. semantic representation ✅</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
+					<dt>2. verification ✅</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
+					<dt>3. automation ✅</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
+					<dt>4. corrections 🔧</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. Those include:
+						<ul>
+							<li>obvious errors in the BPS edition (few);</li>
+							<li>trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
+							<li>cross-references which were not parsed correctly;</li>
+							<li>incorrectly parsed entries in the index and glossary;</li>
+							<li>some (sub)section header are missing, as they were not parsed correctly;</li>
+							<li>tables which were not processed at all;</li>
+						</ul>
+					<dt>5. enhancements 🔧</dt><dd>👉 Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
+					<dt>6. publication ✨</dt><dd>Final and fine-tuned outputs. Perhaps even an offline app (why not?).</dd>
+					<dt>7. beyond ✨</dt><dd>Vimuttimagga? Patisambhidamagga?</dd>
+				</dl>
+		<h2>How can you help?</h2>
+			<p>At this moment, the most useful thing would be to work on the <b>4. corrections</b>. If you spot anything wrong, <a href="https://github.com/eudoxos/vism/issues">file an issue at github</a> or open a pull request with corrected data.</p>
+			<p>If you want to work on any of the other points, go ahead and let me know!</p>
+		<h2>Output formats</h2>
+			<p>Current <a href="https://github.com/eudoxos/vism/blob/06-assemble.ipynb">processing routines</a> spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>, <a href="https://sphinx-doc">Sphinx</a> and <a href="https://docbook.org">DocBook</a> based on the source data and are fairly simple.</p>
 			<p>The reason for Sphinx was that it has good support for ebooks (ePub and others), but lacks customizations which seem to be important for this kind of book — such as chapters in roman numbers and others.</p>
 			<p><a href="https://plastex.github.io/plastex/">PlasTeX</a>'s HTML output if far superior to Sphinx's (and was almost no extra work, as we mostly use vanilla LaTeX with little customizations), but it lacks ePub output.</p>
-			<p>DocBook was tested as (somewhat overdesigned) XML standard — it lacks in non-technical writing (DocBook Publishers fixes that), but has many converters to different output formats.</p>
-			<p>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which set a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</p>
-		</ul>
-		<h3>Outputs</h3>
-		<ul>
-			<li><a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via XML → LaTeX source → LuaLaTeX)
-			<li><a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)
-			<li><a href="sphinx/build/html/index.html">HTML</a>(via XML → Sphinx)
-			<li><a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via XML → Sphinx)
-			<li><a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XML → DocBook → XSLT → FOP)
-			<li><a href="docbook/vism.xhtml">HTML</a> (via XML → DocBook → XHTML5)
+			<p>DocBook (DocBook Publishers for non-technical writing) has many converters to different output formats. Its customization is not straightforward (XSLT stylesheets) but it easy to be automated.</p>
+			<p>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which sets a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</p>
 		</ul>
 	</body>
 </html>
