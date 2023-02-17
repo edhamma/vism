@@ -7,7 +7,7 @@ build/book.sectioned.xml: src/*.xml
 
 build: build-latex build-docbook build-sphinx build-web
 
-build-latex: build/book.sectioned.xml
+build-latex: build/book.sectioned.xml build/latex/vism.tex
 	cp -r latex build/
 	cd build/latex && \
 		latexmk vism.tex && \

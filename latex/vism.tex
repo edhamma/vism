@@ -1,6 +1,5 @@
 \documentclass[a4paper]{book}
 
-\usepackage[bookmarksnumbered=true]{hyperref}
 \usepackage{multicol}
 \usepackage{xcolor}
 
@@ -17,7 +16,9 @@
 	\def\vismHypertarget#1{\hypertarget{#1}{}}
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% HTML version only
-	\usepackage{minitoc}
+	%\usepackage{minitoc}
+	\let\minitoc\relax
+	\def\vismParagraph#1#2{\paragraph{§#2.}\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{I.5}}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
 	% use the same-looking font like BPS2011
@@ -30,11 +31,8 @@
 	\usepackage{marginnote}
 	% no page numbers on empty pages
 	\usepackage{emptypage}
-	% make TOC with long (XVI.34) section titles nices
-	\usepackage{tocloft}
-		\setlength{\cftsubsecnumwidth}{4em}
-		\setlength{\cftsecnumwidth}{4em}
-		\setlength{\cftchapnumwidth}{4em}
+	%
+	\usepackage{setspace}
 	% less warnings
 		\hbadness10000
 		\vbadness10000
@@ -46,15 +44,78 @@
 	\makeatletter
 	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 	\makeatother
+	% check that footnote number is the same as expected
 	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
-	% no-op minitoc
-	%\let\dominitoc\relax \let\minitoc\relax \let\mtcskip\relax
-	\usepackage{minitoc}
-	\renewcommand{\mtctitle}{Chapter Contents}
+
+	% 
+	\usepackage{titletoc}
+	\usepackage[pagestyles,extramarks]{titlesec}
+	\usepackage{ifthen}
 	%
-	\usepackage{titlesec}
-	\titlespacing*{\paragraph}{0pt}{.5ex plus .5ex minus .5ex}{1em} % 1.5ex instead of 3.25ex
+	% page header showing paragraphs on the current page
+	%
+	% straight from titleps (=[pagestyles]{titlesec}) manual
+	\newcommand\vismMark{}
+	\newshortmark\vismMark
+	\def\vismParagraph#1#2{%
+		\preshortmark\vismMark%
+		\paragraph{§#2.}%
+		\renewcommand\vismMark{#2}\shortmark\vismMark%
+		\vismHypertarget{#1}%
+		\marginnote{\footnotesize\textcolor{purple}{#1}}%
+	}
+	\def\vismParaPage{
+		\ifthenelse{%
+			\equal{\topshortmark\vismMark}{\botshortmark\vismMark}%
+		}{%
+			\topshortmark\vismMark%
+		}{
+			\topshortmark\vismMark–\botshortmark\vismMark%
+		}%
+	}
+
+	% smaller vertical space above paragraph
+	\titlespacing*{\paragraph}{0pt}{\medskipamount}{*2}
+	\newpagestyle{vismBody}{
+		\setheadrule{.55pt}
+		%\headrule
+		\sethead[\thechapter.\vismParaPage][\thechapter. \textsc{\chaptertitle}][]{}{\textsc{\sectiontitle}}{\thechapter.\vismParaPage}
+		\setfoot[\thepage][][]{}{}{\thepage}
+	}
+	\newpagestyle{vismNoBody}{
+		\setheadrule{.55pt}
+		\headrule{}
+		\sethead[][\chaptertitle][]{}{\sectiontitle}{}
+		\setfoot[\thepage][][]{}{}{\thepage}
+	}
+	\renewpagestyle{plain}{
+		\sethead[][][]{}{}{}
+		\setfoot[\thepage][][]{}{}{\thepage}
+	}
+	\pagestyle{vismNoBody}
+	% example from titlesec manual, pg 23
+	\titleformat{\chapter}[display]{\bfseries\scshape\LARGE}{\filleft\MakeUppercase{\chaptertitlename} \Huge\thechapter}{4ex}{\titlerule\vspace{2ex}\filright}[{%
+		\vspace{2ex}%
+		\titlerule%
+		\vspace*{4pc}%
+		\mdseries\normalsize\rmfamily\upshape%
+		\startcontents\printcontents{l}{1}[2]{}%
+	}]
+	%% switch pagestyle and section numbering for the main text
+	\let\origmainmatter\mainmatter
+	\def\mainmatter{
+		\origmainmatter\pagestyle{vismBody}
+		\def\thesection{\arabic{section}}
+	}
+	\let\origbackmatter\backmatter
+	\def\backmatter{\origbackmatter\pagestyle{vismNoBody}}
+
+	% a bit more space for chapter roman number
+	\dottedcontents{chapter}[3em]{\bfseries\scshape}{3em}{1pc}
 \fi
+
+\usepackage[bookmarksnumbered=true]{hyperref}
+
 
 % number chapter with roman numbers
 \renewcommand{\thechapter}{\Roman{chapter}}
@@ -70,7 +131,8 @@
 \bibliographystyle{abstract}
 
 \begin{document}
-	\dominitoc
+
+	%\dominitoc
 	\title{The Path of Purification \\ (\emph{Visuddhimagga})}
 	\date{(decompiled preview, do not distribute)}
 	\author{
@@ -78,8 +140,10 @@
 		\ifplastex\\\else\and\fi
 		Translated from the Pali by \ifplastex\else\\\fi Bhikkhu Ñáṇamoli}
 	\maketitle
+
 	\frontmatter
 		\tableofcontents
+		\def\thesection{\arabic{section}}
 		\input{vism-body.tex}
 	\backmatter
 		\input{vism-bib.tex}
