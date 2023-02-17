@@ -1,28 +1,30 @@
 
-FOP:=/home/eudoxos/build/fop-2.8/fop/fop
+FOP?=/home/eudoxos/build/fop-2.8/fop/fop
 
-assemble:
+build/book.sectioned.xml: src/*.xml
 	jupyter execute 06-assemble.ipynb
-	# latexmk -cd latex/vism.tex
-	#make -C sphinx html epub
-	#cd latex; plastex -c plastex.ini vism.tex
-build-all: build-latex build-docbook build-sphinx
 
-build-latex:
+build: build-latex build-docbook build-sphinx build-web
+
+build-latex: build/book.sectioned.xml
 	cp latex/* build/latex
 	cd build/latex; \
-		latexmk -quiet vism.tex \
-		plastex -c plastex.ini vism.tex
+		latexmk -quiet vism.tex; \
+		plastex -c plastex.ini vism.tex;
 
-build-sphinx:
+build-sphinx: build/book.sectioned.xml
 	cp -r sphinx build/sphinx
 	make -C build/sphinx html epub
-build-docbook:
+build-docbook: build/book.sectioned.xml
 	cp -r docbook build/docbook
 	cd build/docbook; \
-		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml \
-		xsltproc -o vism.fo vism.fo.xsl vism.xml \
-		$(FOP) -pdf vism.docbook.pdf -c vism.fop -fo vism.fo
+		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml; \
+		xsltproc -o vism.fo vism.fo.xsl vism.xml; \
+		$(FOP) -pdf vism.docbook.pdf -c vism.fop -fo vism.fo;
+
+build-web:
+	cp src/index.html build/index.html
+
 clean:
 	rm -rf build gh-pages/docbook gh-pages/latex gh-pages/sphinx
 
