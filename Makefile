@@ -2,6 +2,7 @@
 FOP?=/home/eudoxos/build/fop-2.8/fop/fop
 
 build/book.sectioned.xml: src/*.xml
+	mkdir -p build
 	jupyter execute 06-assemble.ipynb
 
 build: build-latex build-docbook build-sphinx build-web
