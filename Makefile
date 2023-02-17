@@ -9,19 +9,19 @@ build: build-latex build-docbook build-sphinx build-web
 
 build-latex: build/book.sectioned.xml
 	cp -r latex build/
-	cd build/latex; \
-		latexmk -quiet vism.tex; \
-		plastex -c plastex.ini vism.tex;
+	cd build/latex && \
+		latexmk -quiet vism.tex && \
+		plastex -c plastex.ini vism.tex
 
 build-sphinx: build/book.sectioned.xml
 	cp -r sphinx build/
 	make -C build/sphinx html epub
 build-docbook: build/book.sectioned.xml
 	cp -r docbook build/
-	cd build/docbook; \
-		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml; \
-		xsltproc -o vism.fo vism.fo.xsl vism.xml; \
-		$(FOP) -pdf vism.docbook.pdf -c vism.fop -fo vism.fo;
+	cd build/docbook && \
+		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml && \
+		xsltproc -o vism.fo vism.fo.xsl vism.xml && \
+		$(FOP) -pdf vism.docbook.pdf -c vism.fop -fo vism.fo
 
 build-web:
 	cp src/index.html build/index.html
