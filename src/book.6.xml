@@ -1,10 +1,27 @@
 <book>
   <struct-1-part name="(Front)">
     <heading-1-part toc_name="(Front)">(Front)</heading-1-part>
-    <struct-2-chapter name="Message from his Holiness the Dalai Lama ">
-      <heading-2-chapter y="60" x="104" page_id="25" page_no="xxiii">
+    <struct-2-chapter name="Prefaces">
+      <heading-2-chapter><span>Prefaces</span></heading-2-chapter>
+    <struct-3-section name="Buddhist Publication Society edition note">
+      <heading-3-section page_id="2"><span>Buddhist Publication Society edition note</span></heading-3-section>
+        <p><span family="bold">The Buddhist Publication Society</span><span> is an approved charity dedicated to making known the Teaching of the Buddha, which has a vital message for people of all creeds.</span></p>
+        <p><span>Founded in 1958, the BPS has published a wide variety of books and booklets covering a great range of topics. Its publications include accurate annotated translations of the Buddha’s discourses, standard reference works, as well as original  contemporary  expositions  of  Buddhist  thought  and  practice.  These works present Buddhism as it truly is — a dynamic force which has influenced receptive minds for the past 2500 years and is still as relevant today as it was when it first arose.</span></p>
+        <verse>
+          <line><span>Buddhist Publication Society</span></line>
+          <line><span>P.O. Box 61</span></line>
+          <line><span>54, Sangharaja Mawatha, Kandy, Sri Lanka</span></line>
+          <line><span>http://www.bps.lk</span></line>
+        </verse>
+        <p><span family="bold">Printed Hardbound Copy:</span><span> A printed hardbound version of this book is available from the Buddhist Publication Society; see the “Translations from the Pali” page at the BPS online bookshop at http://www.bps.lk.</span></p>
+        <p><span family="bold">Terms of use:</span> <span>Copyright revised, third, online edition. Copyright © 2011 Buddhist Publication Society.</span></p>
+        <p><span>You may redistribute this PDF file in an unaltered form provided that: (1) you must only make such unaltered PDF copies available free of charge; (2) you clearly indicate that any passages of this work reproduced into other publications (printed as well as digital) are derived from this source document. Otherwise, all rights reserved.</span></p>
+        <p><span family="bold">Publisher’s Note:</span> <span>The BPS thanks all those who assisted with making this book available in a digital as well as printed edition. This book is the result of the work of Mr John Bullitt of Access to Insight who initiated this digital edition, the several volunteers who helped him to convert the previous edition of this book to digital text, the other volunteers who helped the BPS with proofreading, Bhikkhu Nyanatusita, the BPS editor, who helped with and coordinated the proofreading, formatting, and typesetting, corrected the Pali, etc., and the work of the BPS typesetters Bhikkhu Sacramento Upatissa and Mr Nalin Ariyaratna who skilfully typeset the text.</span></p>
+    </struct-3-section>
+    <struct-3-section name="Message from his Holiness the Dalai Lama ">
+      <heading-3-section y="60" x="104" page_id="25" page_no="xxiii">
         <span>Message from his Holiness the Dalai Lama </span>
-      </heading-2-chapter>
+      </heading-3-section>
       <p y="85" x="48" page_id="25" page_no="xxiii">
         <printed_page edition="BPS2011" page_id="25">xxiii</printed_page>
         <span>The history of the development of Buddhist literature seems to be marked by periods in which the received teachings and established scriptures are assimilated and consolidated and periods of mature creativity when the essence of that transmission is expressed afresh. Bhadantācariya Buddhaghosa’s </span>
@@ -30,11 +47,11 @@
       <p y="576" x="345" page_id="25" page_no="xxiii">
         <span>May 2000</span>
       </p>
-    </struct-2-chapter>
-    <struct-2-chapter name="Publisher’s Foreword to Third Edition ">
-      <heading-2-chapter y="60" x="110" page_id="26" page_no="xxiv">
+    </struct-3-section>
+    <struct-3-section name="Publisher’s Foreword to Third Edition ">
+      <heading-3-section y="60" x="110" page_id="26" page_no="xxiv">
         <span>Publisher’s Foreword to Third Edition </span>
-      </heading-2-chapter>
+      </heading-3-section>
       <p y="85" x="42" page_id="26" page_no="xxiv">
         <printed_page edition="BPS2011" page_id="26">xxiv</printed_page>
         <span>Bhikkhu Ñāṇamoli’s translation of the </span>
@@ -50,11 +67,11 @@
       <p y="315" x="257" page_id="26" page_no="xxiv">
         <span>Buddhist Publication Society, 1991</span>
       </p>
-    </struct-2-chapter>
-    <struct-2-chapter name="Publisher’s Foreword to Fourth Edition ">
-      <heading-2-chapter y="369" x="106" page_id="26" page_no="xxiv">
+    </struct-3-section>
+    <struct-3-section name="Publisher’s Foreword to Fourth Edition ">
+      <heading-3-section y="369" x="106" page_id="26" page_no="xxiv">
         <span>Publisher’s Foreword to Fourth Edition </span>
-      </heading-2-chapter>
+      </heading-3-section>
       <p y="395" x="42" page_id="26" page_no="xxiv">
         <span>This fourth edition had to be retypeset again because the digital files of the previous edition, prepared “with the aid of the astonishing electronic typesetting equipment” (as mentioned in the Foreword to the Third Edition) were lost.</span>
       </p>
@@ -72,11 +89,24 @@
       <p y="520" x="257" page_id="26" page_no="xxiv">
         <span>Buddhist Publication Society, 2010</span>
       </p>
-    </struct-2-chapter>
-    <struct-2-chapter name="Translator’s Preface ">
-      <heading-2-chapter y="60" x="162" page_id="27" page_no="xxv">
+    </struct-3-section>
+    <struct-3-section name="Translator’s Dedication">
+      <heading-3-section><span>Translator’s Dedication</span></heading-3-section> 
+        <verse>
+          <line><em>Ciraṃ tiṭṭhatu saddhammo</em></line>
+          <line><em>sabbe sattā bhavantu sukhitattā</em></line>
+        </verse>
+        <verse>
+          <line><span>To  my  Upajjhāya,</span></line>
+          <line><span>the  late  venerable  Pälänē  Siri  Vajirañāṇa</span></line>
+          <line><span>Mahānāyakathera  of  Vajirārāma,</span></line>
+          <line><span>Colombo, Sri Lanka.</span></line>
+        </verse>
+    </struct-3-section>
+    <struct-3-section name="Translator’s Preface ">
+      <heading-3-section y="60" x="162" page_id="27" page_no="xxv">
         <span>Translator’s Preface </span>
-      </heading-2-chapter>
+      </heading-3-section>
       <p y="85" x="48" page_id="27" page_no="xxv">
         <printed_page edition="BPS2011" page_id="27">xxv</printed_page>
         <span>Originally I made this translation for my own instruction because the only published version was then no longer obtainable. So it was not done with any intention at all of publication; but rather it grew together out of notes made on some of the book’s passages. By the end of 1953 it had been completed, more or less, and put aside. Early in the following year a suggestion to publish it was put to me, and I eventually agreed, though not without a good deal of hesitation. Reasons for agreeing, however, seemed not entirely lacking. The only previous English version of this remarkable work had long been out of print. Justification too could in some degree be founded on the rather different angle from which this version is made.</span>
@@ -117,6 +147,7 @@
       <p y="313" x="215" page_id="28" page_no="xxvi">
         <span>Ñāṇamoli Bhikkhu, Vesākhamāse, 2499: May, 1956</span>
       </p>
+    </struct-3-section>
     </struct-2-chapter>
     <struct-2-chapter name="Introduction ">
       <heading-2-chapter y="60" x="182" page_id="29" page_no="xxvii">
