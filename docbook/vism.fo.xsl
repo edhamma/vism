@@ -4,5 +4,13 @@
   <xsl:import href="vism.common.xsl"/>
   <xsl:param name="body.font.family">TeX Gyre Pagella</xsl:param>
   <xsl:param name="title.font.family">TeX Gyre Pagella</xsl:param>
+  <xsl:param name="paper.type" select="'A4'"/>
+  <!--
+    indent lists (currently only used inside biblioentry)
+    https://lists.oasis-open.org/archives/docbook-apps/201309/msg00067.html
+  -->
+  <xsl:attribute-set name="list.block.properties">
+    <xsl:attribute name="margin-left">2em</xsl:attribute>
+  </xsl:attribute-set>
 </xsl:stylesheet>
 
