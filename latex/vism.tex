@@ -15,7 +15,8 @@
 	%% vism-specific macros for PlasTeX
 	\def\vismHypertarget#1{\hypertarget{#1}{}}
 	\def\vismAssertFootnoteCounter#1{\relax}
-	\def\vismParagraph#1#2{\paragraph{§#2.}\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{I.5}}}
+	% using \paragraph will insert newline after each heading, so just use \textbf instead.
+	\def\vismParagraph#1#2{\textbf{§#2.}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
 	% use the same-looking font like BPS2011
