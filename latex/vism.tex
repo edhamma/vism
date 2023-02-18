@@ -15,9 +15,6 @@
 	%% vism-specific macros for PlasTeX
 	\def\vismHypertarget#1{\hypertarget{#1}{}}
 	\def\vismAssertFootnoteCounter#1{\relax}
-	% HTML version only
-	%\usepackage{minitoc}
-	\let\minitoc\relax
 	\def\vismParagraph#1#2{\paragraph{§#2.}\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{I.5}}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
@@ -44,8 +41,10 @@
 	\makeatletter
 	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
 	\makeatother
-	% check that footnote number is the same as expected
+	% check that footnote numbers are sequential
 	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
+	% check that paragraph numbers are sequential (disabled by default, as § are not numbered; set \setcounter{secnumdepth}{4} below to enable)
+	\def\vismAssertParagraphCounter#1{\ifnum\value{paragraph}=#1\else\PackageError{Visuddhimagga}{Paragraph out of sync with original in \Roman{chapter} (should be §\arabic{paragraph}, is §#1.}\fi}
 
 	% 
 	\usepackage{titletoc}
@@ -63,7 +62,12 @@
 		\renewcommand\vismMark{#2}\shortmark\vismMark%
 		\vismHypertarget{#1}%
 		\marginnote{\footnotesize\textcolor{purple}{#1}}%
+		% \vismAssertParagraphCounter{#2}
 	}
+	%% reset paragraphs for each chapter, not subsubsection
+	\counterwithout{paragraph}{subsubsection}
+	\counterwithin{paragraph}{chapter}
+	%
 	\def\vismParaPage{
 		% use \csname ... \endcsname so that plasTeX does not fail parsing the expression
 		\csname ifthenelse\endcsname{%
@@ -74,7 +78,6 @@
 			\topshortmark\vismMark–\botshortmark\vismMark%
 		}%
 	}
-
 	% smaller vertical space above paragraph
 	\titlespacing*{\paragraph}{0pt}{\medskipamount}{*2}
 	\newpagestyle{vismBody}{
