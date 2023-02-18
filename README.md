@@ -16,3 +16,10 @@ You are welcome to fork the repository and submit a pull request, or simply open
 * `Makefile`: describes the build process itself, is used both locally and by the CI
 * `.github/workflows/ebook.yml`: CI workflow which will re-build all the e-books after each commit to the repository, and deploy the website
 
+
+## TODO notes
+
+* [ ] references not parsed correctly in tables:
+
+   - `MHv XXXV.1, 7, 24, 33` (misses everything after comma). `Mhv XXXIII.100;` undetected (semicolon?)
+   - `Vin-a` is found as `[Vin]-a` (since Vin-a is not in the bibliography; is that omission in the BPS edition?)
