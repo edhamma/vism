@@ -113,6 +113,16 @@
 
 	% a bit more space for chapter roman number
 	\dottedcontents{chapter}[3em]{\bfseries\scshape}{3em}{1pc}
+	% tables
+	\usepackage{tabularray}
+	\NewTblrTheme{vismLong}{
+		\SetTblrStyle{firsthead}{font=\bfseries\scshape}
+		\SetTblrStyle{middlehead}{font=\bfseries\scshape}
+		\SetTblrStyle{lasthead}{font=\bfseries\scshape}
+		\SetTblrStyle{label}{none}
+		\SetTblrStyle{entry}{none}
+		\SetTblrStyle{rowhead}{1}
+	}
 \fi
 
 \usepackage[bookmarksnumbered=true]{hyperref}

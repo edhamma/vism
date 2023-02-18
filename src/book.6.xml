@@ -176,11 +176,11 @@
         <printed_page edition="BPS2011" page_id="30">xxviii</printed_page>
         <span>Why did Bhadantācariya Buddhaghosa come to Sri Lanka? And why did his work become famous beyond the island’s shores? The bare facts without some interpretation will hardly answer these questions. Certainly, any interpretation must be speculative; but if this is borne in mind, some attempt (without claim for originality) may perhaps be made on the following lines.</span>
       </p>
+      <p y="164" x="42" page_id="30" page_no="xxviii">
+        <raw file="raw-intro-ceylon-king-tab" id="ceylon-king-tab" desc="table with kings of Ceylon" y="164" x="164"/>
+      </p>
       <p y="119" x="41" page_id="30" page_no="xxviii">
         <span>Up till the reign of King Vaṭṭagāmaṇi Abhaya in the first century BCE the Great Monastery, founded by Asoka’s son, the Arahant Mahinda, and hitherto without a rival for the royal favour, had preserved a reputation for the saintliness of its</span>
-      </p>
-      <p y="164" x="42" page_id="30" page_no="xxviii">
-        <TODO id="ceylon-king-tab" desc="table with kings of Ceylon" y="164" x="164"/>
       </p>
       <p y="374" x="42" page_id="32" page_no="xxx">
         <printed_page edition="BPS2011" page_id="32">xxx</printed_page>
@@ -281,66 +281,19 @@
       <p y="143" x="48" page_id="35" page_no="xxxiii">
         <span family="bold-italic">Commentaries to the Vinaya Piṭaka</span>
       </p>
-      <p y="157" x="65" page_id="35" page_no="xxxiii">
-        <span family="bold">Title </span>
-        <em>Samantapāsādikā </em>
-        <span>Vinaya </span>
-        <em>Kaṅkhāvitaraṇī</em>
-      </p>
-      <p y="157" x="191" page_id="35" page_no="xxxiii">
-        <span family="bold">Commentary to</span>
-      </p>
-      <p y="180" x="192" page_id="35" page_no="xxxiii">
-        <span>Pātimokkha</span>
-      </p>
+      <raw file="raw-intro-commentaries-vinaya"/>
       <p y="195" x="48" page_id="35" page_no="xxxiii">
         <span family="bold-italic">Commentaries to the Sutta Piṭaka</span>
       </p>
-      <p y="209" x="65" page_id="35" page_no="xxxiii">
-        <span family="bold">Title </span>
-        <em>Sumaṅgalavilāsinī </em>
-        <span>Dīgha Nikāya </span>
-        <em>Papañcasūdani </em>
-        <span>Majjhima Nikāya </span>
-        <em>Sāratthappakāsinī </em>
-        <span>Saṃyutta Nikāya </span>
-        <em>Manorathapurāṇī </em>
-        <span>Aṅguttara Nikāya </span>
-        <em>Paramatthajotikā </em>
-        <span>Khuddakapāṭha</span>
-      </p>
-      <p y="209" x="191" page_id="35" page_no="xxxiii">
-        <span family="bold">Commentary to</span>
-      </p>
+      <raw file="raw-intro-commentaries-sutta"/>
       <p y="282" x="48" page_id="35" page_no="xxxiii">
         <span family="bold-italic">Commentary to Suttanipāta</span>
       </p>
-      <p y="297" x="65" page_id="35" page_no="xxxiii">
-        <span family="bold">Title </span>
-        <em>Dhammapadaṭṭhakathā </em>
-        <span>Dhammapada </span>
-        <em>Jātakaṭṭhakathā</em>
-      </p>
-      <p y="297" x="191" page_id="35" page_no="xxxiii">
-        <span family="bold">Commentary to</span>
-      </p>
-      <p y="320" x="192" page_id="35" page_no="xxxiii">
-        <span>Jātaka</span>
-      </p>
+      <raw file="raw-intro-commentaries-suttanipata"/>
       <p y="335" x="48" page_id="35" page_no="xxxiii">
         <span family="bold-italic">Commentaries to the Abhidhamma Piṭaka</span>
       </p>
-      <p y="349" x="65" page_id="35" page_no="xxxiii">
-        <span family="bold">Title </span>
-        <em>Atthasālinī Sammohavinodanī </em>
-        <span>Vibhaṅga </span>
-        <em>Pañcappakaraṇaṭṭhakathā </em>
-        <span>Remaining 5 books</span>
-      </p>
-      <p y="349" x="191" page_id="35" page_no="xxxiii">
-        <span family="bold">Commentary to </span>
-        <span>Dhammasaṅgaṇī</span>
-      </p>
+      <raw file="raw-intro-commentaries-abhidhamma"/>
       <p y="399" x="47" page_id="35" page_no="xxxiii">
         <span>Beyond the bare hint that he came to Sri Lanka from India his actual works tell nothing about his origins or background. He mentions “The Elder Buddhamitta with whom I formerly lived at Mayūra suttapaṭṭana” (</span>
         <ref type="bib" target="M-a">M-a</ref>

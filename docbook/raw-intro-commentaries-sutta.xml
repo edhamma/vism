@@ -1,0 +1,54 @@
+<informaltable>
+  <thead>
+    <tr>
+      <td valign="top">
+        <phrase>Title</phrase>
+      </td>
+      <td valign="top">
+        <phrase>Commentary to</phrase>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <emphasis>Sumaṅgalavilāsinī</emphasis>
+      </td>
+      <td valign="top">
+        <phrase>Dīgha Nikāya</phrase>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <emphasis>Papañcasūdani</emphasis>
+      </td>
+      <td valign="top">
+        <phrase>Majjhima Nikāya</phrase>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <emphasis>Sāratthappakāsinī</emphasis>
+      </td>
+      <td valign="top">
+        <phrase>Saṃyutta Nikāya</phrase>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <emphasis>Manorathapurāṇī</emphasis>
+      </td>
+      <td valign="top">
+        <phrase>Aṅguttara Nikāya</phrase>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <emphasis>Paramatthajotikā</emphasis>
+      </td>
+      <td valign="top">
+        <phrase>Khuddakapāṭha</phrase>
+      </td>
+    </tr>
+  </tbody>
+</informaltable>
