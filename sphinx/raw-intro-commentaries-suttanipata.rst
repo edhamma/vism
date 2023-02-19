@@ -3,7 +3,7 @@
   
   * - Title
     - Commentary to
-  * - \*Dhammapadaṭṭhakathā\*
+  * - *Dhammapadaṭṭhakathā*
     - Dhammapada
-  * - \*Jātakaṭṭhakathā\*
+  * - *Jātakaṭṭhakathā*
     - Jātaka

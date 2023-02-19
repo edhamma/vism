@@ -3,13 +3,13 @@
   
   * - Title
     - Commentary to
-  * - \*Sumaṅgalavilāsinī\*
+  * - *Sumaṅgalavilāsinī*
     - Dīgha Nikāya
-  * - \*Papañcasūdani\*
+  * - *Papañcasūdani*
     - Majjhima Nikāya
-  * - \*Sāratthappakāsinī\*
+  * - *Sāratthappakāsinī*
     - Saṃyutta Nikāya
-  * - \*Manorathapurāṇī\*
+  * - *Manorathapurāṇī*
     - Aṅguttara Nikāya
-  * - \*Paramatthajotikā\*
+  * - *Paramatthajotikā*
     - Khuddakapāṭha

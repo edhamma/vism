@@ -3,9 +3,9 @@
   
   * - Title
     - Commentary to
-  * - \*Atthasālinī\*
+  * - *Atthasālinī*
     - Dhammasaṅgaṇī
-  * - \*Sammohavinodanī\*
+  * - *Sammohavinodanī*
     - Vibhaṅga
-  * - \*Pañcappakaraṇaṭṭhakathā\*
+  * - *Pañcappakaraṇaṭṭhakathā*
     - Remaining 5 books

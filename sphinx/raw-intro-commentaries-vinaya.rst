@@ -3,7 +3,7 @@
   
   * - Title
     - Commentary to
-  * - \*Samantapāsādikā\*
+  * - *Samantapāsādikā*
     - Vinaya
-  * - \*Kaṅkhāvitaraṇī\*
+  * - *Kaṅkhāvitaraṇī*
     - Pātimokkha

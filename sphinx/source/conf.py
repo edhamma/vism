@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Visuddhimagga'
-copyright = 'The Buddhist Publication Society'
+project = 'Visuddhimagga — Digital'
+copyright = 'Digital'
 author = 'Buddhaghosa'
 release = '(WIP)'
 version = '0.1'
@@ -37,7 +37,7 @@ html_static_path = ['_static']
 
 epub_title = project
 epub_author = author
-epub_publisher = 'The Buddhist Publication Society'
+epub_publisher = '~~ eudoxos.github.io/vism WIP ~~'
 epub_copyright = copyright
 epub_cover = ('_static/cover.jpg','epub-cover.html')
 epub_language='en'

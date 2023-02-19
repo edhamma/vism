@@ -37,6 +37,7 @@ Bibliography
 .. [Sn-a] *Sutta-nipāta Aṭṭhakathā = Paramatthajotikā*
 .. [Th] Thera-gāthā
 .. [Ud] Udāna
+.. [Ud-a] ???
 .. [Vibh] Vibhaṅga
 .. [Vibh-a] *Vibhaṅga Aṭṭhakathā = Sammohavinodanī*
 .. [Vibh-ṭ] *Vibhaṅga Ṭīkā = Mūla Ṭīkā II*
@@ -50,6 +51,7 @@ Bibliography
       IV: Vinaya Piṭaka IV: (2)—Suttavibhaṅga 2
 
       V: Vinaya Piṭaka V: (5)—Parivāra
+.. [Vin-a] ???
 .. [Vism] *Visuddhimagga* (PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])
 .. [Vism-mhṭ] Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)
 
