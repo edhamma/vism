@@ -30,7 +30,10 @@ xsltng:
 	# docker build --build-arg VERSION=2.0.9 -t docbook-xsltng .
 	# vism.xsml: must change the header to the following
 	# <book version="5.2" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
+	#
 	docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/epub.xsl -o:/tmp/vism.xsltng.epub
+	docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook.xsl -o:/tmp/vism.xsltng.html
+	#docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook-paged.xsl -o:/tmp/vism.xsltng.html
 
 build-web:
 	cp src/index.html build/index.html
