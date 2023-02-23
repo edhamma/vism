@@ -26,17 +26,16 @@
     <sect para="4" title="(iii) What are its characteristic, etc.?"/>
     <sect para="5" title="(iv) How many kinds of concentration are there?"/>
     <sect para="26" title="(v), (vi) What are the defiling and the cleansing of it?"/>
-    <sect para="27" title="(vii) How is it developed?">
-      <sect para="27" title="A. Development in Brief" starts_at="The method of developing"/>
-      <sect para="29" title="B. Development in Detail">
-         <sect para="29" title="The ten impediments" starts_at="Firstly it was said above,"/>
-         <sect para="57" title="Meditation subjects etc." comment="These two are swapped in BPS, and both in §57 … ?"/>
-         <sect para="61" title="The good friend"/>
-         <sect para="74" title="Temperaments"/>
-         <sect para="103" title="Definition of meditation subjects"/>
-         <sect para="123" title="Self-dedication"/>
-         <sect para="130" title="Ways of expounding"/>
-      </sect>
+    <sect para="27" title="(vii) How is it developed?" comment="applies as far as Ch. XI, §110"/>
+    <sect para="27" title="A. Development in Brief" starts_at="The method of developing"/>
+    <sect para="29" title="B. Development in Detail">
+       <sect para="29" title="The ten impediments" starts_at="Firstly it was said above,"/>
+       <sect para="57" title="Meditation subjects etc." comment="These two are swapped in BPS, and both in §57 … ?"/>
+       <sect para="61" title="The good friend"/>
+       <sect para="74" title="Temperaments"/>
+       <sect para="103" title="Definition of meditation subjects"/>
+       <sect para="123" title="Self-dedication"/>
+       <sect para="130" title="Ways of expounding"/>
     </sect>
   </chapter>
   <chapter num="IV">
@@ -44,17 +43,21 @@
     <sect para="19" title="The five factors of the resting place"/>
     <sect para="20" title="The lesser impediments"/>
     <sect para="21" title="Detailed instructions for development"/>
-    <sect para="22" title="The earth kasiṇa"/>
-    <sect para="24" title="Making an earth kasiṇa"/>
-    <sect para="27" title="Starting contemplation"/>
-    <sect para="31" title="The counterpart sign"/>
+    <sect para="22" title="The earth kasiṇa">
+      <sect para="24" title="Making an earth kasiṇa"/>
+      <sect para="27" title="Starting contemplation"/>
+      <sect para="31" title="The counterpart sign"/>
+    </sect>
     <sect para="32" title="The two kinds of concentration"/>
     <sect para="34" title="Guarding the sign"/>
     <sect para="42" title="The ten kinds of skill in absorption"/>
-    <sect para="67" title="The five similes"/>
+    <sect para="66" title="Balancing the effort">
+      <sect para="67" title="The five similes"/>
+    </sect>
     <sect para="74" title="Absorption in the cognitive series"/>
     <sect para="79" title="The first jhāna"/>
-    <sect para="126" title="Extension of the sign" starts_at="In order to perfect the develo"/>
+    <sect para="126" title="Extension of the sign" starts_at="In order to perfect the develo" comment="BPS2011 says Extending the sign in the TOC but Extension of the sign in the text"/>
+    <sect para="131" title="Mastery in five ways" comment="BPS2011 omits title in text"/>
     <sect para="139" title="The second jhāna"/>
     <sect para="153" title="The third jhāna"/>
     <sect para="183" title="The fourth jhāna"/>
@@ -89,6 +92,7 @@
   <chapter num="VII">
     <sect para="2" title="(1) Recollection of the Enlightened One">
       <sect para="4" title="Accomplished"/>
+      <sect para="8" title="Dependent origination" comment="BPS2011 omits this title"/>
       <sect para="26" title="Fully Enlightened"/>
       <sect para="30" title="Endowed With Clear Vision and Virtuous Conduct"/>
       <sect para="33" title="Sublime"/>
@@ -116,9 +120,8 @@
     </sect>
     <sect para="101" title="(4) Recollection of Virtue"/>
     <sect para="107" title="(5) Recollection of Generosity"/>
-    <sect para="115" title="(6) Recollection of Deities">
-      <sect para="119" title="General"/>
-    </sect>
+    <sect para="115" title="(6) Recollection of Deities"/>
+    <sect para="119" title="General"/>
   </chapter>
   <chapter num="VIII">
     <sect para="1" title="(7) Mindfulness of Death"/>
@@ -133,23 +136,37 @@
     <sect para="88" title="(4) Equanimity"/>
   </chapter>
   <chapter num="X">
-    <sect para="1" title="(1) The Base Consisting of Boundless Space"/>
+    <sect para="1" title="(1) The Base Consisting of Boundless Space">
+      <sect para="12" title="Text and commentary"/>
+    </sect>
+    <sect para="25" title="(2) The Base Consisting of Boundless Consciousness">
+      <sect para="27" title="Text and commentary"/>
+    </sect>
+    <sect para="32" title="(3) The Base Consisting of Nothingness">
+      <sect para="36" title="Text and commentary"/>
+    </sect>
+    <sect para="40" title="(4) The Base Consisting of Neither Perception nor Non-Perception">
+      <sect para="42" title="Text and commentary"/>
+    </sect>
+    <sect para="56" title="General"/>
   </chapter>
   <chapter num="XI">
-    <sect para="1" title="Perception of Repulsiveness in Nutriment"/>
-    <sect para="27" title="Defining of The Elements: Word Definitions"/>
-    <sect para="28" title="Texts and Commentary in Brief"/>
-    <sect para="31" title="In Detail"/>
-    <sect para="39" title="Method of Development in Brief"/>
-    <sect para="45" title="Method of Development in Detail">
-      <sect para="46" title="(1) With Constituents in Brief"/>
-      <sect para="47" title="(2) With Constituents by Analysis"/>
-      <sect para="84" title="(3) With Characteristics in Brief"/>
-      <sect para="85" title="(4) With Characteristics by Analysis"/>
+    <sect para="1" title="Perception of Repulsiveness in Nutriment">
+      <sect para="27" title="Defining of The Elements: Word Definitions"/>
+      <sect para="28" title="Texts and Commentary in Brief"/>
+      <sect para="31" title="In Detail"/>
+      <sect para="39" title="Method of Development in Brief"/>
+      <sect para="45" title="Method of Development in Detail">
+        <sect para="46" title="(1) With Constituents in Brief"/>
+        <sect para="47" title="(2) With Constituents by Analysis"/>
+        <sect para="84" title="(3) With Characteristics in Brief"/>
+        <sect para="85" title="(4) With Characteristics by Analysis"/>
+      </sect>
+      <sect para="86" title="Additional Ways of Giving Attention"/>
     </sect>
-    <sect para="86" title="Additional Ways of Giving Attention"/>
-    <sect para="118" title="Development of Concentration—Conclusion"/>
-    <sect para="120" title="The Benefits of Developing Concentration"/>
+    <sect para="118" title="Development of Concentration—Conclusion">
+      <sect para="120" title="The Benefits of Developing Concentration"/>
+    </sect>
   </chapter>
   <chapter num="XII">
     <sect para="1" title="The Benefits of Concentration (Continued)">
@@ -162,8 +179,8 @@
       <sect para="8" title="(3) Penetration of Minds"/>
       <sect para="13" title="(4) Recollection of Past Lives"/>
       <sect para="72" title="(5) The Divine Eye—Knowledge of Passing Away and Reappearance of Beings"/>
-      <sect para="102" title="General"/>
     </sect>
+    <sect para="102" title="General"/>
   </chapter>
   <chapter num="XIV">
     <sect para="1" title="A. Understanding"/>
