@@ -1330,11 +1330,12 @@
         <printed_page edition="BPS2011" page_id="63">5</printed_page>
         <em>Namo tassa bhagavato arahato sammāsambuddhassa</em>
       </p>
-      <p y="267" x="47" page_id="63" page_no="5" anchor="I.1" num="1">
-        <printed_page edition="PTS">1</printed_page>
-        <span> “When a wise man, established well in virtue,</span>
-      </p>
-      <verse y="279" x="119" page_id="63" page_no="5">
+      <p y="267" x="47" page_id="63" page_no="5" anchor="I.1" num="1"/>
+      <verse y="267" x="119" page_id="63" page_no="5">
+        <line>
+          <printed_page edition="PTS">1</printed_page>
+          <span>“When a wise man, established well in virtue,</span>
+        </line>
         <line>
           <span>Develops consciousness and understanding,</span>
         </line>
@@ -1410,10 +1411,11 @@
           <span>He succeeds in disentangling this tangle.”</span>
         </line>
       </verse>
-      <p y="207" x="42" page_id="64" page_no="6" anchor="I.4" num="4">
-        <span>My task is now to set out the true sense,</span>
-      </p>
-      <verse y="218" x="113" page_id="64" page_no="6">
+      <p y="207" x="42" page_id="64" page_no="6" anchor="I.4" num="4"/>
+      <verse y="207" x="113" page_id="64" page_no="6">
+        <line>
+          <span>My task is now to set out the true sense,</span>
+        </line>
         <line>
           <span>Divided into virtue and the rest,</span>
         </line>
@@ -1812,13 +1814,11 @@
         <ref type="bib" target="D" loc=" I 70">D I 70</ref>
         <span>). “Restraint by knowledge” is this:</span>
       </p>
-      <p y="143" x="120" page_id="69" page_no="11">
-        <span>“The currents in the world that flow, Ajita,”</span>
-      </p>
-      <p y="154" x="133" page_id="69" page_no="11">
-        <span>said the Blessed One,</span>
-      </p>
-      <verse y="166" x="120" page_id="69" page_no="11">
+      <verse y="143" x="120" page_id="69" page_no="11">
+        <line>
+          <span>“The currents in the world that flow, Ajita,”</span>
+          <span> said the Blessed One,</span>
+        </line>
         <line>
           <span>“Are stemmed by means of mindfulness;</span>
         </line>
@@ -1938,10 +1938,11 @@
         <em>rasa—</em>
         <span>nature).</span>
       </p>
-      <p y="221" x="41" page_id="70" page_no="12" anchor="I.22" num="22">
-        <span>Now, virtue, so say those who know,</span>
-      </p>
-      <verse y="233" x="113" page_id="70" page_no="12">
+      <p y="221" x="41" page_id="70" page_no="12" anchor="I.22" num="22"/>
+      <verse y="221" x="113" page_id="70" page_no="12">
+        <line>
+          <span>Now, virtue, so say those who know,</span>
+        </line>
         <line>
           <span>Itself as purity will show;</span>
         </line>
@@ -2799,8 +2800,6 @@
         <line>
           <span>That went by I noticed not,</span>
         </line>
-      </verse>
-      <verse y="58" x="113" page_id="82" page_no="24">
         <line>
           <printed_page edition="BPS2011" page_id="82">24</printed_page>
           <span>But only that on this high road</span>
@@ -3574,8 +3573,6 @@
         <line>
           <span>Renouncing life if there be need,</span>
         </line>
-      </verse>
-      <verse y="58" x="113" page_id="94" page_no="36">
         <line>
           <printed_page edition="BPS2011" page_id="94">36</printed_page>
           <span>Rather than break virtue’s restraint</span>
@@ -3791,10 +3788,11 @@
         <printed_page edition="PTS">40</printed_page>
         <span> declaration of truth may my mother get well. Go and tell the lay devotee and rub her body.” She went and told her what had happened and then did as she had been instructed. At that very moment the lay devotee’s tumour vanished, shrinking away like a lump of froth. She got up and uttered a cry of joy: “If the Fully Enlightened One were still alive, why should he not stroke with his netadorned hand the head of a bhikkhu like my son?” So:</span>
       </p>
-      <p y="384" x="42" page_id="96" page_no="38" anchor="I.110" num="110">
-        <span>Let another noble clansman</span>
-      </p>
-      <verse y="395" x="113" page_id="96" page_no="38">
+      <p y="384" x="42" page_id="96" page_no="38" anchor="I.110" num="110"/>
+      <verse y="384" x="113" page_id="96" page_no="38">
+        <line>
+          <span>Let another noble clansman</span>
+        </line>
         <line>
           <span>Gone forth in the Dispensation</span>
         </line>
@@ -4270,8 +4268,6 @@
           </footnote>
           <span> with insight,</span>
         </line>
-      </verse>
-      <verse y="58" x="120" page_id="103" page_no="45">
         <line>
           <printed_page edition="BPS2011" page_id="103">45</printed_page>
           <span>While carried on his helper’s back</span>
@@ -4678,10 +4674,11 @@
         <ref type="bib" target="A" loc=" IV 133–34">A IV 133–34</ref>
         <span>).</span>
       </p>
-      <p y="169" x="41" page_id="110" page_no="52" anchor="I.158" num="158">
-        <span>What pleasure has a man of broken virtue</span>
-      </p>
-      <verse y="180" x="113" page_id="110" page_no="52">
+      <p y="169" x="41" page_id="110" page_no="52" anchor="I.158" num="158"/>
+      <verse y="169" x="113" page_id="110" page_no="52">
+        <line>
+          <span>What pleasure has a man of broken virtue</span>
+        </line>
         <line>
           <span>Forsaking not sense pleasures, which bear fruit</span>
         </line>
@@ -4939,8 +4936,6 @@
         <line>
           <span>Though they be few, will bear much fruit,</span>
         </line>
-      </verse>
-      <verse y="58" x="113" page_id="112" page_no="54">
         <line>
           <printed_page edition="BPS2011" page_id="112">54</printed_page>
           <span>And so the virtuous man becomes</span>
@@ -12307,11 +12302,9 @@
         <em>arahanta</em>
         <span>) also.</span>
       </p>
-      <p y="143" x="48" page_id="249" page_no="191">
-        <printed_page edition="PTS">201</printed_page>
-      </p>
       <verse y="157" x="120" page_id="249" page_no="191">
         <line>
+          <printed_page edition="PTS">201</printed_page>
           <span>The spokes (</span>
           <em>ara</em>
           <span>) of rebirth’s wheel have been</span>
@@ -12464,16 +12457,10 @@
         <span>the six groups of craving beginning with craving for visible objects;</span>
       </p>
       <p y="422" x="54" page_id="250" page_no="192">
-        <span>the six kinds of applied thought beginning with applied thought about visible</span>
-      </p>
-      <p y="434" x="42" page_id="250" page_no="192">
-        <span>objects;</span>
+        <span>the six kinds of applied thought beginning with applied thought about visible objects;</span>
       </p>
       <p y="448" x="54" page_id="250" page_no="192">
-        <span>the six kinds of sustained thought beginning with sustained thought about</span>
-      </p>
-      <p y="460" x="42" page_id="250" page_no="192">
-        <span>visible objects;</span>
+        <span>the six kinds of sustained thought beginning with sustained thought about visible objects;</span>
       </p>
       <p y="475" x="54" page_id="250" page_no="192">
         <span>the five aggregates beginning with the aggregate of matter;</span>
@@ -12514,10 +12501,7 @@
         <span>the four jhānas beginning with the first;</span>
       </p>
       <p y="73" x="60" page_id="251" page_no="193">
-        <span>the four measureless states beginning with the development of loving-</span>
-      </p>
-      <p y="85" x="48" page_id="251" page_no="193">
-        <span>kindness;</span>
+        <span>the four measureless states beginning with the development of loving-kindness;</span>
       </p>
       <p y="99" x="60" page_id="251" page_no="193">
         <span>the four immaterial attainments;</span>
@@ -13347,10 +13331,7 @@
         <em>bhagī</em>
         <span>), is a frequenter (</span>
         <em>bhajī</em>
-        <span>), a partaker</span>
-      </p>
-      <p y="268" x="47" page_id="263" page_no="205">
-        <span>(</span>
+        <span>), a partaker (</span>
         <em>bhāgī</em>
         <span>), a possessor of what has been analyzed (</span>
         <em>vibhattavā</em>
@@ -13371,18 +13352,12 @@
       <p y="311" x="59" page_id="263" page_no="205">
         <span>He has gone to the end of becoming (</span>
         <em>bhavantago</em>
-        <span>); thus is called “Blessed”</span>
-      </p>
-      <p y="323" x="47" page_id="263" page_no="205">
-        <span>(</span>
+        <span>); thus is called “Blessed” (</span>
         <em>bhagavā</em>
         <span>).</span>
       </p>
       <p y="338" x="59" page_id="263" page_no="205">
-        <span>The meaning of these words should be understood according to the method</span>
-      </p>
-      <p y="349" x="47" page_id="263" page_no="205">
-        <span>of explanation given in the Niddesa (</span>
+        <span>The meaning of these words should be understood according to the method of explanation given in the Niddesa (</span>
         <ref type="bib" target="Nidd" loc=" I 142">Nidd I 142</ref>
         <span>).</span>
         <footnote page_id="263" mark="24" anchor="VII.n24">
@@ -13464,10 +13439,7 @@
       <p y="137" x="53" page_id="264" page_no="206">
         <span>He has frequented (</span>
         <em>bhattavā</em>
-        <span>), and he has rejected going in the kinds of</span>
-      </p>
-      <p y="149" x="41" page_id="264" page_no="206">
-        <span>becoming (</span>
+        <span>), and he has rejected going in the kinds of becoming (</span>
         <em>VAnta-GAmano BHAvesu</em>
         <span>), thus he is Blessed (</span>
         <em>Bhagavā</em>
@@ -13787,10 +13759,7 @@
         </line>
       </verse>
       <p y="415" x="60" page_id="267" page_no="209">
-        <span>This, firstly, is the section dealing with the recollection of the Enlightened</span>
-      </p>
-      <p y="427" x="47" page_id="267" page_no="209">
-        <span>One in the detailed explanation.</span>
+        <span>This, firstly, is the section dealing with the recollection of the Enlightened One in the detailed explanation.</span>
       </p>
       <p y="462" x="47" page_id="267" page_no="209" anchor="VII.68" num="68">
         <span>One who wants to develop the recollection of the Dhamma (Law) should go into solitary retreat and recollect the special qualities of both the Dhamma (Law) of the scriptures and the ninefold supramundane Dhamma (state) as follows: </span>
@@ -14439,10 +14408,7 @@
         </line>
       </verse>
       <p y="555" x="60" page_id="277" page_no="219">
-        <span>This is the section dealing with the recollection of virtue in the detailed</span>
-      </p>
-      <p y="567" x="48" page_id="277" page_no="219">
-        <span>explanation. </span>
+        <span>This is the section dealing with the recollection of virtue in the detailed explanation.</span>
         <printed_page edition="PTS">223</printed_page>
       </p>
       <p y="73" x="42" page_id="278" page_no="220" anchor="VII.107" num="107">
@@ -14546,10 +14512,7 @@
         </line>
       </verse>
       <p y="329" x="59" page_id="279" page_no="221">
-        <span>This is the section dealing with the recollection of generosity in the detailed</span>
-      </p>
-      <p y="340" x="47" page_id="279" page_no="221">
-        <span>explanation. </span>
+        <span>This is the section dealing with the recollection of generosity in the detailed explanation. </span>
         <printed_page edition="PTS">225</printed_page>
       </p>
       <p y="375" x="47" page_id="279" page_no="221" anchor="VII.115" num="115">
@@ -15038,10 +15001,7 @@
       <p y="58" x="60" page_id="287" page_no="229">
         <printed_page edition="BPS2011" page_id="287">229</printed_page>
         <span>It should be recollected in this way, firstly, by comparison </span>
-        <em>with those of great</em>
-      </p>
-      <p y="70" x="47" page_id="287" page_no="229">
-        <em>fame</em>
+        <em>with those of great fame</em>
         <span>.</span>
       </p>
       <p y="85" x="47" page_id="287" page_no="229" anchor="VIII.18" num="18">
@@ -15821,10 +15781,7 @@
       </p>
       <p y="384" x="60" page_id="297" page_no="239">
         <em>6. As to location</em>
-        <span>: the location of this or that part should be defined thus: “This</span>
-      </p>
-      <p y="396" x="47" page_id="297" page_no="239">
-        <span>part is established in this location.”</span>
+        <span>: the location of this or that part should be defined thus: “This part is established in this location.”</span>
       </p>
       <p y="410" x="47" page_id="297" page_no="239" anchor="VIII.59" num="59">
         <em>7. As to delimitation</em>
@@ -17126,17 +17083,14 @@
           <span>“For as the leopard by his lurking [in the forest] seizes beasts</span>
         </line>
         <line>
-          <span>So also will this Buddhas’ son, with insight gifted,</span>
+          <span>So also will this Buddhas’ son, with insight gifted, strenuous,</span>
+        </line>
+        <line>
+          <span>By his retreating to the forest seize the highest fruit of all” (</span>
+          <ref type="bib" target="Mil" loc=" 369">Mil 369</ref>
+          <span>).</span>
         </line>
       </verse>
-      <p y="540" x="127" page_id="320" page_no="262">
-        <span>strenuous,</span>
-      </p>
-      <p y="552" x="113" page_id="320" page_no="262">
-        <span>By his retreating to the forest seize the highest fruit of all” (</span>
-        <ref type="bib" target="Mil" loc=" 369">Mil 369</ref>
-        <span>).</span>
-      </p>
       <p y="58" x="60" page_id="321" page_no="263">
         <printed_page edition="BPS2011" page_id="321">263</printed_page>
         <span>So the Blessed One said “gone to the forest,” etc., to point out a forest abode as a place likely to hasten his advancement.</span>
@@ -17850,7 +17804,7 @@
       </p>
       <verse y="520" x="113" page_id="336" page_no="278">
         <line>
-          <span> “Fixing his mind upon the sign</span>
+          <span>“Fixing his mind upon the sign</span>
         </line>
         <line>
           <span>And putting away</span>
@@ -17863,8 +17817,6 @@
           </footnote>
           <span> extraneous aspects,</span>
         </line>
-      </verse>
-      <verse y="58" x="120" page_id="337" page_no="279">
         <line>
           <printed_page edition="BPS2011" page_id="337">279</printed_page>
           <span>The clever man anchors his mind</span>
@@ -18103,10 +18055,7 @@
       </p>
       <p y="143" x="54" page_id="342" page_no="284">
         <span>(xv) The same method of explanation applies to the clause, </span>
-        <em>contemplating</em>
-      </p>
-      <p y="154" x="42" page_id="342" page_no="284">
-        <em>cessation</em>
+        <em>contemplating cessation</em>
         <span>.</span>
       </p>
       <p y="169" x="42" page_id="342" page_no="284" anchor="VIII.236" num="236">
@@ -18648,8 +18597,6 @@
         <line>
           <span>With other figures of such kind,</span>
         </line>
-      </verse>
-      <verse y="58" x="114" page_id="352" page_no="294">
         <line>
           <printed_page edition="BPS2011" page_id="352">294</printed_page>
           <span>And strive, and strive repeatedly,</span>
@@ -18776,8 +18723,6 @@
         <line>
           <span>They had been kind and helpful too.</span>
         </line>
-      </verse>
-      <verse y="58" x="114" page_id="354" page_no="296">
         <line>
           <printed_page edition="BPS2011" page_id="354">296</printed_page>
           <span>So why not leave your enemy,</span>
@@ -19043,10 +18988,7 @@
         </line>
       </verse>
       <p y="564" x="53" page_id="356" page_no="298">
-        <span>Then he took up a stone and dashed it on his head. But the monkey looked at</span>
-      </p>
-      <p y="576" x="41" page_id="356" page_no="298">
-        <span>him with eyes full of tears and said:</span>
+        <span>Then he took up a stone and dashed it on his head. But the monkey looked at him with eyes full of tears and said:</span>
       </p>
       <verse y="58" x="120" page_id="357" page_no="299">
         <line>
@@ -20279,15 +20221,12 @@
         <printed_page edition="PTS">327</printed_page>
         <span> The time when the bhikkhu surmounts the gross physical matter by means of the fourth jhāna of the fine-material sphere is like the first man’s fleeing as fast as he can and the other man’s going away to another village. The bhikkhu’s observing that even the matter of the kasiṇa is the counterpart of that gross physical matter and his wanting to surmount that also is like the first man’s seeing in the place he had </span>
         <printed_page edition="BPS2011" page_id="380">322</printed_page>
-        <span>šfled to the palm leaf with a streak painted on it, etc., and the other man’s seeing the man who resembled the enemy in the village he had left, and their unwillingness to look owing to fear and anxiety.</span>
+        <span>fled to the palm leaf with a streak painted on it, etc., and the other man’s seeing the man who resembled the enemy in the village he had left, and their unwillingness to look owing to fear and anxiety.</span>
       </p>
       <p y="96" x="54" page_id="380" page_no="322">
         <span>And here the similes of the dog attacked by a boar and that of the </span>
         <em>pisāca </em>
-        <span>goblin</span>
-      </p>
-      <p y="108" x="41" page_id="380" page_no="322">
-        <span>and the timid man</span>
+        <span>goblin and the timid man</span>
         <footnote page_id="380" mark="1" anchor="X.n1">
           <p>
             <span>“A dog, it seems, was attacked in the forest by a boar and fled. When it was dusk he saw in the distance a cauldron for boiling rice, and perceiving it as a boar, he fled in fear and terror. Again, a man who was afraid of </span>
@@ -20850,8 +20789,6 @@
         <line>
           <span>While reckoned by the surmounting of</span>
         </line>
-      </verse>
-      <verse y="58" x="113" page_id="392" page_no="334">
         <line>
           <printed_page edition="BPS2011" page_id="392">334</printed_page>
           <span>The object they are four, the wise</span>
@@ -25211,10 +25148,11 @@
       <p y="384" x="60" page_id="479" page_no="421">
         <span>The explanation of knowledge of passing away and reappearance is ended.</span>
       </p>
-      <p y="419" x="47" page_id="479" page_no="421" anchor="XIII.102" num="102">
-        <span>The Helper, knower of five aggregates,</span>
-      </p>
-      <verse y="430" x="119" page_id="479" page_no="421">
+      <p y="419" x="47" page_id="479" page_no="421" anchor="XIII.102" num="102"/>
+      <verse y="419" x="119" page_id="479" page_no="421">
+        <line>
+          <span>The Helper, knower of five aggregates,</span>
+        </line>
         <line>
           <span>Had these five direct-knowledges to tell;</span>
         </line>
@@ -26055,10 +25993,7 @@
       <p y="122" x="60" page_id="495" page_no="437">
         <span>(b) “Knowledge about cause is the </span>
         <em>discrimination of law</em>
-        <span>. Knowledge about the</span>
-      </p>
-      <p y="134" x="48" page_id="495" page_no="437">
-        <span>fruit of a cause is the </span>
+        <span>. Knowledge about the fruit of a cause is the </span>
         <em>discrimination of meaning</em>
         <span> …</span>
       </p>
@@ -26257,10 +26192,7 @@
         <em>2.</em>
         <span> It is also of two kinds when classed as (a) primary entity (</span>
         <em>bhūta</em>
-        <span>) and (b)</span>
-      </p>
-      <p y="85" x="41" page_id="498" page_no="440">
-        <span>derived [by clinging] (</span>
+        <span>) and (b) derived [by clinging] (</span>
         <em>upādāya</em>
         <span>).</span>
       </p>
@@ -27580,12 +27512,11 @@
         <span>equanimity, as it were, cutting off the life-continuum and accomplishing the function of adverting.</span>
       </p>
       <p y="85" x="54" page_id="522" page_no="464">
-        <span>This is how the occurrence of two kinds of functional consciousness should</span>
-      </p>
-      <p y="96" x="41" page_id="522" page_no="464" anchor="XIV.117" num="117">
-        <span>be understood as </span>
+        <span>This is how the occurrence of two kinds of functional consciousness should be understood as </span>
         <em>adverting</em>
         <span>.</span>
+      </p>
+      <p y="96" x="41" page_id="522" page_no="464" anchor="XIV.117" num="117">
         <span> (d)–(h) Next to adverting,</span>
         <footnote page_id="522" mark="47" anchor="XIV.n47">
           <p>
@@ -29058,10 +28989,7 @@
       <p y="323" x="54" page_id="544" page_no="486">
         <span>(viii)–(ix) What is gross should be regarded as </span>
         <em>inferior</em>
-        <span> in the inferior-superior</span>
-      </p>
-      <p y="334" x="42" page_id="544" page_no="486">
-        <span>classification, and what is subtle </span>
+        <span> in the inferior-superior classification, and what is subtle </span>
         <em>superior</em>
         <span>.</span>
       </p>
@@ -29484,10 +29412,7 @@
         <em>āya</em>
         <span>) of vile (</span>
         <em>kucchita</em>
-        <span>) states subject to cankers, thus it is a body</span>
-      </p>
-      <p y="523" x="42" page_id="550" page_no="492">
-        <span>(</span>
+        <span>) states subject to cankers, thus it is a body (</span>
         <em>kāya</em>
         <span>), origin being the place of arising.</span>
       </p>
@@ -29508,10 +29433,7 @@
       <p y="567" x="54" page_id="550" page_no="492">
         <span>They cause their own characteristic to be borne (</span>
         <em>dhārayanti</em>
-        <span>), thus they are</span>
-      </p>
-      <p y="578" x="42" page_id="550" page_no="492">
-        <span>mental data (</span>
+        <span>), thus they are mental data (</span>
         <em>dhammā</em>
         <span>).</span>
         <footnote page_id="550" mark="1" anchor="XV.n1">
@@ -30200,10 +30122,7 @@
         <span> mental datum, and attention.”</span>
       </p>
       <p y="448" x="60" page_id="559" page_no="501">
-        <span>This is in brief. But the kinds of conditions will be explained in detail in the</span>
-      </p>
-      <p y="459" x="47" page_id="559" page_no="501">
-        <span>Description of Dependent Origination (</span>
+        <span>This is in brief. But the kinds of conditions will be explained in detail in the Description of Dependent Origination (</span>
         <ref type="vism" target="XVII.66">XVII.66ff.</ref>
         <span>).</span>
       </p>
@@ -30249,10 +30168,7 @@
         <span>), because it is the sign of various kinds of dangers.</span>
       </p>
       <p y="372" x="54" page_id="560" page_no="502">
-        <span>The unformed element, however, should be regarded as deathless, as peace,</span>
-      </p>
-      <p y="384" x="41" page_id="560" page_no="502">
-        <span>as safety. Why? Because it is the opposite of all ill. </span>
+        <span>The unformed element, however, should be regarded as deathless, as peace, as safety. Why? Because it is the opposite of all ill.</span>
         <printed_page edition="PTS">490</printed_page>
       </p>
       <p y="398" x="41" page_id="560" page_no="502" anchor="XV.43" num="43">
@@ -31003,13 +30919,8 @@
           <span>The horrible torment a being feels on coming out,</span>
         </line>
         <line>
-          <span>When he has spent long months shut up inside the</span>
+          <span>When he has spent long months shut up inside the mother’s womb—</span>
         </line>
-      </verse>
-      <p y="442" x="133" page_id="571" page_no="513">
-        <span>mother’s womb—</span>
-      </p>
-      <verse y="454" x="120" page_id="571" page_no="513">
         <line>
           <span>A hellish tomb of excrement—would never come about</span>
         </line>
@@ -31025,15 +30936,12 @@
           <span>Can there exist a painful state if birth do not precede?</span>
         </line>
         <line>
-          <span>Indeed this Sage so great, when he expounded pain,</span>
+          <span>Indeed this Sage so great, when he expounded pain, took care</span>
+        </line>
+        <line>
+          <span>First to declare rebirth as pain, the condition needed there.</span>
         </line>
       </verse>
-      <p y="515" x="133" page_id="571" page_no="513">
-        <span>took care</span>
-      </p>
-      <p y="526" x="120" page_id="571" page_no="513">
-        <span>First to declare rebirth as pain, the condition needed there.</span>
-      </p>
       <p y="541" x="60" page_id="571" page_no="513">
         <span>This, firstly, is the exposition of birth. </span>
         <printed_page edition="PTS">502</printed_page>
@@ -31662,10 +31570,7 @@
         <span>[A.] That is not so. Because their absence is an impossibility, since if they are absent their non-presence follows. [Besides, if Nibbāna were absence of present aggregates too,] that would entail the fault of excluding the arising of the Nibbāna element with result of past clinging left, at the path moment, which has present aggregates as its support.</span>
       </p>
       <p y="366" x="59" page_id="579" page_no="521">
-        <span>[Q. 4] Then will there be no fault if it is non-presence of defilements [that is</span>
-      </p>
-      <p y="378" x="47" page_id="579" page_no="521">
-        <span>Nibbāna]?</span>
+        <span>[Q. 4] Then will there be no fault if it is non-presence of defilements [that is Nibbāna]?</span>
       </p>
       <p y="393" x="47" page_id="579" page_no="521">
         <span>[A.] That is not so. Because it would then follow that the noble path was meaningless. For if it were so, then, since defilements [can be] non-existent also before the moment of the noble path, it follows that the noble path would be meaningless. Consequently that is no reason; [it is unreasonable to say that Nibbāna is unapprehendable, that it is non-existence, and so on].</span>
@@ -31730,10 +31635,7 @@
         <span>[A.] That is not so. Because [in that proposition] the characteristic of [logical] cause does not arise. [In other words, to say that Nibbāna is permanent is not to assert a reason why the atom, etc., should be permanent]</span>
       </p>
       <p y="472" x="54" page_id="580" page_no="522">
-        <span>[Q. 11] Then they are permanent because of the absence of their arising, as</span>
-      </p>
-      <p y="483" x="42" page_id="580" page_no="522">
-        <span>Nibbāna is.</span>
+        <span>[Q. 11] Then they are permanent because of the absence of their arising, as Nibbāna is.</span>
       </p>
       <p y="498" x="54" page_id="580" page_no="522">
         <span>[A.] That is not so. Because the atom and so on have not been established as facts.</span>
@@ -32166,10 +32068,7 @@
         </line>
       </verse>
       <p y="305" x="60" page_id="587" page_no="529">
-        <span>This, in the first place, is how the exposition should be understood as to</span>
-      </p>
-      <p y="317" x="47" page_id="587" page_no="529">
-        <span>void.</span>
+        <span>This, in the first place, is how the exposition should be understood as to void.</span>
         <footnote page_id="587" mark="25" anchor="XVI.n25">
           <p>
             <span>It may be noted in passing that the word </span>
@@ -32660,15 +32559,12 @@
           <span>Arouses states together equally;</span>
         </line>
         <line>
-          <span>So this too is a reason here wherefore the Greatest Sage,</span>
+          <span>So this too is a reason here wherefore the Greatest Sage, the Seer,</span>
+        </line>
+        <line>
+          <span>Gave to this term its form thus succinctly.</span>
         </line>
       </verse>
-      <p y="503" x="133" page_id="595" page_no="537">
-        <span>the Seer,</span>
-      </p>
-      <p y="514" x="119" page_id="595" page_no="537">
-        <span>Gave to this term its form thus succinctly.</span>
-      </p>
       <p y="58" x="42" page_id="596" page_no="538" anchor="XVII.20" num="20">
         <printed_page edition="BPS2011" page_id="596">538</printed_page>
         <span>Among the conditions described under the headings of ignorance, etc., the respective conditions that make the [conditionally-arisen] states beginning with formations arise are incapable of making them arise when not mutually dependent and when deficient. Therefore this conditionality by depending (</span>
@@ -32771,10 +32667,7 @@
       </p>
       <p y="58" x="60" page_id="597" page_no="539">
         <printed_page edition="BPS2011" page_id="597">539</printed_page>
-        <span>This, in the first place, is the meaning of the mere words “dependent</span>
-      </p>
-      <p y="70" x="47" page_id="597" page_no="539">
-        <span>origination” (</span>
+        <span>This, in the first place, is the meaning of the mere words “dependent origination” (</span>
         <em>paṭicca-samuppāda</em>
         <span>).</span>
       </p>
@@ -32847,10 +32740,7 @@
         </line>
       </verse>
       <p y="108" x="53" page_id="598" page_no="540">
-        <span>Therefore, considering that to comment on the dependent origination is</span>
-      </p>
-      <p y="119" x="41" page_id="598" page_no="540">
-        <span>impossible except for those who are expert in the texts:</span>
+        <span>Therefore, considering that to comment on the dependent origination is impossible except for those who are expert in the texts:</span>
       </p>
       <verse y="134" x="113" page_id="598" page_no="540">
         <line>
@@ -33349,10 +33239,7 @@
         <span>, etc., should be understood in this way too.</span>
       </p>
       <p y="160" x="59" page_id="605" page_no="547">
-        <span>This is how the exposition should be known here “as to singlefold and so</span>
-      </p>
-      <p y="172" x="47" page_id="605" page_no="547">
-        <span>on.”</span>
+        <span>This is how the exposition should be known here “as to singlefold and so on.”</span>
       </p>
       <p y="186" x="47" page_id="605" page_no="547" anchor="XVII.57" num="57">
         <em>5. As to defining of the factors</em>
@@ -33418,10 +33305,7 @@
         <span>Here it might be said: “Let us then firstly agree that ignorance is a condition for formations. But it must now be stated for which formations, and in which way it is a condition.”</span>
       </p>
       <p y="456" x="59" page_id="607" page_no="549">
-        <span>Here is the reply: “Twenty-four conditions have been stated by the Blessed</span>
-      </p>
-      <p y="468" x="47" page_id="607" page_no="549">
-        <span>One as follows.”</span>
+        <span>Here is the reply: “Twenty-four conditions have been stated by the Blessed One as follows.”</span>
       </p>
       <p y="491" x="60" page_id="607" page_no="549">
         <span family="italic" size="10">[The 24 Conditions]</span>
@@ -34429,7 +34313,7 @@
             <em>yāna </em>
             <span>as footwear or sandals see </span>
             <ref type="bib" target="M-a" loc=" III 222">M-a III 222</ref>
-            <span>); when the heavenly world appears, wishing trees, divine palaces and couches, etc., appear.” Vism-mhṭ remarks here: “By the words ‘the appearance of the mother's womb,’ etc., only visual appearance is given as the sign of destiny. Herein, in the first place it would be logical that sound has not been given in the Commentaries as a sign of destiny because it is included in the happy destinies as not-clung-to, but the reason for odour, etc., not having been given, will be inquired into” (</span>
+            <span>); when the heavenly world appears, wishing trees, divine palaces and couches, etc., appear.” Vism-mhṭ remarks here: “By the words ‘the appearance of the mother’s womb,’ etc., only visual appearance is given as the sign of destiny. Herein, in the first place it would be logical that sound has not been given in the Commentaries as a sign of destiny because it is included in the happy destinies as not-clung-to, but the reason for odour, etc., not having been given, will be inquired into” (</span>
             <ref type="bib" target="Vism-mhṭ" loc=" 609">Vism-mhṭ 609</ref>
             <span>). This question is in fact dealt with at length at </span>
             <ref type="bib" target="Vism-mhṭ" loc=" 611">Vism-mhṭ 611</ref>
@@ -34755,10 +34639,11 @@
         <em>paṭisandhāna</em>
         <span>) across the gap separating the beginning of the next becoming. But it should be understood that it has neither come here from the previous becoming nor has it become manifest without the kamma, the formations, the pushing, the objective field, etc., as cause.</span>
       </p>
-      <p y="204" x="41" page_id="632" page_no="574" anchor="XVII.165" num="165">
-        <span>An echo, or its like, supplies</span>
-      </p>
-      <verse y="215" x="113" page_id="632" page_no="574">
+      <p y="204" x="41" page_id="632" page_no="574" anchor="XVII.165" num="165"/>
+      <verse y="204" x="113" page_id="632" page_no="574">
+        <line>
+          <span>An echo, or its like, supplies</span>
+        </line>
         <line>
           <span>The figures here; connectedness</span>
         </line>
@@ -34865,10 +34750,7 @@
         <span family="italic" size="10">[(3) How Formations are a Condition for Consciousness]</span>
       </p>
       <p y="239" x="54" page_id="634" page_no="576" anchor="XVII.175" num="175">
-        <span>Now, in order to eliminate confusion about all these thirty-two kinds of</span>
-      </p>
-      <p y="251" x="41" page_id="634" page_no="576">
-        <span>resultant consciousness:</span>
+        <span>Now, in order to eliminate confusion about all these thirty-two kinds of resultant consciousness:</span>
       </p>
       <verse y="265" x="113" page_id="634" page_no="576">
         <line>
@@ -34965,10 +34847,7 @@
         </line>
       </verse>
       <p y="85" x="60" page_id="637" page_no="579">
-        <span>This is the detailed explanation of the clause, “With formations as condition,</span>
-      </p>
-      <p y="96" x="47" page_id="637" page_no="579">
-        <span>consciousness.”</span>
+        <span>This is the detailed explanation of the clause, “With formations as condition, consciousness.”</span>
       </p>
       <p y="131" x="47" page_id="637" page_no="579" anchor="XVII.186" num="186">
         <span>For the clause, “With consciousness as condition, mentality-materiality”:</span>
@@ -35074,10 +34953,7 @@
         </line>
       </verse>
       <p y="520" x="53" page_id="638" page_no="580">
-        <span>And it appears in apparitionally born beings as soon as they first swallow</span>
-      </p>
-      <p y="532" x="41" page_id="638" page_no="580">
-        <span>the spittle that has come into their own mouths. </span>
+        <span>And it appears in apparitionally born beings as soon as they first swallow the spittle that has come into their own mouths. </span>
         <printed_page edition="BPS2011" page_id="639">581</printed_page>
         <span>So, with the twenty-six [material instances] consisting of the bare octad originated by nutriment, and of the, at most, two [sound] enneads originated respectively by temperature and consciousness, and also with the already-mentioned seventy kamma-originated instances (§191) that arise three times in each conscious moment [at the instants of arising, presence, and dissolution], there are thus ninety-six material instances; and with the three immaterial aggregates there is thus a total of ninety-nine states.</span>
       </p>
@@ -35096,10 +34972,7 @@
         <span> that have found a support, even though battered by waves somewhere in mid-ocean, and they can last one year, two years … a hundred years, until those beings’ life span or their merit is exhausted.</span>
       </p>
       <p y="369" x="60" page_id="639" page_no="581">
-        <span>This is how the exposition should be understood here “by occurrence in</span>
-      </p>
-      <p y="381" x="48" page_id="639" page_no="581">
-        <span>becoming, etc.”</span>
+        <span>This is how the exposition should be understood here “by occurrence in becoming, etc.”</span>
       </p>
       <p y="395" x="48" page_id="639" page_no="581" anchor="XVII.197" num="197">
         <em>3. By inclusion</em>
@@ -35219,10 +35092,7 @@
         <span>This is how the exposition should be known “by manner of condition.”</span>
       </p>
       <p y="233" x="59" page_id="641" page_no="583">
-        <span>This is the detailed explanation of the clause “With consciousness as</span>
-      </p>
-      <p y="244" x="47" page_id="641" page_no="583">
-        <span>condition, mentality-materiality.”</span>
+        <span>This is the detailed explanation of the clause “With consciousness as condition, mentality-materiality.”</span>
       </p>
       <p y="280" x="47" page_id="641" page_no="583" anchor="XVII.203" num="203">
         <span>As to the clause “With mentality-materiality as condition, the sixfold base”:</span>
