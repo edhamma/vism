@@ -151,8 +151,9 @@
     <sect para="56" title="General"/>
   </chapter>
   <chapter num="XI">
-    <sect para="1" title="Perception of Repulsiveness in Nutriment">
-      <sect para="27" title="Defining of The Elements: Word Definitions"/>
+    <sect para="1" title="Perception of Repulsiveness in Nutriment"/>
+    <sect para="27" title="Defining of The Elements">
+      <sect para="27" title="Word Definitions"/>
       <sect para="28" title="Texts and Commentary in Brief"/>
       <sect para="31" title="In Detail"/>
       <sect para="39" title="Method of Development in Brief"/>
@@ -169,17 +170,19 @@
     </sect>
   </chapter>
   <chapter num="XII">
-    <sect para="1" title="The Benefits of Concentration (Continued)">
-      <sect para="2" title="(1) The Kinds of Supernormal Power" starts_at="If a meditator wants to begin "/>
+    <sect para="1" title="The Benefits of Concentration (Continued)"/>
+    <sect para="2" title="The five kinds of direct-knowledge"/>
+    <sect para="2" title="(1) The Kinds of Supernormal Power" starts_at="If a meditator wants to begin ">
+      <sect para="46" title="Supernormal power as resolve"/>
+      <sect para="137" title="Supernormal power as transformation" starts_at="(i) One, firstly, who performs a transformation"/>
+      <sect para="139" title="Supernormal power as mind-made body"/>
     </sect>
   </chapter>
   <chapter num="XIII">
-    <sect para="1" title="">
-      <sect para="1" title="(2) The Divine Ear Element"/>
-      <sect para="8" title="(3) Penetration of Minds"/>
-      <sect para="13" title="(4) Recollection of Past Lives"/>
-      <sect para="72" title="(5) The Divine Eye—Knowledge of Passing Away and Reappearance of Beings"/>
-    </sect>
+    <sect para="1" title="(2) The Divine Ear Element"/>
+    <sect para="8" title="(3) Penetration of Minds"/>
+    <sect para="13" title="(4) Recollection of Past Lives"/>
+    <sect para="72" title="(5) The Divine Eye—Knowledge of Passing Away and Reappearance of Beings"/>
     <sect para="102" title="General"/>
   </chapter>
   <chapter num="XIV">
