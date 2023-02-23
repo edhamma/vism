@@ -19,6 +19,27 @@
   </chapter>
   <chapter num="II">
     <sect para="2" title="The 13 kinds of Ascetic Practices"/>
+    <sect para="4" title="Meaning" comment="!! This and everything remaining is not in BPS2011 and was added by us"/>
+    <sect para="12" title="Characteristic"/>
+    <sect para="14" title="Undertaking, directions, etc.">
+      <sect para="14" title="Refuse-rag-wearer" starts_at="i. First, the"/>
+      <sect para="23" title="Triple-robe-wearer"/>
+      <sect para="27" title="Alms-food-eater"/>
+      <sect para="31" title="House-to-house seeker"/>
+      <sect para="35" title="One-sessioner"/>
+      <sect para="39" title="Bowl-food-eater"/>
+      <sect para="43" title="Late-food-refuser"/>
+      <sect para="47" title="Forest-dweller"/>
+      <sect para="56" title="Tree-root-dweller"/>
+      <sect para="60" title="Open-air-dweller"/>
+      <sect para="64" title="Charnel-groud-dweller"/>
+      <sect para="69" title="Any-bed-user"/>
+      <sect para="73" title="Sitter"/>
+    </sect>
+    <sect para="78" title="Profitable triad"/>
+    <sect para="80" title="Ascetic and so on distinguished"/>
+    <sect para="87" title="Groups"/>
+    <sect para="90" title="Singly"/>
   </chapter>
   <chapter num="III">
     <sect para="2" title="(i) What is concentration?" starts_at="Concentration is of many sorts"/>
@@ -32,7 +53,11 @@
        <sect para="29" title="The ten impediments" starts_at="Firstly it was said above,"/>
        <sect para="57" title="Meditation subjects etc." comment="These two are swapped in BPS, and both in §57 … ?"/>
        <sect para="61" title="The good friend"/>
-       <sect para="74" title="Temperaments"/>
+       <sect para="74" title="Temperaments" comment="!! subsections added">
+         <sect para="80" title="Source of temperaments"/>
+         <sect para="87" title="Recognition of temperament"/>
+         <sect para="97" title="What suits one of what kind of temperament?"/>
+       </sect>
        <sect para="103" title="Definition of meditation subjects"/>
        <sect para="123" title="Self-dedication"/>
        <sect para="130" title="Ways of expounding"/>
@@ -130,10 +155,26 @@
     <sect para="245" title="(10) Recollection of Peace"/>
   </chapter>
   <chapter num="IX">
-    <sect para="1" title="(1) Loving-Kindness"/>
+    <sect para="1" title="(1) Loving-Kindness" comment="!! subsections added">
+      <sect para="14" title="Getting Rid of Resentment"/>
+      <sect para="40" title="The Breaking Down of the Barriers—The Sign"/>
+      <sect para="40" title="Texts and Commentary"/>
+    </sect>
     <sect para="77" title="(2) Compassion"/>
     <sect para="84" title="(3) Gladness"/>
     <sect para="88" title="(4) Equanimity"/>
+    <sect para="92" title="General">
+      <sect para="92" title="Meanings"/>
+      <sect para="93" title="Characteristic etc."/>
+      <sect para="97" title="Purpose"/>
+      <sect para="98" title="The Near and Far Enemies"/>
+      <sect para="102" title="The Beginning, Middle and End, Etc."/>
+      <sect para="103" title="The Order in Extension"/>
+      <sect para="104" title="The Outcome"/>
+      <sect para="105" title="Four Questions"/>
+      <sect para="111" title="As Producing Three Jhānas and Four Jhānas"/>
+      <sect para="119" title="The Highest Limit of Each"/>
+    </sect>
   </chapter>
   <chapter num="X">
     <sect para="1" title="(1) The Base Consisting of Boundless Space">
@@ -187,21 +228,27 @@
   </chapter>
   <chapter num="XIV">
     <sect para="1" title="A. Understanding"/>
-    <sect para="2" title="(i) What is understanding?" starts_at="Understanding ("/>
+    <sect para="2" title="(i) What is understanding?" starts_at="Understanding (">
+      <sect para="3" title="(ii) In what sense is it understanding?"/>
+      <sect para="7" title="(iii) What are its characteristic, etc.?"/>
+      <sect para="8" title="(iv) How many kinds of understanding are there?"/>
+      <sect para="32" title="(v) How is it developed?"/>
+    </sect>
     <sect para="33" title="B. Description of the Five Aggregates">
       <sect para="34" title="The Materiality Aggregate"/>
-      <sect para="81" title="The Consciousness Aggregate"/>
-    </sect>
-    <sect para="82" title="The 89 Kinds of Consciousness—see Table III" starts_at="That same [consciousness], tho"/>
-    <sect para="111" title="The 14 Modes of Occurrence of Consciousness">
+      <sect para="81" title="The Consciousness Aggregate">
+        <sect para="82" title="The 89 Kinds of Consciousness—see Table III" starts_at="That same [consciousness], though"/>
+        <sect para="111" title="The 14 Modes of Occurrence of Consciousness"/>
+      </sect>
       <sect para="125" title="The Feeling Aggregate"/>
-      <sect para="129" title="The Perception Aggregate"/>
+      <sect para="129" title="The Perception Aggregate">
+        <sect para="131" title="The Formations Aggregate—see Tables II &amp; IV"/>
+        <sect para="133" title="According to Association with Consciousness"/>
+      </sect>
     </sect>
-    <sect para="131" title="The Formations Aggregate—see Tables II &amp; IV"/>
-    <sect para="133" title="According to Association with Consciousness"/>
-    <sect para="185" title="C. Classification of the Aggregates"/>
-    <sect para="186" title="Materiality"/>
-    <sect para="197" title="Feeling">
+    <sect para="185" title="C. Classification of the Aggregates">
+      <sect para="186" title="Materiality"/>
+      <sect para="197" title="Feeling"/>
       <sect para="210" title="Perception, Formations and Consciousness"/>
     </sect>
     <sect para="210" title="D. Classes of Knowledge of the Aggregates" starts_at="Having understood this, again "/>
@@ -213,42 +260,75 @@
   <chapter num="XVI">
     <sect para="1" title="A. Description of the Faculties"/>
     <sect para="13" title="B. Description of the Truths">
-      <sect para="32" title="(i) Birth"/>
-      <sect para="44" title="(ii) Ageing"/>
-      <sect para="46" title="(iii) Death"/>
-      <sect para="48" title="(iv) Sorrow"/>
-      <sect para="49" title="(v) Lamentation"/>
-      <sect para="50" title="(vi) Pain"/>
-      <sect para="51" title="(vii) Grief"/>
-      <sect para="52" title="(viii) Despair"/>
-      <sect para="54" title="(ix) Association with the Unloved"/>
-      <sect para="55" title="(x) Separation from the Loved"/>
-      <sect para="56" title="(xi) Not to Get What One Wants"/>
-      <sect para="57" title="(xii) The Five Aggregates"/>
+      <sect para="32" title="The Truth of Suffering">
+        <sect para="32" title="(i) Birth"/>
+        <sect para="44" title="(ii) Ageing"/>
+        <sect para="46" title="(iii) Death"/>
+        <sect para="48" title="(iv) Sorrow"/>
+        <sect para="49" title="(v) Lamentation"/>
+        <sect para="50" title="(vi) Pain"/>
+        <sect para="51" title="(vii) Grief"/>
+        <sect para="52" title="(viii) Despair"/>
+        <sect para="54" title="(ix) Association with the Unloved"/>
+        <sect para="55" title="(x) Separation from the Loved"/>
+        <sect para="56" title="(xi) Not to Get What One Wants"/>
+        <sect para="57" title="(xii) The Five Aggregates"/>
+      </sect>
+      <sect para="61" title="The Truth of the Origin of Suffering"/>
+      <sect para="62" title="The Truth of the Cessation of Suffering">
+        <sect para="67" title="Discussion on Nibbāna"/>
+      </sect>
+      <sect para="75" title="The Truth of the Way"/>
     </sect>
-    <sect para="61" title="The Truth of the Origin of Suffering"/>
-    <sect para="62" title="The Truth of the Cessation of Suffering"/>
-    <sect para="67" title="Discussion on Nibbāna"/>
-    <sect para="75" title="The Truth of the Way"/>
     <sect para="84" title="General"/>
   </chapter>
   <chapter num="XVII">
-    <sect para="1" title="Section A. Definition of Dependent Origination"/>
-    <sect para="25" title="Section B. Exposition">
+    <sect para="1" title="A. Definition of Dependent Origination"/>
+    <sect para="25" title="B. Exposition">
       <sect para="25" title="I. Preamble"/>
       <sect para="27" title="II. Brief Exposition"/>
-      <sect para="27" title="III. Detailed Exposition"/>
-      <sect para="58" title="(i) Ignorance" starts_at="According to the Suttanta meth"/>
-      <sect para="60" title="(ii) Formations"/>
-      <sect para="186" title="(iv) Mentality-Materiality"/>
-      <sect para="203" title="(v) The Sixfold Base"/>
-      <sect para="220" title="(vi) Contact"/>
-      <sect para="228" title="(vii) Feeling"/>
-      <sect para="233" title="(viii) Craving"/>
-      <sect para="239" title="(ix) Clinging"/>
-      <sect para="249" title="(x) Becoming"/>
+      <sect para="58" title="III. Detailed Exposition">
+        <sect para="58" title="(1) Ignorance" starts_at="According to the Suttanta meth"/>
+        <sect para="60" title="(2) Formations">
+          <sect para="66" title="The 24 conditions"/>
+          <sect para="101" title="How Ignorance is a Condition for Formations"/>
+          <sect para="105" title="No Single Fruit from Single Cause"/>
+        </sect>
+        <sect para="120" title="(3) Consciousness">
+          <sect para="120" title="1. Kinds of Mundane Resultant Consciousness"/>
+          <sect para="126" title="2. The Occurrence of Resultant Consciousness" starts_at="Now, this resultant consciousness">
+            <sect para="127" title="2a. In the Course of an Existence"/>
+            <sect para="133" title="2b. At Rebirth-Linking">
+              <sect para="136" title="From happy to unhappy destiny"/>
+              <sect para="139" title="From unhappy to happy destiny"/>
+              <sect para="140" title="From happy to happy destiny"/>
+              <sect para="145" title="From unhappy to unhappy destiny"/>
+              <sect para="146" title="How Kamma is a Condition"/>
+            </sect>
+          </sect>
+          <sect para="175" title="3. How Formations are a Condition for Consciousness"/>
+        </sect>
+        <sect para="186" title="(4) Mentality-Materiality"/>
+        <sect para="203" title="(5) The Sixfold Base">
+          <sect para="206" title="1. Mentality as Condition" starts_at="In immaterial rebirth"/>
+          <sect para="214" title="2. Materiality as Condition"/>
+          <sect para="218" title="3. Mentality-Materiality as Condition"/>
+        </sect>
+        <sect para="220" title="(6) Contact">
+          <sect para="226" title="How the Sixfold Base is a Condition for Contact"/>
+        </sect>
+        <sect para="228" title="(7) Feeling"/>
+        <sect para="233" title="(8) Craving"/>
+        <sect para="239" title="(9) Clinging">
+          <sect para="247" title="How Craving is a Condition for Clinging"/>
+        </sect>
+        <sect para="249" title="(10) Becoming (being)">
+          <sect para="268" title="How Clinging is a Condition for Becoming"/>
+        </sect>
+        <sect para="270" title="(11)–(12) Birth, Etc."/>
+      </sect>
     </sect>
-    <sect para="273" title="Section C. The Wheel of Becoming">
+    <sect para="273" title="C. The Wheel of Becoming">
       <sect para="273" title="(i) The Wheel"/>
       <sect para="284" title="(ii) The Three Times"/>
       <sect para="288" title="(iii) Cause and Fruit"/>
@@ -256,8 +336,12 @@
     </sect>
   </chapter>
   <chapter num="XVIII">
-    <sect para="2" title="Defining of Mentality-Materiality" starts_at="[(a) Starting with Mentality]">
-      <sect para="2" title="(1) Definition Based on the Four Primaries" starts_at="[(a) Starting with Mentality]"/>
+    <sect para="1" title="Introductory"/>
+    <sect para="2" title="Defining of Mentality-Materiality">
+      <sect para="2" title="(1) Definition Based on the Four Primaries">
+        <sect para="2" title="(a) Starting with Mentality"/>
+        <sect para="5" title="(b) Starting with Materiality"/>
+      </sect>
       <sect para="9" title="(2) Definition Based on the Eighteen Elements"/>
       <sect para="12" title="(3) Definition Based on the Twelve Bases"/>
       <sect para="13" title="(4) Definition Based on the Five Aggregates"/>
@@ -267,38 +351,48 @@
     <sect para="18" title="How the Immaterial States Become Evident"/>
     <sect para="24" title="No Being Apart from Mentality-Materiality"/>
     <sect para="32" title="Interdependence of Mentality and Materiality"/>
+    <sect para="37" title="Conclusion"/>
   </chapter>
   <chapter num="XIX">
-    <sect para="2" title="Ways of Discerning Cause and Condition"/>
-    <sect para="3" title="Neither Created by a Creator nor Causeless"/>
-    <sect para="5" title="Its Occurance is Always Due to Conditions"/>
-    <sect para="7" title="General and Particular Conditions"/>
-    <sect para="11" title="Dependent Origination in Reverse Order"/>
-    <sect para="12" title="Dependent Origination in Direct Order"/>
-    <sect para="13" title="Kamma and Kamma-Result"/>
-    <sect para="19" title="No Doer Apart from Kamma and Result" starts_at="In all kinds of becoming, gene"/>
+    <sect para="1" title="Introductory"/>
+    <sect para="2" title="Ways of Discerning Cause and Condition">
+      <sect para="3" title="1. Neither Created by a Creator nor Causeless"/>
+      <sect para="5" title="2. Its Occurance is Always Due to Conditions"/>
+      <sect para="7" title="3. General and Particular Conditions"/>
+      <sect para="11" title="4. Dependent Origination in Reverse Order"/>
+      <sect para="12" title="5. Dependent Origination in Direct Order"/>
+      <sect para="13" title="6. Kamma and Kamma-Result"/>
+      <sect para="19" title="7. No Doer Apart from Kamma and Result" starts_at="In all kinds of becoming, gene"/>
+    </sect>
     <sect para="21" title="Full-Understanding of the Known"/>
   </chapter>
   <chapter num="XX">
-    <sect para="3" title="The Three Kinds of Full-Understanding"/>
-    <sect para="6" title="Insight: Comprehension by Groups"/>
-    <sect para="13" title="Comprehension by Groups—Application of Text"/>
-    <sect para="18" title="Strengthening of Comprehension in Forty Ways"/>
-    <sect para="21" title="Nine Ways of Sharpening the Faculties, Etc."/>
-    <sect para="22" title="Comprehension of the Material">
-      <sect para="27" title="(a) Kamma-Born Materiality"/>
-      <sect para="30" title="(b) Consciousness-Born Materiality"/>
-      <sect para="35" title="(c) Nutriment-Born Materiality"/>
-      <sect para="39" title="(d) Temperature-Born Materiality"/>
+    <sect para="1" title="Introductory">
+      <sect para="2" title="The Fifth Purification"/>
+      <sect para="3" title="The Three Kinds of Full-Understanding"/>
     </sect>
-    <sect para="43" title="Comprehension of the Immaterial"/>
-    <sect para="45" title="The Material Septad" starts_at="Another comprehends formations"/>
-    <sect para="76" title="The Immaterial Septad"/>
-    <sect para="89" title="The Eighteen Principal Insights"/>
-    <sect para="93" title="Knowledge of Rise and Fall—I"/>
-    <sect para="105" title="The Ten Imperfections of Insight"/>
+    <sect para="6" title="Insight">
+      <sect para="6" title="Comprehension by Groups"/>
+      <sect para="13" title="Comprehension by Groups—Application of Text"/>
+      <sect para="18" title="Strengthening of Comprehension in Forty Ways"/>
+      <sect para="21" title="Nine Ways of Sharpening the Faculties, Etc."/>
+      <sect para="22" title="Comprehension of the Material">
+        <sect para="27" title="(a) Kamma-Born Materiality"/>
+        <sect para="30" title="(b) Consciousness-Born Materiality"/>
+        <sect para="35" title="(c) Nutriment-Born Materiality"/>
+        <sect para="39" title="(d) Temperature-Born Materiality"/>
+      </sect>
+      <sect para="43" title="Comprehension of the Immaterial"/>
+      <sect para="45" title="The Material Septad" starts_at="Another comprehends formations"/>
+      <sect para="76" title="The Immaterial Septad"/>
+      <sect para="89" title="The Eighteen Principal Insights"/>
+      <sect para="93" title="Knowledge of Rise and Fall—I">
+        <sect para="105" title="The Ten Imperfections of Insight"/>
+      </sect>
+    </sect>
   </chapter>
   <chapter num="XXI">
+    <sect para="1" title="Introductory"/>
     <sect para="3" title="Insight: The Eight Knowledges">
       <sect para="3" title="1. Knowledge of Rise and Fall—II"/>
       <sect para="10" title="2. Knowledge of Dissolution"/>
@@ -306,38 +400,51 @@
       <sect para="35" title="4. Knowledge of Danger"/>
       <sect para="43" title="5. Knowledge of Dispassion"/>
       <sect para="45" title="6. Knowledge of Desire for Deliverance"/>
-      <sect para="47" title="7. Knowledge of Reflection"/>
-    </sect>
-    <sect para="53" title="Discerning Formations as Void">
+      <sect para="47" title="7. Knowledge of Reflection">
+        <sect para="53" title="Discerning Formations as Void">
+      </sect>
       <sect para="61" title="8. Knowledge of Equanimity about Formations"/>
-    </sect>
-    <sect para="66" title="The Triple Gateway to Liberation" starts_at="It enters upon the state of th"/>
-    <sect para="74" title="The Seven Kinds of Noble Persons"/>
-    <sect para="79" title="The Last Three Knowledges are One"/>
-    <sect para="83" title="Insight Leading to Emergence"/>
-    <sect para="90" title="The Twelve Similes"/>
-    <sect para="111" title="The Difference in the Noble Path’s Factors, Etc.">
+        <sect para="66" title="The Triple Gateway to Liberation" starts_at="It enters upon the state of th"/>
+        <sect para="74" title="The Seven Kinds of Noble Persons"/>
+        <sect para="79" title="The Last Three Knowledges are One"/>
+        <sect para="83" title="Insight Leading to Emergence"/>
+        <sect para="90" title="The Twelve Similes"/>
+        <sect para="111" title="The Difference in the Noble Path’s Factors, Etc.">
+      </sect>
       <sect para="128" title="9. Conformity Knowledge"/>
+        <sect para="135" title="Sutta References"/>
+      </sect>
     </sect>
-    <sect para="135" title="Sutta References"/>
   </chapter>
   <chapter num="XXII">
-    <sect para="1" title="I. Change-of-Lineage, Paths, and Fruits"/>
-    <sect para="3" title="The First Path—First Noble Person"/>
-    <sect para="15" title="The First Fruition—Second Noble Person"/>
-    <sect para="22" title="The Second Path—Third Noble Person"/>
-    <sect para="24" title="The Second Fruition—Fourth Noble Person"/>
-    <sect para="25" title="The Third Path—Fifth Noble Person"/>
-    <sect para="27" title="The Third Fruition—Sixth Noble Person"/>
-    <sect para="28" title="The Fourth Path—Seventh Noble Person"/>
-    <sect para="30" title="The Fourth Fruition—Eighth Noble Person"/>
-    <sect para="32" title="II. The States Associated with the Path, Etc."/>
-    <sect para="92" title="The Four Functions"/>
-    <sect para="92" title="The Four Functions in a Single Moment" starts_at="6."/>
-    <sect para="104" title="The Four Functions Described Separately"/>
-    <sect para="129" title="Conclusion"/>
+    <sect para="1" title="I. Change-of-Lineage, Paths, and Fruits">
+      <sect para="3" title="The First Path—First Noble Person"/>
+      <sect para="15" title="The First Fruition—Second Noble Person"/>
+      <sect para="22" title="The Second Path—Third Noble Person"/>
+      <sect para="24" title="The Second Fruition—Fourth Noble Person"/>
+      <sect para="25" title="The Third Path—Fifth Noble Person"/>
+      <sect para="27" title="The Third Fruition—Sixth Noble Person"/>
+      <sect para="28" title="The Fourth Path—Seventh Noble Person"/>
+      <sect para="30" title="The Fourth Fruition—Eighth Noble Person"/>
+    </sect>
+    <sect para="32" title="II. The States Associated with the Path, Etc.">
+      <sect para="33" title="The 37 states partaking of enlightenment"/>
+      <sect para="44" title="Emergence and coupling of the powers"/>
+      <sect para="47" title="States to be abandoned"/>
+      <sect para="92" title="The Four Functions">
+        <sect para="92" title="The Four Functions in a Single Moment" starts_at="6."/>
+        <sect para="104" title="The Four Functions Described Separately"/>
+      </sect>
+      <sect para="129" title="Conclusion"/>
+    </sect>
   </chapter>
   <chapter num="XXIII">
+    <sect para="1" title="(vi) What are the benefits in developing understanding?">
+      <sect para="2" title="A. Removal of the Defilements"/>
+      <sect para="3" title="B. The Taste of the Noble Fruit"/>
+      <sect para="16" title="C. The Attainment of Cessation"/>
+      <sect para="53" title="D. Worthiness to Receive Gifts"/>
+    </sect>
     <sect para="60" title="Postscript" starts_at="This "/>
   </chapter>
 </toc>
