@@ -1,0 +1,35 @@
+<info>
+  <title>Visuddhimagga — digital</title>
+  <authorgroup>
+    <author>
+      <personname>
+        <firstname>Bhadantācariya</firstname>
+        <lastname>Buddhaghosa</lastname>
+      </personname>
+    </author>
+    <othercredit class="translator">
+      <personname>
+        <firstname>Bhikkhu</firstname>
+        <lastname>Ñāṇamoli</lastname>
+      </personname>
+    </othercredit>
+  </authorgroup>
+  <legalnotice>
+    <para>This electronic edition is based on Buddhist Publication Society's 2011 edition.</para>
+  </legalnotice>
+  <copyright>
+    <year>2011</year>
+    <holder>Buddhist Publication Society</holder>
+  </copyright>
+  <pubdate>February 2023</pubdate>
+  <abstract/> <!-- abstract here -->
+  <revhistory>
+    <revision>
+      <revnumber>0.1</revnumber>
+      <date>23 February 2003</date>
+      <authorinitials>eudoxos</authorinitials>
+      <revremark>All details are in git history.</revremark>
+    </revision>
+  </revhistory>
+</info>
+
