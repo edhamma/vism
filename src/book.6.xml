@@ -3303,7 +3303,7 @@
         <span>.</span>
       </p>
       <p y="285" x="41" page_id="88" page_no="30" anchor="I.82" num="82">
-        <span>`In the description of </span>
+        <span>In the description of </span>
         <em>pursuing gain with gain: pursuing </em>
         <span>is hunting after. </span>
         <em>Got from here </em>
@@ -9158,7 +9158,9 @@
       </p>
       <p y="378" x="48" page_id="187" page_no="129" anchor="IV.66" num="66"/>
       <verse y="378" x="120" page_id="187" page_no="129">
-        <span>Any man who acquires this sign,</span>
+        <line>
+          <span>Any man who acquires this sign,</span>
+        </line>
         <line>
           <span>This tenfold skill will need to heed</span>
         </line>
@@ -10952,7 +10954,9 @@
       </p>
       <p y="230" x="41" page_id="224" page_no="166" anchor="V.27" num="27"/>
       <verse y="230" x="113" page_id="224" page_no="166">
-        <span>He with Ten Powers, who all things did see,</span>
+        <line>
+          <span>He with Ten Powers, who all things did see,</span>
+        </line>
         <line>
           <span>Tells ten kasiṇas, each of which can be</span>
         </line>
@@ -34608,7 +34612,9 @@
       </p>
       <p y="169" x="47" page_id="631" page_no="573" anchor="XVII.161" num="161"/>
       <verse y="169" x="120" page_id="631" page_no="573">
-        <span>A mere state that has got its conditions</span>
+        <line>
+          <span>A mere state that has got its conditions</span>
+        </line>
         <line>
           <span>Ushers in the ensuing existence;</span>
         </line>
@@ -35222,7 +35228,9 @@
       </p>
       <p y="472" x="42" page_id="642" page_no="584" anchor="XVII.210" num="210"/>
       <verse y="472" x="114" page_id="642" page_no="584">
-        <span>Result is for result condition</span>
+        <line>
+          <span>Result is for result condition</span>
+        </line>
         <line>
           <span>During a life in the same ways;</span>
         </line>
@@ -35238,8 +35246,10 @@
       </p>
       <p y="58" x="47" page_id="643" page_no="585" anchor="XVII.212" num="212"/>
       <verse y="58" x="119" page_id="643" page_no="585">
-        <printed_page edition="BPS2011" page_id="643">585</printed_page>
-        <span>And during life, result conditions</span>
+        <line>
+          <printed_page edition="BPS2011" page_id="643">585</printed_page>
+          <span>And during life, result conditions</span>
+        </line>
         <line>
           <span>The other five in fourfold way;</span>
         </line>
@@ -35307,7 +35317,9 @@
       </p>
       <p y="143" x="42" page_id="644" page_no="586" anchor="XVII.218" num="218"/>
       <verse y="143" x="113" page_id="644" page_no="586">
-        <span>Which mind-cum-matter combination</span>
+        <line>
+          <span>Which mind-cum-matter combination</span>
+        </line>
         <line>
           <span>Is a condition for which kind</span>
         </line>
@@ -35453,7 +35465,9 @@
       </p>
       <p y="303" x="42" page_id="646" page_no="588" anchor="XVII.230" num="230"/>
       <verse y="303" x="113" page_id="646" page_no="588">
-        <span>But from the nine and eighty feelings</span>
+        <line>
+          <span>But from the nine and eighty feelings</span>
+        </line>
         <line>
           <span>Thirty-two, no more, appear</span>
         </line>
@@ -35535,7 +35549,9 @@
       </p>
       <p y="497" x="47" page_id="647" page_no="589" anchor="XVII.237" num="237"/>
       <verse y="497" x="120" page_id="647" page_no="589">
-        <span>What is intended here is but</span>
+        <line>
+          <span>What is intended here is but</span>
+        </line>
         <line>
           <span>Resultant pleasant feeling; hence</span>
         </line>
@@ -42024,7 +42040,7 @@
       <p y="198" x="42" page_id="776" page_no="718">
         <span>(ii) Profitable and unprofitable [kamma-result] experienced as the stimulus of an object and ceased-reckoned as “experienced and gone” (</span>
         <em>anubhūtāpagata)—</em>
-        <span>, and also anything formed, when it has reached the three instants beginning with arising and has ceased-reckoned as `been and gone’ </span>
+        <span>, and also anything formed, when it has reached the three instants beginning with arising and has ceased-reckoned as ‘been and gone’ </span>
         <em>(hutvāpagata)—, </em>
         <span>are called </span>
         <em>arisen as been and gone </em>
