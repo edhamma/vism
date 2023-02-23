@@ -17,6 +17,8 @@
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
 	\def\vismParagraph#1#2{\textbf{§#2.}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
+	% used for paragraph alignment in TOC, not useful for PlasTeX
+	\def\vismAlignedParas#1{#1: }
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
 	% use the same-looking font like BPS2011
@@ -46,7 +48,6 @@
 	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
 	% check that paragraph numbers are sequential (disabled by default, as § are not numbered; set \setcounter{secnumdepth}{4} below to enable)
 	\def\vismAssertParagraphCounter#1{\ifnum\value{paragraph}=#1\else\PackageError{Visuddhimagga}{Paragraph out of sync with original in \Roman{chapter} (should be §\arabic{paragraph}, is §#1.}\fi}
-
 	% 
 	\usepackage{titletoc}
 	\usepackage[pagestyles,extramarks]{titlesec}
@@ -65,6 +66,7 @@
 		\marginnote{\footnotesize\textcolor{purple}{#1}}%
 		% \vismAssertParagraphCounter{#2}
 	}
+	\def\vismAlignedParas#1{\hbox to 5em{#1:\hfill}}
 	%% reset paragraphs for each chapter, not subsubsection
 	\counterwithout{paragraph}{subsubsection}
 	\counterwithin{paragraph}{chapter}
@@ -131,6 +133,10 @@
 
 \usepackage[bookmarksnumbered=true]{hyperref}
 
+% after loading hyperref
+\ifplastex\else
+	\pdfstringdefDisableCommands{\def\vismAlignedParas#1{#1}}
+\fi
 
 % number chapter with roman numbers
 \renewcommand{\thechapter}{\Roman{chapter}}
