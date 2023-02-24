@@ -35,7 +35,6 @@
     <span>internally, in oneself</span>
   </entry>
   <entry page_id="832" title="*ajjhottharamāna">
-    <span/>
     <em>also </em>
     <span>threatening: </span>
     <ref type="vism" target="VI.56">VI.56</ref>
@@ -79,8 +78,9 @@
   <entry page_id="832" title="*atisāra">
     <span>flux (of bowels), diarrhoea: </span>
     <ref type="vism" target="XI.21">XI.21</ref>
-    <span> atīta-past </span>
-    <span/>
+  </entry>
+  <entry page_id="832" title="atīta">
+    <span>past</span>
   </entry>
   <entry page_id="832" title="*attatā">
     <span>selfness, oneself: </span>
@@ -114,7 +114,10 @@
     <span>neither-painfulnor-pleasant (feeling) </span>
   </entry>
   <entry page_id="832" title="adosa">
-    <span>non-hate addhā, addhāna—extent, period</span>
+    <span>non-hate</span>
+  </entry>
+  <entry page_id="832" title="addhā, addhāna">
+    <span>extent, period</span>
   </entry>
   <entry page_id="832" title="advaya">
     <span>exclusive, absolute</span>
@@ -124,7 +127,6 @@
     <ref type="vism" target="XV.41">XV.41</ref>
   </entry>
   <entry page_id="832" title="*adhikāra">
-    <span/>
     <em>also </em>
     <span>treatise, heading: </span>
     <ref type="vism" target="III.133">III.133</ref>
@@ -142,7 +144,6 @@
     <span>(l) steadying, (2) resolve</span>
   </entry>
   <entry page_id="832" title="*adhiṭṭhāna">
-    <span/>
     <em>also </em>
     <span>(3) in terms of: </span>
     <ref type="vism" target="IV.92">IV.92</ref>
@@ -178,6 +179,7 @@
   <entry page_id="832" title="anattā">
     <span>not-self </span>
   </entry>
+  <!-- CHECKED -->
   <entry page_id="833" title="anāgata">
     <span>future</span>
   </entry>
@@ -373,12 +375,7 @@
     <span>non-delusion </span>
     <em/>
   </entry>
-  <entry page_id="833" title="[???]">
-    <span>*</span>
-    <span/>
-  </entry>
-  <entry page_id="833" title="aya">
-    <span/>
+  <entry page_id="833" title="*aya">
     <em>also </em>
     <span>a reason: </span>
     <ref type="vism" target="XIII.92">XIII.92</ref>
@@ -556,10 +553,7 @@
     <span>) </span>
   </entry>
   <entry page_id="834" title="ānantarika">
-    <span>(kamma) with immediate </span>
-  </entry>
-  <entry page_id="834" title="[???]">
-    <span>result (on rebirth)</span>
+    <span>(kamma) with immediate result (on rebirth)</span>
   </entry>
   <entry page_id="834" title="ānāpāna">
     <span>breathing</span>
@@ -634,10 +628,7 @@
     <span>accumulation (of kamma)</span>
   </entry>
   <entry page_id="834" title="ārammaṇa">
-    <span>object (of consciousness or </span>
-  </entry>
-  <entry page_id="834" title="[???]">
-    <span>its concomitants), support</span>
+    <span>object (of consciousness or its concomitants), support</span>
   </entry>
   <entry page_id="834" title="āruppa">
     <span>immaterial state (the 4)</span>
@@ -752,10 +743,7 @@
     <span>1) climate, (2) season, (3) temperature</span>
   </entry>
   <entry page_id="834" title="utu-samuṭṭhāna">
-    <span>temperature-originated </span>
-  </entry>
-  <entry page_id="834" title="[???]">
-    <span>(matter)</span>
+    <span>temperature-originated (matter)</span>
   </entry>
   <entry page_id="834" title="udaya">
     <span>rise</span>
@@ -817,12 +805,8 @@
     <span> </span>
   </entry>
   <entry page_id="835" title="*upanayana">
-    <span/>
     <em>also </em>
-    <span>applying (log.), induc</span>
-  </entry>
-  <entry page_id="835" title="[???]">
-    <span>ing, leading on: </span>
+    <span>applying (log.), inducing, leading on: </span>
     <ref type="vism" target="VII.83">VII.83</ref>
     <span>; </span>
     <ref type="vism" target="XIV.68">XIV.68</ref>
@@ -1562,8 +1546,8 @@
     <span>substance: </span>
     <ref type="vism" target="XVIII.n8">XVIII.n.8</ref>
   </entry>
-  <entry page_id="837" title="[???]">
-    <span>*drava-fluid: </span>
+  <entry page_id="837" title="*drava">
+    <span>fluid: </span>
     <ref type="vism" target="XI.41">XI.41</ref>
   </entry>
   <entry page_id="837" title="dvattiṃsākāra">
@@ -1752,10 +1736,7 @@
     <span>cessation</span>
   </entry>
   <entry page_id="838" title="nissaya">
-    <span>(1) support, (2) the dependence </span>
-  </entry>
-  <entry page_id="838" title="[???]">
-    <span>(given by teacher to pupil) </span>
+    <span>(1) support, (2) the dependence (given by teacher to pupil) </span>
     <span/>
   </entry>
   <entry page_id="838" title="nissatta">
@@ -1793,10 +1774,7 @@
     <ref type="vism" target="VII.81">VII.81</ref>
   </entry>
   <entry page_id="838" title="pakati">
-    <span>(1) nature, natural, normal, (2) </span>
-  </entry>
-  <entry page_id="838" title="[???]">
-    <span>Primordial Essence, Prakṛti</span>
+    <span>(1) nature, natural, normal, (2) Primordial Essence, Prakṛti</span>
   </entry>
   <entry page_id="838" title="*pakāsa">
     <span>illumination: </span>
@@ -2214,7 +2192,10 @@
     <ref type="vism" target="I.81">I.81</ref>
   </entry>
   <entry page_id="840" title="pāpicchatā">
-    <span>evilness of wishes pāramī, pāramitā—perfection</span>
+    <span>evilness of wishes</span>
+  </entry>
+  <entry page_id="840" title="pāramī, pāramitā">
+    <span>perfection</span>
   </entry>
   <entry page_id="840" title="*pārāvata">
     <span>pigeon (pārāpata in PED): </span>
@@ -2255,10 +2236,7 @@
     <span>person</span>
   </entry>
   <entry page_id="840" title="puthujjana">
-    <span>ordinary man (i.e. one who has not </span>
-  </entry>
-  <entry page_id="840" title="[???]">
-    <span>reached the path)</span>
+    <span>ordinary man (i.e. one who has not reached the path)</span>
   </entry>
   <entry page_id="840" title="*pupphaka">
     <span>balloon, swelling: </span>
@@ -2336,10 +2314,7 @@
     <span/>
   </entry>
   <entry page_id="840" title="bodhisatta">
-    <span>Bodhisatta, Being Destined </span>
-  </entry>
-  <entry page_id="840" title="[???]">
-    <span>to Enlightenment</span>
+    <span>Bodhisatta, Being Destined to Enlightenment</span>
   </entry>
   <entry page_id="840" title="*byatti">
     <span>see vyatti</span>
@@ -2412,13 +2387,17 @@
   <entry page_id="840" title="*bheda, vacī- ">
     <span>speech utterance: </span>
     <ref type="vism" target="XIV.62">XIV.62</ref>
-    <span> (cf. Dhs-a 90; </span>
+    <span> (cf. </span>
+    <ref type="bib" target="Dhs-a" loc=" 90">Dhs-a 90</ref>
+    <span>; </span>
     <ref type="bib" target="M" loc=" I 301">M I 301</ref>
     <span>) </span>
   </entry>
   <entry page_id="840" title="magga">
-    <span>path macchariya, macchera—avarice </span>
-    <span/>
+    <span>path</span>
+  </entry>
+  <entry page_id="840" title="macchariya, macchera">
+    <span>avarice</span>
   </entry>
   <entry page_id="840" title="majjhatta">
     <span>neutral, central </span>
@@ -2440,16 +2419,10 @@
     <span>death, dying </span>
     <em/>
   </entry>
-  <entry page_id="840" title="[???]">
-    <span>*</span>
-    <span/>
-  </entry>
-  <entry page_id="840" title="maru">
-    <span/>
+  <entry page_id="840" title="*maru">
     <em>also </em>
     <span>cliff: </span>
     <ref type="vism" target="XVII.63">XVII.63</ref>
-    <span> </span>
   </entry>
   <entry page_id="841" title="mala">
     <span>stain (the 3)</span>
@@ -2540,10 +2513,7 @@
     <span>(1) womb, (2) generation, (3) cause, reason </span>
   </entry>
   <entry page_id="841" title="yoniso">
-    <span>wise, wisely, with ordered rea</span>
-  </entry>
-  <entry page_id="841" title="[???]">
-    <span>soning</span>
+    <span>wise, wisely, with ordered reasoning</span>
   </entry>
   <entry page_id="841" title="rati">
     <span>delight</span>
@@ -2712,10 +2682,7 @@
     <span>(1) versatility (in development of divine abidings), (2) transformation (by supernormal power) </span>
   </entry>
   <entry page_id="842" title="vikkhambhana">
-    <span>suppression (of defile</span>
-  </entry>
-  <entry page_id="842" title="[???]">
-    <span>ments by serenity)</span>
+    <span>suppression (of defilements by serenity)</span>
   </entry>
   <entry page_id="842" title="vikkhepa">
     <span>distraction</span>
@@ -2899,10 +2866,7 @@
     <span>distinction</span>
   </entry>
   <entry page_id="842" title="vihāra">
-    <span>(1) dwelling place, abode, (2) </span>
-  </entry>
-  <entry page_id="842" title="[???]">
-    <span>monastery, (3) mode of abiding</span>
+    <span>(1) dwelling place, abode, (2) monastery, (3) mode of abiding</span>
   </entry>
   <entry page_id="842" title="*vihaṭamāna">
     <span>being carded: </span>
@@ -2980,11 +2944,8 @@
     <span>ill will</span>
   </entry>
   <entry page_id="843" title="*vyāpāra">
-    <span/>
     <em>also </em>
     <span>interest, interestedness: </span>
-  </entry>
-  <entry page_id="843" title="[???]">
     <ref type="vism" target="XVII.309">XVII.309</ref>
     <span>; </span>
     <ref type="vism" target="XVIII.31">XVIII.31</ref>
@@ -3089,14 +3050,14 @@
   <entry page_id="843" title="*saṅgahīta">
     <span/>
     <em>also </em>
-    <span>heldtogether:</span>
+    <span>held together:</span>
     <ref type="vism" target="XI.90">XI.90</ref>
   </entry>
   <entry page_id="843" title="saṅgha">
-    <span>theOrder,theCommunity</span>
+    <span>the Order,the Community</span>
   </entry>
   <entry page_id="843" title="saṅghaṭṭana">
-    <span>knockingtogether, impingement </span>
+    <span>knocking together, impingement </span>
   </entry>
   <entry page_id="843" title="sacca">
     <span>truth</span>
@@ -3124,10 +3085,7 @@
     <span>(1) perception, (2) sign, signal, label </span>
   </entry>
   <entry page_id="843" title="saññāvedayitanirodha">
-    <span>cessation of per</span>
-  </entry>
-  <entry page_id="843" title="[???]">
-    <span>ception and feeling</span>
+    <span>cessation of perception and feeling</span>
   </entry>
   <entry page_id="843" title="saṇṭhāna">
     <span>(1) shape</span>
@@ -3433,10 +3391,7 @@
     <span>prompted</span>
   </entry>
   <entry page_id="844" title="sa-sambhāra-kathā">
-    <span>“accessory locu</span>
-  </entry>
-  <entry page_id="844" title="[???]">
-    <span>tion” (log.)</span>
+    <span>“accessory locution” (log.)</span>
   </entry>
   <entry page_id="844" title="sassata">
     <span>eternal</span>
@@ -3526,10 +3481,7 @@
     <span>bare(or dry-) insight worker (one who attains the path without previously having attained jhāna) </span>
   </entry>
   <entry page_id="844" title="sukha">
-    <span>pleasure, pleasant, bliss, blissful, </span>
-  </entry>
-  <entry page_id="844" title="[???]">
-    <span>bodily pleasure</span>
+    <span>pleasure, pleasant, bliss, blissful, bodily pleasure</span>
   </entry>
   <entry page_id="844" title="*sukha">
     <span>tepid: </span>
@@ -3540,8 +3492,10 @@
     <ref type="vism" target="IV.100">IV.100</ref>
   </entry>
   <entry page_id="844" title="sugata">
-    <span>Sublime One (the Buddha) suñña, suññata—void </span>
-    <span/>
+    <span>Sublime One (the Buddha)</span>
+  </entry>
+  <entry page_id="844" title="suñña, suññata">
+    <span>void </span>
   </entry>
   <entry page_id="844" title="suññatā">
     <span>voidness </span>
@@ -3582,6 +3536,26 @@
     <span>stream enterer (1st stage of realization) </span>
   </entry>
   <entry page_id="845" title="somanassa">
-    <span>joy, mental pleasure hadaya—heart hadaya-vatthu—heart-basis (physical </span>
+    <span>joy, mental pleasure</span>
+  </entry>
+  <entry page_id="845" title="hadaya">
+    <span>heart</span>
+  </entry>
+  <entry page_id="845" title="hadaya-vatthu">
+    <span>heart-basis (physical basis of mind)</span>
+  </entry>
+  <entry page_id="845" title="hiri">
+    <span>conscience</span>
+  </entry>
+  <entry page_id="845" title="hīna">
+    <span>(1) abandoned, (2) inferior</span>
+  </entry>
+  <entry page_id="845" title="hetu">
+    <span>root-cause, cause</span>
+  </entry>
+  <entry page_id="845" title="*hetu">
+    <em>also </em>
+    <span>middle  term  (in  syllogism; log.): </span>
+    <ref type="vism" target="XVII.67">XVII.67</ref>
   </entry>
 </glossary>
