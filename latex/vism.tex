@@ -1,10 +1,15 @@
 \documentclass[a4paper]{book}
 
+\input{vism-defs.tex}
+
 \usepackage{multicol}
 \usepackage{xcolor}
 
+\def\paraIssueUrl#1{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20paragraph\%20#1\&body=(\vismCommitTimestampQuery)}
+
 % for LaTex, disable plastex parts
 \newif\ifplastex\plastexfalse
+
 \ifplastex
 	\let\RaggedRight\relax
 	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
@@ -16,7 +21,7 @@
 	\def\vismHypertarget#1{\hypertarget{#1}{}}
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
-	\def\vismParagraph#1#2{\textbf{§#2.}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
+	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
 \else
@@ -60,7 +65,7 @@
 	\newshortmark\vismMark
 	\def\vismParagraph#1#2{%
 		\preshortmark\vismMark%
-		\paragraph{§#2.}%
+		\paragraph[§#2.]{\href{\paraIssueUrl{#1}}{§#2.}}%
 		\renewcommand\vismMark{#2}\shortmark\vismMark%
 		\vismHypertarget{#1}%
 		\marginnote{\footnotesize\textcolor{purple}{#1}}%
@@ -81,23 +86,24 @@
 			\topshortmark\vismMark–\botshortmark\vismMark%
 		}%
 	}
+	\def\thepageIssue{\href{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20page\%20\thepage\&body=(\vismCommitTimestampQuery)}{\thepage}}
 	% smaller vertical space above paragraph
 	\titlespacing*{\paragraph}{0pt}{\medskipamount}{*2}
 	\newpagestyle{vismBody}{
 		\setheadrule{.55pt}
 		%\headrule
 		\sethead[\thechapter.\vismParaPage][\thechapter. \textsc{\chaptertitle}][]{}{\textsc{\sectiontitle}}{\thechapter.\vismParaPage}
-		\setfoot[\thepage][][]{}{}{\thepage}
+		\setfoot[\thepageIssue][][]{}{}{\thepageIssue}
 	}
 	\newpagestyle{vismNoBody}{
 		\setheadrule{.55pt}
 		\headrule{}
 		\sethead[][\chaptertitle][]{}{\sectiontitle}{}
-		\setfoot[\thepage][][]{}{}{\thepage}
+		\setfoot[\thepageIssue][][]{}{}{\thepageIssue}
 	}
 	\renewpagestyle{plain}{
 		\sethead[][][]{}{}{}
-		\setfoot[\thepage][][]{}{}{\thepage}
+		\setfoot[\thepageIssue][][]{}{}{\thepageIssue}
 	}
 	\pagestyle{vismNoBody}
 	% example from titlesec manual, pg 23
@@ -152,7 +158,6 @@
 \bibliographystyle{abstract}
 
 \begin{document}
-
 	%\dominitoc
 	\title{The Path of Purification \\ (\emph{Visuddhimagga})}
 	\date{(decompiled preview, do not distribute)}
