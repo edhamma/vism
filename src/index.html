@@ -28,7 +28,7 @@
 					<dt>1. semantic representation ✅</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
 					<dt>2. verification ✅</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
 					<dt>3. automation ✅</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
-					<dt>4. corrections 🔧</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. Those include:
+					<dt>4. corrections 🔧</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. <b>LaTeX- and Sphinx-based formats have issue hyperlinks on page numbers and § labels</b> — thus it is easy to help. Those include:
 						<ul>
 							<li>obvious errors in the BPS edition (few);</li>
 							<li>trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
