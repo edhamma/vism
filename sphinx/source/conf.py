@@ -9,7 +9,11 @@
 project = 'Visuddhimagga — Digital'
 copyright = 'Digital'
 author = 'Buddhaghosa'
-release = '(WIP)'
+
+import git, urllib.parse
+vismCommit=(head:=git.Repo(search_parent_directories=True).head).object.hexsha[:7]
+
+release = vismCommit
 version = '0.1'
 
 # -- General configuration ---------------------------------------------------
