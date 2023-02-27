@@ -38,6 +38,8 @@
 	% no page numbers on empty pages
 	\usepackage{emptypage}
 	%
+	\usepackage[protrusion=true,expansion,tracking=true]{microtype}
+	%
 	\usepackage{setspace}
 	% less warnings
 		\hbadness10000
@@ -93,7 +95,7 @@
 	\newpagestyle{vismBody}{
 		\setheadrule{.55pt}
 		%\headrule
-		\sethead[\thechapter.\vismParaPage][\thechapter. \textsc{\chaptertitle}][]{}{\textsc{\sectiontitle}}{\thechapter.\vismParaPage}
+		\sethead[\thechapter.\vismParaPage][\thechapter. \textsc{\chaptertitle}][]{}{\emph{\sectiontitle}}{\thechapter.\vismParaPage}
 		\setfoot[\thepageIssue][][\vismCommitHref]{\vismCommitHref}{}{\thepageIssue}
 	}
 	\newpagestyle{vismNoBody}{
