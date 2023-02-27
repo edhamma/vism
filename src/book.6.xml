@@ -16006,11 +16006,11 @@
         <ref type="vism" target="IV.20">IV.20</ref>
         <span>) and set about the preliminary work for giving attention to repulsiveness.</span>
       </p>
-      <p y="54" x="142" page_id="302" page_no="244">
-        <printed_page edition="BPS2011" page_id="302">244</printed_page>
+      <p y="54" x="142" page_id="302" page_no="244" editorial_title="1">
         <em>[The Thirty-two Aspects in Detail]</em>
       </p>
       <p y="74" x="41" page_id="302" page_no="244" anchor="VIII.81" num="81">
+        <printed_page edition="BPS2011" page_id="302">244</printed_page>
         <span>When he sets about it, he should first apprehend the [learning] sign in head hairs. How? The </span>
         <em>colour </em>
         <span>should be defined first by plucking out one or two head hairs and placing them on the palm of the hand. </span>
@@ -16443,15 +16443,16 @@
       </p>
       <p y="508" x="191" page_id="308" page_no="250">
         <em>[Midriff]</em>
-        <footnote family="italic" page_id="308" mark="28" anchor="VIII.n28">
+      </p>
+      <p y="528" x="42" page_id="308" page_no="250" anchor="VIII.115" num="115">
+        <span>This</span>
+        <footnote family="italic" page_id="308" mark="28" anchor="VIII.n28" comment="Moved out of the title">
           <p>
             <em>Kilomaka—</em>
             <span>“midriff”: the rendering is obviously quite inadequate for what is described here, but there is no appropriate English word.</span>
           </p>
         </footnote>
-      </p>
-      <p y="528" x="42" page_id="308" page_no="250" anchor="VIII.115" num="115">
-        <span>This is the covering of the flesh, which is of two kinds, namely, the concealed and the unconcealed. As to </span>
+        <span> is the covering of the flesh, which is of two kinds, namely, the concealed and the unconcealed. As to </span>
         <em>colour</em>
         <span>, both kinds are white, the colour of </span>
         <em>dukūla </em>
@@ -16858,11 +16859,11 @@
         <em>delimitation</em>
         <span>, it is bounded by what appertains to snot …</span>
       </p>
-      <p y="54" x="184" page_id="315" page_no="257">
-        <printed_page edition="BPS2011" page_id="315">257</printed_page>
+      <p y="54" x="184" page_id="315" page_no="257" editorial_title="1">
         <em>[Oil of the Joints]</em>
       </p>
       <p y="74" x="48" page_id="315" page_no="257" anchor="VIII.137" num="137">
+        <printed_page edition="BPS2011" page_id="315">257</printed_page>
         <span>This is the slimy ordure inside the joints in the body. As to </span>
         <em>colour</em>
         <span>, it is the colour of </span>
@@ -26214,9 +26215,7 @@
       <p y="265" x="48" page_id="497" page_no="439" anchor="XIV.32" num="32">
         <span>(v) </span>
         <span family="smallcaps" size="9">How is it developed?</span>
-        <span> Now, t</span>
-        <span size="9" family="smallcaps">he things class</span>
-        <span>ed as aggregates, bases, elements, faculties, truths, dependent origination, etc., are the soil of this understanding, and the [first] two purifications, namely, purification of virtue and purification of consciousness, are its roots, while the five purifications, namely, purification of view, purification by overcoming doubt, purification by knowledge and vision of what is the path and what is not the path, purification by knowledge and vision of the way, and purification by knowledge and vision, are the trunk. Consequently, one who is perfecting these should first fortify his knowledge by learning and questioning about those things that are the “soil” after he has perfected the two purifications that are the “roots,” then he can develop the five purifications that are the “trunk.” This is in brief. The detail is as follows.</span>
+        <span> Now, the things classed as aggregates, bases, elements, faculties, truths, dependent origination, etc., are the soil of this understanding, and the [first] two purifications, namely, purification of virtue and purification of consciousness, are its roots, while the five purifications, namely, purification of view, purification by overcoming doubt, purification by knowledge and vision of what is the path and what is not the path, purification by knowledge and vision of the way, and purification by knowledge and vision, are the trunk. Consequently, one who is perfecting these should first fortify his knowledge by learning and questioning about those things that are the “soil” after he has perfected the two purifications that are the “roots,” then he can develop the five purifications that are the “trunk.” This is in brief. The detail is as follows.</span>
       </p>
       <p y="427" x="48" page_id="497" page_no="439" anchor="XIV.33" num="33">
         <span>When it was said above “the things classed as aggregates, bases, elements, faculties, truths, dependent origination, etc., are the soil,” the aggregates here are the five aggregates, that is to say, the materiality aggregate, the feeling aggregate, the perception aggregate, the formations aggregate, and the consciousness aggregate.</span>
@@ -28299,11 +28298,11 @@
         <span> 365) and four or-whatever-states.</span>
       </p>
       <p y="503" x="59" page_id="533" page_no="475">
-        <span>Herein, the thirteen given as such are these:</span>
+        <span>Herein, the thirteen given as such are these: </span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="518" x="119" page_id="533" page_no="475">
         <line>
-          <TODO>enumerations</TODO>
           <span>contact (i),</span>
         </line>
         <line>
@@ -28312,17 +28311,38 @@
         <line>
           <span>applied thought (iii),</span>
         </line>
+        <line>
+          <printed_page edition="BPS2011" page_id="534">476</printed_page>
+          <span>sustained thought (iv),</span>
+        </line>
+        <line>
+          <span>happiness (v),</span>
+        </line>
+        <line>
+          <span>energy (vi),</span>
+        </line>
+        <line>
+          <span>life (vii),</span>
+        </line>
+        <line>
+          <span>concentration (viii),</span>
+        </line>
+        <line>
+          <span>(xxxvii) consciencelessness,</span>
+        </line>
+        <line>
+          <span>(xxxviii) shamelessness,</span>
+        </line>
+        <line>
+          <span>(xxxix) greed,</span>
+        </line>
+        <line>
+          <span>(xl) delusion,</span>
+        </line>
+        <line>
+          <span>(xli) wrong view.</span>
+        </line>
       </verse>
-      <p y="58" x="65" page_id="534" page_no="476">
-        <printed_page edition="BPS2011" page_id="534">476</printed_page>
-        <span>sustained thought (iv), happiness (v), energy (vi), life (vii), concentration (viii), (xxxvii) consciencelessness, (xxxviii) shamelessness,</span>
-      </p>
-      <p y="140" x="71" page_id="534" page_no="476">
-        <span>(xxxix) greed,</span>
-      </p>
-      <p y="151" x="84" page_id="534" page_no="476">
-        <span>(xl) delusion, (xli) wrong view.</span>
-      </p>
       <p y="177" x="53" page_id="534" page_no="476">
         <span>The four or-whatever-states are these:</span>
       </p>
@@ -28333,10 +28353,13 @@
         <line>
           <span>resolution (xxix),</span>
         </line>
+        <line>
+          <span>(xlii) agitation,</span>
+        </line>
+        <line>
+          <span>attention (xxx).</span>
+        </line>
       </verse>
-      <p y="215" x="81" page_id="534" page_no="476">
-        <span>(xlii) agitation, attention (xxx).</span>
-      </p>
       <p y="241" x="41" page_id="534" page_no="476" anchor="XIV.160" num="160">
         <span>Herein, (xxxvii) it has no conscientious scruples, thus it is </span>
         <em>consciencelessness</em>
@@ -28444,10 +28467,10 @@
         <span> there are, firstly, eighteen associated with the first (30), that is, eleven constant given in the texts as such (see </span>
         <ref type="bib" target="Dhs" loc=" §">Dhs §</ref>
         <span> 413), four or-whatever-states, and three inconstant. Herein the eleven given as such are these:</span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="58" x="113" page_id="536" page_no="478">
         <line>
-          <TODO>enumerations</TODO>
           <printed_page edition="BPS2011" page_id="536">478</printed_page>
           <span>contact (i),</span>
         </line>
@@ -28475,10 +28498,13 @@
         <line>
           <span>shamelessness (xxxviii),</span>
         </line>
+        <line>
+          <span>(xiv) hate,</span>
+        </line>
+        <line>
+          <span>delusion (xl).</span>
+        </line>
       </verse>
-      <p y="163" x="82" page_id="536" page_no="478">
-        <span>(xiv) hate, delusion (xl).</span>
-      </p>
       <p y="189" x="53" page_id="536" page_no="478">
         <span>The four or-whatever-states are these:</span>
       </p>
@@ -28499,9 +28525,17 @@
       <p y="253" x="53" page_id="536" page_no="478">
         <span>The three inconstant are these:</span>
       </p>
-      <p y="268" x="72" page_id="536" page_no="478">
-        <span>(xlvi) envy, (xlvii) avarice, (xlviii) worry.</span>
-      </p>
+      <verse y="268" x="72" page_id="536" page_no="478">
+        <line>
+          <span>(xlvi) envy,</span>
+        </line>
+        <line>
+          <span>(xlvii) avarice,</span>
+        </line>
+        <line>
+          <span>(xlviii) worry.</span>
+        </line>
+      </verse>
       <p y="305" x="41" page_id="536" page_no="478" anchor="XIV.171" num="171">
         <span>Herein, (xlv) by its means they hate, or it itself hates, or it is just mere hating, thus it is </span>
         <em>hate</em>
@@ -28559,10 +28593,10 @@
         <span>(32)–(33) As regards the two rooted in delusion, firstly: [associated] with [the consciousness that is] associated with uncertainty (32) </span>
         <printed_page edition="PTS">471</printed_page>
         <span> are the eleven given in the texts as such thus:</span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="175" x="119" page_id="537" page_no="479">
         <line>
-          <TODO>enumerations</TODO>
           <span>contact (i),</span>
         </line>
         <line>
@@ -28580,13 +28614,22 @@
         <line>
           <span>life (vii),</span>
         </line>
+        <line>
+          <span>(xlix) steadiness of consciousness,</span>
+        </line>
+        <line>
+          <span>consciencelessness (xxxvii),</span>
+        </line>
+        <line>
+          <span>shamelessness (xxxviii),</span>
+        </line>
+        <line>
+          <span>delusion (xl),</span>
+        </line>
+        <line>
+          <span>(l) uncertainty.</span>
+        </line>
       </verse>
-      <p y="244" x="85" page_id="537" page_no="479">
-        <span>(xlix) steadiness of consciousness, consciencelessness (xxxvii), shamelessness (xxxviii), delusion (xl),</span>
-      </p>
-      <p y="291" x="98" page_id="537" page_no="479">
-        <span>(l) uncertainty.</span>
-      </p>
       <p y="305" x="59" page_id="537" page_no="479">
         <span>The or-whatever-states are these two:</span>
       </p>
@@ -28651,10 +28694,10 @@
       </p>
       <p y="122" x="41" page_id="538" page_no="480">
         <span>Herein, firstly, those associated with the profitable resultant (34) and unprofitable resultant (50) eye-consciousness are the four given in the texts as such, namely:</span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="160" x="113" page_id="538" page_no="480">
         <line>
-          <TODO>enumerations</TODO>
           <span>contact (i),</span>
         </line>
         <line>
@@ -28670,9 +28713,11 @@
       <p y="210" x="41" page_id="538" page_no="480">
         <span>which amount to five with</span>
       </p>
-      <p y="224" x="113" page_id="538" page_no="480">
-        <span>attention (xxx) as the only or-whatever-state.</span>
-      </p>
+      <verse y="224" x="113" page_id="538" page_no="480">
+        <line>
+          <span>attention (xxx) as the only or-whatever-state.</span>
+        </line>
+      </verse>
       <p y="253" x="53" page_id="538" page_no="480">
         <span>These same kinds are associated with ear-, nose-, tongue-, and body-consciousness (35)–(38), (51)–(54).</span>
       </p>
@@ -42964,7 +43009,7 @@
           <span>A blessing of fulfilled insight.</span>
         </line>
       </verse>
-      <p y="411" x="86" page_id="792" page_no="734">
+      <p y="411" x="86" page_id="792" page_no="734" editorial_title="1">
         <span>[C. The Attainment of Cessation]</span>
       </p>
       <p y="425" x="42" page_id="792" page_no="734" anchor="XXIII.16" num="16">
@@ -43364,7 +43409,7 @@
           <span>The noble paths allow.</span>
         </line>
       </verse>
-      <p y="370" x="87" page_id="800" page_no="742">
+      <p y="370" x="87" page_id="800" page_no="742" editorial_title="1">
         <span>[D. Worthiness to Receive Gifts]</span>
       </p>
       <p y="384" x="42" page_id="800" page_no="742" anchor="XXIII.53" num="53">
