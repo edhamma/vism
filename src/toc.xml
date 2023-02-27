@@ -149,21 +149,93 @@
     <sect para="119" title="General"/>
   </chapter>
   <chapter num="VIII">
-    <sect para="1" title="(7) Mindfulness of Death"/>
-    <sect para="42" title="(8) Mindfulness Occupied with the Body"/>
-    <sect para="145" title="(9) Mindfulness of Breathing"/>
+    <sect para="1" title="(7) Mindfulness of Death">
+      <sect para="1" title="Definitions" starts_at="Herein,"/>
+      <sect para="4" title="Development"/>
+      <sect para="8" title="Eight ways of recollecting death">
+        <sect para="9" title="Having the appearance of a murderer"/>
+        <sect para="14" title="Ruin of success"/>
+        <sect para="16" title="By comparison"/>
+        <sect para="25" title="Shating of the body with many"/>
+        <sect para="27" title="Fraility of life"/>
+        <sect para="29" title="Signless"/>
+        <sect para="35" title="Limitedness of the extend"/>
+        <sect para="39" title="Shortness of the moment"/>
+      </sect>
+      <sect para="40" title="Conclusion"/>
+    </sect>
+    <sect para="42" title="(8) Mindfulness Occupied with the Body">
+      <sect para="44" title="Text"/>
+      <sect para="45" title="Word Commentary"/>
+      <sect para="48" title="Development">
+        <sect para="48" title="The Sevenfold Skill in Learning" starts_at="Herein, the sevenfold"/>
+        <sect para="61" title="The Tenfold Skill in Giving Attention"/>
+        <sect para="80" title="Starting the Practice"/>
+        <sect para="81" title="The Thirty-two Aspects in Detail">
+          <sect para="83" title="Head Hairs" starts_at="(a) Firstly"/>
+          <sect para="90" title="Body Hairs"/>
+          <sect para="91" title="Nails"/>
+          <sect para="92" title="Teeth"/>
+          <sect para="93" title="Skin (Taca)"/>
+          <sect para="97" title="Flesh"/>
+          <sect para="99" title="Sinews"/>
+          <sect para="101" title="Bones"/>
+          <sect para="109" title="Bone Marrow"/>
+          <sect para="110" title="Kidney"/>
+          <sect para="111" title="Heart"/>
+          <sect para="114" title="Liver"/>
+          <sect para="115" title="Midriff" comment="Has footnote VIII.n28 — move to text?"/>
+          <sect para="116" title="Spleen"/>
+          <sect para="117" title="Lungs"/>
+          <sect para="118" title="Bowel"/>
+          <sect para="119" title="Entrails (Mesentery)"/>
+          <sect para="120" title="Gorge"/>
+          <sect para="122" title="Dung" starts_at="This is excrement"/>
+          <sect para="126" title="Brain"/>
+          <sect para="127" title="Bile"/>
+          <sect para="128" title="Phlegm"/>
+          <sect para="129" title="Pus"/>
+          <sect para="130" title="Blood"/>
+          <sect para="131" title="Sweat"/>
+          <sect para="132" title="Fat"/>
+          <sect para="133" title="Tears"/>
+          <sect para="134" title="Grease"/>
+          <sect para="135" title="Spittle"/>
+          <sect para="136" title="Snot"/>
+          <sect para="137" title="Oil of the Joints"/>
+          <sect para="138" title="Urine"/>
+        </sect>
+        <sect para="139" title="The Arising of Absorption"/>
+      </sect>
+    </sect>
+    <sect para="145" title="(9) Mindfulness of Breathing">
+      <sect para="145" title="Text" starts_at="It has been described by the Blessed One"/>
+      <sect para="146" title="Word Commentary" starts_at="And how developed, bhikkhus"/>
+      <sect para="163" title="Word Commentary Continued—First Tetrad">
+        <sect para="186" title="Method of Development">
+          <sect para="190" title="Counting"/>
+          <sect para="196" title="Connection"/>
+          <sect para="197" title="Touching &amp; fixing" starts_at="3–4."/>
+          <sect para="222" title="Observing … turning away" starts_at="5–8."/>
+        </sect>
+      </sect>
+      <sect para="226" title="Word Commentary Continued—Second Tetrad"/>
+      <sect para="231" title="Word Commentary Continued—Third Tetrad"/>
+      <sect para="234" title="Word Commentary Continued—Fourth Tetrad"/>
+      <sect para="237" title="Conclusion" starts_at="This mindfulness of breathing"/>
+    </sect>
     <sect para="245" title="(10) Recollection of Peace"/>
   </chapter>
   <chapter num="IX">
     <sect para="1" title="(1) Loving-Kindness" comment="!! subsections added">
       <sect para="14" title="Getting Rid of Resentment"/>
       <sect para="40" title="The Breaking Down of the Barriers—The Sign"/>
-      <sect para="40" title="Texts and Commentary"/>
+      <sect para="44" title="Texts and Commentary"/>
     </sect>
     <sect para="77" title="(2) Compassion"/>
     <sect para="84" title="(3) Gladness"/>
     <sect para="88" title="(4) Equanimity"/>
-    <sect para="92" title="General">
+    <sect para="91" title="General">
       <sect para="92" title="Meanings"/>
       <sect para="93" title="Characteristic etc."/>
       <sect para="97" title="Purpose"/>
@@ -227,8 +299,8 @@
     <sect para="102" title="General"/>
   </chapter>
   <chapter num="XIV">
-    <sect para="1" title="A. Understanding"/>
-    <sect para="2" title="(i) What is understanding?" starts_at="Understanding (">
+    <sect para="1" title="A. Understanding">
+      <sect para="2" title="(i) What is understanding?" starts_at="Understanding ("/>
       <sect para="3" title="(ii) In what sense is it understanding?"/>
       <sect para="7" title="(iii) What are its characteristic, etc.?"/>
       <sect para="8" title="(iv) How many kinds of understanding are there?"/>
@@ -241,8 +313,8 @@
         <sect para="111" title="The 14 Modes of Occurrence of Consciousness"/>
       </sect>
       <sect para="125" title="The Feeling Aggregate"/>
-      <sect para="129" title="The Perception Aggregate">
-        <sect para="131" title="The Formations Aggregate—see Tables II &amp; IV"/>
+      <sect para="129" title="The Perception Aggregate"/>
+      <sect para="131" title="The Formations Aggregate—see Tables II &amp; IV">
         <sect para="133" title="According to Association with Consciousness"/>
       </sect>
     </sect>
@@ -277,8 +349,8 @@
       <sect para="61" title="The Truth of the Origin of Suffering"/>
       <sect para="62" title="The Truth of the Cessation of Suffering">
         <sect para="67" title="Discussion on Nibbāna"/>
+        <sect para="75" title="The Truth of the Way"/>
       </sect>
-      <sect para="75" title="The Truth of the Way"/>
     </sect>
     <sect para="84" title="General"/>
   </chapter>
@@ -445,6 +517,7 @@
       <sect para="16" title="C. The Attainment of Cessation"/>
       <sect para="53" title="D. Worthiness to Receive Gifts"/>
     </sect>
+    <sect para="60" title="Conclusion" starts_at="After we quoted this stanza,"/>
     <sect para="60" title="Postscript" starts_at="This "/>
   </chapter>
 </toc>
