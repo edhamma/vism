@@ -19,7 +19,7 @@ build-latex: build/book.sectioned.xml latex/*
 
 build-sphinx: build/book.sectioned.xml sphinx/source/*
 	cp -r sphinx build/
-	make -C build/sphinx html epub
+	make -C build/sphinx html singlehtml epub
 build-docbook: build/book.sectioned.xml docbook/*
 	cp -r docbook build/
 	cd build/docbook && \
