@@ -11,7 +11,16 @@
        <sect para="26" title="2.–8. Dyads" starts_at="2. "/>
        <sect para="33" title="9.–13. Triads"/>
        <sect para="39" title="14.–17. Tetrads">
-          <sect para="42" title="Virtue of the fourfold purification"/>
+          <sect para="42" title="Virtue of the fourfold purification" comment="subdivision added by us, not in BPS2011">
+            <sect para="43" title="(a) Virtue of Pātimokha restraint" starts_at="(a)"/>
+            <sect para="53" title="(b) Virtue of restraint of the sense faculties"/>
+            <sect para="60" title="(c) Virtue of livelihood purification"/>
+            <sect para="85" title="(d) Virtue concerning requisites"/>
+            <sect para="98" title="(a) Pātimokha restraint by means of faith"/>
+            <sect para="100" title="(b) Restraint of the sense faculties by means of mindfulness"/>
+            <sect para="111" title="(c) Livelihood purification by means of energy"/>
+            <sect para="123" title="(d) Virtue dependent on requisites by means of understanding"/>
+          </sect>
        </sect>
        <sect para="131" title="18.–19. Pentads"/>
     </sect>
