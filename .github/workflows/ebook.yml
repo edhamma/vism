@@ -4,6 +4,9 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
       - name: Install deps 🛒
@@ -12,6 +15,8 @@ jobs:
           tar xfz fop-2.8-bin.tar.gz
           sudo apt-get update && sudo apt-get install xsltproc docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless texlive-latex-recommended texlive-latex-extra texlive-luatex latexmk fonts-texgyre fonts-lmodern gsfonts
           pip install sphinx jupyterlab nbconvert lxml plastex GitPython
+          pip install weasyprint
+          npm instal @vivliostyle/cli
       - name: Assemble sources 🔧
         run: make assemble
       - name: LaTeX 🔧
@@ -20,6 +25,8 @@ jobs:
         run: make FOP=../../fop-2.8/fop/fop build-docbook # FOP path is relative to build/docbook
       - name: Sphinx 🔧
         run: make build-sphinx
+      - name: HTML5+CSS (WeasyPrint, Vivliostyle) 🔧
+        run make build-html5
       - name: Web 🔧
         run: cp src/index.html build/index.html
       - name: Deploy 🚀
