@@ -20,13 +20,13 @@ jobs:
       - name: Assemble sources 🔧
         run: make assemble
       - name: LaTeX 🔧
-        run: make build-latex
+        run: make latex
       - name: DocBook 🔧
-        run: make FOP=../../fop-2.8/fop/fop build-docbook # FOP path is relative to build/docbook
+        run: make FOP=../../fop-2.8/fop/fop docbook # FOP path is relative to build/docbook
       - name: Sphinx 🔧
-        run: make build-sphinx
+        run: make sphinx
       - name: HTML5+CSS (WeasyPrint, Vivliostyle) 🔧
-        run: make build-html5
+        run: make html5
       - name: Web 🔧
         run: cp src/index.html build/index.html
       - name: Deploy 🚀
