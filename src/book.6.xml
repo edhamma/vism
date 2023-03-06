@@ -1,14 +1,14 @@
 <book>
   <struct-1-part name="(Front)">
-    <heading-1-part toc_name="(Front)">(Front)</heading-1-part>
+    <heading toc_name="(Front)">(Front)</heading>
     <struct-2-chapter name="Prefaces">
-      <heading-2-chapter>
+      <heading>
         <span>Prefaces</span>
-      </heading-2-chapter>
+      </heading>
       <struct-3-section name="Buddhist Publication Society edition note">
-        <heading-3-section page_id="2">
+        <heading page_id="2">
           <span>Buddhist Publication Society edition note</span>
-        </heading-3-section>
+        </heading>
         <p>
           <span family="bold">The Buddhist Publication Society</span>
           <span> is an approved charity dedicated to making known the Teaching of the Buddha, which has a vital message for people of all creeds.</span>
@@ -47,9 +47,9 @@
         </p>
       </struct-3-section>
       <struct-3-section name="Message from his Holiness the Dalai Lama ">
-        <heading-3-section y="60" x="104" page_id="25" page_no="xxiii">
+        <heading y="60" x="104" page_id="25" page_no="xxiii">
           <span>Message from his Holiness the Dalai Lama </span>
-        </heading-3-section>
+        </heading>
         <p y="85" x="48" page_id="25" page_no="xxiii">
           <printed_page edition="BPS2011" page_id="25">xxiii</printed_page>
           <span>The history of the development of Buddhist literature seems to be marked by periods in which the received teachings and established scriptures are assimilated and consolidated and periods of mature creativity when the essence of that transmission is expressed afresh. Bhadantācariya Buddhaghosa’s </span>
@@ -77,9 +77,9 @@
         </p>
       </struct-3-section>
       <struct-3-section name="Publisher’s Foreword to Third Edition ">
-        <heading-3-section y="60" x="110" page_id="26" page_no="xxiv">
+        <heading y="60" x="110" page_id="26" page_no="xxiv">
           <span>Publisher’s Foreword to Third Edition </span>
-        </heading-3-section>
+        </heading>
         <p y="85" x="42" page_id="26" page_no="xxiv">
           <printed_page edition="BPS2011" page_id="26">xxiv</printed_page>
           <span>Bhikkhu Ñāṇamoli’s translation of the </span>
@@ -97,9 +97,9 @@
         </p>
       </struct-3-section>
       <struct-3-section name="Publisher’s Foreword to Fourth Edition ">
-        <heading-3-section y="369" x="106" page_id="26" page_no="xxiv">
+        <heading y="369" x="106" page_id="26" page_no="xxiv">
           <span>Publisher’s Foreword to Fourth Edition </span>
-        </heading-3-section>
+        </heading>
         <p y="395" x="42" page_id="26" page_no="xxiv">
           <span>This fourth edition had to be retypeset again because the digital files of the previous edition, prepared “with the aid of the astonishing electronic typesetting equipment” (as mentioned in the Foreword to the Third Edition) were lost.</span>
         </p>
@@ -119,9 +119,9 @@
         </p>
       </struct-3-section>
       <struct-3-section name="Translator’s Dedication">
-        <heading-3-section>
+        <heading>
           <span>Translator’s Dedication</span>
-        </heading-3-section>
+        </heading>
         <verse>
           <line>
             <em>Ciraṃ tiṭṭhatu saddhammo</em>
@@ -146,9 +146,9 @@
         </verse>
       </struct-3-section>
       <struct-3-section name="Translator’s Preface ">
-        <heading-3-section y="60" x="162" page_id="27" page_no="xxv">
+        <heading y="60" x="162" page_id="27" page_no="xxv">
           <span>Translator’s Preface </span>
-        </heading-3-section>
+        </heading>
         <p y="85" x="48" page_id="27" page_no="xxv">
           <printed_page edition="BPS2011" page_id="27">xxv</printed_page>
           <span>Originally I made this translation for my own instruction because the only published version was then no longer obtainable. So it was not done with any intention at all of publication; but rather it grew together out of notes made on some of the book’s passages. By the end of 1953 it had been completed, more or less, and put aside. Early in the following year a suggestion to publish it was put to me, and I eventually agreed, though not without a good deal of hesitation. Reasons for agreeing, however, seemed not entirely lacking. The only previous English version of this remarkable work had long been out of print. Justification too could in some degree be founded on the rather different angle from which this version is made.</span>
@@ -192,9 +192,9 @@
       </struct-3-section>
     </struct-2-chapter>
     <struct-2-chapter name="Introduction ">
-      <heading-2-chapter y="60" x="182" page_id="29" page_no="xxvii">
+      <heading y="60" x="182" page_id="29" page_no="xxvii">
         <span>Introduction </span>
-      </heading-2-chapter>
+      </heading>
       <p y="85" x="47" page_id="29" page_no="xxvii">
         <printed_page edition="BPS2011" page_id="29">xxvii</printed_page>
         <span>The </span>
@@ -208,9 +208,9 @@
         <span>it forms the hub of a complete and coherent method of exegesis of the Tipiṭaka, using the “Abhidhamma method” as it is called. And it sets out detailed practical instructions for developing purification of mind.</span>
       </p>
       <struct-3-section>
-        <heading-3-section page_id="29">
+        <heading page_id="29">
           <span>Background and Main Facts</span>
-        </heading-3-section>
+        </heading>
         <p y="202" x="48" page_id="29" page_no="xxvii">
           <span>The works of Bhadantācariya Buddhaghosa fill more than thirty volumes in the Pali Text Society’s Latin-script edition; but what is known of the writer himself is meager enough for a page or two to contain the bare facts.</span>
         </p>
@@ -305,11 +305,11 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="34">
+        <heading page_id="34">
           <span>The </span>
           <em>Visuddhimagga</em>
           <span> and its Author</span>
-        </heading-3-section>
+        </heading>
         <p y="282" x="41" page_id="34" page_no="xxxii">
           <span>Sources of information about that person fall into three groups. There are firstly the scraps contained in the prologues and epilogues to the works ascribed to him. Then there is the account given in the second part of the Sri Lankan Chronicle, the </span>
           <em>Mahāvaṃsa </em>
@@ -761,10 +761,10 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="46">
+        <heading page_id="46">
           <span>The </span>
           <em>Vimuttimagga</em>
-        </heading-3-section>
+        </heading>
         <p y="436" x="41" page_id="46" page_no="xliv">
           <span>Besides the books in Sinhala Bhadantācariya Buddhaghosa names as available to him (which have all disappeared) there was also a manual (existing now only in a Chinese translation of the 6th century CE), presumed to have been written in Pali. Bhadantācariya Buddhaghosa himself makes no mention of it; but his commentator, Bhadantācariya Dhammapāla (writing perhaps within two centuries of him), mentions it by name (see </span>
           <ref type="vism" target="III.n19">Ch. III, n.19</ref>
@@ -803,9 +803,9 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="47">
+        <heading page_id="47">
           <span>Trends in the Development of Theravāda doctrine</span>
-        </heading-3-section>
+        </heading>
         <p y="424" x="48" page_id="47" page_no="xlv">
           <span>The doctrines (Dhamma) of the Theravāda Pali tradition can be conveniently traced in three main layers. (1) The first of these contains the main books of the Pali Sutta Piṭakas. (2) The second is the Abhidhamma Piṭaka, notably the closely related books, the Dhammasaṅgaṇī, Vibhaṅga, Paṭṭhāna. (3) The third is the system which the author of the </span>
           <em>Visuddhimagga </em>
@@ -884,10 +884,10 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="49">
+        <heading page_id="49">
           <span>The </span>
           <em>Paramatthamañjūsā</em>
-        </heading-3-section>
+        </heading>
         <p y="221" x="47" page_id="49" page_no="xlvii">
           <span>The notes to this translation contain many quotations from the commentary to the </span>
           <em>Visuddhimagga, </em>
@@ -936,10 +936,10 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="50">
+        <heading page_id="50">
           <span>Some Main Threads in the </span>
           <em>Visuddhimagga</em>
-        </heading-3-section>
+        </heading>
         <p y="77" x="42" page_id="50" page_no="xlviii">
           <printed_page edition="BPS2011" page_id="50">xlviii</printed_page>
           <span>The </span>
@@ -1100,9 +1100,9 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="51">
+        <heading page_id="51">
           <span>Concerning the Translation</span>
-        </heading-3-section>
+        </heading>
         <p y="381" x="48" page_id="51" page_no="xlix">
           <span>The pitfalls that await anyone translating from another European language into his own native English are familiar enough; there is no need for him to fall into them. But when he ventures upon rendering an Oriental language, he will often have to be his own guide.</span>
         </p>
@@ -1218,9 +1218,9 @@
         </p>
       </struct-3-section>
       <struct-3-section>
-        <heading-3-section page_id="55">
+        <heading page_id="55">
           <span>Concluding remarks</span>
-        </heading-3-section>
+        </heading>
         <p y="163" x="48" page_id="55" page_no="liii">
           <span>Current standard English has been aimed at and preference given always to simplicity. This has often necessitated cutting up long involved sentences, omitting connecting particles (such as </span>
           <em>pana, pan’ettha, yasmā </em>
@@ -1439,15 +1439,15 @@
     </struct-2-chapter>
   </struct-1-part>
   <struct-1-part name="Part I">
-    <heading-1-part y="142" x="154" toc_name="Part I" toc_num="I" page_id="61" page_no="N/A">
+    <heading y="142" x="154" toc_name="Part I" toc_num="pI" page_id="61" page_no="N/A">
       <span>Virtue (</span>
       <em>Sīla</em>
       <span>)</span>
-    </heading-1-part>
+    </heading>
     <struct-2-chapter name="Chapter I">
-      <heading-2-chapter y="179" x="193" toc_name="Chapter I" toc_num="I" subtitle_pali="Sīla-niddesa" page_id="63" page_no="5">
+      <heading y="179" x="193" toc_name="Chapter I" toc_num="I" subtitle_pali="Sīla-niddesa" page_id="63" page_no="5">
         <span>Description of Virtue</span>
-      </heading-2-chapter>
+      </heading>
       <p y="126" x="160" page_id="63" page_no="5">
         <printed_page edition="BPS2011" page_id="63">5</printed_page>
         <em>Namo tassa bhagavato arahato sammāsambuddhassa</em>
@@ -5141,9 +5141,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter II">
-      <heading-2-chapter y="131" x="190" toc_name="Chapter II" toc_num="II" subtitle_pali="Dhutaṅga-niddesa" page_id="113" page_no="55">
+      <heading y="131" x="190" toc_name="Chapter II" toc_num="II" subtitle_pali="Dhutaṅga-niddesa" page_id="113" page_no="55">
         <span>The Ascetic Practices</span>
-      </heading-2-chapter>
+      </heading>
       <p y="199" x="48" page_id="113" page_no="55" anchor="II.1" num="1">
         <printed_page edition="BPS2011" page_id="113">55</printed_page>
         <printed_page edition="PTS">59</printed_page>
@@ -6847,15 +6847,15 @@
     </struct-2-chapter>
   </struct-1-part>
   <struct-1-part name="Part II">
-    <heading-1-part y="142" x="87" toc_name="Part II" toc_num="II" page_id="137" page_no="N/A">
+    <heading y="142" x="87" toc_name="Part II" toc_num="pII" page_id="137" page_no="N/A">
       <span>Concentration (</span>
       <em>Samādhi</em>
       <span>)</span>
-    </heading-1-part>
+    </heading>
     <struct-2-chapter name="Chapter III">
-      <heading-2-chapter y="131" x="190" toc_name="Chapter III" toc_num="III" subtitle_pali="Kammaṭṭhāna-gahaṇa-niddesa" page_id="139" page_no="81">
+      <heading y="131" x="190" toc_name="Chapter III" toc_num="III" subtitle_pali="Kammaṭṭhāna-gahaṇa-niddesa" page_id="139" page_no="81">
         <span>Taking a Meditation Subject</span>
-      </heading-2-chapter>
+      </heading>
       <p y="199" x="48" page_id="139" page_no="81" anchor="III.1" num="1">
         <printed_page edition="BPS2011" page_id="139">81</printed_page>
         <printed_page edition="PTS">84</printed_page>
@@ -8408,9 +8408,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter IV">
-      <heading-2-chapter y="135" x="188" toc_name="Chapter IV" toc_num="IV" subtitle_pali="Pathavī-kasiṇa-niddesa" page_id="171" page_no="113">
+      <heading y="135" x="188" toc_name="Chapter IV" toc_num="IV" subtitle_pali="Pathavī-kasiṇa-niddesa" page_id="171" page_no="113">
         <span>The Earth Kasiṇa</span>
-      </heading-2-chapter>
+      </heading>
       <p y="203" x="48" page_id="171" page_no="113" anchor="IV.1" num="1">
         <printed_page edition="BPS2011" page_id="171">113</printed_page>
         <printed_page edition="PTS">118</printed_page>
@@ -10839,9 +10839,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter V">
-      <heading-2-chapter y="135" x="184" toc_name="Chapter V" toc_num="V" subtitle_pali="Sesa-kasiṇa-niddesa" page_id="220" page_no="162">
+      <heading y="135" x="184" toc_name="Chapter V" toc_num="V" subtitle_pali="Sesa-kasiṇa-niddesa" page_id="220" page_no="162">
         <span>The Remaining Kasiṇas</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="42" page_id="220" page_no="162" anchor="V.1" num="1">
         <printed_page edition="BPS2011" page_id="220">162</printed_page>
         <printed_page edition="PTS">170</printed_page>
@@ -11203,9 +11203,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter VI">
-      <heading-2-chapter y="135" x="188" toc_name="Chapter VI" toc_num="VI" subtitle_pali="Asubha-kammaṭṭhāna-niddesa" page_id="227" page_no="169">
+      <heading y="135" x="188" toc_name="Chapter VI" toc_num="VI" subtitle_pali="Asubha-kammaṭṭhāna-niddesa" page_id="227" page_no="169">
         <span>Foulness as a Meditation Subject</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="47" page_id="227" page_no="169" anchor="VI.1" num="1">
         <printed_page edition="BPS2011" page_id="227">169</printed_page>
         <printed_page edition="PTS">178</printed_page>
@@ -12083,9 +12083,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter VII">
-      <heading-2-chapter y="135" x="180" toc_name="Chapter VII" toc_num="VII" subtitle_pali="Cha-anussati-niddesa" page_id="244" page_no="186">
+      <heading y="135" x="180" toc_name="Chapter VII" toc_num="VII" subtitle_pali="Cha-anussati-niddesa" page_id="244" page_no="186">
         <span>Six Recollections</span>
-      </heading-2-chapter>
+      </heading>
       <p y="203" x="42" page_id="244" page_no="186" anchor="VII.1" num="1">
         <printed_page edition="BPS2011" page_id="244">186</printed_page>
         <printed_page edition="PTS">197</printed_page>
@@ -14844,9 +14844,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter VIII">
-      <heading-2-chapter y="132" x="184" toc_name="Chapter VIII" toc_num="VIII" subtitle_pali="Anussati-kammaṭṭhāna-niddesa" page_id="283" page_no="225">
+      <heading y="132" x="184" toc_name="Chapter VIII" toc_num="VIII" subtitle_pali="Anussati-kammaṭṭhāna-niddesa" page_id="283" page_no="225">
         <span>Other Recollections as Meditation Subjects</span>
-      </heading-2-chapter>
+      </heading>
       <p y="220" x="48" page_id="283" page_no="225" anchor="VIII.1" num="1">
         <printed_page edition="BPS2011" page_id="283">225</printed_page>
         <printed_page edition="PTS">229</printed_page>
@@ -18678,9 +18678,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter IX">
-      <heading-2-chapter y="135" x="189" toc_name="Chapter IX" toc_num="IX" subtitle_pali="Brahmavihāra-niddesa" page_id="349" page_no="291">
+      <heading y="135" x="189" toc_name="Chapter IX" toc_num="IX" subtitle_pali="Brahmavihāra-niddesa" page_id="349" page_no="291">
         <span>The Divine Abidings</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="48" page_id="349" page_no="291" anchor="IX.1" num="1">
         <printed_page edition="BPS2011" page_id="349">291</printed_page>
         <printed_page edition="PTS">295</printed_page>
@@ -20439,9 +20439,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter X">
-      <heading-2-chapter y="135" x="191" toc_name="Chapter X" toc_num="X" subtitle_pali="Āruppa-niddesa" page_id="379" page_no="321">
+      <heading y="135" x="191" toc_name="Chapter X" toc_num="X" subtitle_pali="Āruppa-niddesa" page_id="379" page_no="321">
         <span>The Immaterial States</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="47" page_id="379" page_no="321" anchor="X.1" num="1">
         <printed_page edition="BPS2011" page_id="379">321</printed_page>
         <printed_page edition="PTS">326</printed_page>
@@ -21116,9 +21116,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XI">
-      <heading-2-chapter y="135" x="189" toc_name="Chapter XI" toc_num="XI" subtitle_pali="Samādhi-niddesa" page_id="395" page_no="337">
+      <heading y="135" x="189" toc_name="Chapter XI" toc_num="XI" subtitle_pali="Samādhi-niddesa" page_id="395" page_no="337">
         <span>Concentration—Conclusion: Nutriment and the Elements</span>
-      </heading-2-chapter>
+      </heading>
       <p y="237" x="47" page_id="395" page_no="337" anchor="XI.1" num="1">
         <printed_page edition="BPS2011" page_id="395">337</printed_page>
         <printed_page edition="PTS">341</printed_page>
@@ -23120,9 +23120,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XII">
-      <heading-2-chapter y="135" x="186" toc_name="Chapter XII" toc_num="XII" subtitle_pali="Iddhividha-niddesa" page_id="427" page_no="369">
+      <heading y="135" x="186" toc_name="Chapter XII" toc_num="XII" subtitle_pali="Iddhividha-niddesa" page_id="427" page_no="369">
         <span>The Supernormal Powers</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="48" page_id="427" page_no="369" anchor="XII.1" num="1">
         <printed_page edition="BPS2011" page_id="427">369</printed_page>
         <printed_page edition="PTS">373</printed_page>
@@ -24437,9 +24437,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XIII">
-      <heading-2-chapter y="135" x="178" toc_name="Chapter XIII" toc_num="XIII" subtitle_pali="Abhiññā-niddesa" page_id="458" page_no="400">
+      <heading y="135" x="178" toc_name="Chapter XIII" toc_num="XIII" subtitle_pali="Abhiññā-niddesa" page_id="458" page_no="400">
         <span>Other Direct-knowledges</span>
-      </heading-2-chapter>
+      </heading>
       <p y="223" x="41" page_id="458" page_no="400" anchor="XIII.1" num="1">
         <printed_page edition="BPS2011" page_id="458">400</printed_page>
         <printed_page edition="PTS">407</printed_page>
@@ -25778,15 +25778,15 @@
     </struct-2-chapter>
   </struct-1-part>
   <struct-1-part name="Part III">
-    <heading-1-part y="142" x="92" toc_name="Part III" toc_num="III" page_id="487" page_no="N/A">
+    <heading y="142" x="92" toc_name="Part III" toc_num="pIII" page_id="487" page_no="N/A">
       <span>Understanding (</span>
       <em>Paññā</em>
       <span>)</span>
-    </heading-1-part>
+    </heading>
     <struct-2-chapter name="Chapter XIV">
-      <heading-2-chapter y="127" x="184" toc_name="Chapter XIV" toc_num="XIV" subtitle_pali="Khandha-niddesa" page_id="489" page_no="431">
+      <heading y="127" x="184" toc_name="Chapter XIV" toc_num="XIV" subtitle_pali="Khandha-niddesa" page_id="489" page_no="431">
         <span>The Aggregates</span>
-      </heading-2-chapter>
+      </heading>
       <p y="215" x="48" page_id="489" page_no="431" anchor="XIV.1" num="1">
         <printed_page edition="BPS2011" page_id="489">431</printed_page>
         <printed_page edition="PTS">436</printed_page>
@@ -29668,9 +29668,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XV">
-      <heading-2-chapter y="132" x="180" toc_name="Chapter XV" toc_num="XV" subtitle_pali="Āyatana-dhātu-niddesa" page_id="550" page_no="492">
+      <heading y="132" x="180" toc_name="Chapter XV" toc_num="XV" subtitle_pali="Āyatana-dhātu-niddesa" page_id="550" page_no="492">
         <span>The Bases and Elements</span>
-      </heading-2-chapter>
+      </heading>
       <p y="220" x="41" page_id="550" page_no="492" anchor="XV.1" num="1">
         <printed_page edition="BPS2011" page_id="550">492</printed_page>
         <printed_page edition="PTS">481</printed_page>
@@ -30535,9 +30535,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XVI">
-      <heading-2-chapter y="132" x="184" toc_name="Chapter XVI" toc_num="XVI" subtitle_pali="Indriya-sacca-niddesa" page_id="561" page_no="503">
+      <heading y="132" x="184" toc_name="Chapter XVI" toc_num="XVI" subtitle_pali="Indriya-sacca-niddesa" page_id="561" page_no="503">
         <span>The Faculties and Truths</span>
-      </heading-2-chapter>
+      </heading>
       <p y="220" x="47" page_id="561" page_no="503" anchor="XVI.1" num="1">
         <printed_page edition="BPS2011" page_id="561">503</printed_page>
         <printed_page edition="PTS">491</printed_page>
@@ -32581,9 +32581,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XVII">
-      <heading-2-chapter y="132" x="182" toc_name="Chapter XVII" toc_num="XVII" subtitle_pali="Paññā-bhūmi-niddesa" page_id="591" page_no="533">
+      <heading y="132" x="182" toc_name="Chapter XVII" toc_num="XVII" subtitle_pali="Paññā-bhūmi-niddesa" page_id="591" page_no="533">
         <span>The Soil of Understanding—Conclusion: Dependent Origination</span>
-      </heading-2-chapter>
+      </heading>
       <p y="234" x="47" page_id="591" page_no="533" anchor="XVII.1" num="1">
         <printed_page edition="BPS2011" page_id="591">533</printed_page>
         <printed_page edition="PTS">517</printed_page>
@@ -36866,9 +36866,9 @@
       </verse>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XVIII">
-      <heading-2-chapter y="132" x="180" toc_name="Chapter XVIII" toc_num="XVIII" subtitle_pali="Diṭṭhi-visuddhi-niddesa" page_id="667" page_no="609">
+      <heading y="132" x="180" toc_name="Chapter XVIII" toc_num="XVIII" subtitle_pali="Diṭṭhi-visuddhi-niddesa" page_id="667" page_no="609">
         <span>Purification of View</span>
-      </heading-2-chapter>
+      </heading>
       <p y="200" x="48" page_id="667" page_no="609" anchor="XVIII.1" num="1">
         <printed_page edition="BPS2011" page_id="667">609</printed_page>
         <printed_page edition="PTS">587</printed_page>
@@ -37427,9 +37427,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XIX">
-      <heading-2-chapter y="132" x="184" toc_name="Chapter XIX" toc_num="XIX" subtitle_pali="Kaṅkhāvitaraṇa-visuddhi-niddesa" page_id="679" page_no="621">
+      <heading y="132" x="184" toc_name="Chapter XIX" toc_num="XIX" subtitle_pali="Kaṅkhāvitaraṇa-visuddhi-niddesa" page_id="679" page_no="621">
         <span>Purification by Overcoming Doubt</span>
-      </heading-2-chapter>
+      </heading>
       <p y="200" x="48" page_id="679" page_no="621" anchor="XIX.1" num="1">
         <printed_page edition="BPS2011" page_id="679">621</printed_page>
         <printed_page edition="PTS">598</printed_page>
@@ -37932,9 +37932,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XX">
-      <heading-2-chapter y="132" x="187" toc_name="Chapter XX" toc_num="XX" subtitle_pali="Maggāmagga-ñāṇadassana-visuddhi-niddesa" page_id="689" page_no="631">
+      <heading y="132" x="187" toc_name="Chapter XX" toc_num="XX" subtitle_pali="Maggāmagga-ñāṇadassana-visuddhi-niddesa" page_id="689" page_no="631">
         <span>Purification by Knowledge and Vision of What is the Path and What is Not the Path</span>
-      </heading-2-chapter>
+      </heading>
       <p y="228" x="48" page_id="689" page_no="631" anchor="XX.1" num="1">
         <printed_page edition="BPS2011" page_id="689">631</printed_page>
         <printed_page edition="PTS">606</printed_page>
@@ -39641,9 +39641,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XXI">
-      <heading-2-chapter y="132" x="178" toc_name="Chapter XXI" toc_num="XXI" subtitle_pali="Paṭipadā-ñāṇadassana-visuddhi-niddesa" page_id="724" page_no="666">
+      <heading y="132" x="178" toc_name="Chapter XXI" toc_num="XXI" subtitle_pali="Paṭipadā-ñāṇadassana-visuddhi-niddesa" page_id="724" page_no="666">
         <span>Purification by Knowledge and Vision of the Way</span>
-      </heading-2-chapter>
+      </heading>
       <p y="214" x="42" page_id="724" page_no="666" anchor="XXI.1" num="1">
         <printed_page edition="BPS2011" page_id="724">666</printed_page>
         <printed_page edition="PTS">639</printed_page>
@@ -41507,9 +41507,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XXII">
-      <heading-2-chapter y="132" x="182" toc_name="Chapter XXII" toc_num="XXII" subtitle_pali="Ñāṇadassana-visuddhi-niddesa" page_id="759" page_no="701">
+      <heading y="132" x="182" toc_name="Chapter XXII" toc_num="XXII" subtitle_pali="Ñāṇadassana-visuddhi-niddesa" page_id="759" page_no="701">
         <span>Purification by Knowledge and Vision</span>
-      </heading-2-chapter>
+      </heading>
       <p y="220" x="47" page_id="759" page_no="701" anchor="XXII.1" num="1">
         <printed_page edition="BPS2011" page_id="759">701</printed_page>
         <printed_page edition="PTS">672</printed_page>
@@ -43010,9 +43010,9 @@
       </p>
     </struct-2-chapter>
     <struct-2-chapter name="Chapter XXIII">
-      <heading-2-chapter y="136" x="174" toc_name="Chapter XXIII" toc_num="XXIII" subtitle_pali="Paññābhāvanānisaṃsa-niddesa" page_id="788" page_no="730">
+      <heading y="136" x="174" toc_name="Chapter XXIII" toc_num="XXIII" subtitle_pali="Paññābhāvanānisaṃsa-niddesa" page_id="788" page_no="730">
         <span>The Benefits In Developing Understanding</span>
-      </heading-2-chapter>
+      </heading>
       <p y="204" x="42" page_id="788" page_no="730" anchor="XXIII.1" num="1">
         <printed_page edition="BPS2011" page_id="788">730</printed_page>
         <span>(vi) </span>
