@@ -26,7 +26,7 @@ jobs:
       - name: Sphinx 🔧
         run: make build-sphinx
       - name: HTML5+CSS (WeasyPrint, Vivliostyle) 🔧
-        run make build-html5
+        run: make build-html5
       - name: Web 🔧
         run: cp src/index.html build/index.html
       - name: Deploy 🚀
