@@ -8,14 +8,19 @@
 	</head>
 	<body>
 	<h1>Visuddhimagga digital</h1>
-		<h2>Work-in-progress outputs</h2>
+		(👑=top-quality, ✅=good, ❌=bad, ⛔=deprecated)
+		<h2>Outputs</h2>
 			<ul>
-				<li><a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via XML → LaTeX source → LuaLaTeX)
-				<li><a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)
-				<li><a href="sphinx/build/html/index.html">HTML</a> (via XML → Sphinx)
-				<li><a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via XML → Sphinx)
-				<li><a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XML → DocBook → XSLT → FOP)
-				<li><a href="docbook/vism.xhtml">HTML</a> (via XML → DocBook → XHTML5)
+				<li>👑 <a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via XML → LaTeX source → LuaLaTeX)</li>
+				<li>✅ <a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)</li>
+				<li>✅ <a href="sphinx/build/html/index.html">HTML</a> (via XML → Sphinx)</li>
+				<li>✅ <a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via XML → Sphinx)</li>
+				<li>❌ HTML5 + CSS for paged media (currently many issues: footnotes, missing TOC, bibliograhy)<ul>
+					<li><a href="html5/build/vism.weasyprint.pdf">PDF</a> (via WeasyPrint)</li>
+					<li><a href="html5/build/vism.vivliostyle.pdf">PDF</a> (via Vivliosyle)</li>
+				</ul>
+				<li>⛔ <a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XML → DocBook → XSLT → FOP)</li>
+				<li>⛔ <a href="docbook/vism.xhtml">HTML</a> (via XML → DocBook → XHTML5)</li>
 			</ul>
 		<h2>Motivation</h2>
 			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
@@ -24,18 +29,23 @@
 			<p></p>
 			<h3>Steps</h3>
 				<dl>
-					<dt>(0. politics ✅)</dt><dd><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em> It would be nice to have green light (or even source data) from BPS. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
-					<dt>1. semantic representation ✅</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
-					<dt>2. verification ✅</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
-					<dt>3. automation ✅</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
+					<dt>(0. ✅ politics)</dt><dd><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em> It would be nice to have green light (or even source data) from BPS. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
+					<dt>1. ✅ semantic representation</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
+					<dt>2. ✅ verification</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
+					<dt>3. ✅ automation</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
 					<dt>4. corrections 🔧</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. <b>LaTeX- and Sphinx-based formats have issue hyperlinks on page numbers and § labels</b> — thus it is easy to help. Those include:
 						<ul>
 							<li>obvious errors in the BPS edition (few);</li>
-							<li>trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
+							<li>✅ trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
 							<li>cross-references which were not parsed correctly;</li>
 							<li>incorrectly parsed entries in the index and glossary;</li>
-							<li>some (sub)section header are missing, as they were not parsed correctly;</li>
-							<li>tables: format-specific; tables in the introduction are  ✅ done content-wise (though not particularly pretty), appendix tables are not yet done (not a priority).</li>
+							<li>✅ some (sub)section header are missing, as they were not parsed correctly;</li>
+							<li>tables: format-specific;
+								<ul>
+									<li>✅ tables in the introduction (not particularly pretty)</li>
+									<li>appendix tables (not a priority).</li>
+								</ul>
+							</li>
 						</ul>
 					<dt>5. enhancements 🔧</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
 					<dt>6. publication ✨</dt><dd>Final and fine-tuned outputs. Perhaps even an offline app (why not?).</dd>
@@ -48,8 +58,9 @@
 			<p>Current <a href="https://github.com/eudoxos/vism/blob/06-assemble.ipynb">processing routines</a> spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>, <a href="https://sphinx-doc">Sphinx</a> and <a href="https://docbook.org">DocBook</a> based on the source data and are fairly simple.</p>
 			<p>The reason for Sphinx was that it has good support for ebooks (ePub and others), but lacks customizations which seem to be important for this kind of book — such as chapters in roman numbers and others.</p>
 			<p><a href="https://plastex.github.io/plastex/">PlasTeX</a>'s HTML output if far superior to Sphinx's (and was almost no extra work, as we mostly use vanilla LaTeX with little customizations), but it lacks ePub output.</p>
-			<p>DocBook (DocBook Publishers for non-technical writing) has many converters to different output formats. Its customization is not straightforward (XSLT stylesheets) but it easy to be automated.</p>
-			<p>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which sets a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</p>
+			<p>DocBook is in decline, XML-FO group was disbanded long time ago.<strike>DocBook (DocBook Publishers for non-technical writing) has many converters to different output formats. Its customization is not straightforward (XSLT stylesheets) but it easy to be automated.</strike></p>
+			<p>HTML + CSS for paged media (overview at <a href="print-css.rocks">PrintCSS Rocks</a>; open-source e.g. <a href="https://weasyprint.org">WeasyPrint</a>, <a href="https://vivliostyle.org">Vivliostyle</a>).</p>
+			<strike>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which sets a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</strike></p>
 		</ul>
 	</body>
 </html>

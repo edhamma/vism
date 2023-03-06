@@ -16,7 +16,10 @@ build-latex: build/book.sectioned.xml latex/*
 	cd build/latex && \
 		latexmk vism.tex && \
 		plastex -c plastex.ini vism.tex
-
+build-html5:
+	cp -r html5 build/
+	weasyprint -s html5/style.A4.css build/html5/vism.html5 build/html5/vism.weasyprint.pdf
+	vivliostyle build --style style.A4.css --single-doc --timeout 1200 --output vism.vivliostyle.pdf vism.html
 build-sphinx: build/book.sectioned.xml sphinx/source/*
 	cp -r sphinx build/
 	make -C build/sphinx html singlehtml epub

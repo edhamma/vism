@@ -1,0 +1,413 @@
+:root{
+  --highlight-color-one: #1FC2DE;
+  --highlight-color-one-transparent: #1FC2DEB3;
+  --text-color: #000000;
+  --table-row-separator-color:#CEC3BA;
+}
+
+@page{
+  size:A4;
+  margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+  counter-reset: footnote;
+
+  @top-left{
+    content:element(header);
+  }
+
+  @bottom-left{
+    width:100%;
+    content:element(footer);
+  }
+
+  @bottom-right{
+    font-family: 'TeX Gyre Pagella';
+    font-size:8pt;
+    font-weight:bold;
+    color:var(--highlight-color-one);
+    content:counter(page, decimal-leading-zero);
+  }
+
+  @footnote {
+    font-size: 8pt;
+    border-top: dashed red 1px;
+    float: bottom;
+  }
+}
+
+::footnote-call {
+    content: counter(footnote, decimal) " ";
+    color: green;
+    vertical-align: super;
+    font-size: 0.8em;
+}
+
+::footnote-marker {
+    font-size: 14pt;
+    color: red;
+    display: inline-block;
+    width: 2em;
+    padding-right: 1em;
+    text-align: right;
+}
+
+@page bibliography{
+  @bottom-left{
+    width:100%;
+    content:element(footerBibliography);
+  }
+}
+
+/*
+@page:first{
+  margin:0;
+  background-size:cover;
+  background-image: url('cover.jpg');
+  @top-left{ content:""; }
+  @bottom-left{content:""; }
+}
+*/
+
+body{
+  margin:0;
+  padding:0;
+  color: var(--text-color);
+  font-family: 'TeX Gyre Pagella';
+  font-size: 10pt;
+  counter-reset: partNo chapterNo; /* sectNo subsectNo subsubsectNo footnote; */
+  hyphens: auto;
+}
+
+p {
+  text-align: justify;
+  margin-top: .5em;
+}
+
+a{ color: #000099; text-decoration: underline dotted; }
+
+hr {
+  height:0;
+  border:0;
+  border-top: .75mm solid var(--highlight-color-one);
+  margin: 1cm 0 1cm 0;
+}
+
+/*
+The page header in our document uses the HTML HEADER element, we define a height 
+of 2cm and a border on the bottom of half a millimeter.
+As mentioned above in the comment for the @page the position property with the 
+value running(header) makes this HTML element float into the top left page margin
+box. This page margin box repeats on every page in case we would have a multi-page
+book.
+*/
+header{
+  position:running(header);
+  height:2cm;
+  border-bottom:.5mm solid var(--table-row-separator-color);
+}
+
+.sect-dp1 { page-break-before: right; }
+.sect-dp2 { page-break-before: right; }
+.sect-dp1 h1 { bookmark-level: 1; bookmark-label: "Part " counter(partNo,upper-roman)": " content(); }
+.sect-dp2 h1 { bookmark-level: 2; bookmark-label: counter(chapNo,upper-roman)". " content(); }
+.sect-dp3 h1 { bookmark-level: 3; bookmark-label: content(); }
+.sect-dp4 h1 { bookmark-level: 4; bookmark-label: content(); bookmark-state: closed; }
+.sect-dp5 h1 { bookmark-level: 5; bookmark-label: content(); bookmark-state: closed; }
+.sect-dp6 h1 { bookmark-level: 6; bookmark-label: content(); bookmark-state: closed; }
+
+.sect-dp1 { counter-increment: partNo; }
+.sect-dp2 { counter-increment: chapNo; counter-reset: sectNo footnote; }
+.sect-dp3 { counter-increment: sectNo; counter-reset: subsectNo; }
+.sect-dp4 { counter-increment: subsectNo; counter-reset: subsubsectNo; }
+.sect-dp5 { counter-increment: subsubsectNo; }
+
+.sect-dp1 h1:before { content: "Part " counter(partNo,upper-roman) ": "; }
+.sect-dp2 h1:before { content: "Chapter " counter(chapNo,upper-roman) ": "; }
+.sect-dp3 h1:before { content: counter(sectNo)" "; }
+.sect-dp4 h1:before { content: counter(sectNo)"."counter(subsectNo)" "; }
+.sect-dp5 h1:before { content: counter(sectNo)"."counter(subsectNo)"."counter(subsubsectNo)" "; }
+
+.sect-dp1 h1 { display: block; font-size: 64pt; font-weight: bold; }
+.sect-dp2 h1 { display: block; font-size: 32pt; font-weight: bold; }
+.sect-dp3 h1 { display: block; font-size: 16pt; font-weight: bold; }
+.sect-dp4 h1 { display: block; font-size: 12pt; font-weight: bold; }
+.sect-dp5 h1 { display: block; font-size: 11pt; font-weight: bold; }
+
+
+.vism-page-bps{
+  color: #ff000088;
+}
+.vism-page-pts{
+  color: #00ff0088;
+}
+.vism-verse{
+  margin-left: 4em;
+}
+
+dt{
+  font-weight: bold;
+  font-style: normal;
+}
+
+/*
+For the pageBreak elements we also set a height of 1cm to get some spacing between the header 
+line and the content.
+*/
+.pageBreak{
+  page-break-before:always;
+  height:1cm;
+}
+
+/*
+On the cover page the text color needs to be white as we have a background image on the whole
+page. Also we set a margin of 2cm.
+*/
+.coverPage{
+  color:white;
+  margin:2cm;
+}
+/*
+The book title should have a margin to the top of 6cm and also a font size of 64pt.
+*/
+.coverPage h1{
+  margin-top:6cm;
+  font-size:64pt;
+}
+
+/*
+The footer on the cover page containing the website, email, phone number and line need 
+to be on the bottom of the page so we set the position to absolute, bottom 1cm. Also 
+the items should be aligned in the center so the line is in the vertical center of the text.
+*/
+.coverPage .coverFooter{
+  text-transform:uppercase;
+  font-size:8pt;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  position:absolute;
+  bottom:1cm;
+  width:calc(100% - 4cm);
+}
+
+/*
+The first link in the cover page footer (the like to the website) should be bold.
+*/
+.coverPage .coverFooter a:first-of-type{
+  font-weight:bold;
+}
+
+/*
+The line in the footer has a height of 0.5mm and white as a background color.
+*/
+.coverPage .coverFooter hr{
+  height:.5mm;
+  background-color:white;
+  border-top:0;
+  width:40%;
+}
+
+/*
+To get another page footer on the bibliography we need to use the page property 
+and set a unique page name for which we defined a @page rule above.
+*/
+.bibliographyPage{
+  page: bibliography;
+}
+
+/*
+Most <h1> header elements (except cover page) get a margin top of 1cm and the 
+text is transformed to uppercase.
+*/
+.chapterPage h1,
+.tocPage h1,
+.bibliographyPage h1{
+  margin-top:1cm;
+  text-transform:uppercase;
+}
+
+/*
+The content chapter pages and the bibliography page get a "chapter" number 
+before their title. For this we use the chapters counter. The second parameter
+in the counter() funtion allows us to add a leading 0 to chapter numbers below
+10.
+*/
+.chapterPage h1::before,
+.bibliographyPage h1::before{
+  counter-increment:chapters;
+  content: counter(chapters, decimal-leading-zero) " ";
+}
+
+/*
+To ensure images do not take too much space you could either take care that the
+editors select images in the proper sizing or define a container where you set
+a fixed height and hide anything which overflows.
+*/
+.imageContainer{
+  max-height:9cm;
+  overflow:hidden;
+}
+
+/*
+In the image container all images should have a max width of 100% of the wrapping
+element.
+*/
+.imageContainer img{
+  max-width:100%;
+}
+
+/*
+In two colums layouts where one colum is a image we also use a container to ensure
+a max size, in this case it is dependend on the max height instead of the width.
+*/
+.imageContainerColumns{
+  overflow:hidden;
+  max-height:180mm;
+}
+
+/*
+In the tow column image container the image should not exceed 100% of the containers
+height.
+*/
+.imageContainerColumns img{
+  max-height:100%;
+}
+
+/*
+All two and three column content is done via flexbox.
+*/
+.twoColumns,
+.threeColumns{
+  display:flex;
+  align-items:stretch;
+  justify-content:space-between;
+  margin:1cm 0 1cm 0;
+}
+
+/*
+In two column content each column gets a width of 48% so 
+we get 4% of space between them.
+*/
+.twoColumns > *{
+  width:48%;
+}
+
+/*
+In three column content each column gets a width of 30% so 
+between the columns we have 3.33% space.
+*/
+.threeColumns > *{
+  width:30%;
+}
+
+/*
+If both columns are text only we use this class and simply set
+a column gap of 1cm.
+*/
+.twoTextColumns{
+  margin:1cm 0 1cm 0;
+  column-count:2;
+  column-gap:1cm;
+}
+
+/*
+The table of contents elements (<dl>) and all highlighted text should 
+Additionally the main highlight text should be bold and larger than the others.
+*/
+.highlight{
+  font-weight:bold;
+  font-size:14pt;
+}
+
+/*
+If a image container is followed by a highlight text there should be a gap of 1cm 
+between them.
+*/
+.imageContainer + .highlight{
+  margin-top:1cm;
+}
+
+/*
+Within the texts we use a lot of <h4> headings and we want them to look the same
+as the normal text, except their default bold style. So for that we set the text
+size to 10pt and margin to 0 so there is no gap between the <h4> and <p> elements.
+*/
+h4{
+  font-size:10pt;
+  margin:0;
+}
+
+
+
+/*
+After each table of contents entry we at a 0.5cm gap to the next entry.
+*/
+dd{
+  margin:0 0 .2em 0;
+  padding-top: .1em;
+  padding-left: 1em;
+}
+
+.cols-2 {
+    column-count: 2;
+    -webkit-column-count: 2;
+    column-gap: 1cm;
+    column-rule: .4px solid #ff00ff;
+}
+
+/*
+All footnote elements are getting the float "footnote" property to remove them
+from the normal page flow and add them to the footnote area. The rest ensures 
+the style of the footnote is the same as the normal text, just a smaller font
+size of 8pt.
+*/
+span.footnote { float: footnote; }
+/*
+.footnote {
+  float: footnote;
+  margin-bottom:2mm;
+  font-family: 'TeX Gyre Pagella';
+  font-size:8pt;
+  font-weight:normal;
+}
+*/
+/*
+For the footer we use flexbox to align the items vertically.
+*/
+.footerStandard,
+.footerBibliography{
+  position:running(footer);
+  color:var(--highlight-color-one);
+  display:flex;
+  align-items:center;
+  font-size:8pt;
+  text-transform:uppercase;
+}
+
+/*
+The first link element (website link) in each footer should be bold.
+*/
+footer a:first-of-type{
+  font-weight:bold;
+}
+
+/*
+This is the style of the line in the footer, we give a fixed height of 0.5mm and
+a relative size of 70%, the background color is the content of the CSS var --highlight-color-one.
+*/
+footer hr{
+  margin:0 3% 0 3%;
+  height:.5mm;
+  background-color:var(--highlight-color-one);
+  border-top:0;
+  width:70%;
+  display:inline-block;
+}
+
+/*
+The only difference between the footer of the chapter pages and the bibliography 
+is that a different HTML element is used for the running position.
+*/
+.footerBibliography{
+  position:running(footerBibliography);
+}
+
