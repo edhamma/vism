@@ -1,80 +1,80 @@
-<section>
+<section class="sect-dp2">
   <h1>Bibliography</h1>
   <dl class="bibliography">
     <dt id="bib:A">A</dt>
       <dd>Aṅguttara Nikāya</dd>
     <dt id="bib:A-a">A-a</dt>
-      <dd><emphasis>Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī</emphasis></dd>
+      <dd><em>Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī</em></dd>
     <dt id="bib:Cp">Cp</dt>
       <dd>Cariyāpiṭaka</dd>
     <dt id="bib:Cp-a">Cp-a</dt>
-      <dd><emphasis>Cariyāpiṭaka Aṭṭhakathā</emphasis></dd>
+      <dd><em>Cariyāpiṭaka Aṭṭhakathā</em></dd>
     <dt id="bib:Dhp">Dhp</dt>
       <dd>Dhammapada</dd>
     <dt id="bib:Dhp-a">Dhp-a</dt>
-      <dd><emphasis>Dhammapada Aṭṭhakathā</emphasis></dd>
+      <dd><em>Dhammapada Aṭṭhakathā</em></dd>
     <dt id="bib:Dhs">Dhs</dt>
       <dd>Dhammasaṅgaṇī</dd>
     <dt id="bib:Dhs-a">Dhs-a</dt>
-      <dd><emphasis>Dhammasaṅgaṇi Aṭṭhakathā = Atthasālinī</emphasis></dd>
+      <dd><em>Dhammasaṅgaṇi Aṭṭhakathā = Atthasālinī</em></dd>
     <dt id="bib:Dhs-ṭ">Dhs-ṭ</dt>
-      <dd><emphasis>Dhammasaṅgaṇī Ṭīkā = Mūla Ṭīkā II</emphasis></dd>
+      <dd><em>Dhammasaṅgaṇī Ṭīkā = Mūla Ṭīkā II</em></dd>
     <dt id="bib:Dhātuk">Dhātuk</dt>
       <dd>Dhātukathā</dd>
     <dt id="bib:D">D</dt>
       <dd>Dīgha Nikāya</dd>
     <dt id="bib:D-a">D-a</dt>
-      <dd><emphasis>Dīgha Nikāya Aṭṭhakathā = Sumaṅgala-vilāsinī</emphasis></dd>
+      <dd><em>Dīgha Nikāya Aṭṭhakathā = Sumaṅgala-vilāsinī</em></dd>
     <dt id="bib:It">It</dt>
       <dd>Itivuttaka</dd>
     <dt id="bib:J-a">J-a</dt>
-      <dd><emphasis>Jātaka-aṭṭhakathā</emphasis></dd>
+      <dd><em>Jātaka-aṭṭhakathā</em></dd>
     <dt id="bib:Kv">Kv</dt>
       <dd>Kathāvatthu</dd>
     <dt id="bib:Mhv">Mhv</dt>
-      <dd><emphasis>Mahāvaṃsa</emphasis></dd>
+      <dd><em>Mahāvaṃsa</em></dd>
     <dt id="bib:M">M</dt>
       <dd>Majjhima Nikāya</dd>
     <dt id="bib:M-a">M-a</dt>
-      <dd><emphasis>Majjhima Nikāya Aṭṭhakathā = Papañca-sūdanī</emphasis></dd>
+      <dd><em>Majjhima Nikāya Aṭṭhakathā = Papañca-sūdanī</em></dd>
     <dt id="bib:Mil">Mil</dt>
-      <dd><emphasis>Milindapañhā</emphasis></dd>
+      <dd><em>Milindapañhā</em></dd>
     <dt id="bib:Netti">Netti</dt>
-      <dd><emphasis>Nettipakaraṇa</emphasis></dd>
+      <dd><em>Nettipakaraṇa</em></dd>
     <dt id="bib:Nidd">Nidd</dt>
       <dd>
         Niddesa
-        <ol type="I">
+        <ol style="list-style-type: upper-roman;">
           <li>Mahā Niddesa</li>
           <li>Cūḷa Niddesa (Siamese ed.)</li>
         </ol>
       </dd>
     <dt id="bib:Nikāya-s">Nikāya-s</dt>
-      <dd><emphasis>Nikāyasaṃgrahaya</emphasis></dd>
+      <dd><em>Nikāyasaṃgrahaya</em></dd>
     <dt id="bib:Paṭis">Paṭis</dt>
       <dd>Paṭisambhidāmagga</dd>
     <dt id="bib:Paṭis-a">Paṭis-a</dt>
-      <dd><emphasis>Paṭisambhidāmagga Aṭṭhakathā = Saddhammappakāsinī</emphasis> (Sinhalese Hewavitarne ed.).</dd>
+      <dd><em>Paṭisambhidāmagga Aṭṭhakathā = Saddhammappakāsinī</em> (Sinhalese Hewavitarne ed.).</dd>
     <dt id="bib:Paṭṭh">Paṭṭh</dt>
       <dd>
         Paṭṭhāna
-        <ol type="I">
+        <ol style="list-style-type: upper-roman;">
           <li>Paṭṭhāna, Tika Paṭṭhāna</li>
           <li>Paṭṭhāna, Duka Paṭṭhāna (Se and Be.)</li>
         </ol>
       </dd>
     <dt id="bib:Peṭ">Peṭ</dt>
-      <dd><emphasis>Peṭakopadesa</emphasis></dd>
+      <dd><em>Peṭakopadesa</em></dd>
     <dt id="bib:Pv">Pv</dt>
       <dd>Petavatthu</dd>
     <dt id="bib:S">S</dt>
       <dd>Saṃyutta Nikāya</dd>
     <dt id="bib:S-a">S-a</dt>
-      <dd><emphasis>Saṃyutta Nikāya Aṭṭhakathā = Sāratthappakāsinī</emphasis></dd>
+      <dd><em>Saṃyutta Nikāya Aṭṭhakathā = Sāratthappakāsinī</em></dd>
     <dt id="bib:Sn">Sn</dt>
       <dd>Sutta-nipāta</dd>
     <dt id="bib:Sn-a">Sn-a</dt>
-      <dd><emphasis>Sutta-nipāta Aṭṭhakathā = Paramatthajotikā</emphasis></dd>
+      <dd><em>Sutta-nipāta Aṭṭhakathā = Paramatthajotikā</em></dd>
     <dt id="bib:Th">Th</dt>
       <dd>Thera-gāthā</dd>
     <dt id="bib:Ud">Ud</dt>
@@ -84,15 +84,15 @@
     <dt id="bib:Vibh">Vibh</dt>
       <dd>Vibhaṅga</dd>
     <dt id="bib:Vibh-a">Vibh-a</dt>
-      <dd><emphasis>Vibhaṅga Aṭṭhakathā = Sammohavinodanī</emphasis></dd>
+      <dd><em>Vibhaṅga Aṭṭhakathā = Sammohavinodanī</em></dd>
     <dt id="bib:Vibh-ṭ">Vibh-ṭ</dt>
-      <dd><emphasis>Vibhaṅga Ṭīkā = Mūla Ṭīkā II</emphasis></dd>
+      <dd><em>Vibhaṅga Ṭīkā = Mūla Ṭīkā II</em></dd>
     <dt id="bib:Vv">Vv</dt>
       <dd>Vimānavatthu</dd>
     <dt id="bib:Vin">Vin</dt>
       <dd>
         Vinaya Piṭaka
-        <ol type="I">
+        <ol style="list-style-type: upper-roman;">
           <li>Vinaya Piṭaka I: (3)—Mahāvagga</li>
           <li>Vinaya Piṭaka II: (4)—Cūḷavagga</li>
           <li>Vinaya Piṭaka III: (1)—Suttavibhaṅga 1</li>
@@ -103,7 +103,7 @@
     <dt id="bib:Vin-a">Vin-a</dt>
       <dd>???</dd>
     <dt id="bib:Vism">Vism</dt>
-      <dd><emphasis>Visuddhimagga</emphasis></dd><phrase>(PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])</phrase>
+      <dd><em>Visuddhimagga</em> (PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])</dd>
     <dt id="bib:Vism-mhṭ">Vism-mhṭ</dt>
       <dd>Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)</dd>
   </dl>
