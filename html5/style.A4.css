@@ -132,6 +132,14 @@ header{
 .sect-dp4 h1 { display: block; font-size: 12pt; font-weight: bold; }
 .sect-dp5 h1 { display: block; font-size: 11pt; font-weight: bold; }
 
+thead{ font-weight: bold; }
+.vism-bibref{
+  text-decoration: underline;
+  color: violet;
+  font-weight: bold;
+}
+.vism-bibref::before { content: "["; }
+.vism-bibref::after { content: "]"; }
 
 .vism-page-bps{
   color: #ff000088;

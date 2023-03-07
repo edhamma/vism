@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+      <td valign="top">
+        <span>Title</span>
+      </td>
+      <td valign="top">
+        <span>Commentary to</span>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <em>Dhammapadaṭṭhakathā</em>
+      </td>
+      <td valign="top">
+        <span>Dhammapada</span>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <em>Jātakaṭṭhakathā</em>
+      </td>
+      <td valign="top">
+        <span>Jātaka</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
