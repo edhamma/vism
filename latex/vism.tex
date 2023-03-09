@@ -173,7 +173,8 @@
 	\fi
 	\maketitle
 
-	\frontmatter
+	% frontmatter is repeated in vism-body; okay for LaTeX, PlasTeX will create two [Front] parts since \frontmatter is custom-defined
+	\ifplastex\else\frontmatter\fi
 		\tableofcontents
 		\def\thesection{\arabic{section}}
 		\input{vism-body.tex}
