@@ -1,9 +1,3 @@
-% \chapter{References}
-\ifplastex
-	\chapter{Bibliography}
-\else
-	\addcontentsline{toc}{chapter}{Bibliography}
-\fi
 \begin{thebibliography}{xxxxxxxxxxx}
 \bibitem[A]{A} Aṅguttara Nikāya
 \bibitem[A-a]{A-a} \emph{Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī}
@@ -58,4 +52,20 @@
 \bibitem[Vin-a]{Vin-a} ???
 \bibitem[Vism]{Vism} \emph{Visuddhimagga} (PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])
 \bibitem[Vism-mhṭ]{Vism-mhṭ} Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)
+\ifplastex
+  \bibitem[\textbf{\LARGE Other abbreviations}]{\textbf{\LARGE Other abbreviations}}
+\else
+  \newenvironment{bibcomment}{\item[]\begingroup\par\parshape0}{\par\endgroup}
+  \begin{bibcomment}\subsection{Other abbreviations}\end{bibcomment}
+\fi
+\bibitem[Ae]{Ae} American Edition (= Harvard Oriental Series)
+\bibitem[Be]{Be} Burmese Edition
+\bibitem[Ce]{Ce} Ceylonese Edition
+\bibitem[CPD]{CPD} \emph{Critical Pali Dictionary}; Treckner
+\bibitem[Ee]{Ee} European Edition (= PTS)
+\bibitem[EHBC]{EHBC} \emph{The Early History of Buddhism in Ceylon}, E. W. Adikaram.
+\bibitem[PED]{PED} \emph{Pali-English Dictionary}
+\bibitem[PLC]{PLC} \emph{Pali Literature of Ceylon}, Malalasekera.
+\bibitem[PTS]{PTS} Pali Text Society
+\bibitem[Se]{Se} Siamese Edition
 \end{thebibliography}

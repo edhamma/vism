@@ -11,6 +11,8 @@
 % for LaTex, disable plastex parts
 \newif\ifplastex\plastexfalse
 
+
+
 \ifplastex
 	\let\RaggedRight\relax
 	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
@@ -25,6 +27,7 @@
 	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
+	\newenvironemnt{vismHanging}{}{}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
 	% use the same-looking font like BPS2011
@@ -39,6 +42,18 @@
 	\usepackage{emptypage}
 	%
 	\usepackage[protrusion=true,expansion,tracking=true]{microtype}
+	%
+	\makeatletter
+		% https://tex.stackexchange.com/a/31559
+		% just hanging pagraphs via parindent/leftskip won't be effective for paragraph after hading (has no \parindent)
+		% thus we also need to disable removing indent after heading
+		\newenvironment{vismHanging}{
+			\bgroup
+			\let\orig@afterheading\@afterheading
+			\def\@afterheading{\@afterindenttrue\orig@afterheading}
+			\parindent=-1em\leftskip=1em\par
+		}{\par\egroup}
+	\makeatother
 	%
 	\usepackage{setspace}
 	% less warnings
@@ -138,9 +153,14 @@
 		\SetTblrStyle{entry}{none}
 		\SetTblrStyle{rowhead}{1}
 	}
+
+	% no section for bibliography: https://tex.stackexchange.com/a/132647
+	\usepackage{etoolbox}
+	\patchcmd{\thebibliography}{\chapter*{\bibname}}{}{}{}
 \fi
 
 \usepackage[bookmarksnumbered=true]{hyperref}
+
 
 % after loading hyperref
 \ifplastex\else
@@ -179,7 +199,7 @@
 		\def\thesection{\arabic{section}}
 		\input{vism-body.tex}
 	\backmatter
-		\input{vism-bib.tex}
+		% \input{vism-bib.tex}
 		\input{vism-index.tex}
 		\input{vism-glossary.tex}
 \end{document}

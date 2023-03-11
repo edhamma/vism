@@ -1,6 +1,3 @@
-Bibliography
-=============
-
 
 .. [A] Aṅguttara Nikāya
 .. [A-a] *Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī*
@@ -55,4 +52,19 @@ Bibliography
 .. [Vin-a] ???
 .. [Vism] *Visuddhimagga* (PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])
 .. [Vism-mhṭ] Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)
+
+
+Other abbreviations
+~~~~~~~~~~~~~~~~~~~~~
+
+.. [Ae]   American Edition (= Harvard Oriental Series)
+.. [Be]   Burmese Edition
+.. [Ce]   Ceylonese Edition
+.. [CPD]  *Critical Pali Dictionary*; Treckner
+.. [Ee]   European Edition (= PTS)
+.. [EHBC] *The Early History of Buddhism in Ceylon*, E. W. Adikaram.
+.. [PED]  *Pali-English Dictionary*
+.. [PLC]  *Pali Literature of Ceylon*, Malalasekera.
+.. [PTS]  Pali Text Society
+.. [Se]   Siamese Edition
 

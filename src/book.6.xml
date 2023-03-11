@@ -1,6 +1,7 @@
 <book>
   <struct-1-part name="(Front)">
     <heading toc_name="(Front)">(Front)</heading>
+    <include file="bib-1.xml"/>
     <struct-2-chapter name="Prefaces">
       <heading>
         <span>Prefaces</span>
