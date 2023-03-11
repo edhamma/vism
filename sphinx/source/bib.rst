@@ -14,6 +14,7 @@ Bibliography
 .. [Dhātuk] Dhātukathā
 .. [D] Dīgha Nikāya
 .. [D-a] *Dīgha Nikāya Aṭṭhakathā = Sumaṅgala-vilāsinī*
+.. [Dīp] *Dīpavaṃsa*
 .. [It] Itivuttaka
 .. [J-a] *Jātaka-aṭṭhakathā*
 .. [Kv] Kathāvatthu
