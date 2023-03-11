@@ -204,7 +204,11 @@
     <em>āyūhana</em>
     <span>) </span>
     <ref type="vism" target="I.140">I.140</ref>
-    <span>; XIV.132, 135; </span>
+    <span>; </span>
+    <ref type="vism" target="XIV.132">XIV.132</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.135">135</ref>
+    <span>; </span>
     <ref type="vism" target="XVII.61">XVII.61</ref>
     <span>, </span>
     <ref type="vism" target="XVII.292">292f.</ref>
@@ -283,7 +287,13 @@
     <ref type="vism" target="XIII.118">118</ref>
     <span>; </span>
     <ref type="vism" target="XIV.107">XIV.107</ref>
-    <span>; 115f., 121f., 152; </span>
+    <span>, </span>
+    <ref type="vism" target="XIV.115">115f.</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.121">121f.</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.152">152</ref>
+    <span>; </span>
     <ref type="vism" target="XV.34">XV.34f.</ref>
     <span>, </span>
     <ref type="vism" target="XV.n5">n.5</ref>
@@ -571,8 +581,8 @@
   <entry page_id="809" title="Ākāsacetiya">
     <ref type="vism" target="IV.96">IV.96</ref>
   </entry>
-  <entry page_id="809" title="Ālāra Kālāma X">
-    <span>.19</span>
+  <entry page_id="809" title="Ālāra Kālāma">
+    <ref type="vism" target="X.19">X.19</ref>
   </entry>
   <entry page_id="809" title="all">
     <span>(</span>
@@ -883,7 +893,12 @@
     <span>(</span>
     <em>arahatta</em>
     <span>) </span>
-    <span>I.14, 37, 140; </span>
+    <ref type="vism" target="I.14">I.14</ref>
+    <span>, </span>
+    <ref type="vism" target="I.37">37</ref>
+    <span>, </span>
+    <ref type="vism" target="I.140">140</ref>
+    <span>; </span>
     <ref type="vism" target="VIII.224">VIII.224</ref>
     <span>, </span>
     <ref type="vism" target="VIII.243">243</ref>
@@ -3088,7 +3103,9 @@
     <ref type="vism" target="XV.26">26</ref>
     <span>; </span>
     <ref type="vism" target="XVII.72">XVII.72</ref>
-    <span>,193; </span>
+    <span>, </span>
+    <ref type="vism" target="XVII.193">193</ref>
+    <span>; </span>
     <ref type="vism" target="XVIII.5">XVIII.5</ref>
     <span>; </span>
     <ref type="vism" target="XIX.9">XIX.9</ref>
@@ -4087,7 +4104,8 @@
   <entry page_id="814" title="decade">
     <span>(</span>
     <em>dasaka</em>
-    <span>) XX..50f.</span>
+    <span>) </span>
+    <ref type="vism" target="XX.50">XX.50f.</ref>
   </entry>
   <entry page_id="814" title="deceit">
     <span>(</span>
@@ -5006,7 +5024,15 @@
     <ref type="vism" target="XIV.98">98</ref>
     <span>, </span>
     <ref type="vism" target="XIV.108">108</ref>
-    <span>; 115f., 121, 141, 152; </span>
+    <span>, </span>
+    <ref type="vism" target="XIV.115">115f.</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.121">121</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.141">141</ref>
+    <span>, </span>
+    <ref type="vism" target="XIV.152">152</ref>
+    <span>; </span>
     <ref type="vism" target="XV.4">XV.4</ref>
     <span>, </span>
     <ref type="vism" target="XV.36">36f.</ref>
@@ -6647,7 +6673,9 @@
   <entry page_id="817" title="friend">
     <span>(</span>
     <em>mitta</em>
-    <span>) 149; </span>
+    <span>) </span>
+    <ref type="vism" target="I.49">I.49</ref>
+    <span>; </span>
     <ref type="vism" target="III.61">III.61f.</ref>
     <span>, </span>
     <ref type="vism" target="III.95">95</ref>
@@ -8052,7 +8080,11 @@
     <ref type="vism" target="XVII.n6">n.6</ref>
     <span>; </span>
     <ref type="vism" target="XX.103">XX.103</ref>
-    <span>; XXI. n.4, n.33; </span>
+    <span>; </span>
+    <ref type="vism" target="XXI.n4">XXI.n.4</ref>
+    <span>, </span>
+    <ref type="vism" target="XXI.n33">n.33</ref>
+    <span>; </span>
     <ref type="vism" target="XXII.58">XXII.58</ref>
     <span>, </span>
     <ref type="vism" target="XXII.92">92</ref>
@@ -8659,8 +8691,8 @@
   <entry page_id="820" title="Kalyāṇagāma">
     <ref type="vism" target="XXII.89">XXII.89</ref>
   </entry>
-  <entry page_id="820" title="Kambojā X">
-    <span>.28</span>
+  <entry page_id="820" title="Kambojā">
+    <ref type="vism" target="X.28">X.28</ref>
   </entry>
   <entry page_id="820" title="kamma">
     <span>(</span>
@@ -9072,7 +9104,9 @@
     <ref type="vism" target="XXII.28">28</ref>
     <span>; k. of reviewing (</span>
     <em>paccavekkhaṇa-ñāṇa</em>
-    <span>) 132; k. and vision of deliverance (</span>
+    <span>) </span>
+    <ref type="vism" target="I.32">I.32</ref>
+    <span>; k. and vision of deliverance (</span>
     <em>vimutti-ñāṇadassana</em>
     <span>) </span>
     <ref type="vism" target="I.32">I.32</ref>
@@ -9592,8 +9626,8 @@
     <span>; </span>
     <ref type="vism" target="XIII.54">XIII.54</ref>
   </entry>
-  <entry page_id="821" title="Mahātittha V">
-    <span>.2</span>
+  <entry page_id="821" title="Mahātittha">
+    <ref type="vism" target="V.2">V.2</ref>
   </entry>
   <entry page_id="821" title="Mahāvaṭṭani Forest">
     <ref type="vism" target="I.99">I.99</ref>
@@ -13303,7 +13337,9 @@
     <ref type="vism" target="XVII.308">XVII.308</ref>
     <span>; </span>
     <ref type="vism" target="XXI.4">XXI.4</ref>
-    <span>,122; </span>
+    <span>, </span>
+    <ref type="vism" target="XXI.122">122</ref>
+    <span>; </span>
     <ref type="vism" target="XXII.114">XXII.114</ref>
   </entry>
   <entry page_id="826" title="resort">
@@ -15266,7 +15302,11 @@
     <ref type="vism" target="II.86">II.86</ref>
     <span>; </span>
     <ref type="vism" target="III.74">III.74f.</ref>
-    <span>; 95, 121; </span>
+    <span>, </span>
+    <ref type="vism" target="III.95">95</ref>
+    <span>, </span>
+    <ref type="vism" target="III.121">121</ref>
+    <span>; </span>
     <ref type="vism" target="VI.83">VI.83</ref>
     <span>, </span>
     <ref type="vism" target="VI.85">85</ref>
