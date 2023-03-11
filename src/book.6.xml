@@ -422,7 +422,9 @@
           <ref type="bib" target="A" loc="1:2.6">AN 1:2.6</ref>
           <span>, with that at </span>
           <ref type="bib" target="M-a" loc="I 66">M-a I 66</ref>
-          <span>; also the version of the story of the Elder Mahā Tissa in the A-a, same ref., with that at </span>
+          <span>; also the version of the story of the Elder Mahā Tissa in the </span>
+          <ref type="bib" target="A-a">A-a</ref>
+          <span>, same ref., with that at </span>
           <ref type="bib" target="M-a" loc="I 185">M-a I 185</ref>
           <span>). Perhaps less need for strictness was felt with such story material. And there is also another possibility. It may not unreasonably be supposed that he did not work alone, without help, and that he had competent assistants. If so, he might well have delegated the drafting of the Khuddaka Nikāya commentaries—those of the Khuddakapāṭha and Suttanipāta, Dhammapada, and the Jātaka—or part of them, supervising and completing them himself, after which the official “postscript” was appended. This assumption seems not implausible and involves less difficulties than its alternatives.</span>
           <footnote page_id="37" mark="9">
@@ -450,7 +452,9 @@
           <em>(pubbācariyā) </em>
           <span>as well as to a number of Sinhalese commentaries additional to the three referred to in the quotation given earlier. The fact is plain enough that a complete body of commentary had been built up during the nine centuries or so that separate Bhadantācariya Buddhaghosa from the Buddha. A good proportion of it dated no doubt from the actual time of the Buddha himself, and this core had been added to in India (probably in Pali), and later by learned elders in Sri Lanka (in Sinhalese) as references to their pronouncements show (e.g. </span>
           <ref type="vism" target="XII.105">XII.105</ref>
-          <span> and 117).</span>
+          <span> and </span>
+          <ref type="vism" target="XII.117">117</ref>
+          <span>).</span>
         </p>
         <p y="192" x="42" page_id="38" page_no="xxxvi">
           <span>This body of material—one may guess that its volume was enormous—Bhadantācariya Buddhaghosa set himself to edit and render into Pali (the Tipiṭaka itself had been left in the original Pali). For this he had approval and express invitation (see, e.g., the epilogue to the present work, which the Elder Saṅghapāla invited him to compose). Modern critics have reproached him with lack of originality: but if we are to judge by his declared aims, originality, or to use his own phrase “advertising his own standpoint” (</span>
@@ -13294,7 +13298,15 @@
           <p>
             <span>The references are these: Apalāla (</span>
             <em>Mahāvaṃsa</em>
-            <span>, p. 242), “Dwelling in the Himalayas” (Vism-mhṭ 202), Cūḷodara and Mahodara (Mhv pp. 7–8; Dīp pp. 21–23), Aggisikha and Dhūmasikha (“Inhabitant of Sri Lanka”—Vism-mhṭ 202), Āravāḷa and Dhanapālaka (</span>
+            <span>, p. 242), “Dwelling in the Himalayas” (</span>
+            <ref type="bib" target="Vism-mhṭ 202" loc="202">Vism-mhṭ 202</ref>
+            <span>), Cūḷodara and Mahodara (</span>
+            <ref type="bib" target="Mhv" loc="pp. 7–8">Mhv pp. 7–8</ref>
+            <span>; </span>
+            <ref type="bib" target="Dīp" loc="pp. 21–23">Dīp pp. 21–23</ref>
+            <span>), Aggisikha and Dhūmasikha (“Inhabitant of Sri Lanka”—</span>
+            <ref type="bib" target="Vism-mhṭ" loc="202">Vism-mhṭ 202</ref>
+            <span>), Āravāḷa and Dhanapālaka (</span>
             <ref type="bib" target="Vin" loc="II 194–196">Vin II 194–96</ref>
             <span>; </span>
             <ref type="bib" target="J-a" loc="V 333–337">J-a V 333–37</ref>
@@ -25516,8 +25528,8 @@
           <p>
             <span>Vattanīyasenāsana was apparently a monastery in the Vindhya Hills (</span>
             <em>Viñjaṭavī</em>
-            <span>): see Mhv </span>
-            <ref type="vism" target="XIX.6">XIX.6</ref>
+            <span>): see </span>
+            <ref type="bib" target="Mhv" loc="XIX.6">Mhv XIX.6</ref>
             <span>; </span>
             <ref type="bib" target="Dhs-a" loc="419">Dhs-a 419</ref>
             <span>. The Elders Assagutta and Rohaṇa instructed Kajaṅgala who was sent to convert Menander (Lamotte, </span>
