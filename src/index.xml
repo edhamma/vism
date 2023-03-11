@@ -640,8 +640,9 @@
     <ref type="vism" target="XVII.14">XVII.14</ref>
     <span> </span>
   </entry>
-  <entry page_id="810" title="Ānanda Thera I">
-    <span>.103; </span>
+  <entry page_id="810" title="Ānanda Thera">
+    <ref type="vism" target="I.103">I.103</ref"
+    <span>; </span>
     <ref type="vism" target="XIV.27">XIV.27</ref>
   </entry>
   <entry page_id="810" title="Anāthapiṇḍika">
@@ -2323,8 +2324,9 @@
     <ref type="vism" target="IV.10">IV.10</ref>
     <span/>
   </entry>
-  <entry page_id="812" title="Cetiyapabbata I">
-    <span>.55; </span>
+  <entry page_id="812" title="Cetiyapabbata">
+    <ref type="vism" target="I.55">I.55</ref>
+    <span>; </span>
     <ref type="vism" target="II.13">II.13</ref>
     <span>; </span>
     <ref type="vism" target="VI.88">VI.88</ref>
@@ -2442,8 +2444,10 @@
     <ref type="vism" target="XX.22">XX.22</ref>
     <span> </span>
   </entry>
-  <entry page_id="812" title="Cīragumba I">
-    <span>.122, 133</span>
+  <entry page_id="812" title="Cīragumba">
+    <ref type="vism" target="I.122">I.122</ref>
+    <span>, </span>
+    <ref type="vism" target="I.133">133</ref>
     <span/>
   </entry>
   <entry page_id="812" title="Citrapāṭaliya Tree">
@@ -2455,8 +2459,9 @@
     <span> Citta, Peak </span>
     <ref type="vism" target="XXI.43">XXI.43</ref>
   </entry>
-  <entry page_id="812" title="Cittagutta Thera I">
-    <span>.104f., </span>
+  <entry page_id="812" title="Cittagutta Thera">
+    <ref type="vism" target="I.104">I.104f.</ref>
+    <span>, </span>
     <ref type="vism" target="V.5">V.5</ref>
     <span>, </span>
     <ref type="vism" target="V.15">15</ref>
@@ -9150,8 +9155,9 @@
     <ref type="vism" target="XXIII.20">XXIII.20</ref>
     <span> </span>
   </entry>
-  <entry page_id="820" title="Kassapa Thera I">
-    <span>.41; </span>
+  <entry page_id="820" title="Kassapa Thera">
+    <ref type="vism" target="I.41">I.41</ref>
+    <span>; </span>
     <ref type="vism" target="II.32">II.32</ref>
     <span>; </span>
     <ref type="vism" target="XII.126">XII.126</ref>
@@ -9350,8 +9356,8 @@
   <entry page_id="820" title="Kuṇāla, Lake">
     <ref type="vism" target="XIII.38">XIII.38</ref>
   </entry>
-  <entry page_id="820" title="Kuraṇḍaka-mahā-leṇa I">
-    <span>.104</span>
+  <entry page_id="820" title="Kuraṇḍaka-mahā-leṇa">
+    <ref type="vism" target="I.104">I.104</ref>
   </entry>
   <entry page_id="820" title="lakes, 7 great">
     <span>(</span>
@@ -9839,8 +9845,8 @@
   <entry page_id="821" title="Mahā-cetiya">
     <span>, see Great Shrine</span>
   </entry>
-  <entry page_id="821" title="Mahāgāma I">
-    <span>.106</span>
+  <entry page_id="821" title="Mahāgāma">
+    <ref type="vism" target="I.106">I.106</span>
   </entry>
   <entry page_id="821" title="Mahaka">
     <ref type="vism" target="XII.84">XII.84</ref>
@@ -9862,8 +9868,8 @@
   <entry page_id="821" title="Mahātittha V">
     <span>.2</span>
   </entry>
-  <entry page_id="821" title="Mahāvaṭṭani Forest I">
-    <span>.99</span>
+  <entry page_id="821" title="Mahāvaṭṭani Forest">
+    <ref type="vism" target="I.99">I.99</ref>
   </entry>
   <entry page_id="821" title="Mahāvihāra">
     <span>, see Great Monastery</span>
@@ -10298,8 +10304,9 @@
     <ref type="vism" target="XXI.52">XXI.52</ref>
     <span> </span>
   </entry>
-  <entry page_id="822" title="Metteyya Bhagavant I">
-    <span>.135; </span>
+  <entry page_id="822" title="Metteyya Bhagavant">
+    <ref type="vism" target="I.135">I.135</ref>
+    <span>; </span>
     <ref type="vism" target="XIII.127">XIII.127</ref>
   </entry>
   <entry page_id="822" title="Mīḷhābhaya Therā">
@@ -14133,8 +14140,10 @@
     <ref type="vism" target="III.85">III.85</ref>
     <span> Saṅgharakkhita Thera, (&amp; sāmaṇera),</span>
   </entry>
-  <entry page_id="827" title="Bhāgineyya I">
-    <span>.130, 135</span>
+  <entry page_id="827" title="Bhāgineyya">
+    <ref type="vism" target="I.130">I.130</ref>
+    <span>, </span>
+    <ref type="vism" target="I.135">135</ref>
   </entry>
   <entry page_id="827" title="Saṅkassa-nagara">
     <ref type="vism" target="XII.75">XII.75</ref>
@@ -14154,8 +14163,9 @@
     <span>; </span>
     <ref type="vism" target="XIII.37">XIII.37</ref>
   </entry>
-  <entry page_id="827" title="Sāriputta Thera I">
-    <span>.117; </span>
+  <entry page_id="827" title="Sāriputta Thera">
+    <ref type="vism" target="I.117">I.117</ref>
+    <span>; </span>
     <ref type="vism" target="II.82">II.82</ref>
     <span>; </span>
     <ref type="vism" target="VII.n23">VII.n.23</ref>
@@ -15876,19 +15886,18 @@
     <ref type="vism" target="I.122">I.122</ref>
     <span>, </span>
     <ref type="vism" target="I.133">133</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissa Thera, Cūḷa-piṇḍapātika">
     <ref type="vism" target="III.127">III.127</ref>
     <span>; </span>
     <ref type="vism" target="VI.77">VI.77</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissa Thera, Koṭapabbatavāsin">
     <ref type="vism" target="VIII.243">VIII.243</ref>
-    <span> Tissa Thera, Kuṭumbiyaputta </span>
+  <entry page_id="829" title="Tissa Thera, Kuṭumbiyaputta">
     <ref type="vism" target="I.137">I.137</ref>
-    <span> Tissa Thera, Mahā </span>
+  </entry>
+  <entry page_id="829" title="Tissa Thera, Mahā">
     <ref type="vism" target="I.55">I.55</ref>
     <span>; </span>
     <ref type="vism" target="IV.95">IV.95</ref>
@@ -15898,19 +15907,15 @@
     <ref type="vism" target="VI.88">88</ref>
     <span>; </span>
     <ref type="vism" target="XII.89">XII.89</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissa Thera, Mahā, Mahā-Karañjiya-vihāra-vāsin">
     <ref type="vism" target="VIII.243">VIII.243</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissa Thera, Padhāniya, Nāgapabbatavāsin">
     <ref type="vism" target="IV.36">IV.36</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissa Thera, Piṇḍapātika, Devaputtaraṭṭhavāsin">
     <ref type="vism" target="VIII.243">VIII.243</ref>
-    <span> </span>
   </entry>
   <entry page_id="829" title="Tissadatta Thera">
     <ref type="vism" target="XII.124">XII.124</ref>
@@ -16520,7 +16525,9 @@
     <span/>
   </entry>
   <entry page_id="830" title="uposatha">
-    <span>(uposatha-observance day) </span>
+    <span>(</span>
+    <emph>uposatha</emph>
+    <span>–observance day </span>
     <ref type="vism" target="I.40">I.40</ref>
     <span>, </span>
     <ref type="vism" target="I.n10">n.10</ref>
@@ -16551,8 +16558,9 @@
     <span>) </span>
     <ref type="vism" target="I.124">I.124f.</ref>
   </entry>
-  <entry page_id="830" title="Uttarakuru I">
-    <span>.41; </span>
+  <entry page_id="830" title="Uttarakuru">
+    <ref type="vism" target="I.41">I.41</ref>
+    <span>; </span>
     <ref type="vism" target="VII.43">VII.43f.</ref>
     <span>; </span>
     <ref type="vism" target="XII.73">XII.73</ref>
@@ -16563,8 +16571,8 @@
     <ref type="vism" target="IV.45">IV.45</ref>
     <span/>
   </entry>
-  <entry page_id="830" title="Vaṅgīsa Thera I">
-    <span>.103</span>
+  <entry page_id="830" title="Vaṅgīsa Thera">
+    <ref type="vism" target="I.103">I.103</ref>
   </entry>
   <entry page_id="830" title="vanity">
     <span>(</span>
@@ -16601,13 +16609,15 @@
   </entry>
   <entry page_id="830" title="Vattaniya-senāsana">
     <ref type="vism" target="XIII.107">XIII.107</ref>
-    <span> Vasudhamma </span>
+  <entry page_id="830" title="Vasudhamma">
     <ref type="vism" target="XIV.n16">XIV.n.16</ref>
-    <span> Vasudeva </span>
+  </entry>
+  <entry page_id="830" title"Vasudeva">
     <ref type="vism" target="VIII.19">VIII.19</ref>
     <span>; </span>
     <ref type="vism" target="XV.5">XV.5</ref>
-    <span> Vattakālakagāma </span>
+  </entry>
+  <entry page_id="830" title"Vattakālakagāma">
     <ref type="vism" target="IV.96">IV.96</ref>
   </entry>
   <entry page_id="830" title="Veda">
@@ -16616,8 +16626,7 @@
     <span>) </span>
     <ref type="vism" target="XII.44">XII.44</ref>
   </entry>
-  <entry page_id="830" title="Vehapphala">
-    <span>(Great Fruit) Deities </span>
+  <entry page_id="830" title="Vehapphala (Great Fruit) Deities">
     <ref type="vism" target="XIII.62">XIII.62</ref>
   </entry>
   <entry page_id="830" title="Vejayanta Palace">
