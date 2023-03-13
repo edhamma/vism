@@ -153,7 +153,7 @@
 		\SetTblrStyle{entry}{none}
 		\SetTblrStyle{rowhead}{1}
 	}
-
+	\RenewDocumentCommand\TblrAlignLeft{}{\RaggedRight}
 	% no section for bibliography: https://tex.stackexchange.com/a/132647
 	\usepackage{etoolbox}
 	\patchcmd{\thebibliography}{\chapter*{\bibname}}{}{}{}
