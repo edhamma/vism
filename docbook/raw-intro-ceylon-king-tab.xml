@@ -25,9 +25,8 @@
         <phrase>, </phrase>
         <phrase>
           <citation>Mhv</citation>
-          <phrase> XIII.</phrase>
+          <phrase> XIII</phrase>
         </phrase>
-        <phrase>  </phrase>
       </td>
     </tr>
     <tr>
@@ -126,7 +125,11 @@
         <phrase>Committal by Great Monastery of Pali Tipiṭaka to writing for first time (away from royal capital). </phrase>
       </td>
       <td valign="top">
-        <phrase>Mhv XXXIII.100;  </phrase>
+        <phrase>
+          <citation>Mhv</citation>
+          <phrase> XXXIII.100</phrase>
+        </phrase>
+        <phrase>;  </phrase>
         <citation>Nikāya-s</citation>
         <phrase> (translation) 10–11  </phrase>
       </td>
@@ -153,7 +156,11 @@
           <citation>A-a</citation>
           <phrase> I 92f</phrase>
         </phrase>
-        <phrase>; EHBC 78</phrase>
+        <phrase>; </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 78</phrase>
+        </phrase>
       </td>
     </tr>
     <tr>
@@ -162,7 +169,11 @@
         <phrase>Many Great Monastery elders’ names noted  in Commentaries for learning and contributions to decision of textual  problems, traceable to this reign.</phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 76 </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 76</phrase>
+        </phrase>
+        <phrase> </phrase>
       </td>
     </tr>
     <tr>
@@ -173,7 +184,11 @@
         <phrase>Many elders as last stated traceable to this reign too.</phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 80 </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 80</phrase>
+        </phrase>
+        <phrase> </phrase>
       </td>
     </tr>
     <tr>
@@ -182,7 +197,10 @@
         <phrase>Last Sri Lanka elders’ names in Vinaya Parivāra (p. 2) traceable to this reign; Parivāra can thus have been completed by Great Monastery any time later, before 5th cent  </phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 86</phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 86</phrase>
+        </phrase>
       </td>
     </tr>
     <tr>
@@ -193,8 +211,12 @@
         <phrase>Dispute between Great Monastery and Abhayagiri Monastery over Vinaya adjudged by Brahman Dīghakārāyana in favour of Great Monastery </phrase>
       </td>
       <td valign="top">
-        <citation>Vin-a</citation>
-        <phrase> 582; EHBC 99 </phrase>
+        <phrase>Vin-a 582; </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 99</phrase>
+        </phrase>
+        <phrase> </phrase>
       </td>
     </tr>
     <tr>
@@ -219,7 +241,11 @@
         <phrase>Last reign to be mentioned in body of Commentaries.  </phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 3, 86–7 </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 3</phrase>
+        </phrase>
+        <phrase>, 86–7 </phrase>
       </td>
     </tr>
     <tr>
@@ -228,7 +254,11 @@
         <phrase>Sinhalese Commentaries can have been closed at any time after this reign</phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 3, 86–7 </phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 3</phrase>
+        </phrase>
+        <phrase>, 86–7 </phrase>
       </td>
     </tr>
     <tr>
@@ -313,7 +343,8 @@
         <phrase>Corruption of bhikkhus by Vitaṇḍavadins (heretics or destructive critics). </phrase>
       </td>
       <td valign="top">
-        <emphasis>Dīpavaṃsa</emphasis>
+        <emphasis>Dīpavaṃsa, </emphasis>
+        <citation>Dīp</citation>
         <phrase> XXII–XXIII</phrase>
       </td>
     </tr>
@@ -415,7 +446,10 @@
         <phrase> Restoration of Great Monastery </phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 92</phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 92</phrase>
+        </phrase>
       </td>
     </tr>
     <tr>
@@ -424,7 +458,10 @@
         <phrase>Vetulya books burnt again. </phrase>
       </td>
       <td valign="top">
-        <phrase>EHBC 92</phrase>
+        <phrase>
+          <citation>EHBC</citation>
+          <phrase> 92</phrase>
+        </phrase>
       </td>
     </tr>
     <tr>
@@ -461,7 +498,12 @@
         <phrase>Sinhalese monastery established at Buddha Gayā in India</phrase>
       </td>
       <td valign="top">
-        <phrase>Malalasekera PLC, p.68; Epigraphia Zeylanica iii, II</phrase>
+        <phrase>Malalasekera </phrase>
+        <phrase>
+          <citation>PLC</citation>
+          <phrase>, p.68</phrase>
+        </phrase>
+        <phrase>; Epigraphia Zeylanica iii, II</phrase>
       </td>
     </tr>
     <tr>
@@ -489,7 +531,10 @@
         <phrase> (Vinaya summaries) and some of Buddhadatta Thera’s works.</phrase>
       </td>
       <td valign="top">
-        <phrase>PLC, p.77</phrase>
+        <phrase>
+          <citation>PLC</citation>
+          <phrase>, p.77</phrase>
+        </phrase>
       </td>
     </tr>
     <tr>

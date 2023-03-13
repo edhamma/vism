@@ -6,7 +6,7 @@
     - Refs.
   * - Devānampiya Tissa:  BCE 307–267  
     - Arrival in Sri Lanka of the Arahant Mahinda bringing Pali Tipiṭaka with Commentaries; Commentaries translated into Sinhalese; Great Monastery founded. 
-    - *Mahāvaṃsa*,  [Mhv]_ *XIII.*  
+    - *Mahāvaṃsa*,  [Mhv]_ *XIII*
   * - Duṭṭhagāmaṇi BCE 161–137
     - Expulsion of invaders after 76 years of foreign occupation of capital; restoration of unity and independence.  
     -  [Mhv]_ *XXV–XXXII* 
@@ -30,34 +30,34 @@
     -  [Mhv]_ *XXXIII.96*
   * - 
     - Committal by Great Monastery of Pali Tipiṭaka to writing for first time (away from royal capital). 
-    - Mhv XXXIII.100;   [Nikāya-s]_   (translation) 10–11  
+    -  [Mhv]_ *XXXIII.100*;   [Nikāya-s]_   (translation) 10–11  
   * - 
     - Abhayagiri Monastery adopts  “Dhammaruci Nikāya of Vajjiputtaka Sect” of India. 
     -  [Nikāya-s]_ *11*
   * - 
     - Meeting of Great Monastery bhikkhus  decides that care of texts and preaching  comes before practice of their contents. 
-    -  [A-a]_ *I 92f*; EHBC 78
+    -  [A-a]_ *I 92f*;  [EHBC]_ *78*
   * - 
     - Many Great Monastery elders’ names noted  in Commentaries for learning and contributions to decision of textual  problems, traceable to this reign.
-    - EHBC 76 
+    -  [EHBC]_ *76* 
   * - Kuṭakaṇṇa Tissa BCE 30–33
     - Many elders as last stated traceable to this reign too.
-    - EHBC 80 
+    -  [EHBC]_ *80* 
   * - 
     - Last Sri Lanka elders’ names in Vinaya Parivāra (p. 2) traceable to this reign; Parivāra can thus have been completed by Great Monastery any time later, before 5th cent  
-    - EHBC 86
+    -  [EHBC]_ *86*
   * - Bhātikābhaya BCE 20–CE 9
     - Dispute between Great Monastery and Abhayagiri Monastery over Vinaya adjudged by Brahman Dīghakārāyana in favour of Great Monastery 
-    -  [Vin-a]_   582; EHBC 99 
+    - Vin-a 582;  [EHBC]_ *99* 
   * - Khanirājānu-Tissa 30–33
     - 60 bhikkhus punished for treason.
     -  [Mhv]_ *XXXV.1*
   * - Vasabha  66–110  
     - Last reign to be mentioned in body of Commentaries.  
-    - EHBC 3, 86–7 
+    -  [EHBC]_ *3*, 86–7 
   * - 
     - Sinhalese Commentaries can have been closed at any time after this reign
-    - EHBC 3, 86–7 
+    -  [EHBC]_ *3*, 86–7 
   * - Gajabāhu I  113–135  
     - Abhayagiri Monastery supported by king and enlarged. 
     -  [Mhv]_ *XXXV.119* 
@@ -78,7 +78,7 @@
     -  [Nikāya-s]_ *12* 
   * - 
     - Corruption of bhikkhus by Vitaṇḍavadins (heretics or destructive critics). 
-    - *Dīpavaṃsa* XXII–XXIII
+    - *Dīpavaṃsa, * [Dīp]_   XXII–XXIII
   * - Gothābhaya 254–267
     - Great Monastery supported by king. 
     -  [Mhv]_ *XXXVI.102* 
@@ -102,10 +102,10 @@
     -  [Mhv]_ *XXXVII.27*
   * - 
     -  Restoration of Great Monastery 
-    - EHBC 92
+    -  [EHBC]_ *92*
   * - 
     - Vetulya books burnt again. 
-    - EHBC 92
+    -  [EHBC]_ *92*
   * - 
     - Dispute over Great Monastery boundary; bhikkhus again absent from Great Monastery for 9 months.
     -  [Mhv]_ *XXXVII.32*
@@ -114,13 +114,13 @@
     - EHBC 92;  [Mhv]_ *XXXVII.51f*  
   * - 
     - Sinhalese monastery established at Buddha Gayā in India
-    - Malalasekera PLC, p.68; Epigraphia Zeylanica iii, II
+    - Malalasekera  [PLC]_ *, p.68*; Epigraphia Zeylanica iii, II
   * - Jeṭṭha-Tissa II 332–34
     - *Dīpavaṃsa* composed in this period.
     - Quoted in  [Vin-a]_  
   * - Buddhadāsa 341–70; Upatissa  370–412  
     - Also perhaps *Mūlasikkhā* and *Khuddasikkhā* (Vinaya summaries) and some of Buddhadatta Thera’s works.
-    - PLC, p.77
+    -  [PLC]_ *, p.77*
   * - Mahānāma 412–434
     - Bhadantācariya Buddhaghosa arrives in Sri Lanka.  
     -  [Mhv]_ *XXXVII.215–46* 
