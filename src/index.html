@@ -11,16 +11,30 @@
 		(👑=top-quality, ✅=good, ❌=bad, ⛔=deprecated)
 		<h2>Outputs</h2>
 			<ul>
-				<li>👑 <a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via XML → LaTeX source → LuaLaTeX)</li>
-				<li>✅ <a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)</li>
-				<li>✅ <a href="sphinx/build/html/index.html">HTML</a> (via XML → Sphinx)</li>
-				<li>✅ <a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via XML → Sphinx)</li>
-				<li>❌ HTML5 + CSS for paged media (currently many issues: footnotes, missing TOC, bibliograhy)<ul>
-					<li><a href="html5/vism.weasyprint.pdf">PDF</a> (via WeasyPrint)</li>
-					<li><a href="html5/vism.vivliostyle.pdf">PDF</a> (via Vivliosyle)</li>
-				</ul>
-				<li>⛔ <a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XML → DocBook → XSLT → FOP)</li>
-				<li>⛔ <a href="docbook/vism.xhtml">HTML</a> (via XML → DocBook → XHTML5)</li>
+				<li>LaTeX
+					<ul>
+						<li>👑 <a href="latex/vism.pdf" download="vism.pdf">PDF</a> (via LuaLaTeX)</li>
+						<li>✅ <a href="latex/html/index.html">HTML</a> (via PlastTeX)</li>
+					</ul>
+				</li>
+				<li>Sphinx
+					<ul>
+					<li>✅ <a href="sphinx/build/html/index.html">HTML</a> (via Sphinx's html builder)</li>
+					<li>✅ <a href="sphinx/build/epub/vism.epub" download="vism.epub">ePub</a> (via Sphinx's ePub builder)</li>
+					</ul>
+				</li>
+				<li>HTML5 + CSS for paged media (emerging technology — issues esp. with footnotes; ToC must be generated — not yet done)
+					<ul>
+						<li>❌ <a href="html5/vism.weasyprint.pdf">PDF</a> (via WeasyPrint)</li>
+						<li>❌ <a href="html5/vism.vivliostyle.pdf">PDF</a> (via Vivliosyle)</li>
+					</ul>
+				</li>
+				<li>DocBook (deprecated)
+					<ul>
+						<li>⛔ <a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">PDF</a> (via XSLT → Apache FOP)</li>
+						<li>⛔ <a href="docbook/vism.xhtml">HTML</a> (via XSLT → XHTML5)</li>
+					</ul>
+				</li>
 			</ul>
 		<h2>Motivation</h2>
 			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
