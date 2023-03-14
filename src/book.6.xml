@@ -1,11 +1,22 @@
 <book>
   <struct-1-part name="(Front)">
     <heading toc_name="(Front)">(Front)</heading>
-    <include file="bib-1.xml"/>
     <struct-2-chapter name="Prefaces">
       <heading>
         <span>Prefaces</span>
       </heading>
+      <struct-3-section name="Copyright notice">
+        <heading>
+          <span>Copyright notice</span>
+        </heading>
+        <p><span>© 1975, 1991, 2010 Buddhist Publication Society. All rights reserved.</span></p>
+        <p><span>First edition: 1956 by Mr. Ananda Semage, Colombo.</span></p>
+        <p><span>Second edition: 1964</span></p>
+        <p><span>Reprinted: 1979 by BPS</span></p>
+        <p><span>Third edition: 1991</span></p>
+        <p><span>Reprinted: 1999</span></p>
+        <p><span>Fourth edition: 2010</span></p>
+      </struct-3-section>
       <struct-3-section name="Buddhist Publication Society edition note">
         <heading page_id="2">
           <span>Buddhist Publication Society edition note</span>
@@ -37,14 +48,14 @@
         </p>
         <p>
           <span family="bold">Terms of use:</span>
-          <span>Copyright revised, third, online edition. Copyright © 2011 Buddhist Publication Society.</span>
+          <span> Copyright revised, third, online edition. Copyright © 2011 Buddhist Publication Society.</span>
         </p>
         <p>
           <span>You may redistribute this PDF file in an unaltered form provided that: (1) you must only make such unaltered PDF copies available free of charge; (2) you clearly indicate that any passages of this work reproduced into other publications (printed as well as digital) are derived from this source document. Otherwise, all rights reserved.</span>
         </p>
         <p>
           <span family="bold">Publisher’s Note:</span>
-          <span>The BPS thanks all those who assisted with making this book available in a digital as well as printed edition. This book is the result of the work of Mr John Bullitt of Access to Insight who initiated this digital edition, the several volunteers who helped him to convert the previous edition of this book to digital text, the other volunteers who helped the BPS with proofreading, Bhikkhu Nyanatusita, the BPS editor, who helped with and coordinated the proofreading, formatting, and typesetting, corrected the Pali, etc., and the work of the BPS typesetters Bhikkhu Sacramento Upatissa and Mr Nalin Ariyaratna who skilfully typeset the text.</span>
+          <span >The BPS thanks all those who assisted with making this book available in a digital as well as printed edition. This book is the result of the work of Mr John Bullitt of Access to Insight who initiated this digital edition, the several volunteers who helped him to convert the previous edition of this book to digital text, the other volunteers who helped the BPS with proofreading, Bhikkhu Nyanatusita, the BPS editor, who helped with and coordinated the proofreading, formatting, and typesetting, corrected the Pali, etc., and the work of the BPS typesetters Bhikkhu Sacramento Upatissa and Mr Nalin Ariyaratna who skilfully typeset the text.</span>
         </p>
       </struct-3-section>
       <struct-3-section name="Message from his Holiness the Dalai Lama ">
@@ -192,6 +203,7 @@
         </p>
       </struct-3-section>
     </struct-2-chapter>
+    <include file="bib-1.xml"/>
     <struct-2-chapter name="Introduction ">
       <heading y="60" x="182" page_id="29" page_no="xxvii">
         <span>Introduction </span>
@@ -246,458 +258,458 @@
           <span>Why did Bhadantācariya Buddhaghosa come to Sri Lanka? And why did his work become famous beyond the island’s shores? The bare facts without some interpretation will hardly answer these questions. Certainly, any interpretation must be speculative; but if this is borne in mind, some attempt (without claim for originality) may perhaps be made on the following lines.</span>
         </p>
         <p y="164" x="42" page_id="30" page_no="xxviii">
-<table>
-  <tr>
-    <td>
-      <span>Kings of Ceylon</span>
-    </td>
-    <td>
-      <span>Relevant event</span>
-    </td>
-    <td>
-      <span>Refs.</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Devānampiya Tissa:  BCE 307–267  </span>
-    </td>
-    <td>
-      <span>Arrival in Sri Lanka of the Arahant Mahinda bringing Pali Tipiṭaka with Commentaries; Commentaries translated into Sinhalese; Great Monastery founded. </span>
-    </td>
-    <td>
-      <em>Mahāvaṃsa</em>
-      <span>, </span>
-      <ref type="bib" target="Mhv" loc="XIII">Mhv XIII</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Duṭṭhagāmaṇi BCE 161–137</span>
-    </td>
-    <td>
-      <span>Expulsion of invaders after 76 years of foreign occupation of capital; restoration of unity and independence.  </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXV–XXXII">Mhv XXV–XXXII</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Many names of Great Monastery elders, noted in Commentaries for virtuous behaviour, traceable to this and following reign. </span>
-    </td>
-    <td>
-      <span>Adikaram, </span>
-      <em>Early History of Buddhism in Sri Lanka</em>
-      <span>, pp. 65–70 </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Vaṭṭagāmaṇi  BCE 104–88 </span>
-    </td>
-    <td>
-      <span>Reign interrupted after 5 months by rebellion of Brahman Tissa, famine, invasion, and king’s exile.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXIII.33f.">Mhv XXXIII.33f.</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Bhikkhus all disperse from Great Monastery to South SL and to India.  </span>
-    </td>
-    <td>
-      <ref type="bib" target="A-a" loc="I 92">A-a I 92</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Restoration of king after 14 years and return of bhikkhus.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXIII.78">Mhv XXXIII.78</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Foundation of Abhayagiri Monastery by king. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXIII.81">Mhv XXXIII.81</ref>
-      <span>  </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Abhayagiri Monastery secedes from Great Monastery and becomes schismatic.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXIII.96">Mhv XXXIII.96</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Committal by Great Monastery of Pali Tipiṭaka to writing for first time (away from royal capital). </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXIII.100">Mhv XXXIII.100</ref>
-      <span>;  </span>
-      <ref type="bib" target="Nikāya-s">Nikāya-s</ref>
-      <span> (translation) 10–11  </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Abhayagiri Monastery adopts  “Dhammaruci Nikāya of Vajjiputtaka Sect” of India. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Nikāya-s" loc="11">Nikāya-s 11</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Meeting of Great Monastery bhikkhus  decides that care of texts and preaching  comes before practice of their contents. </span>
-    </td>
-    <td>
-      <ref type="bib" target="A-a" loc="I 92f">A-a I 92f</ref>
-      <span>; </span>
-      <ref type="bib" target="EHBC" loc="78">EHBC 78</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Many Great Monastery elders’ names noted  in Commentaries for learning and contributions to decision of textual  problems, traceable to this reign.</span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="76">EHBC 76</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Kuṭakaṇṇa Tissa BCE 30–33</span>
-    </td>
-    <td>
-      <span>Many elders as last stated traceable to this reign too.</span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="80">EHBC 80</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Last Sri Lanka elders’ names in Vinaya Parivāra (p. 2) traceable to this reign; Parivāra can thus have been completed by Great Monastery any time later, before 5th cent  </span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="86">EHBC 86</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Bhātikābhaya BCE 20–CE 9</span>
-    </td>
-    <td>
-      <span>Dispute between Great Monastery and Abhayagiri Monastery over Vinaya adjudged by Brahman Dīghakārāyana in favour of Great Monastery </span>
-    </td>
-    <td>
-      <span>Vin-a 582; </span>
-      <ref type="bib" target="EHBC" loc="99">EHBC 99</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Khanirājānu-Tissa 30–33</span>
-    </td>
-    <td>
-      <span>60 bhikkhus punished for treason.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXV.1">Mhv XXXV.1</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Vasabha  66–110  </span>
-    </td>
-    <td>
-      <span>Last reign to be mentioned in body of Commentaries.  </span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="3">EHBC 3</ref>
-      <span>, 86–7 </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Sinhalese Commentaries can have been closed at any time after this reign</span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="3">EHBC 3</ref>
-      <span>, 86–7 </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Gajabāhu I  113–135  </span>
-    </td>
-    <td>
-      <span>Abhayagiri Monastery supported by king and enlarged. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXV.119">Mhv XXXV.119</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>6 kings  135–215  </span>
-    </td>
-    <td>
-      <span>Mentions of royal support for Great Monastery and Abhayagiri Monastery</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXV.1">Mhv XXXV.1</ref>
-      <span>, 7, 24, 33, 65 </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Vohārika-Tissa 215 –237 </span>
-    </td>
-    <td>
-      <span>King supports both monasteries. </span>
-    </td>
-    <td/>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Abhayagiri Monastery has adopted Vetulya (Mahāyāna?) Piṭaka.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Nikāya-s" loc="12">Nikāya-s 12</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>King suppresses Vetulya doctrines.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVI.41">Mhv XXXVI.41</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Vetulya books burnt and heretic bhikkhus disgraced  </span>
-    </td>
-    <td>
-      <ref type="bib" target="Nikāya-s" loc="12">Nikāya-s 12</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Corruption of bhikkhus by Vitaṇḍavadins (heretics or destructive critics). </span>
-    </td>
-    <td>
-      <em>Dīpavaṃsa, </em>
-      <ref type="bib" target="Dīp">Dīp</ref>
-      <span> XXII–XXIII</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Gothābhaya 254–267</span>
-    </td>
-    <td>
-      <span>Great Monastery supported by king. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVI.102">Mhv XXXVI.102</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>60 bhikkhus in Abhayagiri Monastery banished by king for upholding Vetulya doctrines.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVI.111">Mhv XXXVI.111</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Secession from Abhayagiri Monastery; new sect formed</span>
-    </td>
-    <td>
-      <ref type="bib" target="Nikāya-s" loc="13">Nikāya-s 13</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Indian bhikkhu Saṅghamitta supports Abhayagiri Monastery</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVI.112">Mhv XXXVI.112</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Jeṭṭha-Tissa 267–277</span>
-    </td>
-    <td>
-      <span>King favours Great Monastery; Saṅghamitta flees to India. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVI.123">Mhv XXXVI.123</ref>
-      <span>  </span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Mahāsena 277–304</span>
-    </td>
-    <td>
-      <span>King protects Saṅghamitta, who returns Persecution of Great Monastery; its  bhikkhus driven from capital for 9 years. </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVII.1–50">Mhv XXXVII.1–50</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Saṅghamitta assassinated.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVII.27">Mhv XXXVII.27</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span> Restoration of Great Monastery </span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="92">EHBC 92</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Vetulya books burnt again. </span>
-    </td>
-    <td>
-      <ref type="bib" target="EHBC" loc="92">EHBC 92</ref>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Dispute over Great Monastery boundary; bhikkhus again absent from Great Monastery for 9 months.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVII.32">Mhv XXXVII.32</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Siri Meghavaṇṇa 304–332  </span>
-    </td>
-    <td>
-      <span>King favours Great Monastery</span>
-    </td>
-    <td>
-      <span>EHBC 92; </span>
-      <ref type="bib" target="Mhv" loc="XXXVII.51f">Mhv XXXVII.51f</ref>
-      <span>  </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <span>Sinhalese monastery established at Buddha Gayā in India</span>
-    </td>
-    <td>
-      <span>Malalasekera </span>
-      <ref type="bib" target="PLC" loc=", p.68">PLC, p.68</ref>
-      <span>; Epigraphia Zeylanica iii, II</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Jeṭṭha-Tissa II 332–34</span>
-    </td>
-    <td>
-      <em>Dīpavaṃsa</em>
-      <span> composed in this period.</span>
-    </td>
-    <td>
-      <span>Quoted in </span>
-      <ref type="bib" target="Vin-a">Vin-a</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Buddhadāsa 341–70; Upatissa  370–412  </span>
-    </td>
-    <td>
-      <span>Also perhaps </span>
-      <em>Mūlasikkhā</em>
-      <span> and </span>
-      <em>Khuddasikkhā</em>
-      <span> (Vinaya summaries) and some of Buddhadatta Thera’s works.</span>
-    </td>
-    <td>
-      <ref type="bib" target="PLC" loc=", p.77">PLC, p.77</ref>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span>Mahānāma 412–434</span>
-    </td>
-    <td>
-      <span>Bhadantācariya Buddhaghosa arrives in Sri Lanka.  </span>
-    </td>
-    <td>
-      <ref type="bib" target="Mhv" loc="XXXVII.215–46">Mhv XXXVII.215–46</ref>
-      <span> </span>
-    </td>
-  </tr>
-  <tr>
-    <td/>
-    <td>
-      <em>Samantapāsādikā</em>
-      <span> (Vinaya commentary) begun in 20th and finished in 21st year of this king’s reign.</span>
-    </td>
-    <td>
-      <ref type="bib" target="Vin-a">Vin-a</ref>
-      <span> Epilogue</span>
-    </td>
-  </tr>
-</table>
+        <table>
+          <tr>
+            <td>
+              <span>Kings of Ceylon</span>
+            </td>
+            <td>
+              <span>Relevant event</span>
+            </td>
+            <td>
+              <span>Refs.</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Devānampiya Tissa:  BCE 307–267  </span>
+            </td>
+            <td>
+              <span>Arrival in Sri Lanka of the Arahant Mahinda bringing Pali Tipiṭaka with Commentaries; Commentaries translated into Sinhalese; Great Monastery founded. </span>
+            </td>
+            <td>
+              <em>Mahāvaṃsa</em>
+              <span>, </span>
+              <ref type="bib" target="Mhv" loc="XIII">Mhv XIII</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Duṭṭhagāmaṇi BCE 161–137</span>
+            </td>
+            <td>
+              <span>Expulsion of invaders after 76 years of foreign occupation of capital; restoration of unity and independence.  </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXV–XXXII">Mhv XXV–XXXII</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Many names of Great Monastery elders, noted in Commentaries for virtuous behaviour, traceable to this and following reign. </span>
+            </td>
+            <td>
+              <span>Adikaram, </span>
+              <em>Early History of Buddhism in Sri Lanka</em>
+              <span>, pp. 65–70 </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Vaṭṭagāmaṇi  BCE 104–88 </span>
+            </td>
+            <td>
+              <span>Reign interrupted after 5 months by rebellion of Brahman Tissa, famine, invasion, and king’s exile.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXIII.33f.">Mhv XXXIII.33f.</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Bhikkhus all disperse from Great Monastery to South SL and to India.  </span>
+            </td>
+            <td>
+              <ref type="bib" target="A-a" loc="I 92">A-a I 92</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Restoration of king after 14 years and return of bhikkhus.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXIII.78">Mhv XXXIII.78</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Foundation of Abhayagiri Monastery by king. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXIII.81">Mhv XXXIII.81</ref>
+              <span>  </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Abhayagiri Monastery secedes from Great Monastery and becomes schismatic.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXIII.96">Mhv XXXIII.96</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Committal by Great Monastery of Pali Tipiṭaka to writing for first time (away from royal capital). </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXIII.100">Mhv XXXIII.100</ref>
+              <span>;  </span>
+              <ref type="bib" target="Nikāya-s">Nikāya-s</ref>
+              <span> (translation) 10–11  </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Abhayagiri Monastery adopts  “Dhammaruci Nikāya of Vajjiputtaka Sect” of India. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Nikāya-s" loc="11">Nikāya-s 11</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Meeting of Great Monastery bhikkhus  decides that care of texts and preaching  comes before practice of their contents. </span>
+            </td>
+            <td>
+              <ref type="bib" target="A-a" loc="I 92f">A-a I 92f</ref>
+              <span>; </span>
+              <ref type="bib" target="EHBC" loc="78">EHBC 78</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Many Great Monastery elders’ names noted  in Commentaries for learning and contributions to decision of textual  problems, traceable to this reign.</span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="76">EHBC 76</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Kuṭakaṇṇa Tissa BCE 30–33</span>
+            </td>
+            <td>
+              <span>Many elders as last stated traceable to this reign too.</span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="80">EHBC 80</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Last Sri Lanka elders’ names in Vinaya Parivāra (p. 2) traceable to this reign; Parivāra can thus have been completed by Great Monastery any time later, before 5th cent  </span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="86">EHBC 86</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Bhātikābhaya BCE 20–CE 9</span>
+            </td>
+            <td>
+              <span>Dispute between Great Monastery and Abhayagiri Monastery over Vinaya adjudged by Brahman Dīghakārāyana in favour of Great Monastery </span>
+            </td>
+            <td>
+              <span>Vin-a 582; </span>
+              <ref type="bib" target="EHBC" loc="99">EHBC 99</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Khanirājānu-Tissa 30–33</span>
+            </td>
+            <td>
+              <span>60 bhikkhus punished for treason.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXV.1">Mhv XXXV.1</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Vasabha  66–110  </span>
+            </td>
+            <td>
+              <span>Last reign to be mentioned in body of Commentaries.  </span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="3">EHBC 3</ref>
+              <span>, 86–7 </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Sinhalese Commentaries can have been closed at any time after this reign</span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="3">EHBC 3</ref>
+              <span>, 86–7 </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Gajabāhu I  113–135  </span>
+            </td>
+            <td>
+              <span>Abhayagiri Monastery supported by king and enlarged. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXV.119">Mhv XXXV.119</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>6 kings  135–215  </span>
+            </td>
+            <td>
+              <span>Mentions of royal support for Great Monastery and Abhayagiri Monastery</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXV.1">Mhv XXXV.1</ref>
+              <span>, 7, 24, 33, 65 </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Vohārika-Tissa 215 –237 </span>
+            </td>
+            <td>
+              <span>King supports both monasteries. </span>
+            </td>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Abhayagiri Monastery has adopted Vetulya (Mahāyāna?) Piṭaka.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Nikāya-s" loc="12">Nikāya-s 12</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>King suppresses Vetulya doctrines.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVI.41">Mhv XXXVI.41</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Vetulya books burnt and heretic bhikkhus disgraced  </span>
+            </td>
+            <td>
+              <ref type="bib" target="Nikāya-s" loc="12">Nikāya-s 12</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Corruption of bhikkhus by Vitaṇḍavadins (heretics or destructive critics). </span>
+            </td>
+            <td>
+              <em>Dīpavaṃsa, </em>
+              <ref type="bib" target="Dīp">Dīp</ref>
+              <span> XXII–XXIII</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Gothābhaya 254–267</span>
+            </td>
+            <td>
+              <span>Great Monastery supported by king. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVI.102">Mhv XXXVI.102</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>60 bhikkhus in Abhayagiri Monastery banished by king for upholding Vetulya doctrines.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVI.111">Mhv XXXVI.111</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Secession from Abhayagiri Monastery; new sect formed</span>
+            </td>
+            <td>
+              <ref type="bib" target="Nikāya-s" loc="13">Nikāya-s 13</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Indian bhikkhu Saṅghamitta supports Abhayagiri Monastery</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVI.112">Mhv XXXVI.112</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Jeṭṭha-Tissa 267–277</span>
+            </td>
+            <td>
+              <span>King favours Great Monastery; Saṅghamitta flees to India. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVI.123">Mhv XXXVI.123</ref>
+              <span>  </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Mahāsena 277–304</span>
+            </td>
+            <td>
+              <span>King protects Saṅghamitta, who returns Persecution of Great Monastery; its  bhikkhus driven from capital for 9 years. </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVII.1–50">Mhv XXXVII.1–50</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Saṅghamitta assassinated.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVII.27">Mhv XXXVII.27</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span> Restoration of Great Monastery </span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="92">EHBC 92</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Vetulya books burnt again. </span>
+            </td>
+            <td>
+              <ref type="bib" target="EHBC" loc="92">EHBC 92</ref>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Dispute over Great Monastery boundary; bhikkhus again absent from Great Monastery for 9 months.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVII.32">Mhv XXXVII.32</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Siri Meghavaṇṇa 304–332  </span>
+            </td>
+            <td>
+              <span>King favours Great Monastery</span>
+            </td>
+            <td>
+              <span>EHBC 92; </span>
+              <ref type="bib" target="Mhv" loc="XXXVII.51f">Mhv XXXVII.51f</ref>
+              <span>  </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <span>Sinhalese monastery established at Buddha Gayā in India</span>
+            </td>
+            <td>
+              <span>Malalasekera </span>
+              <ref type="bib" target="PLC" loc=", p.68">PLC, p.68</ref>
+              <span>; Epigraphia Zeylanica iii, II</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Jeṭṭha-Tissa II 332–34</span>
+            </td>
+            <td>
+              <em>Dīpavaṃsa</em>
+              <span> composed in this period.</span>
+            </td>
+            <td>
+              <span>Quoted in </span>
+              <ref type="bib" target="Vin-a">Vin-a</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Buddhadāsa 341–70; Upatissa  370–412  </span>
+            </td>
+            <td>
+              <span>Also perhaps </span>
+              <em>Mūlasikkhā</em>
+              <span> and </span>
+              <em>Khuddasikkhā</em>
+              <span> (Vinaya summaries) and some of Buddhadatta Thera’s works.</span>
+            </td>
+            <td>
+              <ref type="bib" target="PLC" loc=", p.77">PLC, p.77</ref>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>Mahānāma 412–434</span>
+            </td>
+            <td>
+              <span>Bhadantācariya Buddhaghosa arrives in Sri Lanka.  </span>
+            </td>
+            <td>
+              <ref type="bib" target="Mhv" loc="XXXVII.215–46">Mhv XXXVII.215–46</ref>
+              <span> </span>
+            </td>
+          </tr>
+          <tr>
+            <td/>
+            <td>
+              <em>Samantapāsādikā</em>
+              <span> (Vinaya commentary) begun in 20th and finished in 21st year of this king’s reign.</span>
+            </td>
+            <td>
+              <ref type="bib" target="Vin-a">Vin-a</ref>
+              <span> Epilogue</span>
+            </td>
+          </tr>
+        </table>
         </p>
         <p y="119" x="41" page_id="30" page_no="xxviii">
           <span>Up till the reign of King Vaṭṭagāmaṇi Abhaya in the first century BCE the Great Monastery, founded by Asoka’s son, the Arahant Mahinda, and hitherto without a rival for the royal favour, had preserved a reputation for the saintliness of its </span>
