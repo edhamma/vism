@@ -4,7 +4,6 @@
 
 \usepackage{multicol}
 \usepackage{xcolor}
-\usepackage{enumitem}
 
 \def\paraIssueUrl#1{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20paragraph\%20#1\&body=(\vismCommitTimestampQuery)}
 \def\vismCommitHref{\href{https://github.com/eudoxos/vism/commit/\vismCommit}{\vismCommit}}
@@ -31,6 +30,8 @@
 	\newenvironemnt{vismHanging}{}{}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
+	% styling of enumerations (roman, alpha, ...)
+	\usepackage{enumitem}
 	% use the same-looking font like BPS2011
 	% (they used URWPalladioPali, this is modernized, with unicode glyphs for all pali)
 	\usepackage{fontspec}
