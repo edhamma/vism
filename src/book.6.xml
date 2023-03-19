@@ -2492,11 +2492,29 @@
         <span>However, even when this path of purification is shown in this way under the headings of virtue, concentration and understanding, each comprising various special qualities, it is still only shown extremely briefly. And so since that is insufficient to help all, there is, in order to show it in detail, the following set of questions dealing in the first place with virtue:</span>
       </p>
       <p y="285" x="87" page_id="68" page_no="10">
-        <TODO>enumeration</TODO>
-        <span>(i) What is virtue? (ii) In what sense is it virtue? (iii) What are its characteristic, function, manifestation, and proximate cause?</span>
-      </p>
-      <p y="332" x="81" page_id="68" page_no="10">
-        <span>(iv) What are the benefits of virtue? (v) How many kinds of virtue are there? (vi) What is the defiling of it? (viii) What is the cleansing of it?</span>
+        <enum labels="(i)">
+          <li>
+            <span>What is virtue?</span>
+          </li>
+          <li>
+            <span>In what sense is it virtue?</span>
+          </li>
+          <li>
+            <span>What are its characteristic, function, manifestation, and proximate cause?</span>
+          </li>
+          <li>
+            <span>What are the benefits of virtue?</span>
+          </li>
+          <li>
+            <span>How many kinds of virtue are there?</span>
+          </li>
+          <li>
+            <span>What is the defiling of it?</span>
+          </li>
+          <li>
+            <span>What is the cleansing of it?</span>
+          </li>
+        </enum>
       </p>
       <p y="381" x="42" page_id="68" page_no="10" anchor="I.17" num="17">
         <span>Here are the answers:</span>
@@ -5279,7 +5297,7 @@
       <p y="366" x="42" page_id="106" page_no="48" anchor="I.143" num="143">
         <span>However, it was also asked (vi) </span>
         <span family="smallcaps" size="9">What is the defiling of it?</span>
-        <span> and </span>
+        <span> and (vii) </span>
         <span family="smallcaps" size="9">What is the cleansing of it?</span>
       </p>
       <p y="393" x="41" page_id="106" page_no="48">
@@ -5757,8 +5775,47 @@
         <span>Thirteen kinds of ascetic practices have been allowed by the Blessed One to clansmen who have given up the things of the flesh and, regardless of body and life, are desirous of undertaking a practice in conformity [with their aim]. They are:</span>
       </p>
       <p y="399" x="91" page_id="113" page_no="55">
-        <TODO>enumeration</TODO>
-        <span>i. the refuse-rag-wearer’s practice, ii. the triple-robe-wearer’s practice, iii. the alms-food-eater’s practice, iv. the house-to-house-seeker’s practice, v. the one-sessioner’s practice, vi. the bowl-food-eater’s practice, vii. the later-food-refuser’s practice, viii. the forest-dweller’s practice, ix. the tree-root-dweller’s practice, x. the open-air-dweller’s practice, xi. the charnel-ground-dweller’s practice, xii. the any-bed-user’s practice, xiii. the sitter’s practice.</span>
+        <enum labels="i.">
+          <li>
+            <span>the refuse-rag-wearer’s practice,</span>
+          </li>
+          <li>
+            <span>the triple-robe-wearer’s practice,</span>
+          </li>
+          <li>
+            <span>the alms-food-eater’s practice,</span>
+          </li>
+          <li>
+            <span>the house-to-house-seeker’s practice,</span>
+          </li>
+          <li>
+            <span>the one-sessioner’s practice,</span>
+          </li>
+          <li>
+            <span>the bowl-food-eater’s practice,</span>
+          </li>
+          <li>
+            <span>the later-food-refuser’s practice,</span>
+          </li>
+          <li>
+            <span>the forest-dweller’s practice,</span>
+          </li>
+          <li>
+            <span>the tree-root-dweller’s practice,</span>
+          </li>
+          <li>
+            <span>the open-air-dweller’s practice,</span>
+          </li>
+          <li>
+            <span>the charnel-ground-dweller’s practice,</span>
+          </li>
+          <li>
+            <span>the any-bed-user’s practice,</span>
+          </li>
+          <li>
+            <span>the sitter’s practice.</span>
+          </li>
+        </enum>
       </p>
       <p y="553" x="48" page_id="113" page_no="55" anchor="II.3" num="3">
         <span>Herein:</span>
@@ -5787,7 +5844,7 @@
           <span>(6) And as to groups, and also (7) singly,</span>
         </line>
         <line>
-          <span>The exposition should be known. </span>
+          <span>The exposition should be known.</span>
           <printed_page edition="PTS">60</printed_page>
         </line>
       </verse>
@@ -26431,23 +26488,26 @@
         <span> comes next and that has still to be developed. Now, that is not easy, firstly even to know about, let alone to develop, when it is taught very briefly. In order, therefore, to deal with the detailed method of its development there is the following set of questions:</span>
       </p>
       <p y="352" x="98" page_id="489" page_no="431">
-        <TODO>enumeration</TODO>
-        <span>(i) What is understanding?</span>
-      </p>
-      <p y="366" x="95" page_id="489" page_no="431">
-        <span>(ii) In what sense is it understanding?</span>
-      </p>
-      <p y="381" x="92" page_id="489" page_no="431">
-        <span>(iii) What are its characteristic, function, manifestation, and proximate cause?</span>
-      </p>
-      <p y="407" x="93" page_id="489" page_no="431">
-        <span>(iv) How many kinds of understanding are there?</span>
-      </p>
-      <p y="422" x="96" page_id="489" page_no="431">
-        <span>(v) How is it developed?</span>
-      </p>
-      <p y="436" x="93" page_id="489" page_no="431">
-        <span>(vi) What are the benefits of developing understanding?</span>
+        <enum labels="(i)">
+          <li>
+            <span>What is understanding?</span>
+          </li>
+          <li>
+            <span>In what sense is it understanding?</span>
+          </li>
+          <li>
+            <span>What are its characteristic, function, manifestation, and proximate cause?</span>
+          </li>
+          <li>
+            <span>How many kinds of understanding are there?</span>
+          </li>
+          <li>
+            <span>How is it developed?</span>
+          </li>
+          <li>
+            <span>What are the benefits of developing understanding?</span>
+          </li>
+        </enum>
       </p>
       <p y="451" x="47" page_id="489" page_no="431" anchor="XIV.2" num="2">
         <span>Here are the answers:</span>
@@ -26563,63 +26623,69 @@
         <span family="smallcaps" size="9">How many kinds of understanding are there?</span>
       </p>
       <p y="183" x="100" page_id="491" page_no="433">
-        <TODO>enumeration</TODO>
-        <span>1. Firstly, as having the characteristic of penetrating the individual essences of states, it is of one kind.</span>
-      </p>
-      <p y="210" x="100" page_id="491" page_no="433">
-        <span>2. As mundane and supramundane it is of two kinds.</span>
-      </p>
-      <p y="224" x="100" page_id="491" page_no="433">
-        <span>3. Likewise as subject to cankers and free from cankers, and so on,</span>
-      </p>
-      <p y="239" x="100" page_id="491" page_no="433">
-        <span>4. As the defining of mentality and of materiality,</span>
-      </p>
-      <p y="253" x="100" page_id="491" page_no="433">
-        <span>5. As accompanied by joy or by equanimity,</span>
-      </p>
-      <p y="268" x="100" page_id="491" page_no="433">
-        <span>6. As the planes of seeing and of development.</span>
-      </p>
-      <p y="283" x="100" page_id="491" page_no="433">
-        <span>7. It is of three kinds as consisting in what is reasoned, consisting in what is learnt (heard), and consisting in development.</span>
-      </p>
-      <p y="309" x="100" page_id="491" page_no="433">
-        <span>8. Likewise as having a limited, exalted, or measureless object,</span>
-      </p>
-      <p y="323" x="100" page_id="491" page_no="433">
-        <span>9. As skill in improvement, detriment, and means,</span>
-      </p>
-      <p y="338" x="95" page_id="491" page_no="433">
-        <span>10. As interpreting the internal, and so on.</span>
-      </p>
-      <p y="353" x="95" page_id="491" page_no="433">
-        <span>11. It is of four kinds as knowledge of the four truths, 12. And as the four discriminations.</span>
-        <footnote page_id="491" mark="4" anchor="XIV.n4">
-          <p>
-            <em>Paṭisambhidā </em>
-            <span>is usually rendered by “analysis” (see e.g. </span>
-            <em>Points of Controversy—Kathāvatthu </em>
-            <span>translation—pp. 377ff). But the Tipiṭaka explanations of the four </span>
-            <em>paṭisambhidā </em>
-            <span>suggest no emphasis on </span>
-            <em>analysis </em>
-            <span>rather than </span>
-            <em>synthesis. </em>
-            <ref type="bib" target="Vism-mhṭ">Vism-mhṭ</ref>
-            <span> gives the following definition of the term: “Knowledge that is classified (</span>
-            <em>pabheda-gata </em>
-            <span>= put into a division) under meaning </span>
-            <em>(attha) </em>
-            <span>as capable of effecting the explanation and definition of specific characteristics of the meaning class (meaning division) is called </span>
-            <em>attha-paṭisambhidā; </em>
-            <span>and so with the other three” (</span>
-            <ref type="bib" target="Vism-mhṭ" loc="436">Vism-mhṭ 436</ref>
-            <span>). “Discrimination” has been chosen for </span>
-            <em>paṭisambhidā </em>
-            <span>because, while it has the sense of “division,” it does not imply an opposite process as “analysis” does. Also it may be questioned whether the four are well described as “entirely logical”: “entirely epistemological” might perhaps be both less rigid and nearer; for they seem to cover four interlocking fields, namely: meanings of statements and effects of causes (etc.), statements of meanings and causes of effects (etc.), language as restricted to etymological rules of verbal expression, and clarity (or perspicuous inspiration) in marshalling the other three.</span>
-          </p>
-        </footnote>
+        <enum labels="1.">
+          <li>
+            <span>Firstly, as having the characteristic of penetrating the individual essences of states, it is of one kind.</span>
+          </li>
+          <li>
+            <span>As mundane and supramundane it is of two kinds.</span>
+          </li>
+          <li>
+            <span>Likewise as subject to cankers and free from cankers, and so on,</span>
+          </li>
+          <li>
+            <span>As the defining of mentality and of materiality,</span>
+          </li>
+          <li>
+            <span>As accompanied by joy or by equanimity,</span>
+          </li>
+          <li>
+            <span>As the planes of seeing and of development.</span>
+          </li>
+          <li>
+            <span>It is of three kinds as consisting in what is reasoned, consisting in what is learnt (heard), and consisting in development.</span>
+          </li>
+          <li>
+            <span>Likewise as having a limited, exalted, or measureless object,</span>
+          </li>
+          <li>
+            <span>As skill in improvement, detriment, and means,</span>
+          </li>
+          <li>
+            <span>As interpreting the internal, and so on.</span>
+          </li>
+          <li>
+            <span>It is of four kinds as knowledge of the four truths,</span>
+          </li>
+          <li>
+            <span>And as the four discriminations.</span>
+            <footnote page_id="491" mark="4" anchor="XIV.n4">
+              <p>
+                <em>Paṭisambhidā </em>
+                <span>is usually rendered by “analysis” (see e.g. </span>
+                <em>Points of Controversy—Kathāvatthu </em>
+                <span>translation—pp. 377ff). But the Tipiṭaka explanations of the four </span>
+                <em>paṭisambhidā </em>
+                <span>suggest no emphasis on </span>
+                <em>analysis </em>
+                <span>rather than </span>
+                <em>synthesis. </em>
+                <ref type="bib" target="Vism-mhṭ">Vism-mhṭ</ref>
+                <span> gives the following definition of the term: “Knowledge that is classified (</span>
+                <em>pabheda-gata </em>
+                <span>= put into a division) under meaning </span>
+                <em>(attha) </em>
+                <span>as capable of effecting the explanation and definition of specific characteristics of the meaning class (meaning division) is called </span>
+                <em>attha-paṭisambhidā; </em>
+                <span>and so with the other three” (</span>
+                <ref type="bib" target="Vism-mhṭ" loc="436">Vism-mhṭ 436</ref>
+                <span>). “Discrimination” has been chosen for </span>
+                <em>paṭisambhidā </em>
+                <span>because, while it has the sense of “division,” it does not imply an opposite process as “analysis” does. Also it may be questioned whether the four are well described as “entirely logical”: “entirely epistemological” might perhaps be both less rigid and nearer; for they seem to cover four interlocking fields, namely: meanings of statements and effects of causes (etc.), statements of meanings and causes of effects (etc.), language as restricted to etymological rules of verbal expression, and clarity (or perspicuous inspiration) in marshalling the other three.</span>
+              </p>
+            </footnote>
+          </li>
+        </enum>
       </p>
       <p y="382" x="48" page_id="491" page_no="433" anchor="XIV.9" num="9">
         <em>1.</em>
@@ -28760,27 +28826,130 @@
         <span>Herein, the twenty-seven given as such are these:</span>
       </p>
       <p y="216" x="87" page_id="527" page_no="469">
-        <TODO>enumeration</TODO>
-        <span>(i) contact, (ii) volition, (iii) applied thought, </span>
-        <printed_page edition="PTS">463</printed_page>
-        <span> (iv) sustained thought, (v) happiness (interest), (vi) energy, (vii) life, (viii) concentration, </span>
-        <span>(ix) faith, (x) mindfulness, (xi) conscience, (xii) shame, (xiii) non-greed, (xiv) non-hate, (xv) non-delusion, (xvi) tranquillity of the [mental] body, (xvii) tranquillity of consciousness, (xviii) lightness of the [mental] body, (xix) lightness of consciousness, (xx) malleability of the [mental] body, (xxi) malleability of consciousness, (xxii) wieldiness of the [mental] body, (xxiii) wieldiness of consciousness, (xxiv) proficiency of the [mental] body, (xxv) proficiency of consciousness, (xxvi) rectitude of the [mental) body, </span>
-        <printed_page edition="BPS2011" page_id="528">470</printed_page>
-        <span>(xxvii) rectitude of consciousness.</span>
+        <enum labels="(i)">
+          <li>
+            <span>contact,</span>
+          </li>
+          <li>
+            <span>volition,</span>
+          </li>
+          <li>
+            <span>applied thought,</span>
+          </li>
+          <li>
+             <printed_page edition="PTS">463</printed_page><span>sustained thought,</span>
+          </li>
+          <li>
+            <span>happiness (interest),</span>
+          </li>
+          <li>
+            <span>energy,</span>
+          </li>
+          <li>
+            <span>life,</span>
+          </li>
+          <li>
+            <span>concentration,</span>
+          </li>
+          <li>
+            <span>faith,</span>
+          </li>
+          <li>
+            <span>mindfulness,</span>
+          </li>
+          <li>
+            <span>conscience,</span>
+          </li>
+          <li>
+            <span>shame,</span>
+          </li>
+          <li>
+            <span>non-greed,</span>
+          </li>
+          <li>
+            <span>non-hate,</span>
+          </li>
+          <li>
+            <span>non-delusion,</span>
+          </li>
+          <li>
+            <span>tranquillity of the [mental] body,</span>
+          </li>
+          <li>
+            <span>tranquillity of consciousness,</span>
+          </li>
+          <li>
+            <span>lightness of the [mental] body,</span>
+          </li>
+          <li>
+            <span>lightness of consciousness,</span>
+          </li>
+          <li>
+            <span>malleability of the [mental] body,</span>
+          </li>
+          <li>
+            <span>malleability of consciousness,</span>
+          </li>
+          <li>
+            <span>wieldiness of the [mental] body,</span>
+          </li>
+          <li>
+            <span>wieldiness of consciousness,</span>
+          </li>
+          <li>
+            <span>proficiency of the [mental] body,</span>
+          </li>
+          <li>
+            <span>proficiency of consciousness,</span>
+          </li>
+          <li>
+            <span>rectitude of the [mental] body,</span>
+          </li>
+          <li>
+            <printed_page edition="BPS2011" page_id="528">470</printed_page><span>rectitude of consciousness.</span>
+          </li>
+      </enum>
       </p>
       <p y="73" x="53" page_id="528" page_no="470">
         <span>The four ‘or-whatever-states’ are these:</span>
       </p>
       <p y="88" x="70" page_id="528" page_no="470">
-        <TODO>enumeration</TODO>
-        <span>(xxviii) zeal (desire), (xxix) resolution, (xxx) attention (bringing to mind), (xxxi) specific neutrality.</span>
+        <enum start="28" labels="(i)">
+          <li>
+            <span>zeal (desire),</span>
+          </li>
+          <li>
+            <span>resolution,</span>
+          </li>
+          <li>
+            <span>attention (bringing to mind),</span>
+          </li>
+          <li>
+            <span>specific neutrality.</span>
+          </li>
+        </enum>
       </p>
       <p y="137" x="53" page_id="528" page_no="470">
         <span>And the five inconstant are these:</span>
       </p>
       <p y="152" x="70" page_id="528" page_no="470">
-        <TODO>enumeration</TODO>
-        <span>(xxxii) compassion, (xxxiii) gladness, (xxxiv) abstinence from bodily misconduct, (xxxv) abstinence from verbal misconduct, (xxxvi) abstinence from wrong livelihood.</span>
+        <enum start="32" labels="(i)">
+          <li>
+            <span>compassion,</span>
+          </li>
+          <li>
+            <span>gladness,</span>
+          </li>
+          <li>
+            <span>abstinence from bodily misconduct,</span>
+          </li>
+          <li>
+            <span>abstinence from verbal misconduct,</span>
+          </li>
+          <li>
+            <span>abstinence from wrong livelihood.</span>
+          </li>
+        </enum>
       </p>
       <p y="213" x="53" page_id="528" page_no="470">
         <span>These last arise sometimes [but not always], and when they arise they do not do so together.</span>
@@ -29211,6 +29380,7 @@
       </verse>
       <p y="177" x="53" page_id="534" page_no="476">
         <span>The four or-whatever-states are these:</span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="192" x="113" page_id="534" page_no="476">
         <line>
@@ -29373,6 +29543,7 @@
       </verse>
       <p y="189" x="53" page_id="536" page_no="478">
         <span>The four or-whatever-states are these:</span>
+        <TODO>enumerations</TODO>
       </p>
       <verse y="204" x="113" page_id="536" page_no="478">
         <line>
@@ -29459,7 +29630,7 @@
         <span>(32)–(33) As regards the two rooted in delusion, firstly: [associated] with [the consciousness that is] associated with uncertainty (32) </span>
         <printed_page edition="PTS">471</printed_page>
         <span> are the eleven given in the texts as such thus:</span>
-        <TODO>enumerations</TODO>
+        <TODO>sideways enumerations</TODO>
       </p>
       <verse y="175" x="119" page_id="537" page_no="479">
         <line>
@@ -29498,6 +29669,7 @@
       </verse>
       <p y="305" x="59" page_id="537" page_no="479">
         <span>The or-whatever-states are these two:</span>
+        <TODO>sideways enumerations</TODO>
       </p>
       <verse y="320" x="119" page_id="537" page_no="479">
         <line>
@@ -29560,7 +29732,7 @@
       </p>
       <p y="122" x="41" page_id="538" page_no="480">
         <span>Herein, firstly, those associated with the profitable resultant (34) and unprofitable resultant (50) eye-consciousness are the four given in the texts as such, namely:</span>
-        <TODO>enumerations</TODO>
+        <TODO>sideways enumerations</TODO>
       </p>
       <verse y="160" x="113" page_id="538" page_no="480">
         <line>
@@ -38733,15 +38905,81 @@
         <span>Herein, the abbreviation, “The eye … (etc.) … Ageing-and-death,” should be understood to represent the following sets of things elided:</span>
       </p>
       <p y="398" x="94" page_id="692" page_no="634">
-        <TODO>enumeration</TODO>
-        <span>1. The states that occur in the doors [of consciousness] together with the doors and the objects.</span>
-      </p>
-      <p y="421" x="89" page_id="692" page_no="634">
-        <span>2. The five aggregates. 3. The six doors. 4. The six objects. 5. The six kinds of consciousness. 6. The six kinds of contact. 7. The six kinds of feeling. 8. The six kinds of perception. 9. The six kinds of volition. 10. The six kinds of craving. 11. The six kinds of applied thought. 12. The six kinds of sustained thought. 13. The six elements. 14. The ten kasiṇas. 15. The thirty-two bodily aspects. 16. The twelve bases.</span>
-      </p>
-      <p y="58" x="95" page_id="693" page_no="635">
-        <printed_page edition="BPS2011" page_id="693">635</printed_page>
-        <span>17. The eighteen elements. 18. The twenty-two faculties. 19. The three elements. 20. The nine kinds of becoming. 21. The four jhānas. 22. The four measureless states. 23. The four [immaterial] attainments. 24. The twelve members of the dependent origination.</span>
+        <enum labels="1.">
+          <li>
+            <span>The states that occur in the doors [of consciousness] together with the doors and the objects.</span>
+          </li>
+          <li>
+            <span>The five aggregates.</span>
+          </li>
+          <li>
+            <span>The six doors.</span>
+          </li>
+          <li>
+            <span>The six objects.</span>
+          </li>
+          <li>
+            <span>The six kinds of consciousness.</span>
+          </li>
+          <li>
+            <span>The six kinds of contact.</span>
+          </li>
+          <li>
+            <span>The six kinds of feeling.</span>
+          </li>
+          <li>
+            <span>The six kinds of perception.</span>
+          </li>
+          <li>
+            <span>The six kinds of volition.</span>
+          </li>
+          <li>
+            <span>The six kinds of craving.</span>
+          </li>
+          <li>
+            <span>The six kinds of applied thought.</span>
+          </li>
+          <li>
+            <span>The six kinds of sustained thought.</span>
+          </li>
+          <li>
+            <span>The six elements.</span>
+          </li>
+          <li>
+            <span>The ten kasiṇas.</span>
+          </li>
+          <li>
+            <span>The thirty-two bodily aspects.</span>
+          </li>
+          <li>
+            <span>The twelve bases.</span>
+          </li>
+          <li>
+            <printed_page edition="BPS2011" page_id="693">635</printed_page>
+            <span>The eighteen elements.</span>
+          </li>
+          <li>
+            <span>The twenty-two faculties.</span>
+          </li>
+          <li>
+            <span>The three elements.</span>
+          </li>
+          <li>
+            <span>The nine kinds of becoming.</span>
+          </li>
+          <li>
+            <span>The four jhānas.</span>
+          </li>
+          <li>
+            <span>The four measureless states.</span>
+          </li>
+          <li>
+            <span>The four [immaterial] attainments.</span>
+          </li>
+          <li>
+            <span>The twelve members of the dependent origination.</span>
+          </li>
+        </enum>
       </p>
       <p y="154" x="47" page_id="693" page_no="635" anchor="XX.10" num="10">
         <span>For this is said in the Paṭisambhidā in the description of what is to be directly known: “Bhikkhus, all is to be directly known. And what is all that is to be directly known? </span>
@@ -43984,18 +44222,41 @@
         <span>Now, in order to explain the attainment of cessation there is this set of questions:</span>
       </p>
       <p y="489" x="81" page_id="792" page_no="734">
-        <TODO>enumeration</TODO>
-        <span>(i) What is the attainment of cessation? (ii) Who attains it? (iii) Who do not attain it? (iv) Where do they attain it? (v) Why do they attain it? (vi) How does its attainment come about? (vii) How is it made to last? (viii) How does the emergence from it come about?</span>
-      </p>
-      <p y="582" x="87" page_id="792" page_no="734">
-        <span>(ix) Towards what does the mind of one who has emerged tend?</span>
-      </p>
-      <p y="58" x="96" page_id="793" page_no="735">
-        <printed_page edition="BPS2011" page_id="793">735</printed_page>
-        <span>(x) What is the difference between one who has attained it and one who is dead?</span>
-      </p>
-      <p y="82" x="93" page_id="793" page_no="735">
-        <span>(xi) Is the attainment of cessation formed or unformed, mundane or supramundane, produced or unproduced?</span>
+        <enum labels="(i)">
+          <li>
+            <span>What is the attainment of cessation?</span>
+          </li>
+          <li>
+            <span>Who attains it?</span>
+          </li>
+          <li>
+            <span>Who do not attain it?</span>
+          </li>
+          <li>
+            <span>Where do they attain it?</span>
+          </li>
+          <li>
+            <span>Why do they attain it?</span>
+          </li>
+          <li>
+            <span>How does its attainment come about?</span>
+          </li>
+          <li>
+            <span>How is it made to last?</span>
+          </li>
+          <li>
+            <span>How does the emergence from it come about?</span>
+          </li>
+          <li>
+            <span>Towards what does the mind of one who has emerged tend?</span>
+          </li>
+          <li>
+            <printed_page edition="BPS2011" page_id="793">735</printed_page><span>What is the difference between one who has attained it and one who is dead?</span>
+          </li>
+          <li>
+            <span>Is the attainment of cessation formed or unformed, mundane or supramundane, produced or unproduced?</span>
+          </li>
+        </enum>
       </p>
       <p y="108" x="47" page_id="793" page_no="735" anchor="XXIII.18" num="18">
         <span>Herein, (i) </span>
