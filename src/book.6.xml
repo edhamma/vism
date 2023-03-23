@@ -274,7 +274,7 @@
           <span>Why did Bhadantācariya Buddhaghosa come to Sri Lanka? And why did his work become famous beyond the island’s shores? The bare facts without some interpretation will hardly answer these questions. Certainly, any interpretation must be speculative; but if this is borne in mind, some attempt (without claim for originality) may perhaps be made on the following lines.</span>
         </p>
         <p y="164" x="42" page_id="30" page_no="xxviii">
-        <table>
+        <table layout_type="ceylon">
           <tr>
             <td>
               <span>Kings of Ceylon</span>
@@ -814,7 +814,7 @@
         <p y="143" x="48" page_id="35" page_no="xxxiii">
           <span family="bold-italic">Commentaries to the Vinaya Piṭaka</span>
         </p>
-        <table>
+        <table layout_type="commentaries">
           <tr>
             <td>
               <span>Title</span>
@@ -843,7 +843,7 @@
         <p y="195" x="48" page_id="35" page_no="xxxiii">
           <span family="bold-italic">Commentaries to the Sutta Piṭaka</span>
         </p>
-        <table>
+        <table layout_type="commentaries">
           <tr>
             <td>
               <span>Title</span>
@@ -896,7 +896,7 @@
         <p y="282" x="48" page_id="35" page_no="xxxiii">
           <span family="bold-italic">Commentary to Suttanipāta</span>
         </p>
-        <table>
+        <table layout_type="commentaries">
           <tr>
             <td>
               <span>Title</span>
@@ -925,7 +925,7 @@
         <p y="335" x="48" page_id="35" page_no="xxxiii">
           <span family="bold-italic">Commentaries to the Abhidhamma Piṭaka</span>
         </p>
-        <table>
+        <table layout_type="commentaries">
           <tr>
             <td>
               <span>Title</span>
@@ -29335,8 +29335,125 @@
       </p>
       <p y="503" x="59" page_id="533" page_no="475">
         <span>Herein, the thirteen given as such are these: </span>
-        <TODO>enumerations</TODO>
       </p>
+      <table layout_type="consciousness">
+        <tr>
+          <td>
+            <span>contact</span>
+          </td>
+          <td>
+            <span>(i),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>volition</span>
+          </td>
+          <td>
+            <span>(ii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>applied thought</span>
+          </td>
+          <td>
+            <span>(iii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <printed_page edition="BPS2011" page_id="534">476</printed_page>
+            <span>sustained thought</span>
+          </td>
+          <td>
+            <span>(iv),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>happiness</span>
+          </td>
+          <td>
+            <span>(v),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>energy</span>
+          </td>
+          <td>
+            <span>(vi),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>life</span>
+          </td>
+          <td>
+            <span>(vii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>concentration</span>
+          </td>
+          <td>
+            <span>(viii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xxxvii)</span>
+          </td>
+          <td>
+            <span>consciencelessness,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xxxviii)</span>
+          </td>
+          <td>
+            <span>shamelessness,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xxxix)</span>
+          </td>
+          <td>
+            <span>greed,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xl)</span>
+          </td>
+          <td>
+            <span>delusion,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xli)</span>
+          </td>
+          <td>
+            <span>wrong view.</span>
+          </td>
+        </tr>
+      </table>
+      <IGNORE>
       <verse y="518" x="119" page_id="533" page_no="475">
         <line>
           <span>contact (i),</span>
@@ -29379,24 +29496,68 @@
           <span>(xli) wrong view.</span>
         </line>
       </verse>
+      </IGNORE>
       <p y="177" x="53" page_id="534" page_no="476">
         <span>The four or-whatever-states are these:</span>
-        <TODO>enumerations</TODO>
       </p>
-      <verse y="192" x="113" page_id="534" page_no="476">
-        <line>
-          <span>zeal (xxviii),</span>
-        </line>
-        <line>
-          <span>resolution (xxix),</span>
-        </line>
-        <line>
-          <span>(xlii) agitation,</span>
-        </line>
-        <line>
-          <span>attention (xxx).</span>
-        </line>
-      </verse>
+      <table layout_type="consciousness">
+        <tr>
+          <td>
+            <span>zeal</span>
+          </td>
+          <td>
+            <span>(xxviii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>resolution</span>
+          </td>
+          <td>
+            <span>(xxix),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xlii)</span>
+          </td>
+          <td>
+             <span>agitation,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>attention</span>
+          </td>
+          <td>
+            <span>(xxx).</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+      </table>
+      <IGNORE>
+        <verse y="192" x="113" page_id="534" page_no="476">
+          <line>
+            <span>zeal (xxviii),</span>
+          </line>
+          <line>
+            <span>resolution (xxix),</span>
+          </line>
+          <line>
+            <span>(xlii) agitation,</span>
+          </line>
+          <line>
+            <span>attention (xxx).</span>
+          </line>
+        </verse>
+      </IGNORE>
       <p y="241" x="41" page_id="534" page_no="476" anchor="XIV.160" num="160">
         <span>Herein, (xxxvii) it has no conscientious scruples, thus it is </span>
         <em>consciencelessness</em>
@@ -29504,76 +29665,243 @@
         <span> there are, firstly, eighteen associated with the first (30), that is, eleven constant given in the texts as such (see </span>
         <ref type="bib" target="Dhs" loc="§413">Dhs §413</ref>
         <span>), four or-whatever-states, and three inconstant. Herein the eleven given as such are these:</span>
-        <TODO>enumerations</TODO>
       </p>
-      <verse y="58" x="113" page_id="536" page_no="478">
-        <line>
-          <printed_page edition="BPS2011" page_id="536">478</printed_page>
-          <span>contact (i),</span>
-        </line>
-        <line>
-          <span>volition (ii),</span>
-        </line>
-        <line>
-          <span>applied thought (iii),</span>
-        </line>
-        <line>
-          <span>sustained thought (iv),</span>
-        </line>
-        <line>
-          <span>energy (vi),</span>
-        </line>
-        <line>
-          <span>life (vii),</span>
-        </line>
-        <line>
-          <span>concentration (viii),</span>
-        </line>
-        <line>
-          <span>consciencelessness (xxxvii),</span>
-        </line>
-        <line>
-          <span>shamelessness (xxxviii),</span>
-        </line>
-        <line>
-          <span>(xiv) hate,</span>
-        </line>
-        <line>
-          <span>delusion (xl).</span>
-        </line>
-      </verse>
+      <table layout_type="consciousness">
+        <tr>
+          <td>
+            <printed_page edition="BPS2011" page_id="536">478</printed_page>
+            <span>contact</span>
+          </td>
+          <td>
+            <span>(i),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>volition</span>
+          </td>
+          <td>
+            <span>(ii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>applied thought</span>
+          </td>
+          <td>
+            <span>(iii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>sustained thought</span>
+          </td>
+          <td>
+            <span>(iv),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>energy</span>
+          </td>
+          <td>
+            <span>(vi),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>life</span>
+          </td>
+          <td>
+            <span>(vii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>concentration</span>
+          </td>
+          <td>
+            <span>(viii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>consciencelessness</span>
+          </td>
+          <td>
+            <span>(xxxvii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>shamelessness</span>
+          </td>
+          <td>
+            <span>(xxxviii),</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xiv)</span>
+          </td>
+          <td>
+            <span>hate,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>delusion</span>
+          </td>
+          <td>
+            <span>(xl).</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+      </table>
+      <IGNORE>
+        <verse y="58" x="113" page_id="536" page_no="478">
+          <line>
+            <printed_page edition="BPS2011" page_id="536">478</printed_page>
+            <span>contact (i),</span>
+          </line>
+          <line>
+            <span>volition (ii),</span>
+          </line>
+          <line>
+            <span>applied thought (iii),</span>
+          </line>
+          <line>
+            <span>sustained thought (iv),</span>
+          </line>
+          <line>
+            <span>energy (vi),</span>
+          </line>
+          <line>
+            <span>life (vii),</span>
+          </line>
+          <line>
+            <span>concentration (viii),</span>
+          </line>
+          <line>
+            <span>consciencelessness (xxxvii),</span>
+          </line>
+          <line>
+            <span>shamelessness (xxxviii),</span>
+          </line>
+          <line>
+            <span>(xiv) hate,</span>
+          </line>
+          <line>
+            <span>delusion (xl).</span>
+          </line>
+        </verse>
+      </IGNORE>
       <p y="189" x="53" page_id="536" page_no="478">
         <span>The four or-whatever-states are these:</span>
-        <TODO>enumerations</TODO>
+        <table layout_type="consciousness">
+          <tr>
+            <td>
+              <span>zeal</span>
+            </td>
+            <td>
+              <span>(xxviii),</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>resolution</span>
+            </td>
+            <td>
+              <span>(xxix),</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>agitation</span>
+            </td>
+            <td>
+              <span>(xlii),</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>attention</span>
+            </td>
+            <td>
+              <span>(xxx).</span>
+            </td>
+          </tr>
+        </table>
+        <IGNORE>
+          <verse y="204" x="113" page_id="536" page_no="478">
+            <line>
+              <span>zeal (xxviii),</span>
+            </line>
+            <line>
+              <span>resolution (xxix),</span>
+            </line>
+            <line>
+              <span>agitation (xlii),</span>
+            </line>
+            <line>
+              <span>attention (xxx).</span>
+            </line>
+          </verse>
+        </IGNORE>
       </p>
-      <verse y="204" x="113" page_id="536" page_no="478">
-        <line>
-          <span>zeal (xxviii),</span>
-        </line>
-        <line>
-          <span>resolution (xxix),</span>
-        </line>
-        <line>
-          <span>agitation (xlii),</span>
-        </line>
-        <line>
-          <span>attention (xxx).</span>
-        </line>
-      </verse>
       <p y="253" x="53" page_id="536" page_no="478">
         <span>The three inconstant are these:</span>
+        <table layout_type="consciousness">
+          <tr>
+            <td>
+            </td>
+            <td>
+              <span>(xlvi)</span>
+            </td>
+            <td>
+              <span>envy,</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            </td>
+            <td>
+              <span>(xlvii)</span>
+            </td>
+            <td>
+              <span>avarice,</span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            </td>
+            <td>
+              <span>(xlviii)</span>
+            </td>
+            <td>
+              <span>worry.</span>
+            </td>
+          </tr>
+        </table>
+        <IGNORE>
+          <verse y="268" x="72" page_id="536" page_no="478">
+            <line>
+              <span>(xlvi) envy,</span>
+            </line>
+            <line>
+              <span>(xlvii) avarice,</span>
+            </line>
+            <line>
+              <span>(xlviii) worry.</span>
+            </line>
+          </verse>
+        </IGNORE>
       </p>
-      <verse y="268" x="72" page_id="536" page_no="478">
-        <line>
-          <span>(xlvi) envy,</span>
-        </line>
-        <line>
-          <span>(xlvii) avarice,</span>
-        </line>
-        <line>
-          <span>(xlviii) worry.</span>
-        </line>
-      </verse>
       <p y="305" x="41" page_id="536" page_no="478" anchor="XIV.171" num="171">
         <span>Herein, (xlv) by its means they hate, or it itself hates, or it is just mere hating, thus it is </span>
         <em>hate</em>
@@ -29631,55 +29959,191 @@
         <span>(32)–(33) As regards the two rooted in delusion, firstly: [associated] with [the consciousness that is] associated with uncertainty (32) </span>
         <printed_page edition="PTS">471</printed_page>
         <span> are the eleven given in the texts as such thus:</span>
-        <TODO>sideways enumerations</TODO>
       </p>
-      <verse y="175" x="119" page_id="537" page_no="479">
-        <line>
-          <span>contact (i),</span>
-        </line>
-        <line>
-          <span>volition (ii),</span>
-        </line>
-        <line>
-          <span>applied thought (iii),</span>
-        </line>
-        <line>
-          <span>sustained thought (iv),</span>
-        </line>
-        <line>
-          <span>energy (vi),</span>
-        </line>
-        <line>
-          <span>life (vii),</span>
-        </line>
-        <line>
-          <span>(xlix) steadiness of consciousness,</span>
-        </line>
-        <line>
-          <span>consciencelessness (xxxvii),</span>
-        </line>
-        <line>
-          <span>shamelessness (xxxviii),</span>
-        </line>
-        <line>
-          <span>delusion (xl),</span>
-        </line>
-        <line>
-          <span>(l) uncertainty.</span>
-        </line>
-      </verse>
+      <table layout_type="consciousness">
+        <tr>
+          <td>
+            <span>contact</span>
+          </td>
+          <td>
+            <span>(i),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>volition</span>
+          </td>
+          <td>
+            <span>(ii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>applied thought</span>
+          </td>
+          <td>
+            <span>(iii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>sustained thought</span>
+          </td>
+          <td>
+            <span>(iv),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>energy</span>
+          </td>
+          <td>
+            <span>(vi),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>life</span>
+          </td>
+          <td>
+            <span>(vii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(xlix)</span>
+          </td>
+          <td>
+            <span>steadiness of consciousness,</span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>consciencelessness</span>
+          </td>
+          <td>
+            <span>(xxxvii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>shamelessness</span>
+          </td>
+          <td>
+            <span>(xxxviii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>delusion</span>
+          </td>
+          <td>
+            <span>(xl),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          </td>
+          <td>
+            <span>(l)</span>
+          </td>
+          <td>
+            <span>uncertainty.</span>
+          </td>
+        </tr>
+      </table>
+      <IGNORE>
+        <verse y="175" x="119" page_id="537" page_no="479">
+          <line>
+            <span>contact (i),</span>
+          </line>
+          <line>
+            <span>volition (ii),</span>
+          </line>
+          <line>
+            <span>applied thought (iii),</span>
+          </line>
+          <line>
+            <span>sustained thought (iv),</span>
+          </line>
+          <line>
+            <span>energy (vi),</span>
+          </line>
+          <line>
+            <span>life (vii),</span>
+          </line>
+          <line>
+            <span>(xlix) steadiness of consciousness,</span>
+          </line>
+          <line>
+            <span>consciencelessness (xxxvii),</span>
+          </line>
+          <line>
+            <span>shamelessness (xxxviii),</span>
+          </line>
+          <line>
+            <span>delusion (xl),</span>
+          </line>
+          <line>
+            <span>(l) uncertainty.</span>
+          </line>
+        </verse>
+      </IGNORE>
       <p y="305" x="59" page_id="537" page_no="479">
         <span>The or-whatever-states are these two:</span>
-        <TODO>sideways enumerations</TODO>
       </p>
-      <verse y="320" x="119" page_id="537" page_no="479">
-        <line>
-          <span>agitation (xlii),</span>
-        </line>
-        <line>
-          <span>attention (xxx).</span>
-        </line>
-      </verse>
+      <table layout_type="consciousness">
+        <tr>
+          <td>
+            <span>agitation</span>
+          </td>
+          <td>
+            <span>(xlii),</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>attention</span>
+          </td>
+          <td>
+            <span>(xxx).</span>
+          </td>
+          <td>
+          </td>
+        </tr>
+      </table>
+      <IGNORE>
+        <verse y="320" x="119" page_id="537" page_no="479">
+          <line>
+            <span>agitation (xlii),</span>
+          </line>
+          <line>
+            <span>attention (xxx).</span>
+          </line>
+        </verse>
+      </IGNORE>
       <p y="346" x="59" page_id="537" page_no="479">
         <span>And these together total thirteen.</span>
       </p>
@@ -29733,30 +30197,79 @@
       </p>
       <p y="122" x="41" page_id="538" page_no="480">
         <span>Herein, firstly, those associated with the profitable resultant (34) and unprofitable resultant (50) eye-consciousness are the four given in the texts as such, namely:</span>
-        <TODO>sideways enumerations</TODO>
-      </p>
-      <verse y="160" x="113" page_id="538" page_no="480">
-        <line>
-          <span>contact (i),</span>
-        </line>
-        <line>
-          <span>volition (ii),</span>
-        </line>
-        <line>
-          <span>life (vii),</span>
-        </line>
-        <line>
-          <span>steadiness of consciousness (xlix),</span>
-        </line>
-      </verse>
-      <p y="210" x="41" page_id="538" page_no="480">
+        <table layout_type="consciousness" y="160" x="113" page_id="538" page_no="480">
+          <tr>
+            <td>
+              <span>contact</span>
+            </td>
+            <td>
+              <span>(i),</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>volition</span>
+            </td>
+            <td>
+              <span>(ii),</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>life</span>
+            </td>
+            <td>
+              <span>(vii),</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span>steadiness of consciousness</span>
+            </td>
+            <td>
+              <span>(xlix),</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+        </table>
+        <IGNORE>
+          <verse y="160" x="113" page_id="538" page_no="480">
+            <line>
+              <span>contact (i),</span>
+            </line>
+            <line>
+              <span>volition (ii),</span>
+            </line>
+            <line>
+              <span>life (vii),</span>
+            </line>
+            <line>
+              <span>steadiness of consciousness (xlix),</span>
+            </line>
+          </verse>
+        </IGNORE>
         <span>which amount to five with</span>
+        <table y="224" x="113" page_id="538" page_no="480" layout_type="consciousness">
+          <tr>
+            <td>
+              <span>attention</span>
+            </td>
+            <td>
+              <span>(xxx)</span>
+            </td>
+            <td>
+            </td>
+          </tr>
+        </table>
+       <span>as the only or-whatever-state.</span>
       </p>
-      <verse y="224" x="113" page_id="538" page_no="480">
-        <line>
-          <span>attention (xxx) as the only or-whatever-state.</span>
-        </line>
-      </verse>
       <p y="253" x="53" page_id="538" page_no="480">
         <span>These same kinds are associated with ear-, nose-, tongue-, and body-consciousness (35)–(38), (51)–(54).</span>
       </p>
@@ -30587,88 +31100,7 @@
         <span>).</span>
         <footnote page_id="550" mark="1" anchor="XV.n1">
           <p>
-            <span>. The following words in §</span>
-          </p>
-        </footnote>
-      </p>
-      <p y="58" x="47" page_id="551" page_no="493" anchor="XV.4" num="4">
-        <printed_page edition="BPS2011" page_id="551">493</printed_page>
-        <span>[As to meaning] in general, however, base (</span>
-        <em>āyatana</em>
-        <span>) should be understood as such (a) because of its actuating (</span>
-        <em>āyatana</em>
-        <span>), (b) because of being the range (</span>
-        <em>tanana</em>
-        <span>) of the origins (</span>
-        <em>āya</em>
-        <span>), and (c) because of leading on (</span>
-        <em>nayana</em>
-        <span>) what is actuated (</span>
-        <em>āyata</em>
-        <span>).</span>
-        <footnote page_id="551" mark="2" anchor="XV.n2">
-          <p>
-            <span>The following words in §4 are not in PED: </span>
-            <em>āyatana</em>
-            <span> (actuating: verbal n. fm. </span>
-            <em>āyatati</em>
-            <span>, to actuate); </span>
-            <em>tanana</em>
-            <span> (range: verbal n. fm. </span>
-            <em>tanoti</em>
-            <span>, to provide a range for, to extend—q.v. PED—; mentioned under</span>
-            <em> āyatana</em>
-            <span>, base); </span>
-            <em>nayana</em>
-            <span> (lead in on: verbal n. fm. </span>
-            <em>neti</em>
-            <span>, to lead on; lit, meaning not in PED); </span>
-            <em>āyatati</em>
-            <span> (to actuate—</span>
-            <em>cakkhuviññāṇādīnaṃ uppādanaṃ āyatanaṃ</em>
-            <span>, </span>
-            <ref type="bib" target="Vism-mhṭ">Vism-mhṭ</ref>
-            <span>). See also </span>
-            <em>āyāpenti</em>
-            <span> </span>
-            <ref type="bib" target="Paṭis" loc="II 21">Paṭis II 21</ref>
-            <span>.</span>
-          </p>
-          <p>
-            <span>3. </span>
-            <em>Ākara</em>
-            <span> means either a mine or a store (PED apparently believes in mining for pearls—see </span>
-            <em>ratanākara</em>
-            <span>).</span>
-          </p>
-        </footnote>
-      </p>
-      <p y="108" x="47" page_id="551" page_no="493">
-        <span>Now, the various states of consciousness and its concomitants belonging to such and such a door-cum-object among those consisting of the eye-cum-visible-datum, etc., (a) are actuated (</span>
-        <em>āyatanti</em>
-        <span>), each by means of its individual function of experiencing, etc.; they are active, strive, and endeavour in these, is what is meant. And (b) these [doors-cum-objects] provide the range for (</span>
-        <em>tananti</em>
-        <span>) those states that are origins (</span>
-        <em>āya</em>
-        <span>); they give them scope, is what is meant. And (c) as long as this suffering of the round of rebirths, which has gone on occurring throughout the beginningless round of rebirths and so is enormously actuated (</span>
-        <em>āyata</em>
-        <span>), does not recede, so long they lead on (</span>
-        <em>nayanti</em>
-        <span>); they cause occurrence, is what is meant.</span>
-      </p>
-      <p y="227" x="59" page_id="551" page_no="493">
-        <span>So all these </span>
-        <printed_page edition="PTS">482</printed_page>
-        <span> things are called “bases” because they actuate, because they are the range of the origins, and because they lead on what is actuated.</span>
-      </p>
-      <p y="58" x="41" page_id="552" page_no="494" anchor="XV.5" num="5">
-        <printed_page edition="BPS2011" page_id="552">494</printed_page>
-        <span>Furthermore, “base, (</span>
-        <em>āyatana</em>
-        <span>) should be understood in the sense of place of abode, store (mine),</span>
-        <footnote page_id="552" mark="3" anchor="XV.n3">
-          <p>
-            <span>are not in PED: </span>
+            <span>The following words in §3 are not in PED: </span>
             <em>cakkhati</em>
             <span> (it relishes), </span>
             <em>rūpayati</em>
@@ -30749,6 +31181,83 @@
             <em>jivhā</em>
             <span> (tongue)” (</span>
             <ref type="bib" target="Vism-mhṭ" loc="509">Vism-mhṭ 509</ref>
+            <span>).</span>
+          </p>
+        </footnote>
+      </p>
+      <p y="58" x="47" page_id="551" page_no="493" anchor="XV.4" num="4">
+        <printed_page edition="BPS2011" page_id="551">493</printed_page>
+        <span>[As to meaning] in general, however, base (</span>
+        <em>āyatana</em>
+        <span>) should be understood as such (a) because of its actuating (</span>
+        <em>āyatana</em>
+        <span>), (b) because of being the range (</span>
+        <em>tanana</em>
+        <span>) of the origins (</span>
+        <em>āya</em>
+        <span>), and (c) because of leading on (</span>
+        <em>nayana</em>
+        <span>) what is actuated (</span>
+        <em>āyata</em>
+        <span>).</span>
+        <footnote page_id="551" mark="2" anchor="XV.n2">
+          <p>
+            <span>The following words in §4 are not in PED: </span>
+            <em>āyatana</em>
+            <span> (actuating: verbal n. fm. </span>
+            <em>āyatati</em>
+            <span>, to actuate); </span>
+            <em>tanana</em>
+            <span> (range: verbal n. fm. </span>
+            <em>tanoti</em>
+            <span>, to provide a range for, to extend—q.v. PED—; mentioned under</span>
+            <em> āyatana</em>
+            <span>, base); </span>
+            <em>nayana</em>
+            <span> (lead in on: verbal n. fm. </span>
+            <em>neti</em>
+            <span>, to lead on; lit, meaning not in PED); </span>
+            <em>āyatati</em>
+            <span> (to actuate—</span>
+            <em>cakkhuviññāṇādīnaṃ uppādanaṃ āyatanaṃ</em>
+            <span>, </span>
+            <ref type="bib" target="Vism-mhṭ">Vism-mhṭ</ref>
+            <span>). See also </span>
+            <em>āyāpenti</em>
+            <span> </span>
+            <ref type="bib" target="Paṭis" loc="II 21">Paṭis II 21</ref>
+            <span>.</span>
+          </p>
+        </footnote>
+      </p>
+      <p y="108" x="47" page_id="551" page_no="493">
+        <span>Now, the various states of consciousness and its concomitants belonging to such and such a door-cum-object among those consisting of the eye-cum-visible-datum, etc., (a) are actuated (</span>
+        <em>āyatanti</em>
+        <span>), each by means of its individual function of experiencing, etc.; they are active, strive, and endeavour in these, is what is meant. And (b) these [doors-cum-objects] provide the range for (</span>
+        <em>tananti</em>
+        <span>) those states that are origins (</span>
+        <em>āya</em>
+        <span>); they give them scope, is what is meant. And (c) as long as this suffering of the round of rebirths, which has gone on occurring throughout the beginningless round of rebirths and so is enormously actuated (</span>
+        <em>āyata</em>
+        <span>), does not recede, so long they lead on (</span>
+        <em>nayanti</em>
+        <span>); they cause occurrence, is what is meant.</span>
+      </p>
+      <p y="227" x="59" page_id="551" page_no="493">
+        <span>So all these </span>
+        <printed_page edition="PTS">482</printed_page>
+        <span> things are called “bases” because they actuate, because they are the range of the origins, and because they lead on what is actuated.</span>
+      </p>
+      <p y="58" x="41" page_id="552" page_no="494" anchor="XV.5" num="5">
+        <printed_page edition="BPS2011" page_id="552">494</printed_page>
+        <span>Furthermore, “base, (</span>
+        <em>āyatana</em>
+        <span>) should be understood in the sense of place of abode, store (mine),</span>
+        <footnote page_id="552" mark="3" anchor="XV.n3">
+          <p>
+            <em>Ākara</em>
+            <span> means either a mine or a store (PED apparently believes in mining for pearls—see </span>
+            <em>ratanākara</em>
             <span>).</span>
           </p>
         </footnote>
@@ -33101,10 +33610,7 @@
           <p>
             <span>“‘Consciousness concentration (</span>
             <em>citta-samādhi</em>
-            <span>)’ is the road to power consisting of</span>
-          </p>
-          <p>
-            <span>[purity of] consciousness, they say” (</span>
+            <span>)’ is the road to power consisting of [purity of] consciousness, they say” (</span>
             <ref type="bib" target="Vism-mhṭ" loc="544">Vism-mhṭ 544</ref>
             <span>).</span>
           </p>
@@ -33407,7 +33913,7 @@
         <span>. For this is said by the Blessed One: “And what are the dependently-originated states, bhikkhus? Ageing-and-death is impermanent, bhikkhus, formed, dependently originated, subject to destruction, subject to fall, subject to fading away, subject to cessation.</span>
         <footnote page_id="591" mark="1" anchor="XVII.n1">
           <p>
-            <span>. “‘Subject to destruction’ (</span>
+            <span>“‘Subject to destruction’ (</span>
             <em>khaya-dhamma</em>
             <span>) means that its individual essence is the state of being destroyed (</span>
             <em>khayana-sabhāva</em>
@@ -33624,7 +34130,6 @@
         <span>adj.),</span>
         <footnote page_id="595" mark="2" anchor="XVII.n2">
           <p>
-            <span>. </span>
             <em>Paṭicco </em>
             <span>as a declinable adjective is not in PED. </span>
             <em>Patīyamāna </em>
@@ -33770,7 +34275,7 @@
         <span> since states in the process of occurring exist in dependence on the combining of their conditions; and it shows that they are not eternal, etc., thus denying the various doctrines of eternalism, no-cause, fictitious-cause, and power-wielder.</span>
         <footnote page_id="596" mark="3" anchor="XVII.n3">
           <p>
-            <span>. “The doctrine of eternalism is that beginning ‘The world and self are eternal’” (</span>
+            <span>“The doctrine of eternalism is that beginning ‘The world and self are eternal’” (</span>
             <ref type="bib" target="D" loc="I 14">D I 14</ref>
             <span>). That of no-cause is that beginning, ‘There is no cause, there is no condition, for the defilement of beings’ (</span>
             <ref type="bib" target="D" loc="I 53">D I 53</ref>
@@ -34265,7 +34770,7 @@
         <span> have the characteristic of forming. Their function is to accumulate.</span>
         <footnote page_id="603" mark="7" anchor="XVII.n7">
           <p>
-            <span>. “Formations ‘</span>
+            <span>“Formations ‘</span>
             <em>accumulate</em>
             <span>,’ work, for the purpose of rebirth. So that is their function. To accumulate is to heap up. Consciousness’s function is ‘</span>
             <em>to go before’ </em>
