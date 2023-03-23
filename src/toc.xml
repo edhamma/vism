@@ -318,7 +318,29 @@
     <sect para="33" title="B. Description of the Five Aggregates">
       <sect para="34" title="The Materiality Aggregate"/>
       <sect para="81" title="The Consciousness Aggregate">
-        <sect para="82" title="The 89 Kinds of Consciousness—see Table III" starts_at="That same [consciousness], though"/>
+        <sect para="82" title="The 89 Kinds of Consciousness—see Table III" starts_at="That same [consciousness], though">
+          <sect para="83" title="I. Profitable"/>
+          <sect para="89" title="II. Unprofitable"/>
+          <sect para="94" title="III. Indeterminate">
+            <sect para="95" title="III. i. Resultant">
+              <!--
+              <sect para="95" title="Sense sphere">
+                <sect para="95" title="Profitable result">
+                  <sect para="95" title="Without root-cause"/>
+                  <sect para="100" title="With root-cause"/>
+                </sect>
+                <sect para="101" title="Unprofitable result"/>
+              </sect>
+              <sect para="103" title="Fine-material sphere"/>
+              <sect para="104" title="Immmaterial sphere"/>
+              <sect para="105" title="Supramundane"/>
+              -->
+            </sect>
+            <sect para="106" title="III. ii. Functional">
+              <!-- finer subdivision -->
+            </sect>
+          </sect>
+        </sect>
         <sect para="111" title="The 14 Modes of Occurrence of Consciousness"/>
       </sect>
       <sect para="125" title="The Feeling Aggregate"/>
