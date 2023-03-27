@@ -158,7 +158,80 @@
     <p>
       <em>All editions Pali Text Society unless otherwise stated.</em>
     </p>
-    <raw file="bib" id="bibliography" desc="bibliography"/>
+    <bibliography>
+      <bibentry abbrev="A"><span>Aṅguttara Nikāya</span></bibentry>
+      <bibentry abbrev="A-a"><em>Aṅguttara Nikāya Aṭṭhakathā = Manorathapurāṇī</em></bibentry>
+      <bibentry abbrev="Cp"><span>Cariyāpiṭaka</span></bibentry>
+      <bibentry abbrev="Cp-a"><em>Cariyāpiṭaka Aṭṭhakathā</em></bibentry>
+      <bibentry abbrev="Dhp"><span>Dhammapada</span></bibentry>
+      <bibentry abbrev="Dhp-a"><em>Dhammapada Aṭṭhakathā</em></bibentry>
+      <bibentry abbrev="Dhs"><span>Dhammasaṅgaṇī</span></bibentry>
+      <bibentry abbrev="Dhs-a"><em>Dhammasaṅgaṇi Aṭṭhakathā = Atthasālinī</em></bibentry>
+      <bibentry abbrev="Dhs-ṭ"><em>Dhammasaṅgaṇī Ṭīkā = Mūla Ṭīkā II</em></bibentry>
+      <bibentry abbrev="Dhātuk"><span>Dhātukathā</span></bibentry>
+      <bibentry abbrev="D"><span>Dīgha Nikāya</span></bibentry>
+      <bibentry abbrev="D-a"><em>Dīgha Nikāya Aṭṭhakathā = Sumaṅgala-vilāsinī</em></bibentry>
+      <bibentry abbrev="Dīp"><em>Dīpavaṃsa</em></bibentry>
+      <bibentry abbrev="It"><span>Itivuttaka</span></bibentry>
+      <bibentry abbrev="J-a"><em>Jātaka-aṭṭhakathā</em></bibentry>
+      <bibentry abbrev="Kv"><span>Kathāvatthu</span></bibentry>
+      <bibentry abbrev="Mhv"><em>Mahāvaṃsa</em></bibentry>
+      <bibentry abbrev="M"><span>Majjhima Nikāya</span></bibentry>
+      <bibentry abbrev="M-a"><em>Majjhima Nikāya Aṭṭhakathā = Papañca-sūdanī</em></bibentry>
+      <bibentry abbrev="Mil"><em>Milindapañhā</em></bibentry>
+      <bibentry abbrev="Netti"><em>Nettipakaraṇa</em></bibentry>
+      <bibentry abbrev="Nidd"><span>Niddesa</span>
+        <enum labels="I.">
+          <li><span>Mahā Niddesa</span></li>
+          <li><span>Cūḷa Niddesa (Siamese ed.)</span></li>
+        </enum>
+      </bibentry>
+      <bibentry abbrev="Nikāya-s"><em>Nikāyasaṃgrahaya</em></bibentry>
+      <bibentry abbrev="Paṭis"><span>Paṭisambhidāmagga</span></bibentry>
+      <bibentry abbrev="Paṭis-a"><em>Paṭisambhidāmagga Aṭṭhakathā = Saddhammappakāsinī</em>><span> (Sinhalese Hewavitarne ed.)</span></bibentry>
+      <bibentry abbrev="Paṭṭh"><span>Paṭṭhāna</span>
+        <enum labels="I.">
+          <li><span>Paṭṭhāna, Tika Paṭṭhāna</span></li>
+          <li><span>Paṭṭhāna, Duka Paṭṭhāna (Se and Be.)</span></li>
+        </enum>
+      </bibentry>
+      <bibentry abbrev="Peṭ"><em>Peṭakopadesa</em></bibentry>
+      <bibentry abbrev="Pv"><span>Petavatthu</span></bibentry>
+      <bibentry abbrev="S"><span>Saṃyutta Nikāya</span></bibentry>
+      <bibentry abbrev="S-a"><em>Saṃyutta Nikāya Aṭṭhakathā = Sāratthappakāsinī</em></bibentry>
+      <bibentry abbrev="Sn"><span>Sutta-nipāta</span></bibentry>
+      <bibentry abbrev="Sn-a"><em>Sutta-nipāta Aṭṭhakathā = Paramatthajotikā</em></bibentry>
+      <bibentry abbrev="Th"><span>Thera-gāthā</span></bibentry>
+      <bibentry abbrev="Ud"><span>Udāna</span></bibentry>
+      <bibentry abbrev="Ud-a"><span>???</span></bibentry>
+      <bibentry abbrev="Vibh"><span>Vibhaṅga</span></bibentry>
+      <bibentry abbrev="Vibh-a"><em>Vibhaṅga Aṭṭhakathā = Sammohavinodanī</em></bibentry>
+      <bibentry abbrev="Vibh-ṭ"><em>Vibhaṅga Ṭīkā = Mūla Ṭīkā II</em></bibentry>
+      <bibentry abbrev="Vv"><span>Vimānavatthu</span></bibentry>
+      <bibentry abbrev="Vin"><span>Vinaya Piṭaka</span>
+        <enum labels="I.">
+          <li><span>Vinaya Piṭaka I: (3)—Mahāvagga</span></li>
+          <li><span>Vinaya Piṭaka II: (4)—Cūḷavagga</span></li>
+          <li><span>Vinaya Piṭaka III: (1)—Suttavibhaṅga 1</span></li>
+          <li><span>Vinaya Piṭaka IV: (2)—Suttavibhaṅga 2</span></li>
+          <li><span>Vinaya Piṭaka V: (5)—Parivāra</span></li>
+        </enum>
+      </bibentry>
+      <bibentry abbrev="Vin-a"><span>???</span></bibentry>
+      <bibentry abbrev="Vism"><em>Visuddhimagga</em><span>(PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])</span></bibentry>
+      <bibentry abbrev="Vism-mhṭ"><span>Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)</span></bibentry>
+      <bibintertitle>Other abbreviations</bibintertitle>
+      <bibentry abbrev="Ae"><span>American Edition (= Harvard Oriental Series)</span></bibentry>
+      <bibentry abbrev="Be"><span>Burmese Edition</span></bibentry>
+      <bibentry abbrev="Ce"><span>Ceylonese Edition</span></bibentry>
+      <bibentry abbrev="CPD"><em>Critical Pali Dictionary</em><span>; Treckner</span></bibentry>
+      <bibentry abbrev="Ee"><span>European Edition (= PTS)</span></bibentry>
+      <bibentry abbrev="EHBC"><em>The Early History of Buddhism in Ceylon</em><span>, E. W. Adikaram.</span></bibentry>
+      <bibentry abbrev="PED"><em>Pali-English Dictionary</em></bibentry>
+      <bibentry abbrev="PLC"><em>Pali Literature of Ceylon</em><span>, Malalasekera.</span></bibentry>
+      <bibentry abbrev="PTS"><span>Pali Text Society</span></bibentry>
+      <bibentry abbrev="Se"><span>Siamese Edition</span></bibentry>
+    </bibliography>
     <p>
       <span>Numbers in square brackets in the text thus [25] refer to the page numbers of the Pali Text Society's edition of the Pali.</span>
     </p>
