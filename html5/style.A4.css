@@ -30,7 +30,7 @@
   @footnote {
     font-size: 8pt;
     border-top: dashed red 1px;
-    float: bottom;
+    float: bottom; /* weasyprint ignores this */
   }
 }
 
@@ -130,7 +130,7 @@ dt{
 
 dd{ font-style: normal; }
 
-span.footnote { float: footnote; }
+.footnote { float: footnote; }
 
 .cols-2 {
     column-count: 2;

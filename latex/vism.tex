@@ -31,8 +31,6 @@
 	\def\vismBibIntertitle#1{\bibitem[\textbf{\LARGE #1}]{\textbf{\LARGE #1}}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
-	% styling of enumerations (roman, alpha, ...)
-	\usepackage{enumitem}
 	% use the same-looking font like BPS2011
 	% (they used URWPalladioPali, this is modernized, with unicode glyphs for all pali)
 	\usepackage{fontspec}
@@ -185,6 +183,9 @@
 	\newenvironment{bibcomment}{\item[]\begingroup\par\parshape0}{\par\endgroup}
 	\def\vismBibIntertitle#1{\begin{bibcomment}\subsection{#1}\end{bibcomment}}
 \fi
+
+% styling of enumerations (roman, alpha, ...); shortlabels for plastex compatibility (label=... does not work for plastex yet)
+\usepackage[shortlabels]{enumitem}
 
 \usepackage[bookmarksnumbered=true]{hyperref}
 
