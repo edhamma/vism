@@ -27,7 +27,7 @@
 	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
-	\newenvironemnt{vismHanging}{}{}
+	\newenvironment{vismHanging}{}{}
 	\def\vismBibIntertitle#1{\bibitem[\textbf{\LARGE #1}]{\textbf{\LARGE #1}}}
 \else
 	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
