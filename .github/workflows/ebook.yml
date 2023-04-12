@@ -14,7 +14,7 @@ jobs:
           wget --no-verbose 'https://www.apache.org/dyn/closer.cgi?filename=/xmlgraphics/fop/binaries/fop-2.8-bin.tar.gz&action=download' -O fop-2.8-bin.tar.gz
           tar xfz fop-2.8-bin.tar.gz
           sudo apt-get update && sudo apt-get install xsltproc docbook-xml docbook-xsl docbook5-xml docbook-xsl-ns default-jre-headless texlive-latex-recommended texlive-latex-extra texlive-luatex latexmk fonts-texgyre fonts-lmodern gsfonts
-          pip install sphinx jupyterlab nbconvert lxml GitPython roman plastex
+          pip install sphinx jupyterlab nbconvert lxml GitPython roman plastex rich
           pip install weasyprint
           npm install -g @vivliostyle/cli
       - name: Assemble sources 🔧
