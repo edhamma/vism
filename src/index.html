@@ -63,7 +63,7 @@
 						</ul>
 					<dt>5. enhancements 🔧</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
 					<dt>6. publication ✨</dt><dd>Final and fine-tuned outputs. Perhaps even an offline app (why not?).</dd>
-					<dt>7. beyond ✨</dt><dd>Vimuttimagga? Patisambhidamagga?</dd>
+					<dt>7. beyond ✨</dt><dd>Vimuttimagga? (see below)</dd>
 				</dl>
 		<h2>How can you help?</h2>
 			<p>At this moment, the most useful thing would be to work on the <b>4. corrections</b>. If you spot anything wrong, <a href="https://github.com/eudoxos/vism/issues">file an issue at github</a> or open a pull request with corrected data.</p>
@@ -75,6 +75,16 @@
 			<p>DocBook is in decline, XML-FO group was disbanded long time ago.<strike>DocBook (DocBook Publishers for non-technical writing) has many converters to different output formats. Its customization is not straightforward (XSLT stylesheets) but it easy to be automated.</strike></p>
 			<p>HTML + CSS for paged media (overview at <a href="https://print-css.rocks">PrintCSS Rocks</a>; open-source e.g. <a href="https://weasyprint.org">WeasyPrint</a>, <a href="https://vivliostyle.org">Vivliostyle</a>).</p>
 			<strike>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which sets a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</strike></p>
+		</ul>
+	<h1>Vimuttimagga</h1>
+		Vimuttimagga is a work-in-progress and uses the same infrastructure; do not report any errors yet.
+		<ul>
+			<li>LaTeX: <a href="latex/vimm.pdf" download="vism.pdf">👑 PDF</a>, <a href="latex/vimm/index.html">✅ HTML</a></li>
+			<li>Sphinx: <a href="sphinx-vimm/build/html/index.html">✅ HTML</a> (via Sphinx's html builder), <a href="sphinx-vimm/build/epub/vimm.epub" download="vism.epub">✅ ePub</a></li>
+			<li>HTML5 + CSS for paged media: <a href="html5/vimm.weasyprint.pdf">❌ Weasyprint PDF</a>  </li> <!-- , <a href="html5/vism.vivliostyle.pdf">❌ Vivliostyle PDF</a> -->
+			<!--
+			<li>DocBook: <a href="docbook/vimm.docbook.pdf" download="vism.docbook.pdf">⛔ PDF</a>, <a href="docbook/vimm.xhtml">⛔ HTML</a></li>
+			-->
 		</ul>
 	</body>
 </html>
