@@ -19,6 +19,8 @@ jobs:
           npm install -g @vivliostyle/cli
       - name: Assemble sources 🔧
         run: make assemble
+      - name: Vimuttimagga 🔧
+        run: make vimuttimagga
       - name: LaTeX 🔧
         run: make latex
       - name: DocBook 🔧
@@ -27,8 +29,6 @@ jobs:
         run: make sphinx
       - name: HTML5+CSS (WeasyPrint, Vivliostyle) 🔧
         run: make html5
-      - name: Vimuttimagga 🔧
-        run: make vimuttimagga
       - name: Web 🔧
         run: cp src/index.html build/index.html
       - name: Deploy 🚀
