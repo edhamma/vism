@@ -8,6 +8,8 @@ build/book.sectioned.xml: src/*.xml 06-assemble.ipynb
 	make assemble
 
 assemble:
+	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
+	cp vimm/origin/vimm7a.exported.xml build/
 	mkdir -p build
 	jupyter execute 06-assemble.ipynb
 
@@ -39,6 +41,17 @@ xsltng:
 	docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/epub.xsl -o:/tmp/vism.xsltng.epub
 	docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook.xsl -o:/tmp/vism.xsltng.html
 	#docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook-paged.xsl -o:/tmp/vism.xsltng.html
+
+vimuttimagga:
+	#cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
+	#cp vimm/origin/vimm7a.exported.xml build/
+	cp -r sphinx-vimm build/
+	cp -r html5 build/
+	cd build/latex && latexmk vimm.tex && plastex -c plastex-vimm.ini vimm.tex
+	make -C build/sphinx-vimm html singlehtml epub
+	weasyprint -s html5/style.A4.css build/html5/vimm.html build/html5/vimm.weasyprint.pdf
+	#vivliostyle build --style build/html5/style.A4.css --single-doc --timeout 1200 --output build/html5/vimm.vivliostyle.pdf build/html5/vimm.html
+
 
 web:
 	cp src/index.html build/index.html
