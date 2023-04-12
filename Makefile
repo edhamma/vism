@@ -9,6 +9,11 @@ build/book.sectioned.xml: src/*.xml 06-assemble.ipynb
 
 assemble:
 	mkdir -p build
+	cp -r latex build/
+	cp -r html5 build/
+	cp -r sphinx build/
+	cp -r docbook build/
+	cp -r sphinx-vimm build/
 	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
 	cp vimm/origin/vimm7a.exported.xml build/
 	jupyter execute 06-assemble.ipynb
@@ -16,19 +21,15 @@ assemble:
 build: latex docbook sphinx web
 
 latex: build/book.sectioned.xml latex/*
-	cp -r latex build/
 	cd build/latex && \
 		latexmk vism.tex && \
 		plastex -c plastex.ini vism.tex
 html5:
-	cp -r html5 build/
 	weasyprint -s html5/style.A4.css build/html5/vism.html build/html5/vism.weasyprint.pdf
 	vivliostyle build --style build/html5/style.A4.css --single-doc --timeout 1200 --output build/html5/vism.vivliostyle.pdf build/html5/vism.html
 sphinx: build/book.sectioned.xml sphinx/source/*
-	cp -r sphinx build/
 	make -C build/sphinx html singlehtml epub
 docbook: build/book.sectioned.xml docbook/*
-	cp -r docbook build/
 	cd build/docbook && \
 		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml && \
 		xsltproc -o vism.fo vism.fo.xsl vism.xml && \
@@ -45,14 +46,11 @@ xsltng:
 vimuttimagga:
 	#cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
 	#cp vimm/origin/vimm7a.exported.xml build/
-	cp -r sphinx-vimm build/
-	cp -r html5 build/
 	cd build/latex && latexmk vimm.tex && plastex -c plastex-vimm.ini vimm.tex
 	make -C build/sphinx-vimm html singlehtml epub
 	weasyprint -s html5/style.A4.css build/html5/vimm.html build/html5/vimm.weasyprint.pdf
 	#vivliostyle build --style build/html5/style.A4.css --single-doc --timeout 1200 --output build/html5/vimm.vivliostyle.pdf build/html5/vimm.html
 	# TODO? DocBook
-
 
 web:
 	cp src/index.html build/index.html
