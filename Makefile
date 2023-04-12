@@ -8,9 +8,9 @@ build/book.sectioned.xml: src/*.xml 06-assemble.ipynb
 	make assemble
 
 assemble:
+	mkdir -p build
 	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
 	cp vimm/origin/vimm7a.exported.xml build/
-	mkdir -p build
 	jupyter execute 06-assemble.ipynb
 
 build: latex docbook sphinx web
