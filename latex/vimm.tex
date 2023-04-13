@@ -1,238 +1,25 @@
-\documentclass[a4paper]{book}
+\input{vism-common.tex}
 
-\input{vism-defs.tex}
-
-\usepackage{multicol}
-\usepackage{xcolor}
-
-\def\paraIssueUrl#1{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20paragraph\%20#1\&body=(\vismCommitTimestampQuery)}
-\def\vismCommitHref{\href{https://github.com/eudoxos/vism/commit/\vismCommit}{\vismCommit}}
-
-% for LaTex, disable plastex parts
-\newif\ifplastex\plastexfalse
-
-
-
-\ifplastex
-	\let\RaggedRight\relax
-	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
-	% \*matter are no-op in plastex, define what we need
-	\def\frontmatter{\setcounter{part}{-1}\part{[Front]}} % Part 0 in roman will show as Part, giving Part [Front]
-	\def\mainmatter{\setcounter{chapter}{0}}
-	\def\backmatter{\setcounter{part}{-1}\part{[Back]}}
-	%% vism-specific macros for PlasTeX
-	\def\vismHypertarget#1{\hypertarget{#1}{}}
-	\def\vismAssertFootnoteCounter#1{\relax}
-	% using \paragraph will insert newline after each heading, so just use \textbf instead.
-	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
-	% used for paragraph alignment in TOC, not useful for PlasTeX
-	\def\vismAlignedParas#1{#1: }
-	\newenvironment{vismHanging}{}{}
-	\def\vismBibIntertitle#1{\bibitem[\textbf{\LARGE #1}]{\textbf{\LARGE #1}}}
-\else
-	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
-	% use the same-looking font like BPS2011
-	% (they used URWPalladioPali, this is modernized, with unicode glyphs for all pali)
-	\usepackage{fontspec}
-	\setmainfont{Tex Gyre Pagella}
-	% \RaggedRight used in two-column index
-	\usepackage{ragged2e}
-	% showing anchors and BPS pages in the margin
-	\usepackage{marginnote}
-	% no page numbers on empty pages
-	\usepackage{emptypage}
-	%
-	\usepackage[protrusion=true,expansion,tracking=true]{microtype}
-	%
-	\makeatletter
-		% https://tex.stackexchange.com/a/31559
-		% just hanging pagraphs via parindent/leftskip won't be effective for paragraph after hading (has no \parindent)
-		% thus we also need to disable removing indent after heading
-		\newenvironment{vismHanging}{
-			\bgroup
-			\let\orig@afterheading\@afterheading
-			\def\@afterheading{\@afterindenttrue\orig@afterheading}
-			\parindent=-1em\leftskip=1em\par
-		}{\par\egroup}
-	\makeatother
-	%
-	\usepackage{setspace}
-	% less warnings
-		\hbadness10000
-		\vbadness10000
-		\hfuzz=10cm
-		\vfuzz=10cm
-		\parskip=.4\baselineskip
-	%% vism-specific macros for LaTeX
-	% fix hyperlink in PDF being one line too low, https://tex.stackexchange.com/a/412381
-	\makeatletter
-	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
-	\makeatother
-	% check that footnote numbers are sequential
-	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
-	% check that paragraph numbers are sequential (disabled by default, as § are not numbered; set \setcounter{secnumdepth}{4} below to enable)
-	\def\vismAssertParagraphCounter#1{\ifnum\value{paragraph}=#1\else\PackageError{Visuddhimagga}{Paragraph out of sync with original in \Roman{chapter} (should be §\arabic{paragraph}, is §#1.}\fi}
-	% 
-	\usepackage{titletoc}
-	\usepackage[pagestyles,extramarks]{titlesec}
-	\usepackage{ifthen}
-	%
-	% page header showing paragraphs on the current page
-	%
-	% straight from titleps (=[pagestyles]{titlesec}) manual
-	\newcommand\vismMark{}
-	\newshortmark\vismMark
-	\def\vismParagraph#1#2{%
-		\preshortmark\vismMark%
-		\paragraph[§#2.]{\href{\paraIssueUrl{#1}}{§#2.}}%
-		\renewcommand\vismMark{#2}\shortmark\vismMark%
-		\vismHypertarget{#1}%
-		\marginnote{\footnotesize\textcolor{purple}{#1}}%
-		% \vismAssertParagraphCounter{#2}
-	}
-	\def\vismAlignedParas#1{\hbox to 5em{#1:\hfill}}
-	%% reset paragraphs for each chapter, not subsubsection
-	\counterwithout{paragraph}{subsubsection}
-	\counterwithin{paragraph}{chapter}
-	%
-	\def\vismParaPage{
-		% use \csname ... \endcsname so that plasTeX does not fail parsing the expression
-		\csname ifthenelse\endcsname{%
-			\equal{\topshortmark\vismMark}{\botshortmark\vismMark}%
-		}{%
-			\topshortmark\vismMark%
-		}{
-			\topshortmark\vismMark–\botshortmark\vismMark%
-		}%
-	}
-	\def\thepageIssue{\href{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20page\%20\thepage\&body=(\vismCommitTimestampQuery)}{\thepage}}
-	% smaller vertical space above paragraph
-	\titlespacing*{\paragraph}{0pt}{\medskipamount}{*2}
-	\newpagestyle{vismBody}{
-		\setheadrule{.55pt}
-		%\headrule
-		\sethead[\thechapter.\vismParaPage][\thechapter. \textsc{\chaptertitle}][]{}{\emph{\sectiontitle}}{\thechapter.\vismParaPage}
-		\setfoot[\thepageIssue][][\vismCommitHref]{\vismCommitHref}{}{\thepageIssue}
-	}
-	\newpagestyle{vismNoBody}{
-		\setheadrule{.55pt}
-		\headrule{}
-		\sethead[][\chaptertitle][]{}{\sectiontitle}{}
-		\setfoot[\thepageIssue][][\vismCommitHref]{\vismCommitHref}{}{\thepageIssue}
-	}
-	\renewpagestyle{plain}{
-		\sethead[][][]{}{}{}
-		\setfoot[\thepageIssue][][\vismCommitHref]{\vismCommitHref}{}{\thepageIssue}
-	}
-	\pagestyle{vismNoBody}
-	% example from titlesec manual, pg 23
-	\titleformat{\chapter}[display]{\bfseries\scshape\LARGE}{\filleft\MakeUppercase{\chaptertitlename} \Huge\thechapter}{4ex}{\titlerule\vspace{2ex}\filright}[{%
-		\vspace{2ex}%
-		\titlerule%
-		\vspace*{4pc}%
-		\mdseries\normalsize\rmfamily\upshape%
-		\startcontents\printcontents{l}{1}[3]{}%
-	}]
-	%% switch pagestyle and section numbering for the main text
-	\let\origmainmatter\mainmatter
-	\def\mainmatter{
-		\origmainmatter\pagestyle{vismBody}
-		\def\thesection{\arabic{section}}
-	}
-	\let\origbackmatter\backmatter
-	\def\backmatter{\origbackmatter\pagestyle{vismNoBody}}
-
-	% a bit more space for chapter roman number
-	\dottedcontents{chapter}[3em]{\bfseries\scshape}{3em}{1pc}
-	% tables
-	\usepackage{tabularray}
-	\NewTblrTheme{vismLong}{
-		\SetTblrStyle{firsthead}{font=\bfseries\scshape}
-		\SetTblrStyle{middlehead}{font=\bfseries\scshape}
-		\SetTblrStyle{lasthead}{font=\bfseries\scshape}
-		\SetTblrStyle{label}{}
-		\SetTblrStyle{entry}{}
-		\SetTblrStyle{caption}{}
-		\SetTblrStyle{conthead}{}
-		\SetTblrStyle{capcont}{}
-		\SetTblrStyle{contfoot-text}{…}
-		\SetTblrStyle{conthead-text}{…}
-		\SetTblrStyle{rowhead}{1}
-	}
-
-	\NewTblrTheme{vismNaked}{
-		\DefTblrTemplate{foot}{empty}{}
-		\SetTblrTemplate{foot}{empty}
-		\DefTblrTemplate{head}{empty}{}
-		\SetTblrTemplate{head}{empty}
-		\SetTblrOuter{presep=0pt,postsep=0pt}
-	}
-	%\DefTblrTemplate{contfoot-text}{vismPlain}{}
-	%\DefTblrTemplate{conthead-text}{vismPlain}{}
-	%\DefTblrTemplate{caption}{vismPlain}{}
-	%\DefTblrTemplate{conthead}{vismPlain}{}
-	%\DefTblrTemplate{capcont}{vismPlain}{}
-
-	% this is only defined in newer versions of tabularray.sty, as the one in the repo here
-	% (not yet in TeXLive)
-	\RenewDocumentCommand\TblrAlignLeft{}{\RaggedRight}
-	% no section for bibliography: https://tex.stackexchange.com/a/132647
-	\usepackage{etoolbox}
-	\patchcmd{\thebibliography}{\chapter*{\bibname}}{}{}{}
-	% intertitle in bibliography
-	\newenvironment{bibcomment}{\item[]\begingroup\par\parshape0}{\par\endgroup}
-	\def\vismBibIntertitle#1{\begin{bibcomment}\subsection{#1}\end{bibcomment}}
-\fi
-
-% styling of enumerations (roman, alpha, ...); shortlabels for plastex compatibility (label=... does not work for plastex yet)
-\usepackage[shortlabels]{enumitem}
-
-\usepackage[bookmarksnumbered=true]{hyperref}
-
-
-% after loading hyperref
-\ifplastex\else
-	\pdfstringdefDisableCommands{\def\vismAlignedParas#1{#1}}
-\fi
-
-% number chapter with roman numbers
-\renewcommand{\thechapter}{\Roman{chapter}}
-% show parts as "Part II" in the TOC, but avoid "Part Part II" in the title itself
-\renewcommand{\thepart}{Part \Roman{part}}
-\renewcommand{\partname}{} 
-
-% deep ToC: subsubsection (4 would mean §§ in the ToC)
-% only show subsections in the global ToC
-% (but show subsubsections in chapter-level ToCs — in \titleformat{\chapter} above)
-\setcounter{tocdepth}{2}
-\setcounter{secnumdepth}{3}
-
-
-\bibliographystyle{abstract}
-
+%% Vimuttimagga adjustments (all above is common)
+\def\thepageIssue{\href{https://github.com/eudoxos/vism/issues/new?title=Vimuttimagga\%20issue\%20at\%20page\%20\thepage\&body=(\vismCommitTimestampQuery)}{\thepage}}
 \def\vismAssertFootnoteCounter#1{\relax}
 \usepackage[stable]{footmisc}
 
 
 \begin{document}
-	%\dominitoc
 	\title{The Path of Freedom \\ (\emph{Vimuttimagga})}
 	\date{preview, do not distribute \\ (ver. \vismCommitHref, compiled \today)}
 	\ifplastex
 		\author{by the Arahant Upatissa \\ Translated from Chinese by Rev. N. R. M. Ehara, Soma Thera, \& Kheminda Thera}
 	\else
-		%\author{by Bhadantācariya Buddhaghosa \\ Translated from the Pali by Bhikkhu Ñāṇamoli}
-		\author{by \\ the Arahant Upatissa \and Translated from Chinese by \\ Rev. N.R.M. Ehara, Soma Thera, \& Kheminda Thera}
+		\author{by \\ the Arahant Upatissa \and Translated from Chinese by \\ Rev. N.~R.~M. Ehara, Soma Thera, \& Kheminda Thera}
 	\fi
 	\maketitle
 
-	% frontmatter is repeated in vism-body; okay for LaTeX, PlasTeX will create two [Front] parts since \frontmatter is custom-defined
-	\ifplastex\else\frontmatter\fi
-		\tableofcontents
-		\def\thesection{\arabic{section}}
+	\frontmatter
+		\bgroup
+			\ifplastex\else\renewcommand{\baselinestretch}{0.2}\normalsize\fi
+			\tableofcontents
+		\egroup
 		\input{vimm-body.tex}
-	\backmatter
-		% \input{vism-bib.tex}
-		%\input{vism-index.tex}
-		%\input{vism-glossary.tex}
 \end{document}
