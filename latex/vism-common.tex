@@ -17,10 +17,12 @@
 	\let\RaggedRight\relax
 	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
 	%% vism-specific macros for PlasTeX
-	\def\vismHypertarget#1{\hypertarget{#1}{}}
+	\def\vismHypertarget#1{\hypertarget{#1}{}\hyperlink{#1}{\scriptsize\textcolor{purple}{{\href{\##1}{#1}}}}}
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
-	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}\marginnote{\footnotesize\textcolor{purple}{#1}}}
+	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}
+		%\marginnote{\footnotesize\textcolor{purple}{#1}}} % \href{\##1}{#1}}}}
+	}
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
 	\newenvironment{vismHanging}{}{}
@@ -62,7 +64,10 @@
 	%% vism-specific macros for LaTeX
 	% fix hyperlink in PDF being one line too low, https://tex.stackexchange.com/a/412381
 	\makeatletter
-	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
+	   \newcommand{\vismHypertarget}[1]{
+			\Hy@raisedlink{\hypertarget{#1}{}}%
+			\marginnote{\footnotesize\textcolor{purple}{#1}}
+		}
 	\makeatother
 	% check that footnote numbers are sequential
 	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
@@ -83,7 +88,7 @@
 		\paragraph[§#2.]{\href{\paraIssueUrl{#1}}{§#2.}}%
 		\renewcommand\vismMark{#2}\shortmark\vismMark%
 		\vismHypertarget{#1}%
-		\marginnote{\footnotesize\textcolor{purple}{#1}}%
+		%\marginnote{\footnotesize\textcolor{purple}{#1}}%
 		% \vismAssertParagraphCounter{#2}
 	}
 	\def\vismAlignedParas#1{\hbox to 5em{#1:\hfill}}
