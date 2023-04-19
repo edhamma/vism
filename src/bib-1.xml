@@ -220,18 +220,24 @@
       <bibentry abbrev="Vin-a"><span>???</span></bibentry>
       <bibentry abbrev="Vism"><em>Visuddhimagga</em><span>(PTS ed. [= Ee] and Harvard Oriental Series ed. [= Ae])</span></bibentry>
       <bibentry abbrev="Vism-mhṭ"><span>Paramatthamañjūsā, Visuddhimagga Aṭṭhakathā = Mahā Ṭīkā (Chs. I to XVII Sinhalese Vidyodaya ed.; Chs. XVIII to XXIII Be ed.)</span></bibentry>
-      <bibintertitle>Other abbreviations</bibintertitle>
-      <bibentry abbrev="Ae"><span>American Edition (= Harvard Oriental Series)</span></bibentry>
-      <bibentry abbrev="Be"><span>Burmese Edition</span></bibentry>
-      <bibentry abbrev="Ce"><span>Ceylonese Edition</span></bibentry>
-      <bibentry abbrev="CPD"><em>Critical Pali Dictionary</em><span>; Treckner</span></bibentry>
-      <bibentry abbrev="Ee"><span>European Edition (= PTS)</span></bibentry>
-      <bibentry abbrev="EHBC"><em>The Early History of Buddhism in Ceylon</em><span>, E. W. Adikaram.</span></bibentry>
-      <bibentry abbrev="PED"><em>Pali-English Dictionary</em></bibentry>
-      <bibentry abbrev="PLC"><em>Pali Literature of Ceylon</em><span>, Malalasekera.</span></bibentry>
-      <bibentry abbrev="PTS"><span>Pali Text Society</span></bibentry>
-      <bibentry abbrev="Se"><span>Siamese Edition</span></bibentry>
     </bibliography>
+    <struct-4-subsection>
+      <heading>
+        <span>Other abbreviations</span>
+      </heading>
+      <bibliography>
+        <bibentry abbrev="Ae"><span>American Edition (= Harvard Oriental Series)</span></bibentry>
+        <bibentry abbrev="Be"><span>Burmese Edition</span></bibentry>
+        <bibentry abbrev="Ce"><span>Ceylonese Edition</span></bibentry>
+        <bibentry abbrev="CPD"><em>Critical Pali Dictionary</em><span>; Treckner</span></bibentry>
+        <bibentry abbrev="Ee"><span>European Edition (= PTS)</span></bibentry>
+        <bibentry abbrev="EHBC"><em>The Early History of Buddhism in Ceylon</em><span>, E. W. Adikaram.</span></bibentry>
+        <bibentry abbrev="PED"><em>Pali-English Dictionary</em></bibentry>
+        <bibentry abbrev="PLC"><em>Pali Literature of Ceylon</em><span>, Malalasekera.</span></bibentry>
+        <bibentry abbrev="PTS"><span>Pali Text Society</span></bibentry>
+        <bibentry abbrev="Se"><span>Siamese Edition</span></bibentry>
+      </bibliography>
+    </struct-4-subsection>
     <p>
       <span>Numbers in square brackets in the text thus [25] refer to the page numbers of the Pali Text Society's edition of the Pali.</span>
     </p>

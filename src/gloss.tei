@@ -3,11 +3,11 @@
     <span>This Glossary only includes (a) some epistemological and technical terms, and (b) meanings or words not in the PED, which are marked with an asterisk(*), though such compounds prefixes as e.g. </span>
     <em>anukaḍḍhati</em>
     <span> = to keep dragging along (</span>
-    <ref type="vism" target="III.68">III.68</ref>
+    <ptr type="vism" target="III.68">III.68</ptr>
     <span>) or suffixes as e.g. </span>
     <em>vattabbatā</em>
     <span> = ability to be called (</span>
-    <ref type="vism" target="IV.148">IV.148</ref>
+    <ptr type="vism" target="IV.148">IV.148</ptr>
     <span>) and such verbal substantives as </span>
     <em>udikkhana</em>
     <span> from </span>
@@ -25,7 +25,7 @@
   </entry>
   <entry page_id="832" title="*agaru">
     <span>aloe wood (spelled agaḷu in PED); </span>
-    <ref type="vism" target="VIII.47">VIII.47</ref>
+    <ptr type="vism" target="VIII.47">VIII.47</ptr>
     <span> </span>
   </entry>
   <entry page_id="832" title="aṅga">
@@ -37,20 +37,20 @@
   <entry page_id="832" title="*ajjhottharamāna">
     <em>also </em>
     <span>threatening: </span>
-    <ref type="vism" target="VI.56">VI.56</ref>
+    <ptr type="vism" target="VI.56">VI.56</ptr>
   </entry>
   <entry page_id="832" title="*añcita">
     <span>outstretched: </span>
-    <ref type="vism" target="XX.112">XX.112</ref>
+    <ptr type="vism" target="XX.112">XX.112</ptr>
   </entry>
   <entry page_id="832" title="aññā">
     <span>final knowledge (in the Arahant)</span>
   </entry>
   <entry page_id="832" title="*aññāti">
     <span>to know ( = ājānāti): </span>
-    <ref type="vism" target="VII.22">VII.22</ref>
+    <ptr type="vism" target="VII.22">VII.22</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 122">Paṭis I 122</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 122">Paṭis I 122</ptr>
     <span>) </span>
   </entry>
   <entry page_id="832" title="aṭṭhaka, aṭṭhamaka">
@@ -61,30 +61,30 @@
   </entry>
   <entry page_id="832" title="*aṇimā">
     <span>minuteness: </span>
-    <ref type="vism" target="VII.61">VII.61</ref>
+    <ptr type="vism" target="VII.61">VII.61</ptr>
   </entry>
   <entry page_id="832" title="*atammayatā">
     <span>aloofness; </span>
-    <ref type="vism" target="XXI.135">XXI.135</ref>
+    <ptr type="vism" target="XXI.135">XXI.135</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" III 220">M III 220</ref>
+    <ptr type="bib" target="M" loc=" III 220">M III 220</ptr>
     <span>) </span>
   </entry>
   <entry page_id="832" title="*atippasaṅga">
     <span>over-generalization (logic): </span>
-    <ref type="vism" target="XIV.186">XIV.186</ref>
+    <ptr type="vism" target="XIV.186">XIV.186</ptr>
     <span> </span>
   </entry>
   <entry page_id="832" title="*atisāra">
     <span>flux (of bowels), diarrhoea: </span>
-    <ref type="vism" target="XI.21">XI.21</ref>
+    <ptr type="vism" target="XI.21">XI.21</ptr>
   </entry>
   <entry page_id="832" title="atīta">
     <span>past</span>
   </entry>
   <entry page_id="832" title="*attatā">
     <span>selfness, oneself: </span>
-    <ref type="vism" target="IX.47">IX.47</ref>
+    <ptr type="vism" target="IX.47">IX.47</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -102,7 +102,7 @@
   </entry>
   <entry page_id="832" title="*attānuvāda">
     <span>self-reproach: </span>
-    <ref type="vism" target="VII.106">VII.106</ref>
+    <ptr type="vism" target="VII.106">VII.106</ptr>
   </entry>
   <entry page_id="832" title="attha">
     <span>(1) benefit, result, (2) purpose, aim, goal, (3) meaning </span>
@@ -124,14 +124,14 @@
   </entry>
   <entry page_id="832" title="*adha-r-āraṇi">
     <span>lower fire-stick: </span>
-    <ref type="vism" target="XV.41">XV.41</ref>
+    <ptr type="vism" target="XV.41">XV.41</ptr>
   </entry>
   <entry page_id="832" title="*adhikāra">
     <em>also </em>
     <span>treatise, heading: </span>
-    <ref type="vism" target="III.133">III.133</ref>
+    <ptr type="vism" target="III.133">III.133</ptr>
     <span> (</span>
-    <ref type="bib" target="Dhs-a" loc=" 58">Dhs-a 58</ref>
+    <ptr type="bib" target="Dhs-a" loc=" 58">Dhs-a 58</ptr>
     <span>) </span>
   </entry>
   <entry page_id="832" title="*adhikicca">
@@ -146,11 +146,11 @@
   <entry page_id="832" title="*adhiṭṭhāna">
     <em>also </em>
     <span>(3) in terms of: </span>
-    <ref type="vism" target="IV.92">IV.92</ref>
+    <ptr type="vism" target="IV.92">IV.92</ptr>
     <span>, (4) habitat: </span>
-    <ref type="vism" target="X.24">X.24</ref>
+    <ptr type="vism" target="X.24">X.24</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.134">XIV.134</ref>
+    <ptr type="vism" target="XIV.134">XIV.134</ptr>
     <span> </span>
   </entry>
   <entry page_id="832" title="adhipaññā">
@@ -197,7 +197,7 @@
   </entry>
   <entry page_id="833" title="*anutthunana">
     <span>brooding: </span>
-    <ref type="vism" target="XVI.59">XVI.59</ref>
+    <ptr type="vism" target="XVI.59">XVI.59</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -221,9 +221,9 @@
   </entry>
   <entry page_id="833" title="*anuvattāpana">
     <span>causing occurrence parallel to: </span>
-    <ref type="vism" target="XVI.10">XVI.10</ref>
+    <ptr type="vism" target="XVI.10">XVI.10</ptr>
     <span> (cf. </span>
-    <ref type="bib" target="Dhs" loc=" p.5">Dhs p.5</ref>
+    <ptr type="bib" target="Dhs" loc=" p.5">Dhs p.5</ptr>
     <span>) </span>
   </entry>
   <entry page_id="833" title="anusaya">
@@ -234,7 +234,7 @@
   </entry>
   <entry page_id="833" title="*aneñja, aneja">
     <span>unperturbed: </span>
-    <ref type="vism" target="XII.55">XII.55</ref>
+    <ptr type="vism" target="XII.55">XII.55</ptr>
   </entry>
   <entry page_id="833" title="anesanā">
     <span>improper search</span>
@@ -250,11 +250,11 @@
   </entry>
   <entry page_id="833" title="*aparisaṇṭhita">
     <span>turbulent: </span>
-    <ref type="vism" target="VI.86">VI.86</ref>
+    <ptr type="vism" target="VI.86">VI.86</ptr>
   </entry>
   <entry page_id="833" title="*apavārita">
     <span>opened up: </span>
-    <ref type="vism" target="VI.4">VI.4</ref>
+    <ptr type="vism" target="VI.4">VI.4</ptr>
   </entry>
   <entry page_id="833" title="apāya">
     <span>state of loss</span>
@@ -273,32 +273,32 @@
   </entry>
   <entry page_id="833" title="*appāyati">
     <span>to satisfy: </span>
-    <ref type="vism" target="XI.87">XI.87</ref>
+    <ptr type="vism" target="XI.87">XI.87</ptr>
   </entry>
   <entry page_id="833" title="appicchatā">
     <span>fewness of wishes</span>
   </entry>
   <entry page_id="833" title="*appita">
     <span>done away with: </span>
-    <ref type="vism" target="IV.146">IV.146</ref>
+    <ptr type="vism" target="IV.146">IV.146</ptr>
     <span> (</span>
-    <ref type="bib" target="Vibh" loc=" 258">Vibh 258</ref>
+    <ptr type="bib" target="Vibh" loc=" 258">Vibh 258</ptr>
     <span>) </span>
   </entry>
   <entry page_id="833" title="*abbhaṅga">
     <span>unguent: </span>
-    <ref type="vism" target="I.86">I.86</ref>
+    <ptr type="vism" target="I.86">I.86</ptr>
     <span> </span>
     <span/>
   </entry>
   <entry page_id="833" title="*abyābhicārin">
     <span>without exception (gram. and log.): </span>
-    <ref type="vism" target="XIV.25">XIV.25</ref>
+    <ptr type="vism" target="XIV.25">XIV.25</ptr>
     <span> </span>
   </entry>
   <entry page_id="833" title="*abyosāna">
     <span>not stopping halfway: </span>
-    <ref type="vism" target="XX.21">XX.21</ref>
+    <ptr type="vism" target="XX.21">XX.21</ptr>
   </entry>
   <entry page_id="833" title="abhāva">
     <span>absence, non-existence, nonentity </span>
@@ -309,7 +309,7 @@
   </entry>
   <entry page_id="833" title="*abhigacchati">
     <span>to rely on: </span>
-    <ref type="vism" target="VII.60">VII.60</ref>
+    <ptr type="vism" target="VII.60">VII.60</ptr>
     <span> </span>
   </entry>
   <entry page_id="833" title="abhighāta">
@@ -334,24 +334,24 @@
     <span/>
     <em>also </em>
     <span>insistence, interpreting: </span>
-    <ref type="vism" target="I.140">I.140</ref>
+    <ptr type="vism" target="I.140">I.140</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.130">XIV.130</ref>
+    <ptr type="vism" target="XIV.130">XIV.130</ptr>
     <span>; </span>
-    <ref type="vism" target="XXI.84">XXI.84f.</ref>
+    <ptr type="vism" target="XXI.84">XXI.84f.</ptr>
     <span>, etc. </span>
   </entry>
   <entry page_id="833" title="*abhinihāra">
     <span>(1) conveying, (2) guidance: </span>
-    <ref type="vism" target="XI.93">XI.93</ref>
+    <ptr type="vism" target="XI.93">XI.93</ptr>
     <span>, </span>
-    <ref type="vism" target="XI.117">117</ref>
+    <ptr type="vism" target="XI.117">117</ptr>
     <span>; </span>
-    <ref type="vism" target="XIII.16">XIII.16</ref>
+    <ptr type="vism" target="XIII.16">XIII.16</ptr>
     <span>, </span>
-    <ref type="vism" target="XIII.95">95</ref>
+    <ptr type="vism" target="XIII.95">95</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 17">Paṭis I 17</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 17">Paṭis I 17</ptr>
     <span>, 61)</span>
   </entry>
   <entry page_id="833" title="abhibhāyatana">
@@ -359,7 +359,7 @@
   </entry>
   <entry page_id="833" title="*abhisaṃharati">
     <span>to make (a profit): </span>
-    <ref type="vism" target="IX.65">IX.65</ref>
+    <ptr type="vism" target="IX.65">IX.65</ptr>
   </entry>
   <entry page_id="833" title="abhisaṅkhāra">
     <span>(1) volitional formation, kamma-formation, formation, (2) momentum </span>
@@ -376,9 +376,9 @@
   <entry page_id="833" title="*aya">
     <em>also </em>
     <span>a reason: </span>
-    <ref type="vism" target="XIII.92">XIII.92</ref>
+    <ptr type="vism" target="XIII.92">XIII.92</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.17">XVI.17</ref>
+    <ptr type="vism" target="XVI.17">XVI.17</ptr>
   </entry>
   <entry page_id="833" title="arati">
     <span>aversion, boredom</span>
@@ -388,14 +388,14 @@
   </entry>
   <entry page_id="833" title="*ariṭṭhaka">
     <span>kind of thorny plant: </span>
-    <ref type="vism" target="VIII.83">VIII.83</ref>
+    <ptr type="vism" target="VIII.83">VIII.83</ptr>
   </entry>
   <entry page_id="833" title="ariya">
     <span>noble, noble one (i.e. one who has attained a path) </span>
   </entry>
   <entry page_id="833" title="*ariyati">
     <span>to be served (CPD has “to approach”): </span>
-    <ref type="vism" target="XIV.22">XIV.22</ref>
+    <ptr type="vism" target="XIV.22">XIV.22</ptr>
     <span> </span>
   </entry>
   <entry page_id="833" title="arūpa">
@@ -406,43 +406,43 @@
   </entry>
   <entry page_id="833" title="*allīna">
     <span>unsheltered (pp. a+līyati): </span>
-    <ref type="vism" target="XX.19">XX.19</ref>
+    <ptr type="vism" target="XX.19">XX.19</ptr>
   </entry>
   <entry page_id="833" title="*allīyituṃ">
     <span>to give shelter (not in CPD; inf. ā+līyati; see leṇa in CPD): (allīyitabba) </span>
-    <ref type="vism" target="XXII.120">XXII.120</ref>
+    <ptr type="vism" target="XXII.120">XXII.120</ptr>
     <span>; (allīyana) </span>
-    <ref type="vism" target="VII.83">VII.83</ref>
+    <ptr type="vism" target="VII.83">VII.83</ptr>
   </entry>
   <entry page_id="833" title="*avakkhaṇḍana">
     <span>hiatus: </span>
-    <ref type="vism" target="II.6">II.6</ref>
+    <ptr type="vism" target="II.6">II.6</ptr>
   </entry>
   <entry page_id="833" title="*avagaha">
     <span>grasping: </span>
-    <ref type="vism" target="XVI.104">XVI.104</ref>
+    <ptr type="vism" target="XVI.104">XVI.104</ptr>
   </entry>
   <entry page_id="833" title="*avatthā">
     <span>occasion, position: </span>
-    <ref type="vism" target="IV.167">IV.167</ref>
+    <ptr type="vism" target="IV.167">IV.167</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.306">XVII.306</ref>
+    <ptr type="vism" target="XVII.306">XVII.306</ptr>
     <span>; </span>
-    <ref type="vism" target="XX.19">XX.19</ref>
+    <ptr type="vism" target="XX.19">XX.19</ptr>
     <span> </span>
   </entry>
   <entry page_id="833" title="*avadhāna">
     <span>attention: </span>
-    <ref type="vism" target="I.32">I.32</ref>
+    <ptr type="vism" target="I.32">I.32</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 1">Paṭis I 1</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 1">Paṭis I 1</ptr>
     <span>; </span>
-    <ref type="bib" target="M" loc=" II 175">M II 175</ref>
+    <ptr type="bib" target="M" loc=" II 175">M II 175</ptr>
     <span>) </span>
   </entry>
   <entry page_id="833" title="*avadhi">
     <span>limit (= odhi): </span>
-    <ref type="vism" target="I.86">I.86</ref>
+    <ptr type="vism" target="I.86">I.86</ptr>
   </entry>
   <entry page_id="833" title="avabodha">
     <span>awareness, discovery </span>
@@ -450,21 +450,21 @@
   </entry>
   <entry page_id="833" title="*avarodha">
     <span>inclusion: </span>
-    <ref type="vism" target="XIV.216">XIV.216</ref>
+    <ptr type="vism" target="XIV.216">XIV.216</ptr>
     <span>, </span>
-    <ref type="vism" target="XIV.219">219</ref>
+    <ptr type="vism" target="XIV.219">219</ptr>
     <span> </span>
     <span/>
   </entry>
   <entry page_id="833" title="*avāsa">
     <span>eviction: </span>
-    <ref type="vism" target="IV.9">IV.9</ref>
+    <ptr type="vism" target="IV.9">IV.9</ptr>
     <span>, </span>
-    <ref type="vism" target="IV.12">12</ref>
+    <ptr type="vism" target="IV.12">12</ptr>
   </entry>
   <entry page_id="833" title="*avi">
     <span>goat or sheep: </span>
-    <ref type="vism" target="XVII.110">XVII.110</ref>
+    <ptr type="vism" target="XVII.110">XVII.110</ptr>
   </entry>
   <entry page_id="833" title="avikkhepa">
     <span>non-distraction</span>
@@ -538,16 +538,16 @@
   </entry>
   <entry page_id="834" title="*ādina">
     <span>wretched: </span>
-    <ref type="vism" target="XX.19">XX.19</ref>
+    <ptr type="vism" target="XX.19">XX.19</ptr>
   </entry>
   <entry page_id="834" title="ādīnava">
     <span>danger, disability</span>
   </entry>
   <entry page_id="834" title="*ādhāraṇa">
     <span>subserving: </span>
-    <ref type="vism" target="XIV.60">XIV.60</ref>
+    <ptr type="vism" target="XIV.60">XIV.60</ptr>
     <span> (</span>
-    <ref type="bib" target="M-a" loc=" II 52">M-a II 52</ref>
+    <ptr type="bib" target="M-a" loc=" II 52">M-a II 52</ptr>
     <span>) </span>
   </entry>
   <entry page_id="834" title="ānantarika">
@@ -563,25 +563,25 @@
     <span/>
     <em>also </em>
     <span>to follow logically: </span>
-    <ref type="vism" target="II.79">II.79</ref>
+    <ptr type="vism" target="II.79">II.79</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.68">XVI.68f.</ref>
+    <ptr type="vism" target="XVI.68">XVI.68f.</ptr>
     <span> </span>
   </entry>
   <entry page_id="834" title="*āpajjana">
     <span>logical consequence: </span>
-    <ref type="vism" target="I.n19">I.n.19</ref>
+    <ptr type="vism" target="I.n19">I.n.19</ptr>
     <span>; </span>
-    <ref type="vism" target="XV.68">XV.68</ref>
+    <ptr type="vism" target="XV.68">XV.68</ptr>
     <span> </span>
   </entry>
   <entry page_id="834" title="*āpatti">
     <span/>
     <em>also </em>
     <span>logical consequent: </span>
-    <ref type="vism" target="XVI.72">XVI.72</ref>
+    <ptr type="vism" target="XVI.72">XVI.72</ptr>
     <span>; </span>
-    <ref type="vism" target="XIX.3">XIX.3</ref>
+    <ptr type="vism" target="XIX.3">XIX.3</ptr>
     <span> </span>
   </entry>
   <entry page_id="834" title="āpatti">
@@ -589,7 +589,7 @@
   </entry>
   <entry page_id="834" title="*āpādana">
     <span>production: </span>
-    <ref type="vism" target="II.21">II.21</ref>
+    <ptr type="vism" target="II.21">II.21</ptr>
   </entry>
   <entry page_id="834" title="*āpo">
     <span>water </span>
@@ -604,14 +604,14 @@
   </entry>
   <entry page_id="834" title="*āyatati">
     <span>to actuate </span>
-    <ref type="vism" target="XV.4">XV.4</ref>
+    <ptr type="vism" target="XV.4">XV.4</ptr>
   </entry>
   <entry page_id="834" title="āyatana">
     <span>base</span>
   </entry>
   <entry page_id="834" title="*āyatana">
     <span>actuating: </span>
-    <ref type="vism" target="XV.4">XV.4</ref>
+    <ptr type="vism" target="XV.4">XV.4</ptr>
   </entry>
   <entry page_id="834" title="āyu">
     <span>life </span>
@@ -635,7 +635,7 @@
     <span/>
     <em>also </em>
     <span>to attribute to: </span>
-    <ref type="vism" target="XX.47">XX.47</ref>
+    <ptr type="vism" target="XX.47">XX.47</ptr>
   </entry>
   <entry page_id="834" title="ālaya">
     <span>reliance, thing relied on</span>
@@ -650,18 +650,18 @@
   </entry>
   <entry page_id="834" title="*āvatthika">
     <span>denoting a period: </span>
-    <ref type="vism" target="VII.54">VII.54</ref>
+    <ptr type="vism" target="VII.54">VII.54</ptr>
   </entry>
   <entry page_id="834" title="*āviñjana">
     <span>picking up (see PED āvijjhati): </span>
-    <ref type="vism" target="XIV.37">XIV.37</ref>
+    <ptr type="vism" target="XIV.37">XIV.37</ptr>
     <span> </span>
   </entry>
   <entry page_id="834" title="*āsana">
     <span/>
     <em>also </em>
     <span>(flower) altar: </span>
-    <ref type="vism" target="V.15">V.15</ref>
+    <ptr type="vism" target="V.15">V.15</ptr>
   </entry>
   <entry page_id="834" title="*āsava">
     <span>canker (the 4)</span>
@@ -671,7 +671,7 @@
   </entry>
   <entry page_id="834" title="*āhanana">
     <span>striking at: </span>
-    <ref type="vism" target="IV.88">IV.88</ref>
+    <ptr type="vism" target="IV.88">IV.88</ptr>
   </entry>
   <entry page_id="834" title="āhāra">
     <span>nutriment, food</span>
@@ -684,9 +684,9 @@
   </entry>
   <entry page_id="834" title="*itarathā">
     <span>otherwise: </span>
-    <ref type="vism" target="III.53">III.53</ref>
+    <ptr type="vism" target="III.53">III.53</ptr>
     <span> (</span>
-    <ref type="bib" target="Dhs-a" loc=" 44">Dhs-a 44</ref>
+    <ptr type="bib" target="Dhs-a" loc=" 44">Dhs-a 44</ptr>
     <span>)</span>
   </entry>
   <entry page_id="834" title="itthindriya">
@@ -721,15 +721,15 @@
   </entry>
   <entry page_id="834" title="*uggaṇhita (ugghaṭita?)">
     <span>decayed: </span>
-    <ref type="vism" target="VI.42">VI.42</ref>
+    <ptr type="vism" target="VI.42">VI.42</ptr>
   </entry>
   <entry page_id="834" title="*ugghāti">
     <span>removal: </span>
-    <ref type="vism" target="III.115">III.115</ref>
+    <ptr type="vism" target="III.115">III.115</ptr>
   </entry>
   <entry page_id="834" title="*ugghāta">
     <span>exhilaration: </span>
-    <ref type="vism" target="I.117">I.117</ref>
+    <ptr type="vism" target="I.117">I.117</ptr>
   </entry>
   <entry page_id="834" title="uccheda-diṭṭhi">
     <span>annihilation view</span>
@@ -752,7 +752,7 @@
   </entry>
   <entry page_id="834" title="*udāhariyati">
     <span>to be uttered: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -775,39 +775,39 @@
     <span/>
     <em>also </em>
     <span>(3) metaphor. </span>
-    <ref type="vism" target="XVI.70">XVI.70</ref>
+    <ptr type="vism" target="XVI.70">XVI.70</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.15">XVII.15</ref>
+    <ptr type="vism" target="XVII.15">XVII.15</ptr>
     <span>; </span>
-    <ref type="vism" target="XXII.51">XXII.51</ref>
+    <ptr type="vism" target="XXII.51">XXII.51</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="*upaṭṭhāna">
     <span/>
     <em>also </em>
     <span>(1) establishment </span>
-    <ref type="vism" target="VIII.168">VIII.168</ref>
+    <ptr type="vism" target="VIII.168">VIII.168</ptr>
     <span>: (2) appearance: </span>
-    <ref type="vism" target="XXI.29">XXI.29</ref>
+    <ptr type="vism" target="XXI.29">XXI.29</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="*upadhāraṇa">
     <span>upholding: </span>
-    <ref type="vism" target="I.19">I.19</ref>
+    <ptr type="vism" target="I.19">I.19</ptr>
     <span>, </span>
-    <ref type="vism" target="I.141">141</ref>
+    <ptr type="vism" target="I.141">141</ptr>
   </entry>
   <entry page_id="835" title="*upanaya">
     <span>inducement, application (log): </span>
-    <ref type="vism" target="VII.83">VII.83</ref>
+    <ptr type="vism" target="VII.83">VII.83</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="*upanayana">
     <em>also </em>
     <span>applying (log.), inducing, leading on: </span>
-    <ref type="vism" target="VII.83">VII.83</ref>
+    <ptr type="vism" target="VII.83">VII.83</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.68">XIV.68</ref>
+    <ptr type="vism" target="XIV.68">XIV.68</ptr>
   </entry>
   <entry page_id="835" title="upapatti">
     <span>reappearance, rebirth</span>
@@ -820,14 +820,14 @@
   </entry>
   <entry page_id="835" title="*upabrūhayati">
     <span>to intensify: </span>
-    <ref type="vism" target="VIII.121">VIII.121</ref>
+    <ptr type="vism" target="VIII.121">VIII.121</ptr>
   </entry>
   <entry page_id="835" title="upabhuñjaka">
     <span>experiencer, user</span>
   </entry>
   <entry page_id="835" title="*upasaṭṭhatā">
     <span>menacedness: </span>
-    <ref type="vism" target="XX.16">XX.16</ref>
+    <ptr type="vism" target="XX.16">XX.16</ptr>
   </entry>
   <entry page_id="835" title="upasama">
     <span>peace (term for Nibbāna)</span>
@@ -860,9 +860,9 @@
     <span/>
     <em>also </em>
     <span>origin of a sutta (tech. term): </span>
-    <ref type="vism" target="III.88">III.88</ref>
+    <ptr type="vism" target="III.88">III.88</ptr>
     <span>; </span>
-    <ref type="vism" target="VII.69">VII.69</ref>
+    <ptr type="vism" target="VII.69">VII.69</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="uppatti-bhava">
@@ -882,7 +882,7 @@
   </entry>
   <entry page_id="835" title="*ūhana">
     <span>hitting upon: </span>
-    <ref type="vism" target="IV.88">IV.88</ref>
+    <ptr type="vism" target="IV.88">IV.88</ptr>
   </entry>
   <entry page_id="835" title="ekaggatā">
     <span>unification (of consciousness)</span>
@@ -892,11 +892,11 @@
   </entry>
   <entry page_id="835" title="*eta-parama">
     <span>that at most: </span>
-    <ref type="vism" target="XIV.216">XIV.216</ref>
+    <ptr type="vism" target="XIV.216">XIV.216</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.28">XVI.28</ref>
+    <ptr type="vism" target="XVI.28">XVI.28</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" I 339">M I 339</ref>
+    <ptr type="bib" target="M" loc=" I 339">M I 339</ptr>
     <span>) </span>
   </entry>
   <entry page_id="835" title="evaṃ-dhammatā">
@@ -912,21 +912,21 @@
   </entry>
   <entry page_id="835" title="*okāseti">
     <span>to scatter on (not as in PED): </span>
-    <ref type="vism" target="XII.85">XII.85</ref>
+    <ptr type="vism" target="XII.85">XII.85</ptr>
     <span> (</span>
-    <ref type="bib" target="S" loc=" IV 190">S IV 190</ref>
+    <ptr type="bib" target="S" loc=" IV 190">S IV 190</ptr>
     <span>) </span>
   </entry>
   <entry page_id="835" title="*okkhandhati">
     <span>to descend into: </span>
-    <ref type="vism" target="XX.120">XX.120</ref>
+    <ptr type="vism" target="XX.120">XX.120</ptr>
     <span>; </span>
-    <ref type="vism" target="XXII.34">XXII.34</ref>
+    <ptr type="vism" target="XXII.34">XXII.34</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="*ogaḷati">
     <span>to run downwards: </span>
-    <ref type="vism" target="VIII.124">VIII.124</ref>
+    <ptr type="vism" target="VIII.124">VIII.124</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="ogha">
@@ -946,15 +946,15 @@
   </entry>
   <entry page_id="835" title="*obhagga">
     <span>looped: </span>
-    <ref type="vism" target="VIII.118">VIII.118</ref>
+    <ptr type="vism" target="VIII.118">VIII.118</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.64">XI.64</ref>
+    <ptr type="vism" target="XI.64">XI.64</ptr>
     <span> </span>
     <span/>
   </entry>
   <entry page_id="835" title="*obhañjati (or obhuñjati)">
     <span>to loop, to coil: </span>
-    <ref type="vism" target="XI.64">XI.64</ref>
+    <ptr type="vism" target="XI.64">XI.64</ptr>
     <span> </span>
   </entry>
   <entry page_id="835" title="obhāsa">
@@ -962,18 +962,18 @@
   </entry>
   <entry page_id="835" title="*omatta">
     <span>subordinate: </span>
-    <ref type="vism" target="XX.64">XX.64</ref>
+    <ptr type="vism" target="XX.64">XX.64</ptr>
   </entry>
   <entry page_id="835" title="*oruhati">
     <span>to come down: </span>
-    <ref type="vism" target="IV.64">IV.64</ref>
+    <ptr type="vism" target="IV.64">IV.64</ptr>
   </entry>
   <entry page_id="835" title="oḷārika">
     <span>gross</span>
   </entry>
   <entry page_id="835" title="*ovaṭṭha">
     <span>showered down: </span>
-    <ref type="vism" target="XI.72">XI.72</ref>
+    <ptr type="vism" target="XI.72">XI.72</ptr>
   </entry>
   <entry page_id="835" title="kaṅkhā">
     <span>doubt</span>
@@ -983,11 +983,11 @@
   </entry>
   <entry page_id="835" title="*kaṇḍuyati">
     <span>to be itchy: </span>
-    <ref type="vism" target="VIII.127">VIII.127</ref>
+    <ptr type="vism" target="VIII.127">VIII.127</ptr>
   </entry>
   <entry page_id="835" title="*kaṇṇika">
     <span>fungus: </span>
-    <ref type="vism" target="VIII.88">VIII.88</ref>
+    <ptr type="vism" target="VIII.88">VIII.88</ptr>
   </entry>
   <entry page_id="835" title="*kataka">
     <span/>
@@ -1084,13 +1084,13 @@
   </entry>
   <entry page_id="836" title="*kiñcana">
     <span>owning, ownership: </span>
-    <ref type="vism" target="XXI.53">XXI.53</ref>
+    <ptr type="vism" target="XXI.53">XXI.53</ptr>
   </entry>
   <entry page_id="836" title="*kiṇāti">
     <span/>
     <em>also </em>
     <span>to combat: </span>
-    <ref type="vism" target="VI.8">VI.8</ref>
+    <ptr type="vism" target="VI.8">VI.8</ptr>
   </entry>
   <entry page_id="836" title="kiriya">
     <span>(kammically) functional, inoperative </span>
@@ -1100,7 +1100,7 @@
   </entry>
   <entry page_id="836" title="*kukata">
     <span>villainy: </span>
-    <ref type="vism" target="XIV.174">XIV.174</ref>
+    <ptr type="vism" target="XIV.174">XIV.174</ptr>
   </entry>
   <entry page_id="836" title="kukkucca">
     <span>worry</span>
@@ -1109,18 +1109,18 @@
     <span/>
     <em>also </em>
     <span>a four-footed water pot: </span>
-    <ref type="vism" target="V.3">V.3</ref>
+    <ptr type="vism" target="V.3">V.3</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="*kuṇapa">
     <span/>
     <em>also </em>
     <span>ordure: </span>
-    <ref type="vism" target="VIII.121">VIII.121</ref>
+    <ptr type="vism" target="VIII.121">VIII.121</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.19">XI.19</ref>
+    <ptr type="vism" target="XI.19">XI.19</ptr>
     <span>, </span>
-    <ref type="vism" target="XI.21">21</ref>
+    <ptr type="vism" target="XI.21">21</ptr>
   </entry>
   <entry page_id="836" title="kusala">
     <span>(1) skilful, (2) profitable (consciousness), (3) good </span>
@@ -1130,39 +1130,39 @@
   </entry>
   <entry page_id="836" title="*kūṭa">
     <span>wild, savage: </span>
-    <ref type="vism" target="VIII.53">VIII.53</ref>
+    <ptr type="vism" target="VIII.53">VIII.53</ptr>
     <span> (</span>
-    <ref type="bib" target="M-a" loc=" II 82">M-a II 82</ref>
+    <ptr type="bib" target="M-a" loc=" II 82">M-a II 82</ptr>
     <span>)</span>
   </entry>
   <entry page_id="836" title="*kūṭāgāra">
     <span/>
     <em>also </em>
     <span>(1) catafalque (comy. To </span>
-    <ref type="bib" target="A" loc=" I 150">A I 150</ref>
+    <ptr type="bib" target="A" loc=" I 150">A I 150</ptr>
     <span>), (2) palanquin: </span>
-    <ref type="vism" target="XII.71">XII.71</ref>
+    <ptr type="vism" target="XII.71">XII.71</ptr>
     <span> (</span>
-    <ref type="bib" target="M-a" loc=" V 90">M-a V 90</ref>
+    <ptr type="bib" target="M-a" loc=" V 90">M-a V 90</ptr>
     <span>) </span>
   </entry>
   <entry page_id="836" title="*kūpaka-yaṭṭhi">
     <span>masthead (?), spar (?): </span>
-    <ref type="vism" target="XXI.65">XXI.65</ref>
+    <ptr type="vism" target="XXI.65">XXI.65</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="*koṭṭhaṭṭhi">
     <span>shoulder-blade bone (lit. “flat-bone”; not as in PED): </span>
-    <ref type="vism" target="VIII.101">VIII.101</ref>
+    <ptr type="vism" target="VIII.101">VIII.101</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="*koṭṭhalika">
     <span>flattened: </span>
-    <ref type="vism" target="VII.97">VII.97</ref>
+    <ptr type="vism" target="VII.97">VII.97</ptr>
   </entry>
   <entry page_id="836" title="*kosa">
     <span>measure of length (about 1 mile): </span>
-    <ref type="vism" target="IV.37">IV.37</ref>
+    <ptr type="vism" target="IV.37">IV.37</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="khaṇa">
@@ -1172,9 +1172,9 @@
     <span/>
     <em>also </em>
     <span>to consume: </span>
-    <ref type="vism" target="IV.100">IV.100</ref>
+    <ptr type="vism" target="IV.100">IV.100</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.48">XVII.48</ref>
+    <ptr type="vism" target="XVII.48">XVII.48</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -1193,28 +1193,28 @@
   </entry>
   <entry page_id="836" title="*kharigata">
     <span>harsh: </span>
-    <ref type="vism" target="XI.31">XI.31</ref>
+    <ptr type="vism" target="XI.31">XI.31</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" I 185">M I 185</ref>
+    <ptr type="bib" target="M" loc=" I 185">M I 185</ptr>
     <span>)</span>
   </entry>
   <entry page_id="836" title="*khinna">
     <span>exhausted: </span>
-    <ref type="vism" target="IV.100">IV.100</ref>
+    <ptr type="vism" target="IV.100">IV.100</ptr>
     <span>; see khijjana 14, n.2VI. </span>
   </entry>
   <entry page_id="836" title="*gaṇḍuppādaka">
     <span/>
     <em>also </em>
     <span>sort of intestinal worm: </span>
-    <ref type="vism" target="VIII.121">VIII.121</ref>
+    <ptr type="vism" target="VIII.121">VIII.121</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="*gata-paccāgata">
     <span>(1) duty of going to and returning from the alms round with the meditation subject, (2) kind of refuse rag: </span>
-    <ref type="vism" target="II.17">II.17</ref>
+    <ptr type="vism" target="II.17">II.17</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.28">XIV.28</ref>
+    <ptr type="vism" target="XIV.28">XIV.28</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="gati">
@@ -1222,7 +1222,7 @@
   </entry>
   <entry page_id="836" title="*gadati">
     <span>to enunciate (see gada in PED) </span>
-    <ref type="vism" target="VII.35">VII.35</ref>
+    <ptr type="vism" target="VII.35">VII.35</ptr>
     <span> </span>
   </entry>
   <entry page_id="836" title="gantha">
@@ -1233,7 +1233,7 @@
   </entry>
   <entry page_id="836" title="*gandhayati">
     <span>to be smelled: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
   </entry>
   <entry page_id="836" title="guṇa">
     <span>special quality</span>
@@ -1246,11 +1246,11 @@
   </entry>
   <entry page_id="836" title="*gopa">
     <span>guardian, </span>
-    <ref type="vism" target="IV.190">IV.190</ref>
+    <ptr type="vism" target="IV.190">IV.190</ptr>
     <span>; </span>
-    <ref type="vism" target="VIII.153">VIII.153</ref>
+    <ptr type="vism" target="VIII.153">VIII.153</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" II 180">M II 180</ref>
+    <ptr type="bib" target="M" loc=" II 180">M II 180</ptr>
     <span>) </span>
   </entry>
   <entry page_id="836" title="ghaṭṭana">
@@ -1270,7 +1270,7 @@
   </entry>
   <entry page_id="836" title="*cakkhati">
     <span>to relish: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
   </entry>
   <entry page_id="836" title="cakkhu">
     <span>eye</span>
@@ -1288,18 +1288,18 @@
     <span/>
     <em>also </em>
     <span>personal vanity: </span>
-    <ref type="vism" target="III.95">III.95</ref>
+    <ptr type="vism" target="III.95">III.95</ptr>
     <span> (this meaning not in CPD, under acāpalya or acapala) </span>
   </entry>
   <entry page_id="836" title="*cāraka">
     <span>prison: </span>
-    <ref type="vism" target="XIV.221">XIV.221</ref>
+    <ptr type="vism" target="XIV.221">XIV.221</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.18">XVI.18</ref>
+    <ptr type="vism" target="XVI.18">XVI.18</ptr>
   </entry>
   <entry page_id="836" title="*cikicchā">
     <span>wish to think: </span>
-    <ref type="vism" target="XIV.177">XIV.177</ref>
+    <ptr type="vism" target="XIV.177">XIV.177</ptr>
   </entry>
   <entry page_id="836" title="citta">
     <span>(manner of) consciousness, consciousness, cognizance, mind </span>
@@ -1347,9 +1347,9 @@
   </entry>
   <entry page_id="837" title="*jatuka">
     <span>bat, pipistrelle: </span>
-    <ref type="vism" target="III.97">III.97</ref>
+    <ptr type="vism" target="III.97">III.97</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.7">XI.7</ref>
+    <ptr type="vism" target="XI.7">XI.7</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -1357,13 +1357,13 @@
     <span/>
     <em>also </em>
     <span>father: </span>
-    <ref type="vism" target="XVII.271">XVII.271</ref>
+    <ptr type="vism" target="XVII.271">XVII.271</ptr>
   </entry>
   <entry page_id="837" title="*jara">
     <span>fever: </span>
-    <ref type="vism" target="XI.36">XI.36</ref>
+    <ptr type="vism" target="XI.36">XI.36</ptr>
     <span> (</span>
-    <ref type="bib" target="A" loc=" V 100">A V 100</ref>
+    <ptr type="bib" target="A" loc=" V 100">A V 100</ptr>
     <span>)</span>
   </entry>
   <entry page_id="837" title="jarā">
@@ -1389,7 +1389,7 @@
   </entry>
   <entry page_id="837" title="*juṭṭha">
     <span>fostered: </span>
-    <ref type="vism" target="XVI.4">XVI.4</ref>
+    <ptr type="vism" target="XVI.4">XVI.4</ptr>
   </entry>
   <entry page_id="837" title="jhāna">
     <span>jhāna</span>
@@ -1404,9 +1404,9 @@
     <span/>
     <em>also </em>
     <span>to pare: </span>
-    <ref type="vism" target="VIII.103">VIII.103</ref>
+    <ptr type="vism" target="VIII.103">VIII.103</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" I 31">M I 31</ref>
+    <ptr type="bib" target="M" loc=" I 31">M I 31</ptr>
     <span>)</span>
   </entry>
   <entry page_id="837" title="taṇhā">
@@ -1423,14 +1423,14 @@
   </entry>
   <entry page_id="837" title="*tadārammaṇa">
     <span>(1) having that (aforesaid thing) as its object, (2) registration (consciousness): </span>
-    <ref type="vism" target="XIV.98">XIV.98</ref>
+    <ptr type="vism" target="XIV.98">XIV.98</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.139">XVII.139</ref>
+    <ptr type="vism" target="XVII.139">XVII.139</ptr>
     <span> </span>
   </entry>
   <entry page_id="837" title="*tanana">
     <span>range: </span>
-    <ref type="vism" target="XV.4">XV.4</ref>
+    <ptr type="vism" target="XV.4">XV.4</ptr>
   </entry>
   <entry page_id="837" title="*tāvatva">
     <span>just so much: XV 18</span>
@@ -1446,14 +1446,14 @@
   </entry>
   <entry page_id="837" title="*ti-santati-rūpa">
     <span>materiality of triple continuity (term for the three decads at moment of rebirth-linking): </span>
-    <ref type="vism" target="XI.112">XI.112</ref>
+    <ptr type="vism" target="XI.112">XI.112</ptr>
     <span>; </span>
-    <ref type="vism" target="XX.22">XX.22</ref>
+    <ptr type="vism" target="XX.22">XX.22</ptr>
     <span> </span>
   </entry>
   <entry page_id="837" title="*ti-samuṭṭhāna">
     <span>materiality of triple origination (by kamma, temperature and nutriment only): </span>
-    <ref type="vism" target="XVII.196">XVII.196</ref>
+    <ptr type="vism" target="XVII.196">XVII.196</ptr>
     <span> </span>
   </entry>
   <entry page_id="837" title="tīraṇa">
@@ -1470,7 +1470,7 @@
   </entry>
   <entry page_id="837" title="*dakasītalika">
     <span>edible white water lily: </span>
-    <ref type="vism" target="VIII.119">VIII.119</ref>
+    <ptr type="vism" target="VIII.119">VIII.119</ptr>
     <span> </span>
   </entry>
   <entry page_id="837" title="dasaka">
@@ -1485,7 +1485,7 @@
   </entry>
   <entry page_id="837" title="*dāna">
     <span>gap: </span>
-    <ref type="vism" target="II.6">II.6</ref>
+    <ptr type="vism" target="II.6">II.6</ptr>
   </entry>
   <entry page_id="837" title="diṭṭha">
     <span>seen</span>
@@ -1518,9 +1518,9 @@
     <span/>
     <em>also </em>
     <span>(1) inertia, (2) irritability: </span>
-    <ref type="vism" target="IV.124">IV.124</ref>
+    <ptr type="vism" target="IV.124">IV.124</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" III 151">M III 151</ref>
+    <ptr type="bib" target="M" loc=" III 151">M III 151</ptr>
     <span>, 159) </span>
   </entry>
   <entry page_id="837" title="dūra">
@@ -1531,7 +1531,7 @@
   </entry>
   <entry page_id="837" title="*desantar-uppatti">
     <span>successive arising in adjacent locations (description of phenomenon of motion); </span>
-    <ref type="vism" target="VII.n45">VII.n.45</ref>
+    <ptr type="vism" target="VII.n45">VII.n.45</ptr>
     <span> </span>
   </entry>
   <entry page_id="837" title="domanassa">
@@ -1542,11 +1542,11 @@
   </entry>
   <entry page_id="837" title="*drabya">
     <span>substance: </span>
-    <ref type="vism" target="XVIII.n8">XVIII.n.8</ref>
+    <ptr type="vism" target="XVIII.n8">XVIII.n.8</ptr>
   </entry>
   <entry page_id="837" title="*drava">
     <span>fluid: </span>
-    <ref type="vism" target="XI.41">XI.41</ref>
+    <ptr type="vism" target="XI.41">XI.41</ptr>
   </entry>
   <entry page_id="837" title="dvattiṃsākāra">
     <span>the thirty-two aspects (of the body) </span>
@@ -1565,7 +1565,7 @@
   </entry>
   <entry page_id="837" title="*dhammani">
     <span>rat-snake: </span>
-    <ref type="vism" target="XI.64">XI.64</ref>
+    <ptr type="vism" target="XI.64">XI.64</ptr>
   </entry>
   <entry page_id="837" title="dhamma-vicaya">
     <span>investigation of states</span>
@@ -1580,16 +1580,16 @@
     <span/>
     <em>also </em>
     <span>(metallic) ore: </span>
-    <ref type="vism" target="XI.20">XI.20</ref>
+    <ptr type="vism" target="XI.20">XI.20</ptr>
     <span>; </span>
-    <ref type="vism" target="XV.20">XV.20</ref>
+    <ptr type="vism" target="XV.20">XV.20</ptr>
   </entry>
   <entry page_id="838" title="dhutaṅga">
     <span>ascetic practice</span>
   </entry>
   <entry page_id="838" title="*dhura-bhatta">
     <span>meal given in a principal house (not as in PED): </span>
-    <ref type="vism" target="II.27">II.27</ref>
+    <ptr type="vism" target="II.27">II.27</ptr>
     <span> </span>
   </entry>
   <entry page_id="838" title="dhuva">
@@ -1611,11 +1611,11 @@
   </entry>
   <entry page_id="838" title="*nahanā">
     <span>tying: </span>
-    <ref type="vism" target="I.73">I.73</ref>
+    <ptr type="vism" target="I.73">I.73</ptr>
   </entry>
   <entry page_id="838" title="*nāgabalā">
     <span>kind of plant: </span>
-    <ref type="vism" target="XI.17">XI.17</ref>
+    <ptr type="vism" target="XI.17">XI.17</ptr>
   </entry>
   <entry page_id="838" title="nāna-kkhaṇika">
     <span>(kamma) acting from a different time </span>
@@ -1637,9 +1637,9 @@
   </entry>
   <entry page_id="838" title="*nāyare">
     <span>they are known (—ñāyanti): </span>
-    <ref type="vism" target="VIII.29">VIII.29</ref>
+    <ptr type="vism" target="VIII.29">VIII.29</ptr>
     <span>; cf. </span>
-    <ref type="vism" target="IX.42">IX.42</ref>
+    <ptr type="vism" target="IX.42">IX.42</ptr>
     <span> (nāyati—ñāyati) </span>
   </entry>
   <entry page_id="838" title="nikanti">
@@ -1647,7 +1647,7 @@
   </entry>
   <entry page_id="838" title="*nigghāta">
     <span>depression: </span>
-    <ref type="vism" target="XI.117">XI.117</ref>
+    <ptr type="vism" target="XI.117">XI.117</ptr>
   </entry>
   <entry page_id="838" title="nicca">
     <span>permanent</span>
@@ -1657,39 +1657,39 @@
   </entry>
   <entry page_id="838" title="*nippadesa">
     <span>comprehensive: </span>
-    <ref type="vism" target="XVI.95">XVI.95</ref>
+    <ptr type="vism" target="XVI.95">XVI.95</ptr>
   </entry>
   <entry page_id="838" title="*nippharipphanda">
     <span>inactive: </span>
-    <ref type="vism" target="V.4">V.4</ref>
+    <ptr type="vism" target="V.4">V.4</ptr>
   </entry>
   <entry page_id="838" title="*nippiṃsati">
     <span>to scrape, to grind: </span>
-    <ref type="vism" target="I.81">I.81</ref>
+    <ptr type="vism" target="I.81">I.81</ptr>
   </entry>
   <entry page_id="838" title="*nippuñchati">
     <span>to wipe off: </span>
-    <ref type="vism" target="I.81">I.81</ref>
+    <ptr type="vism" target="I.81">I.81</ptr>
   </entry>
   <entry page_id="838" title="*nippesikatā">
     <span>belittling (not as in PED): </span>
-    <ref type="vism" target="I.64">I.64</ref>
+    <ptr type="vism" target="I.64">I.64</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" III 75">M III 75</ref>
+    <ptr type="bib" target="M" loc=" III 75">M III 75</ptr>
     <span>) </span>
   </entry>
   <entry page_id="838" title="*nippeseti">
     <span>to scrape off: </span>
-    <ref type="vism" target="I.81">I.81</ref>
+    <ptr type="vism" target="I.81">I.81</ptr>
   </entry>
   <entry page_id="838" title="*nipphanna">
     <span>produced (term for certain kinds of derived materiality) </span>
   </entry>
   <entry page_id="838" title="*nibbacana">
     <span>verbal derivative (gram): </span>
-    <ref type="vism" target="II.4">II.4</ref>
+    <ptr type="vism" target="II.4">II.4</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.14">XVI.14</ref>
+    <ptr type="vism" target="XVI.14">XVI.14</ptr>
     <span> </span>
   </entry>
   <entry page_id="838" title="nibbatti">
@@ -1701,9 +1701,9 @@
   </entry>
   <entry page_id="838" title="*nibbikappa">
     <span>“without dismay,” without thinking: </span>
-    <ref type="vism" target="II.71">II.71</ref>
+    <ptr type="vism" target="II.71">II.71</ptr>
     <span>; </span>
-    <ref type="vism" target="VI.81">VI.81</ref>
+    <ptr type="vism" target="VI.81">VI.81</ptr>
     <span> </span>
   </entry>
   <entry page_id="838" title="nibbidā">
@@ -1711,7 +1711,7 @@
   </entry>
   <entry page_id="838" title="*nibbisa">
     <span>without poison: </span>
-    <ref type="vism" target="XII.115">XII.115</ref>
+    <ptr type="vism" target="XII.115">XII.115</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -1750,33 +1750,33 @@
     <span/>
     <em>also </em>
     <span>to fix: </span>
-    <ref type="vism" target="II.50">II.50</ref>
+    <ptr type="vism" target="II.50">II.50</ptr>
   </entry>
   <entry page_id="838" title="nekkhamma">
     <span>renunciation</span>
   </entry>
   <entry page_id="838" title="*nemittika">
     <span>(name) signifying (an acquirement): </span>
-    <ref type="vism" target="VII.55">VII.55</ref>
+    <ptr type="vism" target="VII.55">VII.55</ptr>
     <span> </span>
   </entry>
   <entry page_id="838" title="*nemittikatā">
     <span>hinting (not as in PED): </span>
-    <ref type="vism" target="I.63">I.63</ref>
+    <ptr type="vism" target="I.63">I.63</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" III 75">M III 75</ref>
+    <ptr type="bib" target="M" loc=" III 75">M III 75</ptr>
     <span>) </span>
   </entry>
   <entry page_id="838" title="*pakaṭṭha">
     <span>distant: </span>
-    <ref type="vism" target="VII.81">VII.81</ref>
+    <ptr type="vism" target="VII.81">VII.81</ptr>
   </entry>
   <entry page_id="838" title="pakati">
     <span>(1) nature, natural, normal, (2) Primordial Essence, Prakṛti</span>
   </entry>
   <entry page_id="838" title="*pakāsa">
     <span>illumination: </span>
-    <ref type="vism" target="XVII.77">XVII.77</ref>
+    <ptr type="vism" target="XVII.77">XVII.77</ptr>
   </entry>
   <entry page_id="838" title="pakkhandati">
     <span>to enter into, to launch out into </span>
@@ -1816,13 +1816,13 @@
   </entry>
   <entry page_id="838" title="*paṭatantuka">
     <span>intestinal worm: </span>
-    <ref type="vism" target="VIII.121">VIII.121</ref>
+    <ptr type="vism" target="VIII.121">VIII.121</ptr>
     <span> </span>
     <span/>
   </entry>
   <entry page_id="838" title="*paṭikkamana">
     <span>refectory: </span>
-    <ref type="vism" target="II.28">II.28</ref>
+    <ptr type="vism" target="II.28">II.28</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -1837,7 +1837,7 @@
   </entry>
   <entry page_id="838" title="*paṭicca">
     <span>(decl. adj.) ought to be arrived at: </span>
-    <ref type="vism" target="XVII.16">XVII.16</ref>
+    <ptr type="vism" target="XVII.16">XVII.16</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="paṭicca-samuppanna">
@@ -1850,9 +1850,9 @@
     <span/>
     <em>also </em>
     <span>proposition (log.) </span>
-    <ref type="vism" target="XVII.67">XVII.67</ref>
+    <ptr type="vism" target="XVII.67">XVII.67</ptr>
     <span> (</span>
-    <ref type="bib" target="Kv">Kv</ref>
+    <ptr type="bib" target="Kv">Kv</ptr>
     <span>.2) </span>
   </entry>
   <entry page_id="839" title="paṭiñña">
@@ -1868,13 +1868,13 @@
   </entry>
   <entry page_id="839" title="*paṭipatti">
     <span>theory: </span>
-    <ref type="vism" target="XIV.163">XIV.163</ref>
+    <ptr type="vism" target="XIV.163">XIV.163</ptr>
     <span>, </span>
-    <ref type="vism" target="XIV.177">177</ref>
+    <ptr type="vism" target="XIV.177">177</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.52">XVII.52</ref>
+    <ptr type="vism" target="XVII.52">XVII.52</ptr>
     <span>, </span>
-    <ref type="vism" target="XVII.303">303</ref>
+    <ptr type="vism" target="XVII.303">303</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="paṭipassaddhi">
@@ -1882,19 +1882,19 @@
   </entry>
   <entry page_id="839" title="*paṭipassanā">
     <span>looking back: </span>
-    <ref type="vism" target="VIII.189">VIII.189</ref>
+    <ptr type="vism" target="VIII.189">VIII.189</ptr>
     <span>, </span>
-    <ref type="vism" target="VIII.225">225</ref>
+    <ptr type="vism" target="VIII.225">225</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*paṭipātiyāmana">
     <span>following successively: </span>
-    <ref type="vism" target="VIII.69">VIII.69</ref>
+    <ptr type="vism" target="VIII.69">VIII.69</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*paṭipadāna">
     <span>maintaining (on course): </span>
-    <ref type="vism" target="IV.42">IV.42</ref>
+    <ptr type="vism" target="IV.42">IV.42</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="paṭibhāga-nimitta">
@@ -1902,7 +1902,7 @@
   </entry>
   <entry page_id="839" title="*paṭiveti">
     <span>to vanish: </span>
-    <ref type="vism" target="XX.96">XX.96</ref>
+    <ptr type="vism" target="XX.96">XX.96</ptr>
   </entry>
   <entry page_id="839" title="paṭivedha">
     <span>penetration (of 4 Truths)</span>
@@ -1918,21 +1918,21 @@
   </entry>
   <entry page_id="839" title="*paṭisiddha">
     <span>excluded, rejected, refuted (log.): </span>
-    <ref type="vism" target="XVII.150">XVII.150</ref>
+    <ptr type="vism" target="XVII.150">XVII.150</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*paṭihaññati">
     <span>to resent (as verb for paṭigha): </span>
-    <ref type="vism" target="IX.101">IX.101</ref>
+    <ptr type="vism" target="IX.101">IX.101</ptr>
     <span> (cf. </span>
-    <ref type="bib" target="Dhs-a" loc=" 72">Dhs-a 72</ref>
+    <ptr type="bib" target="Dhs-a" loc=" 72">Dhs-a 72</ptr>
     <span>, </span>
-    <ref type="bib" target="Netti" loc=" 13">Netti 13</ref>
+    <ptr type="bib" target="Netti" loc=" 13">Netti 13</ptr>
     <span>)</span>
   </entry>
   <entry page_id="839" title="*paṭihita (paṇihita?)">
     <span>drawn on: </span>
-    <ref type="vism" target="VIII.26">VIII.26</ref>
+    <ptr type="vism" target="VIII.26">VIII.26</ptr>
   </entry>
   <entry page_id="839" title="paṇidhi">
     <span>desire, aspiration</span>
@@ -1942,17 +1942,17 @@
   </entry>
   <entry page_id="839" title="*patati">
     <span>to gather, to wander for: </span>
-    <ref type="vism" target="II.5">II.5</ref>
+    <ptr type="vism" target="II.5">II.5</ptr>
   </entry>
   <entry page_id="839" title="*patīyamāna">
     <span>going back to: </span>
-    <ref type="vism" target="XVII.16">XVII.16</ref>
+    <ptr type="vism" target="XVII.16">XVII.16</ptr>
   </entry>
   <entry page_id="839" title="*patthanīyatā">
     <span>famousness: </span>
-    <ref type="vism" target="IV.2">IV.2</ref>
+    <ptr type="vism" target="IV.2">IV.2</ptr>
     <span>, </span>
-    <ref type="vism" target="IV.10">10</ref>
+    <ptr type="vism" target="IV.10">10</ptr>
   </entry>
   <entry page_id="839" title="pathavī">
     <span>earth</span>
@@ -1962,7 +1962,7 @@
   </entry>
   <entry page_id="839" title="*padhāna">
     <span>Basic Principle, Pradhāna: </span>
-    <ref type="vism" target="XVI.85">XVI.85</ref>
+    <ptr type="vism" target="XVI.85">XVI.85</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="papañca">
@@ -1972,23 +1972,23 @@
     <span/>
     <em>also </em>
     <span>overhang of rock: </span>
-    <ref type="vism" target="II.61">II.61</ref>
+    <ptr type="vism" target="II.61">II.61</ptr>
   </entry>
   <entry page_id="839" title="*pabhāvanā">
     <span>production: </span>
-    <ref type="vism" target="VIII.182">VIII.182</ref>
+    <ptr type="vism" target="VIII.182">VIII.182</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 184">Paṭis I 184</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 184">Paṭis I 184</ptr>
     <span>) </span>
   </entry>
   <entry page_id="839" title="*pabhuti">
-    <TODO>missing parenthesis in BPS2011?:</TODO>
+    <note type="TODO">missing parenthesis in BPS2011?:</note>
     <span>encl.) and so on, etcetera ( = ādi in that sense): </span>
-    <ref type="vism" target="VIII.17">VIII.17</ref>
+    <ptr type="vism" target="VIII.17">VIII.17</ptr>
     <span>, </span>
-    <ref type="vism" target="VIII.121">121</ref>
+    <ptr type="vism" target="VIII.121">121</ptr>
     <span>; </span>
-    <ref type="vism" target="X.51">X.51</ref>
+    <ptr type="vism" target="X.51">X.51</ptr>
     <span>, etc. </span>
   </entry>
   <entry page_id="839" title="pabheda">
@@ -1996,11 +1996,11 @@
   </entry>
   <entry page_id="839" title="*pamukha">
     <span>veranda, forecourt: </span>
-    <ref type="vism" target="IV.13">IV.13</ref>
+    <ptr type="vism" target="IV.13">IV.13</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.7">XI.7</ref>
+    <ptr type="vism" target="XI.7">XI.7</ptr>
     <span>; </span>
-    <ref type="vism" target="XIII.6">XIII.6</ref>
+    <ptr type="vism" target="XIII.6">XIII.6</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="paramattha">
@@ -2017,7 +2017,7 @@
   </entry>
   <entry page_id="839" title="*parikappanatā">
     <span>conjecturing: </span>
-    <ref type="vism" target="III.77">III.77</ref>
+    <ptr type="vism" target="III.77">III.77</ptr>
   </entry>
   <entry page_id="839" title="parikamma">
     <span>preliminary work</span>
@@ -2048,7 +2048,7 @@
   </entry>
   <entry page_id="839" title="*parinijjhāpana">
     <span>obsessing, burning up: </span>
-    <ref type="vism" target="XVI.48">XVI.48</ref>
+    <ptr type="vism" target="XVI.48">XVI.48</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*parinipphanna">
@@ -2064,16 +2064,16 @@
     <span/>
     <em>also </em>
     <span>interference, activity: </span>
-    <ref type="vism" target="IV.89">IV.89</ref>
+    <ptr type="vism" target="IV.89">IV.89</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.144">XIV.144</ref>
+    <ptr type="vism" target="XIV.144">XIV.144</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*paribhaṇḍa">
     <span/>
     <em>also </em>
     <span>repair: </span>
-    <ref type="vism" target="XXIII.36">XXIII.36</ref>
+    <ptr type="vism" target="XXIII.36">XXIII.36</ptr>
   </entry>
   <entry page_id="839" title="paribhoga">
     <span>use</span>
@@ -2086,7 +2086,7 @@
   </entry>
   <entry page_id="839" title="pariyāhanana">
     <span>threshing, striking on: </span>
-    <ref type="vism" target="IV.88">IV.88</ref>
+    <ptr type="vism" target="IV.88">IV.88</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="pariyuṭṭhāna">
@@ -2094,14 +2094,14 @@
   </entry>
   <entry page_id="839" title="*pariyonahana">
     <span>covering, envelope: </span>
-    <ref type="vism" target="VIII.115">VIII.115</ref>
+    <ptr type="vism" target="VIII.115">VIII.115</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*pariyosāna">
     <span/>
     <em>also </em>
     <span>intensity: </span>
-    <ref type="vism" target="VI.49">VI.49</ref>
+    <ptr type="vism" target="VI.49">VI.49</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -2109,20 +2109,20 @@
     <span/>
     <em>also</em>
     <span> surroundings of a building, surrounding walk: </span>
-    <ref type="vism" target="IV.127">IV.127</ref>
+    <ptr type="vism" target="IV.127">IV.127</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.7">XI.7</ref>
+    <ptr type="vism" target="XI.7">XI.7</ptr>
     <span>; </span>
-    <ref type="vism" target="XIII.6">XIII.6</ref>
+    <ptr type="vism" target="XIII.6">XIII.6</ptr>
     <span> </span>
   </entry>
   <entry page_id="839" title="*parissavati">
     <span>to run away: </span>
-    <ref type="vism" target="XI.90">XI.90</ref>
+    <ptr type="vism" target="XI.90">XI.90</ptr>
   </entry>
   <entry page_id="839" title="*parihāra-vacana">
     <span>explanation: </span>
-    <ref type="vism" target="XVII.109">XVII.109</ref>
+    <ptr type="vism" target="XVII.109">XVII.109</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -2134,9 +2134,9 @@
   </entry>
   <entry page_id="840" title="*pavana">
     <span>draught: </span>
-    <ref type="vism" target="XI.19">XI.19</ref>
+    <ptr type="vism" target="XI.19">XI.19</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.37">XVI.37</ref>
+    <ptr type="vism" target="XVI.37">XVI.37</ptr>
   </entry>
   <entry page_id="840" title="pavicaya">
     <span>investigation</span>
@@ -2160,13 +2160,13 @@
   </entry>
   <entry page_id="840" title="*paheyya">
     <span>abandonable: </span>
-    <ref type="vism" target="XVI.93">XVI.93</ref>
+    <ptr type="vism" target="XVI.93">XVI.93</ptr>
   </entry>
   <entry page_id="840" title="*pāṭibhoga">
     <span>agent (not as in PED): </span>
-    <ref type="vism" target="XVII.174">XVII.174</ref>
+    <ptr type="vism" target="XVII.174">XVII.174</ptr>
     <span>; </span>
-    <ref type="bib" target="Peṭ" loc=" 215">Peṭ 215</ref>
+    <ptr type="bib" target="Peṭ" loc=" 215">Peṭ 215</ptr>
     <span> </span>
   </entry>
   <entry page_id="840" title="pāṇātipāta">
@@ -2177,18 +2177,18 @@
   </entry>
   <entry page_id="840" title="*pāpaka">
     <span>what reaches, causes to reach: </span>
-    <ref type="vism" target="XIV.5">XIV.5</ref>
+    <ptr type="vism" target="XIV.5">XIV.5</ptr>
     <span>, </span>
-    <ref type="vism" target="XIV.68">68</ref>
+    <ptr type="vism" target="XIV.68">68</ptr>
     <span> </span>
   </entry>
   <entry page_id="840" title="*pāpana">
     <span>reaching </span>
-    <ref type="vism" target="XVI.68">XVI.68</ref>
+    <ptr type="vism" target="XVI.68">XVI.68</ptr>
   </entry>
   <entry page_id="840" title="*pāpana">
     <span>denigrating: </span>
-    <ref type="vism" target="I.81">I.81</ref>
+    <ptr type="vism" target="I.81">I.81</ptr>
   </entry>
   <entry page_id="840" title="pāpicchatā">
     <span>evilness of wishes</span>
@@ -2198,29 +2198,29 @@
   </entry>
   <entry page_id="840" title="*pārāvata">
     <span>pigeon (pārāpata in PED): </span>
-    <ref type="vism" target="XI.7">XI.7</ref>
+    <ptr type="vism" target="XI.7">XI.7</ptr>
   </entry>
   <entry page_id="840" title="*pāvāra">
     <span/>
     <em>also </em>
     <span>a cloth, cloth: </span>
-    <ref type="vism" target="VIII.117">VIII.117</ref>
+    <ptr type="vism" target="VIII.117">VIII.117</ptr>
   </entry>
   <entry page_id="840" title="piṇḍapāta">
     <span>alms</span>
   </entry>
   <entry page_id="840" title="*piṇḍika">
     <span>the calf of the leg: </span>
-    <ref type="vism" target="VIII.97">VIII.97</ref>
+    <ptr type="vism" target="VIII.97">VIII.97</ptr>
     <span>; </span>
-    <ref type="vism" target="XI.11">XI.11</ref>
+    <ptr type="vism" target="XI.11">XI.11</ptr>
     <span>; cf. piṇḍa at </span>
-    <ref type="vism" target="VIII.126">VIII.126</ref>
+    <ptr type="vism" target="VIII.126">VIII.126</ptr>
     <span> </span>
   </entry>
   <entry page_id="840" title="*pidhānī">
     <span>lid: </span>
-    <ref type="vism" target="XI.24">XI.24</ref>
+    <ptr type="vism" target="XI.24">XI.24</ptr>
   </entry>
   <entry page_id="840" title="pisuṇa-vācā">
     <span>malicious speech</span>
@@ -2239,21 +2239,21 @@
   </entry>
   <entry page_id="840" title="*pupphaka">
     <span>balloon, swelling: </span>
-    <ref type="vism" target="VIII.117">VIII.117</ref>
+    <ptr type="vism" target="VIII.117">VIII.117</ptr>
   </entry>
   <entry page_id="840" title="purisa">
     <span>man, male</span>
   </entry>
   <entry page_id="840" title="*purisa">
     <span>World Soul, Puruṣa: </span>
-    <ref type="vism" target="XVII.8">XVII.8</ref>
+    <ptr type="vism" target="XVII.8">XVII.8</ptr>
   </entry>
   <entry page_id="840" title="peta">
     <span>ghost</span>
   </entry>
   <entry page_id="840" title="*pesika">
     <span>scraper: </span>
-    <ref type="vism" target="I.81">I.81</ref>
+    <ptr type="vism" target="I.81">I.81</ptr>
   </entry>
   <entry page_id="840" title="pharaṇa">
     <span>pervasion, intentness upon</span>
@@ -2266,7 +2266,7 @@
   </entry>
   <entry page_id="840" title="*phalakasata">
     <span>target: </span>
-    <ref type="vism" target="XXII.12">XXII.12</ref>
+    <ptr type="vism" target="XXII.12">XXII.12</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -2275,11 +2275,11 @@
   </entry>
   <entry page_id="840" title="*phāsu">
     <span>convenient: </span>
-    <ref type="vism" target="IV.1">IV.1</ref>
+    <ptr type="vism" target="IV.1">IV.1</ptr>
     <span> (</span>
-    <ref type="bib" target="D" loc=" II 99">D II 99</ref>
+    <ptr type="bib" target="D" loc=" II 99">D II 99</ptr>
     <span>; </span>
-    <ref type="bib" target="M" loc=" I 10">M I 10</ref>
+    <ptr type="bib" target="M" loc=" I 10">M I 10</ptr>
     <span>)</span>
   </entry>
   <entry page_id="840" title="phoṭṭhabba">
@@ -2293,7 +2293,7 @@
   </entry>
   <entry page_id="840" title="*bālatta">
     <span>dotage: </span>
-    <ref type="vism" target="XVI.45">XVI.45</ref>
+    <ptr type="vism" target="XVI.45">XVI.45</ptr>
   </entry>
   <entry page_id="840" title="buddha">
     <span>enlightened one</span>
@@ -2303,7 +2303,7 @@
   </entry>
   <entry page_id="840" title="*budha">
     <span>possessed of wit: </span>
-    <ref type="vism" target="IV.66">IV.66</ref>
+    <ptr type="vism" target="IV.66">IV.66</ptr>
   </entry>
   <entry page_id="840" title="bojjhaṅga">
     <span>enlightenment factor</span>
@@ -2335,16 +2335,16 @@
   </entry>
   <entry page_id="840" title="*bhattar">
     <span>employer: </span>
-    <ref type="vism" target="IV.121">IV.121</ref>
+    <ptr type="vism" target="IV.121">IV.121</ptr>
     <span> (cf. </span>
-    <ref type="bib" target="M" loc=" II 123">M II 123</ref>
+    <ptr type="bib" target="M" loc=" II 123">M II 123</ptr>
     <span>)</span>
   </entry>
   <entry page_id="840" title="*bhanti">
     <span>they shine (3rd p. pl. of bhāti): </span>
-    <ref type="vism" target="VII.36">VII.36</ref>
+    <ptr type="vism" target="VII.36">VII.36</ptr>
     <span> (</span>
-    <ref type="bib" target="M" loc=" I 328">M I 328</ref>
+    <ptr type="bib" target="M" loc=" I 328">M I 328</ptr>
     <span>) </span>
   </entry>
   <entry page_id="840" title="bhayat’ upaṭṭhāna">
@@ -2358,7 +2358,7 @@
   </entry>
   <entry page_id="840" title="*bhāti">
     <span>brother: </span>
-    <ref type="vism" target="XXI.54">XXI.54</ref>
+    <ptr type="vism" target="XXI.54">XXI.54</ptr>
   </entry>
   <entry page_id="840" title="bhāva">
     <span>(1) essence, stateness, (2) sex, (3) verbal substantive (gram.) </span>
@@ -2368,7 +2368,7 @@
   </entry>
   <entry page_id="840" title="bhāva-sādhana">
     <span>formula of establishment by substantive (gram.): </span>
-    <ref type="vism" target="XVII.12">XVII.12</ref>
+    <ptr type="vism" target="XVII.12">XVII.12</ptr>
     <span> </span>
   </entry>
   <entry page_id="840" title="bhikkhu">
@@ -2385,11 +2385,11 @@
   </entry>
   <entry page_id="840" title="*bheda, vacī- ">
     <span>speech utterance: </span>
-    <ref type="vism" target="XIV.62">XIV.62</ref>
+    <ptr type="vism" target="XIV.62">XIV.62</ptr>
     <span> (cf. </span>
-    <ref type="bib" target="Dhs-a" loc=" 90">Dhs-a 90</ref>
+    <ptr type="bib" target="Dhs-a" loc=" 90">Dhs-a 90</ptr>
     <span>; </span>
-    <ref type="bib" target="M" loc=" I 301">M I 301</ref>
+    <ptr type="bib" target="M" loc=" I 301">M I 301</ptr>
     <span>) </span>
   </entry>
   <entry page_id="840" title="magga">
@@ -2420,7 +2420,7 @@
   <entry page_id="840" title="*maru">
     <em>also </em>
     <span>cliff: </span>
-    <ref type="vism" target="XVII.63">XVII.63</ref>
+    <ptr type="vism" target="XVII.63">XVII.63</ptr>
   </entry>
   <entry page_id="841" title="mala">
     <span>stain (the 3)</span>
@@ -2430,9 +2430,9 @@
   </entry>
   <entry page_id="841" title="*mahacca">
     <span>great pomp: </span>
-    <ref type="vism" target="X.46">X.46</ref>
+    <ptr type="vism" target="X.46">X.46</ptr>
     <span> (</span>
-    <ref type="bib" target="D" loc=" I 49">D I 49</ref>
+    <ptr type="bib" target="D" loc=" I 49">D I 49</ptr>
     <span>)</span>
   </entry>
   <entry page_id="841" title="mahā-bhūta">
@@ -2461,7 +2461,7 @@
   </entry>
   <entry page_id="841" title="*milāpana">
     <span>withering, causing to wither: </span>
-    <ref type="vism" target="XIV.128">XIV.128</ref>
+    <ptr type="vism" target="XIV.128">XIV.128</ptr>
     <span> </span>
   </entry>
   <entry page_id="841" title="muccitukamyatā">
@@ -2487,7 +2487,7 @@
   </entry>
   <entry page_id="841" title="*mehana">
     <span>private parts: </span>
-    <ref type="vism" target="VII.64">VII.64</ref>
+    <ptr type="vism" target="VII.64">VII.64</ptr>
   </entry>
   <entry page_id="841" title="moha">
     <span>delusion</span>
@@ -2521,11 +2521,11 @@
   </entry>
   <entry page_id="841" title="*rasati">
     <span>to taste: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
   </entry>
   <entry page_id="841" title="*rasāyana">
     <span>elixir. </span>
-    <ref type="vism" target="XVII.236">XVII.236</ref>
+    <ptr type="vism" target="XVII.236">XVII.236</ptr>
   </entry>
   <entry page_id="841" title="rāga">
     <span>greed, lust</span>
@@ -2547,7 +2547,7 @@
   </entry>
   <entry page_id="841" title="*rūpayati">
     <span>to be made visible: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
   </entry>
   <entry page_id="841" title="rūpāvacara">
     <span>fine-material sphere</span>
@@ -2557,7 +2557,7 @@
   </entry>
   <entry page_id="841" title="*laghimā">
     <span>lightness: </span>
-    <ref type="vism" target="VII.61">VII.61</ref>
+    <ptr type="vism" target="VII.61">VII.61</ptr>
   </entry>
   <entry page_id="841" title="lahutā">
     <span>lightness</span>
@@ -2582,16 +2582,16 @@
   </entry>
   <entry page_id="841" title="vaggulī">
     <span>fruit bat, flying fox; </span>
-    <ref type="vism" target="XXI.91">XXI.91</ref>
+    <ptr type="vism" target="XXI.91">XXI.91</ptr>
   </entry>
   <entry page_id="841" title="*vacanāvayava">
     <span>member of a syllogism: </span>
-    <ref type="vism" target="XVII.67">XVII.67</ref>
+    <ptr type="vism" target="XVII.67">XVII.67</ptr>
     <span> </span>
   </entry>
   <entry page_id="841" title="*vacī-bheda">
     <span>speech utterance: </span>
-    <ref type="vism" target="XIV.62">XIV.62</ref>
+    <ptr type="vism" target="XIV.62">XIV.62</ptr>
   </entry>
   <entry page_id="841" title="vacī-saṅkhāra">
     <span>verbal formation (i.e. vitakka and vicāra) </span>
@@ -2610,14 +2610,14 @@
   </entry>
   <entry page_id="841" title="*vattana">
     <span>performance of duties: </span>
-    <ref type="vism" target="III.71">III.71</ref>
+    <ptr type="vism" target="III.71">III.71</ptr>
     <span> (</span>
-    <ref type="bib" target="Vin" loc=" I 61">Vin I 61</ref>
+    <ptr type="bib" target="Vin" loc=" I 61">Vin I 61</ptr>
     <span>) </span>
   </entry>
   <entry page_id="841" title="*vatthika">
     <span>clothable: </span>
-    <ref type="vism" target="VII.79">VII.79</ref>
+    <ptr type="vism" target="VII.79">VII.79</ptr>
   </entry>
   <entry page_id="841" title="vatthu">
     <span>(1) basis, physical basis (term for the six internal bases), (2) object, (3) instance, example, (4) story, etc. </span>
@@ -2635,7 +2635,7 @@
   </entry>
   <entry page_id="841" title="*vahanika">
     <span>catamaran float (?): </span>
-    <ref type="vism" target="XVII.196">XVII.196</ref>
+    <ptr type="vism" target="XVII.196">XVII.196</ptr>
   </entry>
   <entry page_id="841" title="vācā">
     <span>speech</span>
@@ -2645,7 +2645,7 @@
   </entry>
   <entry page_id="841" title="*vāna">
     <span>fastening: </span>
-    <ref type="vism" target="VIII.247">VIII.247</ref>
+    <ptr type="vism" target="VIII.247">VIII.247</ptr>
   </entry>
   <entry page_id="841" title="vāyāma">
     <span>effort </span>
@@ -2656,9 +2656,9 @@
   </entry>
   <entry page_id="842" title="*vikappa">
     <span>alternative: </span>
-    <ref type="vism" target="XI.89">XI.89</ref>
+    <ptr type="vism" target="XI.89">XI.89</ptr>
     <span> (cf. </span>
-    <ref type="bib" target="M-a" loc=" I 67">M-a I 67</ref>
+    <ptr type="bib" target="M-a" loc=" I 67">M-a I 67</ptr>
     <span>)</span>
   </entry>
   <entry page_id="842" title="vikampana">
@@ -2672,7 +2672,7 @@
   </entry>
   <entry page_id="842" title="*vikuppati">
     <span>to be damaged: </span>
-    <ref type="vism" target="XXIII.35">XXIII.35</ref>
+    <ptr type="vism" target="XXIII.35">XXIII.35</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -2689,9 +2689,9 @@
     <span/>
     <em>also </em>
     <span>spreading out: </span>
-    <ref type="vism" target="IV.89">IV.89</ref>
+    <ptr type="vism" target="IV.89">IV.89</ptr>
     <span>; gesture: </span>
-    <ref type="vism" target="XI.100">XI.100</ref>
+    <ptr type="vism" target="XI.100">XI.100</ptr>
     <span> </span>
   </entry>
   <entry page_id="842" title="vicāra">
@@ -2702,7 +2702,7 @@
   </entry>
   <entry page_id="842" title="*vijambhati">
     <span>to stretch, yawn: </span>
-    <ref type="vism" target="IX.61">IX.61</ref>
+    <ptr type="vism" target="IX.61">IX.61</ptr>
   </entry>
   <entry page_id="842" title="vijjamāna">
     <span>existing, actual</span>
@@ -2729,20 +2729,20 @@
     <span/>
     <em>also </em>
     <span>distension: </span>
-    <ref type="vism" target="XI.37">XI.37</ref>
+    <ptr type="vism" target="XI.37">XI.37</ptr>
     <span>, </span>
-    <ref type="vism" target="XI.84">84</ref>
+    <ptr type="vism" target="XI.84">84</ptr>
   </entry>
   <entry page_id="842" title="*vinana">
     <span>joining together: </span>
-    <ref type="vism" target="VIII.247">VIII.247</ref>
+    <ptr type="vism" target="VIII.247">VIII.247</ptr>
   </entry>
   <entry page_id="842" title="vinaya">
     <span>(1) Vinaya Piṭaka or Book of Discipline, (2) discipline, removal, leading away </span>
   </entry>
   <entry page_id="842" title="*viniddhunana">
     <span>shaking off: </span>
-    <ref type="vism" target="XVI.82">XVI.82</ref>
+    <ptr type="vism" target="XVI.82">XVI.82</ptr>
   </entry>
   <entry page_id="842" title="vinipāta">
     <span>perdition</span>
@@ -2752,7 +2752,7 @@
   </entry>
   <entry page_id="842" title="*vippaṭipatti">
     <span>wrong theory: </span>
-    <ref type="vism" target="XVI.85">XVI.85</ref>
+    <ptr type="vism" target="XVI.85">XVI.85</ptr>
   </entry>
   <entry page_id="842" title="vipariṇāma">
     <span>change</span>
@@ -2779,20 +2779,20 @@
     <span/>
     <em>also </em>
     <span>excitement, wrong excitement: </span>
-    <ref type="vism" target="VI.42">VI.42</ref>
+    <ptr type="vism" target="VI.42">VI.42</ptr>
     <span>; </span>
-    <ref type="vism" target="VIII.190">VIII.190</ref>
+    <ptr type="vism" target="VIII.190">VIII.190</ptr>
     <span> </span>
   </entry>
   <entry page_id="842" title="*vipphāra">
     <span/>
     <em>also </em>
     <span>intervention: </span>
-    <ref type="vism" target="IV.89">IV.89</ref>
+    <ptr type="vism" target="IV.89">IV.89</ptr>
     <span>; </span>
-    <ref type="vism" target="XII.27">XII.27</ref>
+    <ptr type="vism" target="XII.27">XII.27</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.132">XIV.132</ref>
+    <ptr type="vism" target="XIV.132">XIV.132</ptr>
     <span> </span>
   </entry>
   <entry page_id="842" title="vibhava">
@@ -2806,7 +2806,7 @@
   </entry>
   <entry page_id="842" title="*viyojeti">
     <span>to separate: </span>
-    <ref type="vism" target="VIII.95">VIII.95</ref>
+    <ptr type="vism" target="VIII.95">VIII.95</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -2819,7 +2819,7 @@
   </entry>
   <entry page_id="842" title="*viraha">
     <span>(subst.) absence: </span>
-    <ref type="vism" target="IV.148">IV.148</ref>
+    <ptr type="vism" target="IV.148">IV.148</ptr>
   </entry>
   <entry page_id="842" title="virāga">
     <span>fading away (of greed)</span>
@@ -2835,7 +2835,7 @@
   </entry>
   <entry page_id="842" title="*visaṅkharoti">
     <span>to analyze: </span>
-    <ref type="vism" target="XX.68">XX.68</ref>
+    <ptr type="vism" target="XX.68">XX.68</ptr>
   </entry>
   <entry page_id="842" title="visama-hetu">
     <span>fictitious cause</span>
@@ -2845,20 +2845,20 @@
   </entry>
   <entry page_id="842" title="*visavitā">
     <span>majesty: </span>
-    <ref type="vism" target="XII.49">XII.49</ref>
+    <ptr type="vism" target="XII.49">XII.49</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 174">Paṭis I 174</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 174">Paṭis I 174</ptr>
     <span>; II 205; </span>
-    <ref type="bib" target="Dhs-a" loc=" 109">Dhs-a 109</ref>
+    <ptr type="bib" target="Dhs-a" loc=" 109">Dhs-a 109</ptr>
     <span>) </span>
   </entry>
   <entry page_id="842" title="*visahati">
     <span>to suffer: </span>
-    <ref type="vism" target="II.38">II.38</ref>
+    <ptr type="vism" target="II.38">II.38</ptr>
   </entry>
   <entry page_id="842" title="*visādana">
     <span>dejection: </span>
-    <ref type="vism" target="XVI.59">XVI.59</ref>
+    <ptr type="vism" target="XVI.59">XVI.59</ptr>
   </entry>
   <entry page_id="842" title="*visesa">
     <span>distinction</span>
@@ -2868,7 +2868,7 @@
   </entry>
   <entry page_id="842" title="*vihaṭamāna">
     <span>being carded: </span>
-    <ref type="vism" target="XXI.66">XXI.66</ref>
+    <ptr type="vism" target="XXI.66">XXI.66</ptr>
   </entry>
   <entry page_id="842" title="vihiṃsā">
     <span>cruelty</span>
@@ -2877,7 +2877,7 @@
     <span/>
     <em>also </em>
     <span>shifting sideways: </span>
-    <ref type="vism" target="XI.115">XI.115</ref>
+    <ptr type="vism" target="XI.115">XI.115</ptr>
   </entry>
   <entry page_id="842" title="vīthi">
     <span>(1) street, (2) cognitive series (of consciousness) </span>
@@ -2924,18 +2924,18 @@
   </entry>
   <entry page_id="843" title="*vyatti">
     <span>particular distinction: </span>
-    <ref type="vism" target="VIII.72">VIII.72</ref>
+    <ptr type="vism" target="VIII.72">VIII.72</ptr>
     <span> (</span>
-    <ref type="bib" target="M-a" loc=" I 6">M-a I 6</ref>
+    <ptr type="bib" target="M-a" loc=" I 6">M-a I 6</ptr>
     <span>) </span>
   </entry>
   <entry page_id="843" title="*vyappita">
     <span/>
     <em>also </em>
     <span>gone away: </span>
-    <ref type="vism" target="IV.146">IV.146</ref>
+    <ptr type="vism" target="IV.146">IV.146</ptr>
     <span> (</span>
-    <ref type="bib" target="Vibh" loc=" 258">Vibh 258</ref>
+    <ptr type="bib" target="Vibh" loc=" 258">Vibh 258</ptr>
     <span>) </span>
   </entry>
   <entry page_id="843" title="vyāpāda">
@@ -2944,9 +2944,9 @@
   <entry page_id="843" title="*vyāpāra">
     <em>also </em>
     <span>interest, interestedness: </span>
-    <ref type="vism" target="XVII.309">XVII.309</ref>
+    <ptr type="vism" target="XVII.309">XVII.309</ptr>
     <span>; </span>
-    <ref type="vism" target="XVIII.31">XVIII.31</ref>
+    <ptr type="vism" target="XVIII.31">XVIII.31</ptr>
   </entry>
   <entry page_id="843" title="saṃyoga">
     <span>bondage</span>
@@ -2961,7 +2961,7 @@
     <span/>
     <em>also </em>
     <span>in detail: </span>
-    <ref type="vism" target="XIII.14">XIII.14</ref>
+    <ptr type="vism" target="XIII.14">XIII.14</ptr>
   </entry>
   <entry page_id="843" title="saṃvara">
     <span>restraint</span>
@@ -2971,7 +2971,7 @@
   </entry>
   <entry page_id="843" title="*saṃvedanika">
     <span>which feels: </span>
-    <ref type="vism" target="XIV.213">XIV.213</ref>
+    <ptr type="vism" target="XIV.213">XIV.213</ptr>
   </entry>
   <entry page_id="843" title="saṃsāra">
     <span>round of rebirths</span>
@@ -2983,7 +2983,7 @@
     <span/>
     <em>also </em>
     <span>scale (of fish): </span>
-    <ref type="vism" target="VIII.91">VIII.91</ref>
+    <ptr type="vism" target="VIII.91">VIII.91</ptr>
   </entry>
   <entry page_id="843" title="sakkarā">
     <span>sugar (spelled sakkharā in PED) </span>
@@ -3008,7 +3008,7 @@
   </entry>
   <entry page_id="843" title="*saṅkara">
     <span>confounding, confusing: </span>
-    <ref type="vism" target="XIV.58">XIV.58</ref>
+    <ptr type="vism" target="XIV.58">XIV.58</ptr>
     <span>; epil. verses (see CPD asaṅkara) </span>
   </entry>
   <entry page_id="843" title="saṅkilesa">
@@ -3018,7 +3018,7 @@
     <span/>
     <em>also </em>
     <span>a path set on piles: </span>
-    <ref type="vism" target="IX.36">IX.36</ref>
+    <ptr type="vism" target="IX.36">IX.36</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="saṅkhata">
@@ -3043,13 +3043,13 @@
     <span/>
     <em>also </em>
     <span>holding together: </span>
-    <ref type="vism" target="XI.93">XI.93</ref>
+    <ptr type="vism" target="XI.93">XI.93</ptr>
   </entry>
   <entry page_id="843" title="*saṅgahīta">
     <span/>
     <em>also </em>
     <span>held together:</span>
-    <ref type="vism" target="XI.90">XI.90</ref>
+    <ptr type="vism" target="XI.90">XI.90</ptr>
   </entry>
   <entry page_id="843" title="saṅgha">
     <span>the Order,the Community</span>
@@ -3065,9 +3065,9 @@
   </entry>
   <entry page_id="843" title="*sacchika">
     <span>based on realization: </span>
-    <ref type="vism" target="VII.55">VII.55</ref>
+    <ptr type="vism" target="VII.55">VII.55</ptr>
     <span> (</span>
-    <ref type="bib" target="Paṭis" loc=" I 174">Paṭis I 174</ref>
+    <ptr type="bib" target="Paṭis" loc=" I 174">Paṭis I 174</ptr>
     <span>) </span>
   </entry>
   <entry page_id="843" title="sacchikiriyā">
@@ -3075,7 +3075,7 @@
   </entry>
   <entry page_id="843" title="*sañña">
     <span>restrained: </span>
-    <ref type="vism" target="I.158">I.158</ref>
+    <ptr type="vism" target="I.158">I.158</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -3092,11 +3092,11 @@
     <span/>
     <em>also </em>
     <span>(2) settling down, stationariness: </span>
-    <ref type="vism" target="III.22">III.22</ref>
+    <ptr type="vism" target="III.22">III.22</ptr>
     <span>; </span>
-    <ref type="vism" target="VIII.69">VIII.69</ref>
+    <ptr type="vism" target="VIII.69">VIII.69</ptr>
     <span>, (3) co-presence: </span>
-    <ref type="vism" target="XVII.76">XVII.76</ref>
+    <ptr type="vism" target="XVII.76">XVII.76</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="sati">
@@ -3107,7 +3107,7 @@
   </entry>
   <entry page_id="843" title="*satta">
     <span>Bright Principle, Sattva: </span>
-    <ref type="vism" target="IX.53">IX.53</ref>
+    <ptr type="vism" target="IX.53">IX.53</ptr>
   </entry>
   <entry page_id="843" title="satta-saññā">
     <span>(1) perception of a living being, (2) the seven perceptions (first of the 18 principal insights) </span>
@@ -3132,7 +3132,7 @@
   </entry>
   <entry page_id="843" title="*saddheyya">
     <span>inspiring faith: </span>
-    <ref type="vism" target="VII.72">VII.72</ref>
+    <ptr type="vism" target="VII.72">VII.72</ptr>
   </entry>
   <entry page_id="843" title="sa-nidassana">
     <span>visible</span>
@@ -3156,18 +3156,18 @@
     <span/>
     <em>also </em>
     <span>upholding: </span>
-    <ref type="vism" target="XIV.44">XIV.44</ref>
+    <ptr type="vism" target="XIV.44">XIV.44</ptr>
   </entry>
   <entry page_id="843" title="*sannikkhepana">
     <span/>
     <em>also </em>
     <span>putting down: </span>
-    <ref type="vism" target="XX.62">XX.62</ref>
+    <ptr type="vism" target="XX.62">XX.62</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="*sanniṭṭheyya">
     <span>fit to be convinced about: </span>
-    <ref type="vism" target="XIV.151">XIV.151</ref>
+    <ptr type="vism" target="XIV.151">XIV.151</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="sannipāta">
@@ -3177,32 +3177,32 @@
     <span/>
     <em>also </em>
     <span>fixing down: </span>
-    <ref type="vism" target="IV.91">IV.91</ref>
+    <ptr type="vism" target="IV.91">IV.91</ptr>
     <span>; </span>
-    <ref type="vism" target="XII.51">XII.51</ref>
+    <ptr type="vism" target="XII.51">XII.51</ptr>
     <span>; </span>
-    <ref type="vism" target="XX.62">XX.62</ref>
+    <ptr type="vism" target="XX.62">XX.62</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="*sannissaya">
     <span>waiting on, dependence: </span>
-    <ref type="vism" target="XIV.29">XIV.29</ref>
+    <ptr type="vism" target="XIV.29">XIV.29</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="*sappati">
     <span>to be emitted (pass. of sapati, to swear): </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="*sabbhāva">
     <span>(presence): </span>
-    <ref type="vism" target="I.141">I.141</ref>
+    <ptr type="vism" target="I.141">I.141</ptr>
     <span>; </span>
-    <ref type="vism" target="II.21">II.21</ref>
+    <ptr type="vism" target="II.21">II.21</ptr>
     <span>; </span>
-    <ref type="vism" target="XIV.98">XIV.98</ref>
+    <ptr type="vism" target="XIV.98">XIV.98</ptr>
     <span>; </span>
-    <ref type="vism" target="XVI.73">XVI.73</ref>
+    <ptr type="vism" target="XVI.73">XVI.73</ptr>
     <span> </span>
   </entry>
   <entry page_id="843" title="sabhāva">
@@ -3210,11 +3210,11 @@
   </entry>
   <entry page_id="844" title="*sabhāva">
     <span>with sex: </span>
-    <ref type="vism" target="XVII.150">XVII.150</ref>
+    <ptr type="vism" target="XVII.150">XVII.150</ptr>
   </entry>
   <entry page_id="844" title="*sabhāva">
     <span>Nature, Svabhāva: </span>
-    <ref type="vism" target="XVI.85">XVI.85</ref>
+    <ptr type="vism" target="XVI.85">XVI.85</ptr>
   </entry>
   <entry page_id="844" title="samatha">
     <span>serenity (term for jhāna)</span>
@@ -3229,7 +3229,7 @@
     <span/>
     <em>also </em>
     <span>stretched flat: </span>
-    <ref type="vism" target="IV.129">IV.129</ref>
+    <ptr type="vism" target="IV.129">IV.129</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -3237,7 +3237,7 @@
     <span/>
     <em>also </em>
     <span>impelled: </span>
-    <ref type="vism" target="XI.92">XI.92</ref>
+    <ptr type="vism" target="XI.92">XI.92</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -3246,7 +3246,7 @@
   </entry>
   <entry page_id="844" title="*samaveta">
     <span>inherent: </span>
-    <ref type="vism" target="XVI.91">XVI.91</ref>
+    <ptr type="vism" target="XVI.91">XVI.91</ptr>
   </entry>
   <entry page_id="844" title="samādhi">
     <span>concentration</span>
@@ -3258,7 +3258,7 @@
     <span/>
     <em>also </em>
     <span>brought in: </span>
-    <ref type="vism" target="IV.190">IV.190</ref>
+    <ptr type="vism" target="IV.190">IV.190</ptr>
   </entry>
   <entry page_id="844" title="samuccheda">
     <span>cutting off (of defilements by the path) </span>
@@ -3268,7 +3268,7 @@
   </entry>
   <entry page_id="844" title="*samuṭṭhāpaya">
     <span>rousable: </span>
-    <ref type="vism" target="IV.51">IV.51</ref>
+    <ptr type="vism" target="IV.51">IV.51</ptr>
   </entry>
   <entry page_id="844" title="samudaya">
     <span>origin</span>
@@ -3284,7 +3284,7 @@
   </entry>
   <entry page_id="844" title="*sampaṭipādana">
     <span>keeping on the track: </span>
-    <ref type="vism" target="VI.59">VI.59</ref>
+    <ptr type="vism" target="VI.59">VI.59</ptr>
     <span> </span>
   </entry>
   <entry page_id="844" title="*sampatta-visaya">
@@ -3292,14 +3292,14 @@
   </entry>
   <entry page_id="844" title="*sampasādayati">
     <span>to make confident: </span>
-    <ref type="vism" target="IV.142">IV.142</ref>
+    <ptr type="vism" target="IV.142">IV.142</ptr>
     <span> </span>
   </entry>
   <entry page_id="844" title="*sampiṇḍana">
     <span/>
     <em>also </em>
     <span>conjunction (gram.): </span>
-    <ref type="vism" target="IV.154">IV.154</ref>
+    <ptr type="vism" target="IV.154">IV.154</ptr>
     <span> </span>
   </entry>
   <entry page_id="844" title="samphappalāpa">
@@ -3312,15 +3312,15 @@
     <span/>
     <em>also </em>
     <span>to judge: </span>
-    <ref type="vism" target="IX.109">IX.109</ref>
+    <ptr type="vism" target="IX.109">IX.109</ptr>
   </entry>
   <entry page_id="844" title="*sambhoga">
     <span/>
     <em>also </em>
     <span>exploiting: </span>
-    <ref type="vism" target="XIV.128">XIV.128</ref>
+    <ptr type="vism" target="XIV.128">XIV.128</ptr>
     <span>; </span>
-    <ref type="vism" target="XVII.51">XVII.51</ref>
+    <ptr type="vism" target="XVII.51">XVII.51</ptr>
     <span> </span>
   </entry>
   <entry page_id="844" title="sammatta">
@@ -3344,7 +3344,7 @@
   </entry>
   <entry page_id="844" title="*sammussana">
     <span>forgetting: </span>
-    <ref type="vism" target="XVI.82">XVI.82</ref>
+    <ptr type="vism" target="XVI.82">XVI.82</ptr>
   </entry>
   <entry page_id="844" title="sammosa">
     <span>forgetfulness</span>
@@ -3357,7 +3357,7 @@
     <span/>
     <em>also </em>
     <span>in its own form: </span>
-    <ref type="vism" target="XVI.70">XVI.70</ref>
+    <ptr type="vism" target="XVI.70">XVI.70</ptr>
     <span> </span>
   </entry>
   <entry page_id="844" title="salakkhaṇa">
@@ -3381,7 +3381,7 @@
   </entry>
   <entry page_id="844" title="*savana">
     <span>exudation: </span>
-    <ref type="vism" target="XVII.56">XVII.56</ref>
+    <ptr type="vism" target="XVII.56">XVII.56</ptr>
     <span> </span>
     <span/>
   </entry>
@@ -3399,14 +3399,14 @@
   </entry>
   <entry page_id="844" title="*sahaṭṭhāna">
     <span>co-presence: </span>
-    <ref type="vism" target="XIII.116">XIII.116</ref>
+    <ptr type="vism" target="XIII.116">XIII.116</ptr>
   </entry>
   <entry page_id="844" title="sāṭheyya">
     <span>fraud</span>
   </entry>
   <entry page_id="844" title="*sādhika">
     <span>accomplishing: </span>
-    <ref type="vism" target="IV.105">IV.105</ref>
+    <ptr type="vism" target="IV.105">IV.105</ptr>
   </entry>
   <entry page_id="844" title="sādhāraṇa">
     <span>common to, shared with</span>
@@ -3436,30 +3436,30 @@
     <span/>
     <em>also </em>
     <span>foppery: </span>
-    <ref type="vism" target="III.95">III.95</ref>
+    <ptr type="vism" target="III.95">III.95</ptr>
     <span> (</span>
-    <ref type="bib" target="Vibh" loc=" 351">Vibh 351</ref>
+    <ptr type="bib" target="Vibh" loc=" 351">Vibh 351</ptr>
     <span>)</span>
   </entry>
   <entry page_id="844" title="*siṭṭha">
     <span>prepared: </span>
-    <ref type="vism" target="XVI.4">XVI.4</ref>
+    <ptr type="vism" target="XVI.4">XVI.4</ptr>
   </entry>
   <entry page_id="844" title="*sippikā">
     <span>bag (?): </span>
-    <ref type="vism" target="XI.68">XI.68</ref>
+    <ptr type="vism" target="XI.68">XI.68</ptr>
   </entry>
   <entry page_id="844" title="*silesa">
     <span>cement: </span>
-    <ref type="vism" target="XI.51">XI.51</ref>
+    <ptr type="vism" target="XI.51">XI.51</ptr>
   </entry>
   <entry page_id="844" title="*sīta (?)">
     <span>measure of area: </span>
-    <ref type="vism" target="XII.41">XII.41</ref>
+    <ptr type="vism" target="XII.41">XII.41</ptr>
   </entry>
   <entry page_id="844" title="*sīmā">
     <span>chapter house: </span>
-    <ref type="vism" target="IX.66">IX.66</ref>
+    <ptr type="vism" target="IX.66">IX.66</ptr>
   </entry>
   <entry page_id="844" title="sīla">
     <span>(1) virtue, (2) habit, (3) rite</span>
@@ -3469,11 +3469,11 @@
   </entry>
   <entry page_id="844" title="*sīlaka">
     <span>good-tempered: </span>
-    <ref type="vism" target="III.84">III.84</ref>
+    <ptr type="vism" target="III.84">III.84</ptr>
   </entry>
   <entry page_id="844" title="*sīlana">
     <span>composing: </span>
-    <ref type="vism" target="I.19">I.19</ref>
+    <ptr type="vism" target="I.19">I.19</ptr>
   </entry>
   <entry page_id="844" title="sukkha-vipassaka">
     <span>bare(or dry-) insight worker (one who attains the path without previously having attained jhāna) </span>
@@ -3483,11 +3483,11 @@
   </entry>
   <entry page_id="844" title="*sukha">
     <span>tepid: </span>
-    <ref type="vism" target="X.52">X.52</ref>
+    <ptr type="vism" target="X.52">X.52</ptr>
   </entry>
   <entry page_id="844" title="*sukhana">
     <span>act of pleasing: </span>
-    <ref type="vism" target="IV.100">IV.100</ref>
+    <ptr type="vism" target="IV.100">IV.100</ptr>
   </entry>
   <entry page_id="844" title="sugata">
     <span>Sublime One (the Buddha)</span>
@@ -3503,26 +3503,26 @@
   </entry>
   <entry page_id="845" title="*suttaka">
     <span>intestinal worm: </span>
-    <ref type="vism" target="VIII.121">VIII.121</ref>
+    <ptr type="vism" target="VIII.121">VIII.121</ptr>
   </entry>
   <entry page_id="845" title="subha">
     <span>beautiful, beauty</span>
   </entry>
   <entry page_id="845" title="*surabhi">
     <span>perfume: </span>
-    <ref type="vism" target="III.100">III.100</ref>
+    <ptr type="vism" target="III.100">III.100</ptr>
     <span>; </span>
-    <ref type="vism" target="VI.90">VI.90</ref>
+    <ptr type="vism" target="VI.90">VI.90</ptr>
     <span>; </span>
-    <ref type="vism" target="X.60">X.60</ref>
+    <ptr type="vism" target="X.60">X.60</ptr>
   </entry>
   <entry page_id="845" title="*sūcayati">
     <span>to betray, reveal: </span>
-    <ref type="vism" target="XV.3">XV.3</ref>
+    <ptr type="vism" target="XV.3">XV.3</ptr>
   </entry>
   <entry page_id="845" title="*sūdana">
     <span>cleansing: </span>
-    <ref type="vism" target="XI.125">XI.125</ref>
+    <ptr type="vism" target="XI.125">XI.125</ptr>
   </entry>
   <entry page_id="845" title="sekha">
     <span>trainer (term for one possessing one of the four paths or first three fruitions, so with training still to do) </span>
@@ -3554,6 +3554,6 @@
   <entry page_id="845" title="*hetu">
     <em>also </em>
     <span>middle  term  (in  syllogism; log.): </span>
-    <ref type="vism" target="XVII.67">XVII.67</ref>
+    <ptr type="vism" target="XVII.67">XVII.67</ptr>
   </entry>
 </glossary>

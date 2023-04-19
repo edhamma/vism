@@ -33,7 +33,7 @@
 				<h3>Visuddhimagga steps</h3>
 					<dl>
 						<dt>(0. ✅ politics)</dt><dd><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em> It would be nice to have green light (or even source data) from BPS. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
-						<dt>1. ✅ semantic representation</dt><dd>The BPS edition was used as a basis for XML representation of the contents. This was done in <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">hacky ways</a> but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
+						<dt>1. ✅ semantic representation</dt><dd>The BPS edition was used as a basis for ≈<a href="https://tei-c.org/">TEI</a> representation of the contents (≈ denotes light customization); TEI is academic XML-based standard for this kind of work. The result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
 						<dt>2. ✅ verification</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
 						<dt>3. ✅ automation</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
 						<dt>4. 🔧 corrections</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. <b>LaTeX- and Sphinx-based formats have issue hyperlinks on page numbers and § labels</b> — thus it is easy to help. Those include:
@@ -54,11 +54,11 @@
 						<dt>6. ✨ publication</dt><dd>Final and fine-tuned outputs.</dd>
 					</dl>
 				<h3>Vimuttimagga steps</h3>
-					<p>The basis data is OCRed scan of the print, with is semantically tagged and saved in ODT (LibreOffice) format. This format is used as starting point (ODT → custom XML format → other outputs, using the same machinery as <em>Visuddhimagga</em>. The following tasks are outstanding:</p>a
+					<p>The basis data is OCRed scan of the print, with is semantically tagged and saved in ODT (LibreOffice) format. This format is used as starting point (ODT → ≈TEI → other outputs, using the same machinery as <em>Visuddhimagga</em>. The following tasks are outstanding:</p>
 					<dl>
-						<dt>1. Fix bibliographical references</dt><dd>Convert quotation locations in the canon to modern format (so that they can hyperlink to suttacentral.net)</dd>
-						<dt>2. Correct Pali quotations in footnotes</dt><dd>Use current electronic Pali texts to fuzzy-match footnotes and fix any typos there (possibly many due to OCR)</dd>
-						<dt>3. Improve sectioning within chapters</dt><dd>The sectioning is flat and relatively difficult to navigate. Sectioning in the Nyanatusita's edition (not yet looked at) could be an inspiration.</dd>
+						<dt>1. Improve sectioning within chapters</dt><dd>The sectioning is flat and relatively difficult to navigate. Sectioning in the Nyanatusita's edition (not yet looked at) could be an inspiration.</dd>
+						<dt>2. Fix bibliographical references</dt><dd>Convert quotation locations in the canon to modern format (so that they can hyperlink to suttacentral.net)</dd>
+						<dt>3. Correct Pali quotations in footnotes</dt><dd>Use current electronic Pali texts to fuzzy-match footnotes and fix any typos there (possibly many due to OCR)</dd>
 					</dl>
 		<h2>How can you help?</h2>
 			<p>If you spot anything wrong, <a href="https://github.com/eudoxos/vism/issues">file an issue at github</a> or open a pull request with corrected data.</p>

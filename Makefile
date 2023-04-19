@@ -14,9 +14,9 @@ assemble:
 	cp -r sphinx build/
 	cp -r docbook build/
 	cp -r sphinx-vimm build/
-	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
+	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 05-export-tei.ipynb
 	cp vimm/origin/vimm7a.exported.xml build/
-	jupyter execute 06-assemble.ipynb
+	jupyter execute 10-assemble-TEI.ipynb
 
 build: latex docbook sphinx web
 
@@ -56,4 +56,4 @@ web:
 	cp src/index.html build/index.html
 
 clean:
-	rm -rf build gh-pages/docbook gh-pages/latex gh-pages/sphinx
+	rm -rf build
