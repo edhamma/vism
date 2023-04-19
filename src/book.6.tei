@@ -220,7 +220,7 @@
           </p>
         </div>
       </div>
-      <include file="bib-1.tei"/>
+      <include file="bib-1.xml"/>
       <div name="Introduction " type="2-chapter">
         <head y="60" x="182" page_id="29" page_no="xxvii">
           <span>Introduction </span>
