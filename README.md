@@ -8,12 +8,15 @@ This is a WIP project and any contributions are welcome: especially edits in the
 
 You are welcome to fork the repository and submit a pull request, or simply open an issue if you are not sure how to edit.
 
+## Source data
+
 ## Repository structure
 
-* `origin`: Original source data plus scripts applied to them to have them machine-readable. This is now not to be used anymore (or in emergency only): its result (in src/) may now be hand-edited.
-* `src`: generic (almost-TEI) data for the e-book (book text, index, glossary and editorial sectioning)
-* `latex`, `docbook`, `sphinx`: format-specific files for e-books
+* `vism`, `vimm`: generic (almost-TEI) data for the e-book (book text, index, glossary, bibliography, and editorial sectioning)
+* `vism/origin`: data which once served as the basis; not needed anymore
+* `vimm/origin`: source for Vimuttimagga as ODT, plus other support files; the ODT is converted to our almost-TEI representation using the scripts (`*.ipynb` notebooks) in `vimm`, and then the same machinery as for Visuddhimagga is used.
+* `vism/origin`: base data for this work
+* `latex`, `docbook`, `sphinx`, `sphinx-vimm`, `html5`: format-specific files for e-books
 * `Makefile`: describes the build process itself, is used both locally and by the CI
 * `.github/workflows/ebook.yml`: CI workflow which will re-build all the e-books after each commit to the repository, and deploy the website
-* `vimm`: source for Vimuttimagga as ODT, plus other support files; the ODT is converted to our almost-TEI representation using the scripts (`*.ipynb` notebooks) in `vimm`, and then the same machinery as for Visuddhimagga is used.
 
