@@ -4,7 +4,7 @@ XSLTNG?=/home/eudoxos/build/xslTNG/build/xslt
 
 .PHONY: latex html5 sphinx docbook xsltng assemble clean
 
-build/book.sectioned.xml: src/*.xml 06-assemble.ipynb
+build/vism.sectioned.xml: vism/*.tei 10-assemble-TEI.ipynb
 	make assemble
 
 assemble:
@@ -15,21 +15,20 @@ assemble:
 	cp -r docbook build/
 	cp -r sphinx-vimm build/
 	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 05-export-tei.ipynb
-	cp vimm/origin/vimm7a.tei build/
 	jupyter execute 10-assemble-TEI.ipynb
 
 build: latex docbook sphinx web
 
-latex: build/book.sectioned.xml latex/*
+latex: build/vism.sectioned.tei latex/*
 	cd build/latex && \
 		latexmk vism.tex && \
 		plastex -c plastex.ini vism.tex
 html5:
 	weasyprint -s html5/style.A4.css build/html5/vism.html build/html5/vism.weasyprint.pdf
 	vivliostyle build --style build/html5/style.A4.css --single-doc --timeout 1200 --output build/html5/vism.vivliostyle.pdf build/html5/vism.html
-sphinx: build/book.sectioned.xml sphinx/source/*
+sphinx: build/vism.sectioned.tei sphinx/source/*
 	make -C build/sphinx html singlehtml epub
-docbook: build/book.sectioned.xml docbook/*
+docbook: build/vism.sectioned.tei docbook/*
 	cd build/docbook && \
 		xsltproc -o vism.xhtml vism.xhtml5.xsl vism.xml && \
 		xsltproc -o vism.fo vism.fo.xsl vism.xml && \
@@ -43,7 +42,7 @@ xsltng:
 	docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook.xsl -o:/tmp/vism.xsltng.html
 	#docker run -v $(realpath build/docbook):/tmp -v $(XSLTNG):/xslt docbook-xsltng:latest /tmp/vism.xml -xsl:/xslt/docbook-paged.xsl -o:/tmp/vism.xsltng.html
 
-vimuttimagga:
+vimuttimagga: build/vimm.tei
 	#cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 04-export.ipynb
 	#cp vimm/origin/vimm7a.exported.xml build/
 	cd build/latex && latexmk vimm.tex && plastex -c plastex-vimm.ini vimm.tex
