@@ -17,7 +17,7 @@
 	\let\RaggedRight\relax
 	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
 	%% vism-specific macros for PlasTeX
-	\def\vismHypertarget#1{\hypertarget{#1}{}\hyperlink{#1}{\scriptsize\textcolor{purple}{{\href{\##1}{¶}}}} }
+	\def\vismHypertarget#1{\hypertarget{#1}{}\hyperlink{#1}{\scriptsize\textcolor{purple}{{ \href{\##1}{\textsuperscript{¶}}}}} }
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
 	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}
