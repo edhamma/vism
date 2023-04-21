@@ -30,7 +30,7 @@ jobs:
       - name: HTML5+CSS (WeasyPrint, Vivliostyle) 🔧
         run: make html5
       - name: Web 🔧
-        run: cp src/index.html build/index.html
+        run: cp index.html build/index.html
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
