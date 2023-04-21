@@ -52,7 +52,7 @@ vimuttimagga: build/vimm.tei
 	# TODO? DocBook
 
 web:
-	cp src/index.html build/index.html
+	cp index.html build/index.html
 
 clean:
 	rm -rf build
