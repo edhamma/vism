@@ -63,6 +63,7 @@
       </item>
     </list>
   </bibentry>
+  <!--  edx: moved to abbreviations
   <bibentry abbrev="Pm.">
     <em>Paramatthamañjūsā</em>
     <span> (</span>
@@ -91,10 +92,11 @@
       <span>, being the more recent part of the</span>
       <em> Mahāvaṁsa</em>
       <span> by Dr. Wilhelm Geiger and Mrs. C. Mabel Rickmers, (2 Parts). P.T.S London 1929, 1930. </span>
-      <pb ed="BPS1995" pdf_page="49" n="xlviii"/>
     </p>
   </bibentry>
+  -->
   <bibentry abbrev="Pali Lit. Ceylon">
+    <pb ed="BPS1995" pdf_page="49" n="xlviii"/>
     <em>The Pali Literature of Ceylon</em>
     <span> by Dr. G. P. Malalasekera, Royal Asiatic Society's Prize Publication Fund Vol. X, London, 1928.</span>
   </bibentry>

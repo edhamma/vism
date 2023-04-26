@@ -8,8 +8,17 @@
 <bibentry abbrev="It.-a."><span>ltivuttaka Aṭṭhakathā = Paramattha-Dīpanī</span></bibentry>
 <bibentry abbrev="Ud."><span>Udāna</span></bibentry>
 <bibentry abbrev="Ud.-a."><span>Udāna Aṭṭhakathā</span></bibentry>
-<bibentry abbrev="C.Pit."><span>Cariyā-piṭaka</span></bibentry>
-<bibentry abbrev="Cv."><span>Cūḷavaṁsa</span></bibentry>
+<bibentry abbrev="C. Piṭ."><span>Cariyā-piṭaka</span></bibentry>
+<bibentry abbrev="Cv.">
+  <span>Cūḷavaṁsa</span>
+  <span>. </span>
+  <span rend="bold">English translation:</span>
+  <span> </span>
+  <em>Cūḷavaṁsa</em>
+  <span>, being the more recent part of the</span>
+  <em> Mahāvaṁsa</em>
+  <span> by Dr. Wilhelm Geiger and Mrs. C. Mabel Rickmers, (2 Parts). P.T.S London 1929, 1930. </span>
+</bibentry>
 <bibentry abbrev="J."><span>Jātaka (Fausböll's ed.)</span></bibentry>
 <bibentry abbrev="Th."><span>Thera-gāthā</span></bibentry>
 <bibentry abbrev="Thī."><span>Therī-gāthā</span></bibentry>
@@ -23,16 +32,32 @@
 <bibentry abbrev="Pts."><span>Paṭisambhidāmagga</span></bibentry>
 <bibentry abbrev="Pts.-a."><span>Paṭisambhidā Aṭṭhakathā = Saddhammappakāsinī</span></bibentry>
 <bibentry abbrev="Peṭaka."><span>Peṭakopadesa</span></bibentry>
-<bibentry abbrev="Pm."><span>Paramatthamñjūsā = Visuddhimagga Aṭṭhakathā = Mahāṭīkā</span></bibentry>
+<bibentry abbrev="Pm.">
+  <span>Paramatthamñjūsā = Visuddhimagga Aṭṭhakathā = Mahāṭīkā (</span>
+  <em>Vidsuddhimagga</em>
+  <span> commentary) by Bhadantācariya Dhammapāla — Venerable Morontuduvē Dhammānanda Nāyaka Thera’s Sinhalese edition, 1908.</span>
+</bibentry>
 <bibentry abbrev="Ps."><span>Papañcasūdanī = Majjhima Nikāya Aṭṭhakathā</span></bibentry>
 <bibentry abbrev="M."><span>Majjhima Nikāya</span></bibentry>
-<bibentry abbrev="Mv."><span>Mahāvaṁsa</span></bibentry>
+<bibentry abbrev="Mv.">
+  <span>Mahāvaṁsa</span>
+  <span>. </span>
+  <span rend="bold">Text:</span>
+  <span> Edition of the Pali Text Society, London, 1908. </span>
+  <span rend="bold">English translation:</span>
+  <span> The </span>
+  <em>Mahāvaṁsa</em>
+  <span> or The Great Chronicle of Ceylon by Dr. Wilhelm Geiger, Ceylon. Government Information Department, Colombo, 1950 (Reprint).</span>
+</bibentry>
 <bibentry abbrev="Mil."><span>Milindapañha (V. Trenckner's ed.)</span></bibentry>
 <bibentry abbrev="M. Vyut."><span>Mahāvyutpatti</span></bibentry>
 <bibentry abbrev="Rūpārūp."><span>Rūpārūpavibhāga</span></bibentry>
-<bibentry abbrev="Lal.V."><span>Lalitavistara</span></bibentry>
+<bibentry abbrev="Lal. V."><span>Lalitavistara</span></bibentry>
 <bibentry abbrev="Vin."><span>Vinaya</span></bibentry>
-<bibentry abbrev="Vis. Mag."><span>Visuddhimagga</span></bibentry>
+<!--
+  edx: already in main bibliography
+  <bibentry abbrev="Vis. Mag."><span>Visuddhimagga</span></bibentry>
+-->
 <bibentry abbrev="Vbh."><span>Vibhanga</span></bibentry>
 <bibentry abbrev="Vbh.-a."><span>Vibhanga Aṭṭhakathā = Sammoha-vinodanī</span></bibentry>
 <bibentry abbrev="S."><span>Saṁyutta Nikāya</span></bibentry>
