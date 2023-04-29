@@ -14,7 +14,7 @@ assemble:
 	cp -r sphinx build/
 	cp -r docbook build/
 	cp -r sphinx-vimm build/
-	cd vimm; jupyter execute 03-styles.ipynb; jupyter execute 05-export-tei.ipynb
+	cd vimm; jupyter execute 05-export-tei.ipynb
 	jupyter execute 10-assemble-TEI.ipynb
 
 build: latex docbook sphinx web
