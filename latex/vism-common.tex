@@ -167,9 +167,14 @@
 	% no section for bibliography: https://tex.stackexchange.com/a/132647
 	\usepackage{etoolbox}
 	\patchcmd{\thebibliography}{\chapter*{\bibname}}{}{}{}
-	% intertitle in bibliography
-	\newenvironment{bibcomment}{\item[]\begingroup\par\parshape0}{\par\endgroup}
-	\def\vismBibIntertitle#1{\begin{bibcomment}\subsection{#1}\end{bibcomment}}
+
+	% fix characters not present in the TeX Gyre Pagella font
+	\usepackage{newunicodechar}
+	\newunicodechar{ṁ}{\.m}
+	\newunicodechar{ḣ}{\.h}
+	\newunicodechar{ḳ}{\d{k}}
+	\newunicodechar{ṡ}{\.s}
+	\newunicodechar{ẏ}{\.y}
 \fi
 
 \def\frontmatter{
