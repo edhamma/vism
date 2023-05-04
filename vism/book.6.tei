@@ -8576,9 +8576,8 @@
                 <span>As to the other things listed here in the </span>
                 <em>Visuddhimagga</em>
                 <span> text, most will be found at M</span>
-              </p>
-              <p>
-                <span>I 36. For “holding on tenaciously,” etc., see </span>
+                <ptr type="bib" target="M" loc="I 36">M I 36</ptr>
+                <span>. For “holding on tenaciously,” etc., see </span>
                 <ptr type="bib" target="M" loc="I 43">M I 43</ptr>
                 <span>.</span>
               </p>
@@ -9147,7 +9146,9 @@
             <span>and renowned in the world, like Dakkhiṇagiri</span>
             <note page_id="172" anchor="IV.n1" place="foot" n="1">
               <p>
-                <span>“They say it is the Dakkhiṇagiri in the Magadha country” (Vism-mhṭ 116). There is mention of a Dakkhiṇagiri-vihāra at </span>
+                <span>“They say it is the Dakkhiṇagiri in the Magadha country” (</span>
+                <ptr type="bib" target="Vism-mhṭ" loc="116">Vism-mhṭ 116</ptr>
+                <span>). There is mention of a Dakkhiṇagiri-vihāra at </span>
                 <ptr type="bib" target="M-a" loc="II 293">M-a II 293</ptr>
                 <span> and elsewhere.</span>
               </p>
