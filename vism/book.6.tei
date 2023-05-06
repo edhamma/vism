@@ -200,8 +200,7 @@
             <span>To the venerable Ñāṇatiloka Mahāthera (from whom I first learned Pali) for his most kind consent to check the draft manuscript. However, although he had actually read through the first two chapters, a long spell of illness unfortunately prevented him from continuing with this himself.</span>
           </p>
           <p y="108" x="41" page_id="28" page_no="xxvi">
-            <span>To the venerable Soma Thera for his unfailing assistance both in helping me to gain familiarity with the often difficult Pali idiom of the Commentaries and to get something of the feel—as it were, “from inside”—of Pali literature against its Indian background. Failing that, no translation would ever have been made: I cannot tell how far I have been able to express any of it in the rendering</span>
-            <span rend="bold">.</span>
+            <span>To the venerable Soma Thera for his unfailing assistance both in helping me to gain familiarity with the often difficult Pali idiom of the Commentaries and to get something of the feel—as it were, “from inside”—of Pali literature against its Indian background. Failing that, no translation would ever have been made: I cannot tell how far I have been able to express any of it in the rendering.</span>
           </p>
           <p y="169" x="41" page_id="28" page_no="xxvi">
             <span>To the venerable Nyanaponika Thera, German pupil of the venerable Ñāṇatiloka Mahāthera, for very kindly undertaking to check the whole manuscript in detail with the venerable Ñāṇatiloka Mahāthera’s German translation (I knowing no German).</span>
@@ -31634,7 +31633,9 @@
               <p>
                 <span>“‘</span>
                 <em>Successive definition of cause and fruit</em>
-                <span>’ is just the state of cause and fruit” (Vism-mhṭ 514).</span>
+                <span>’ is just the state of cause and fruit” (</span>
+                <ptr type="bib" target="Vism-mhṭ" loc="514">Vism-mhṭ 514</ptr>
+                <span>).</span>
               </p>
             </note>
             <span> For the pair, eye element and visible-data element, are the cause and eye-consciousness element is the fruit. So in each case.</span>
