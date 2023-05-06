@@ -5,7 +5,6 @@
 \usepackage{multicol}
 \usepackage{xcolor}
 
-\def\paraIssueUrl#1{https://github.com/eudoxos/vism/issues/new?title=issue\%20at\%20paragraph\%20#1\&body=(\vismCommitTimestampQuery)}
 \def\vismCommitHref{\href{https://github.com/eudoxos/vism/commit/\vismCommit}{\vismCommit}}
 
 % for LaTex, disable plastex parts
@@ -15,14 +14,14 @@
 
 \ifplastex
 	\let\RaggedRight\relax
-	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
+	\def\marginnote#1{#1}
 	%% vism-specific macros for PlasTeX
-	\def\vismHypertarget#1{\hypertarget{#1}{}\hyperlink{#1}{\scriptsize\textcolor{purple}{{ \href{\##1}{\textsuperscript{¶}}}}} }
+	\def\vismHypertarget#1{%
+		\hypertarget{#1}{}\hyperlink{#1}{\marginnote{\textcolor{purple}{\scriptsize #1}}}
+	}
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
-	\def\vismParagraph#1#2{\href{\paraIssueUrl{#1}}{\textbf{§#2.}}\space\vismHypertarget{#1}
-		%\marginnote{\footnotesize\textcolor{purple}{#1}}} % \href{\##1}{#1}}}}
-	}
+	\def\vismParagraph#1#2{\textbf{§#2.} \vismHypertarget{#1}}
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
 	\newenvironment{vismHanging}{}{}
@@ -85,7 +84,9 @@
 	\newshortmark\vismMark
 	\def\vismParagraph#1#2{%
 		\preshortmark\vismMark%
-		\paragraph[§#2.]{\href{\paraIssueUrl{#1}}{§#2.}}%
+		\paragraph[§#2.]%
+		%{\href{\paraIssueUrl{#1}}{§#2.}}%
+		{\hyperlink{#1}{§#2.}}%
 		\renewcommand\vismMark{#2}\shortmark\vismMark%
 		\vismHypertarget{#1}%
 		%\marginnote{\footnotesize\textcolor{purple}{#1}}%
