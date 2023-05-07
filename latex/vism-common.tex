@@ -17,11 +17,11 @@
 	\def\marginnote#1{#1}
 	%% vism-specific macros for PlasTeX
 	\def\vismHypertarget#1{%
-		\hypertarget{#1}{}\hyperlink{#1}{\marginnote{\textcolor{purple}{\scriptsize #1}}}
+		\hypertarget{#1}{}\marginnote{\hyperlink{#1}{\textsuperscript{¶}}}
 	}
 	\def\vismAssertFootnoteCounter#1{\relax}
 	% using \paragraph will insert newline after each heading, so just use \textbf instead.
-	\def\vismParagraph#1#2{\textbf{§#2.} \vismHypertarget{#1}}
+	\def\vismParagraph#1#2{\hypertarget{#1}{\hyperlink{#1}{\textbf{§#2.}}} }% \vismHypertarget{#1} }
 	% used for paragraph alignment in TOC, not useful for PlasTeX
 	\def\vismAlignedParas#1{#1: }
 	\newenvironment{vismHanging}{}{}
