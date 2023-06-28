@@ -34,6 +34,7 @@
   }
 }
 
+
 ::footnote-call {
     content: counter(footnote, decimal) " ";
     color: green;
@@ -42,12 +43,14 @@
 }
 
 ::footnote-marker {
-    font-size: 14pt;
-    color: red;
-    display: inline-block;
-    width: 2em;
-    padding-right: 1em;
-    text-align: right;
+    /* font-size: 14pt; */
+    /*color: red;  */ /* ignored by weasyprint */
+    /* vertical-align: super; */
+    /* font-size: 0.8em; */
+    display: inline;
+    /* width: 2em; padding-right: 1em; */
+    /* text-align: left; */
+    content: counter(footnote, decimal) ". ";
 }
 
 body{
@@ -64,6 +67,22 @@ p {
   text-align: justify;
   margin-top: .5em;
 }
+
+/*
+  https://github.com/zopyx/print-css-rocks/pull/28#issuecomment-1603734259
+  block settings for the entire footnote, including ::footnote-marker
+*/
+.footnote { float: footnote; margin-top: .5em;  color: teal; text-indent: -1em; }
+/*
+  set text back from teal to black, so that only the number is in teal
+*/
+.p { display: block; text-align: justify; margin-top: .5em; color: var(--text-color); text-indent: 0px; }
+/*
+  fuse the first paragraph with the footnote marker
+  making it inline will ignore block parameters for .p above such as padding-left or margin-top
+  */
+.footnote :first-child { display: inline; }
+
 
 a{ color: #000099; text-decoration: underline dotted; }
 
@@ -129,8 +148,6 @@ dt{
 }
 
 dd{ font-style: normal; }
-
-.footnote { float: footnote; }
 
 .cols-2 {
     column-count: 2;
