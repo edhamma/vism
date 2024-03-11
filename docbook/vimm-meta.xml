@@ -1,0 +1,44 @@
+<info>
+  <title>Vimuttimagga — digital</title>
+  <authorgroup>
+    <author>
+      <personname>
+        <honorific>Arahant</honorific>
+        <surname>Upatissa</surname>
+      </personname>
+    </author>
+    <othercredit class="translator">
+      <personname>
+        <honorific>Rev.</honorific>
+        <firstname>N. R. M.</firstname>
+        <surname>Ehara</surname>
+      </personname>
+      <personname>
+        <honorific>Thera</honorific>
+        <firstname>Soma</firstname>
+      </personname>
+      <personname>
+        <honorific>Thera</honorific>
+        <firstname>Kheminda</firstname>
+      </personname>
+    </othercredit>
+  </authorgroup>
+  <legalnotice>
+    <para>This electronic edition is based on Buddhist Publication Society's 1995 reprint of the previous print by Dr. D. Roland D. Weerasuria, 1961.</para>
+  </legalnotice>
+  <copyright>
+    <year>1995</year>
+    <holder>Buddhist Publication Society</holder>
+  </copyright>
+  <pubdate>April 2023</pubdate>
+  <abstract/> <!-- abstract here -->
+  <revhistory>
+    <revision>
+      <revnumber>0.1</revnumber>
+      <date>19 April 2023</date>
+      <authorinitials>eudoxos</authorinitials>
+      <revremark>All details are in git history.</revremark>
+    </revision>
+  </revhistory>
+</info>
+
