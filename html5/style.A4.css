@@ -1,0 +1,158 @@
+:root{
+  --highlight-color-one: #1FC2DE;
+  --highlight-color-one-transparent: #1FC2DEB3;
+  --text-color: #000000;
+  --table-row-separator-color:#CEC3BA;
+}
+
+@page{
+  size:A4;
+  margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+  counter-reset: footnote;
+
+  @top-left{
+    content:element(header);
+  }
+
+  @bottom-left{
+    width:100%;
+    content:element(footer);
+  }
+
+  @bottom-right{
+    font-family: 'TeX Gyre Pagella';
+    font-size:8pt;
+    font-weight:bold;
+    color:var(--highlight-color-one);
+    content:counter(page, decimal-leading-zero);
+  }
+
+  @footnote {
+    font-size: 8pt;
+    border-top: dashed red 1px;
+    float: bottom; /* weasyprint ignores this */
+  }
+}
+
+
+::footnote-call {
+    content: counter(footnote, decimal) " ";
+    color: green;
+    vertical-align: super;
+    font-size: 0.8em;
+}
+
+::footnote-marker {
+    /* font-size: 14pt; */
+    /*color: red;  */ /* ignored by weasyprint */
+    /* vertical-align: super; */
+    /* font-size: 0.8em; */
+    display: inline;
+    /* width: 2em; padding-right: 1em; */
+    /* text-align: left; */
+    content: counter(footnote, decimal) ". ";
+}
+
+body{
+  margin:0;
+  padding:0;
+  color: var(--text-color);
+  font-family: 'TeX Gyre Pagella';
+  font-size: 10pt;
+  counter-reset: partNo chapterNo; /* sectNo subsectNo subsubsectNo footnote; */
+  hyphens: auto;
+}
+
+p {
+  text-align: justify;
+  margin-top: .5em;
+}
+
+/*
+  https://github.com/zopyx/print-css-rocks/pull/28#issuecomment-1603734259
+  block settings for the entire footnote, including ::footnote-marker
+*/
+.footnote { float: footnote; margin-top: .5em;  color: teal; text-indent: -1em; }
+/*
+  set text back from teal to black, so that only the number is in teal
+*/
+.p { display: block; text-align: justify; margin-top: .5em; color: var(--text-color); text-indent: 0px; }
+/*
+  fuse the first paragraph with the footnote marker
+  making it inline will ignore block parameters for .p above such as padding-left or margin-top
+  */
+.footnote :first-child { display: inline; }
+
+
+a{ color: #000099; text-decoration: underline dotted; }
+
+hr {
+  height:0;
+  border:0;
+  border-top: .75mm solid var(--highlight-color-one);
+  margin: 1cm 0 1cm 0;
+}
+
+/* unused */
+header{
+  position:running(header);
+  height:2cm;
+  border-bottom:.5mm solid var(--table-row-separator-color);
+}
+
+.sect-dp1 { page-break-before: right; }
+.sect-dp2 { page-break-before: right; }
+.sect-dp1 h1 { bookmark-level: 1; bookmark-label: "Part " counter(partNo,upper-roman)": " content(); }
+.sect-dp2 h1 { bookmark-level: 2; bookmark-label: counter(chapNo,upper-roman)". " content(); }
+.sect-dp3 h1 { bookmark-level: 3; bookmark-label: content(); }
+.sect-dp4 h1 { bookmark-level: 4; bookmark-label: content(); bookmark-state: closed; }
+.sect-dp5 h1 { bookmark-level: 5; bookmark-label: content(); bookmark-state: closed; }
+.sect-dp6 h1 { bookmark-level: 6; bookmark-label: content(); bookmark-state: closed; }
+
+.sect-dp1 { counter-increment: partNo; }
+.sect-dp2 { counter-increment: chapNo; counter-reset: sectNo footnote; }
+.sect-dp3 { counter-increment: sectNo; counter-reset: subsectNo; }
+.sect-dp4 { counter-increment: subsectNo; counter-reset: subsubsectNo; }
+.sect-dp5 { counter-increment: subsubsectNo; }
+
+.sect-dp1 h1:before { content: "Part " counter(partNo,upper-roman) ": "; }
+.sect-dp2 h1:before { content: "Chapter " counter(chapNo,upper-roman) ": "; }
+.sect-dp3 h1:before { content: counter(sectNo)" "; }
+.sect-dp4 h1:before { content: counter(sectNo)"."counter(subsectNo)" "; }
+.sect-dp5 h1:before { content: counter(sectNo)"."counter(subsectNo)"."counter(subsubsectNo)" "; }
+
+.sect-dp1 h1 { display: block; font-size: 64pt; font-weight: bold; }
+.sect-dp2 h1 { display: block; font-size: 32pt; font-weight: bold; }
+.sect-dp3 h1 { display: block; font-size: 16pt; font-weight: bold; }
+.sect-dp4 h1 { display: block; font-size: 12pt; font-weight: bold; }
+.sect-dp5 h1 { display: block; font-size: 11pt; font-weight: bold; }
+
+table{ text-align: left; }
+thead{ font-weight: bold; }
+td{ padding: 0 2em; }
+.vism-bibref{
+  text-decoration: underline;
+  color: violet;
+  font-weight: bold;
+}
+.vism-bibref::before { content: "["; }
+.vism-bibref::after { content: "]"; }
+
+.vism-page-bps{ color: #ff000088; }
+.vism-page-pts{ color: #00ff0088; }
+.vism-verse{ margin-left: 4em; }
+
+dt{
+  font-weight: bold;
+  font-style: normal;
+}
+
+dd{ font-style: normal; }
+
+.cols-2 {
+    column-count: 2;
+    -webkit-column-count: 2;
+    column-gap: 1cm;
+    column-rule: .4px solid #ff00ff;
+}
+
