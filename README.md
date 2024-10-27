@@ -1,6 +1,6 @@
 # Visuddhimagga — digital
 
-For overview of the this project, see https://eudoxos.github.io/vism ; this file describes mostly technicalities of the repository and building.
+For overview of the this project, see https://edhamma.github.io/vism ; this file describes mostly technicalities of the repository and building.
 
 ## Contributing
 
