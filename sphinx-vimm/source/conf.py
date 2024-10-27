@@ -26,22 +26,26 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 
-html_theme_options = {
-    'github_user':'eudoxos',
-    'github_repo':'vism',
-    'github_banner':'true',
-}
+html_theme_options=dict(
+    use_download_button=False,
+    use_source_button=False,
+    repository_provider='github',
+    repository_url='https://github.com/edhamma/vism',
+    use_edit_page_button=True,
+    use_repository_button=True,
+    use_issues_button=True,
+)
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
-html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
+html_title='Vimuttimagga'
 html_static_path = ['_static']
 
 
 epub_title = project
 epub_author = author
-epub_publisher = '~~ eudoxos.github.io/vism WIP ~~'
+epub_publisher = '~~ edhamma.github.io/vism WIP ~~'
 epub_copyright = copyright
 epub_cover = ('_static/cover.jpg','epub-cover.html')
 epub_language='en'
