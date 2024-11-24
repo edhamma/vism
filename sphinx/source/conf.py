@@ -22,7 +22,11 @@ version = '0.1'
 import sys
 from pathlib import Path
 sys.path.append(str(Path('_ext').resolve()))
-extensions = ['sphinx.ext.todo','anchor']
+extensions = ['myst_parser', 'sphinx.ext.todo','anchor']
+
+# pip3 install linkify-it-py
+myst_enable_extensions=['attrs_inline','linkify','colon_fence','attrs_block', 'deflist']
+
 todo_include_todos=True
 
 templates_path = ['_templates']
@@ -47,6 +51,8 @@ html_theme_options=dict(
 html_theme = 'sphinx_book_theme'
 html_title='Visuddhimagga'
 html_static_path = ['_static']
+html_css_files=[ 'custom.css' ]
+
 
 
 epub_title = project

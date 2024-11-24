@@ -12,10 +12,12 @@ assemble:
 	cp -r latex build/
 	cp -r html5 build/
 	cp -r sphinx build/
+	rsync -a sphinx/ build/sphinx-myst
 	cp -r docbook build/
-	cp -r sphinx-vimm build/
+	rsync -a sphinx-vimm/ build/sphinx-myst-vimm
 	jupyter execute 05-vimm-odt2tei.ipynb
-	jupyter execute 10-assemble-TEI.ipynb
+	#jupyter execute 10-assemble-TEI.ipynb
+	python3 tei-export.py
 
 build: latex docbook sphinx web
 
