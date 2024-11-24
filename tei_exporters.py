@@ -550,7 +550,7 @@ class SphinxWriterMyST(object):
         if anchor: ret+=f'({anchor})=\n\n'
         t=(e if isinstance(e,str) else self.recurse(e))
         if prefix: t=prefix+prefixSep+t
-        return f'{ret}{level*'#'} {t}'
+        return f'{ret}{level*"#"} {t}'
     def enclose(self,t,c):
         if t.strip()=='': return ' '
         ret=t
