@@ -33,7 +33,7 @@ for title,tei,out,vimm in [
     open(out,'w').write(writer.write(book))
 
 for title,tei,outdir,vimm in [
-    ('Visuddhimagga',vismTei,'build/sphinx-rst-/source',False),
+    ('Visuddhimagga',vismTei,'build/sphinx-rst/source',False),
     ('Vimuttimagga',vimmTei,'build/sphinx-rst-vimm/source',True),
     ]:
     os.makedirs(outdir,exist_ok=True)
