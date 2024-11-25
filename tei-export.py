@@ -33,8 +33,8 @@ for title,tei,out,vimm in [
     open(out,'w').write(writer.write(book))
 
 for title,tei,outdir,vimm in [
-    ('Visuddhimagga',vismTei,'build/sphinx/source',False),
-    ('Vimuttimagga',vimmTei,'build/sphinx-vimm/source',True),
+    ('Visuddhimagga',vismTei,'build/sphinx-rst-/source',False),
+    ('Vimuttimagga',vimmTei,'build/sphinx-rst-vimm/source',True),
     ]:
     os.makedirs(outdir,exist_ok=True)
     writer=tei_exporters.SphinxWriter(outdir=outdir,vimm=vimm)
@@ -43,8 +43,8 @@ for title,tei,outdir,vimm in [
     writer.writeIndex(title=title)
 
 for title,tei,outdir,vimm in [
-    ('Visuddhimagga',vismTei,'build/sphinx-myst/source',False),
-    ('Vimuttimagga',vimmTei,'build/sphinx-myst-vimm/source',True),
+    ('Visuddhimagga',vismTei,'build/sphinx/source',False),
+    ('Vimuttimagga',vimmTei,'build/sphinx-vimm/source',True),
     ]:
     os.makedirs(outdir,exist_ok=True)
     writer=tei_exporters.SphinxWriterMyST(outdir=outdir,vimm=vimm)
