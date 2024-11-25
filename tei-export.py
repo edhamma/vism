@@ -60,7 +60,7 @@ for title,tei,metaXml,stem in [
     meta=etree.parse(metaXml,etree.XMLParser(remove_blank_text=True)).getroot()
     bk.insert(0,meta)
 
-    for xslTNG in True,False:
+    for xslTNG in False,True:
         docb=tei_exporters._docb_writer(bk,xslTNG=xslTNG)
         docb=tei_exporters._docbook_fix_formalpara(docb)
         kw=dict(doctype=None,xml_declaration=True,encoding='utf-8')

@@ -544,7 +544,7 @@ class SphinxWriterMyST(object):
     #    assert len(t2.split('\n')[0])>len(i)
     #    return t2[len(i):]
     def indent_all(self,t):
-        return textwrap.indent(t,2*' ')
+        return textwrap.indent(t,2*' ').lstrip()
     def title(self,e,level,anchor=None,prefix=None,prefixSep='. '):
         ret='\n\n'
         if anchor: ret+=f'({anchor})=\n\n'
@@ -758,7 +758,7 @@ class SphinxWriterMyST(object):
                         '(a)':'lower-alpha',
                         'a.':'lower-alpha',
                     }[e.get('subtype','1.')]
-                ret=f'\n{{style={mystStyle}}}\n'
+                ret=f'\n\n{{style={mystStyle}}}'
                 for i,li in enumerate(e):
                     label=f'{i+iOff}.'
                     ret+=f'\n{label} '+self.indent_all(self.recurse(li))
