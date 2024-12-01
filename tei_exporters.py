@@ -730,7 +730,7 @@ class SphinxWriterMyST(object):
         elif e.tag=='introductory': return ''
         elif e.tag=='entry':
             title=e.attrib["title"].replace("*","\\*")
-            return f'\n{title}\n: '+self.recurse(e)
+            return f'\n\n{title}\n: '+self.recurse(e)
         elif e.tag=='IGNORE': return ''
         elif e.tag=='table':
             layout_type=e.attrib['rend']
