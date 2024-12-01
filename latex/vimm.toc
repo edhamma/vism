@@ -1,0 +1,457 @@
+\contentsline {part}{Front}{i}{Doc-Start}%
+\contentsline {chapter}{\numberline {A}Prefaces}{xi}{chapter.2}%
+\contentsline {section}{\numberline {A.1}Electronic edition note}{xi}{section.3}%
+\contentsline {section}{\numberline {A.2}Dedication quote}{xii}{section.14}%
+\contentsline {section}{\numberline {A.3}Editorial data}{xii}{section.15}%
+\contentsline {section}{\numberline {A.4}Dedication}{xii}{section.16}%
+\contentsline {section}{\numberline {A.5}Prefatory Note to Original Draft Translation}{xiii}{section.17}%
+\contentsline {section}{\numberline {A.6}Acknowledgments (Original Draft Translation)}{xiii}{section.18}%
+\contentsline {section}{\numberline {A.7}Preface}{xiii}{section.19}%
+\contentsline {chapter}{\numberline {B}In Memoriam: Soma Mahā Thera (1898—1960)}{xvii}{chapter.20}%
+\contentsline {chapter}{\numberline {C}Introduction}{xxix}{chapter.33}%
+\contentsline {section}{\numberline {C.1}Tipiṭaka Sanghapāla Thera of Funan}{xxxiv}{section.39}%
+\contentsline {section}{\numberline {C.2}The Visuddhimagga}{xxxv}{section.40}%
+\contentsline {section}{\numberline {C.3}The Vimuttimagga and the Visuddhimagga}{xxxvi}{section.41}%
+\contentsline {chapter}{\numberline {D}Bibliography}{xxxix}{chapter.42}%
+\contentsline {section}{\numberline {D.1}Abbreviations}{xl}{section.51}%
+\contentsline {chapter}{\numberline {I}Introductory discourse}{1}{chapter.52}%
+\contentsline {section}{\numberline {1}Salutation}{1}{section.53}%
+\contentsline {section}{\numberline {2}Introductory stanza}{1}{section.55}%
+\contentsline {section}{\numberline {3}Path of freedom described}{2}{section.59}%
+\contentsline {section}{\numberline {4}Merits of acknowledgement of the path}{3}{section.71}%
+\contentsline {section}{\numberline {5}Three trainings}{3}{section.76}%
+\contentsline {section}{\numberline {6}The meaning of training}{4}{section.88}%
+\contentsline {section}{\numberline {7}Removal of impurities}{4}{section.89}%
+\contentsline {section}{\numberline {8}The three kinds of good}{4}{section.94}%
+\contentsline {section}{\numberline {9}The three kinds of happiness}{4}{section.97}%
+\contentsline {section}{\numberline {10}Perfection of the middle way}{5}{section.98}%
+\contentsline {chapter}{\numberline {II}On distinguishing virtue}{7}{chapter.109}%
+\contentsline {section}{\numberline {1}Virtue defined}{8}{section.117}%
+\contentsline {section}{\numberline {2}Salient characteristic of virtue}{9}{section.129}%
+\contentsline {section}{\numberline {3}Function, manifestation and near cause of virtue}{9}{section.135}%
+\contentsline {section}{\numberline {4}Benefits of virtue}{9}{section.136}%
+\contentsline {section}{\numberline {5}Meaning of virtue}{10}{section.143}%
+\contentsline {section}{\numberline {6}Virtue and mode of life}{10}{section.145}%
+\contentsline {section}{\numberline {7}Thee kinds of virtue}{10}{section.151}%
+\contentsline {section}{\numberline {8}What produces virtue}{11}{section.153}%
+\contentsline {section}{\numberline {9}Stages in virtue}{11}{section.155}%
+\contentsline {section}{\numberline {10}Impediments and causes of virtue}{11}{section.158}%
+\contentsline {section}{\numberline {11}Groups of virtue (various)}{11}{section.160}%
+\contentsline {subsection}{\numberline {11.1}First group of two in virtue}{11}{subsection.161}%
+\contentsline {subsection}{\numberline {11.2}Second group of two in virtue}{11}{subsection.164}%
+\contentsline {subsection}{\numberline {11.3}Third group of two in virtue}{12}{subsection.168}%
+\contentsline {subsection}{\numberline {11.4}Fourth group of two in virtue}{12}{subsection.171}%
+\contentsline {subsection}{\numberline {11.5}Fifth group of two in virtue}{12}{subsection.174}%
+\contentsline {subsection}{\numberline {11.6}Sixth group of two in virtue}{12}{subsection.178}%
+\contentsline {subsection}{\numberline {11.7}Seventh group of two in virtue}{12}{subsection.181}%
+\contentsline {subsection}{\numberline {11.8}Eighth group of two in virtue}{13}{subsection.185}%
+\contentsline {subsection}{\numberline {11.9}Ninth group of two in virtue}{13}{subsection.187}%
+\contentsline {subsection}{\numberline {11.10}Tenth group of two in virtue}{13}{subsection.189}%
+\contentsline {subsection}{\numberline {11.11}First group of three in virtue}{13}{subsection.192}%
+\contentsline {subsection}{\numberline {11.12}Second group of three in virtue}{13}{subsection.195}%
+\contentsline {subsection}{\numberline {11.13}Third group of three in virtue}{14}{subsection.200}%
+\contentsline {subsection}{\numberline {11.14}Fourth group of three in virtue}{14}{subsection.204}%
+\contentsline {subsection}{\numberline {11.15}Fifth group of three in virtue}{14}{subsection.206}%
+\contentsline {subsection}{\numberline {11.16}Sixth group of three in virtue}{15}{subsection.210}%
+\contentsline {subsection}{\numberline {11.17}Seventh group of three in virtue}{15}{subsection.215}%
+\contentsline {subsection}{\numberline {11.18}Eighth group of three in virtue}{15}{subsection.220}%
+\contentsline {subsection}{\numberline {11.19}First group of four in virtue}{16}{subsection.224}%
+\contentsline {subsection}{\numberline {11.20}Second group of four in virtue}{16}{subsection.229}%
+\contentsline {subsection}{\numberline {11.21}Third group of four in virtue}{16}{subsection.236}%
+\contentsline {subsection}{\numberline {11.22}Fourth group of four in virtue}{17}{subsection.241}%
+\contentsline {subsection}{\numberline {11.23}Fifth group of four in virtue}{17}{subsection.253}%
+\contentsline {subsection}{\numberline {11.24}Fifth group of four in virtue summarized}{22}{subsection.294}%
+\contentsline {section}{\numberline {12}What purifies virtue}{22}{section.295}%
+\contentsline {section}{\numberline {13}Causes through which one dwells in virtue}{23}{section.305}%
+\contentsline {chapter}{\numberline {III}On austerities}{25}{chapter.312}%
+\contentsline {section}{\numberline {1}The thirteen austerities}{26}{section.315}%
+\contentsline {section}{\numberline {2}Brief explanation of the thirteen austerities}{26}{section.331}%
+\contentsline {section}{\numberline {3}‘Dirt-rags’}{27}{section.332}%
+\contentsline {section}{\numberline {4}‘Three robes’}{27}{section.336}%
+\contentsline {section}{\numberline {5}‘Begged food’}{27}{section.340}%
+\contentsline {section}{\numberline {6}‘Regular alms-round’}{28}{section.342}%
+\contentsline {section}{\numberline {7}‘One-eating’}{28}{section.343}%
+\contentsline {section}{\numberline {8}‘Measured food’}{29}{section.345}%
+\contentsline {section}{\numberline {9}‘No food after time’}{29}{section.346}%
+\contentsline {section}{\numberline {10}‘Dwelling in a peaceful place’}{29}{section.348}%
+\contentsline {section}{\numberline {11}‘Dwelling under a tree’}{30}{section.350}%
+\contentsline {section}{\numberline {12}‘Dwelling in a dewy place’}{30}{section.351}%
+\contentsline {section}{\numberline {13}‘Dwelling among the graves’}{30}{section.353}%
+\contentsline {section}{\numberline {14}‘Any chanced upon place’}{31}{section.355}%
+\contentsline {section}{\numberline {15}‘Always sitting and not lying down’}{31}{section.356}%
+\contentsline {section}{\numberline {16}Expedience in the observance of the austerities}{31}{section.357}%
+\contentsline {section}{\numberline {17}Miscellaneous teachings}{32}{section.376}%
+\contentsline {chapter}{\numberline {IV}On distinguishing concentration}{35}{chapter.382}%
+\contentsline {section}{\numberline {1}Meaning of concentration}{35}{section.383}%
+\contentsline {section}{\numberline {2}Salient characteristic etc.}{36}{section.385}%
+\contentsline {section}{\numberline {3}Benefits produced by concentration}{36}{section.389}%
+\contentsline {section}{\numberline {4}Obstacles to concentration}{37}{section.395}%
+\contentsline {section}{\numberline {5}Causes of concentration}{37}{section.396}%
+\contentsline {section}{\numberline {6}Requisites of concentration}{37}{section.397}%
+\contentsline {section}{\numberline {7}Kinds of concentration (Various)}{37}{section.398}%
+\contentsline {subsection}{\numberline {7.1}Two kinds of concentration}{37}{subsection.399}%
+\contentsline {subsection}{\numberline {7.2}Three kinds of concentration}{38}{subsection.401}%
+\contentsline {subsection}{\numberline {7.3}Four kinds of concentration}{38}{subsection.403}%
+\contentsline {subsection}{\numberline {7.4}Five kinds of concentration}{40}{subsection.415}%
+\contentsline {section}{\numberline {8}Miscellaneous teachings}{40}{section.416}%
+\contentsline {subsection}{\numberline {8.1}Why four and five meditations are taught}{40}{subsection.417}%
+\contentsline {chapter}{\numberline {V}On approaching a good friend}{43}{chapter.420}%
+\contentsline {section}{\numberline {1}Qualities of a good friend}{44}{section.422}%
+\contentsline {section}{\numberline {2}The search for a good friend}{45}{section.426}%
+\contentsline {section}{\numberline {3}A beginner’s duties}{45}{section.428}%
+\contentsline {chapter}{\numberline {VI}The distinguishing of behaviour}{49}{chapter.433}%
+\contentsline {section}{\numberline {1}Kinds of behaviour}{49}{section.434}%
+\contentsline {section}{\numberline {2}Fourteen kinds of persons}{50}{section.441}%
+\contentsline {section}{\numberline {3}Fourteen kinds reduced to seven}{50}{section.445}%
+\contentsline {section}{\numberline {4}Modes of practice}{51}{section.447}%
+\contentsline {section}{\numberline {5}Seven reduced to three}{51}{section.448}%
+\contentsline {section}{\numberline {6}Causes of behaviour}{51}{section.449}%
+\contentsline {section}{\numberline {7}Elements as causes of behaviour}{52}{section.453}%
+\contentsline {section}{\numberline {8}The humours as causes of behaviour}{52}{section.454}%
+\contentsline {section}{\numberline {9}Seven aspects of behaviour}{52}{section.456}%
+\contentsline {section}{\numberline {10}On robbing, begging, sitting, sleeping and resort}{54}{section.459}%
+\contentsline {section}{\numberline {11}Miscellaneous teachings}{55}{section.462}%
+\contentsline {chapter}{\numberline {VII}The distinguishing of the subjects of meditation}{57}{chapter.463}%
+\contentsline {section}{\numberline {1}Thirty-eight subjects of meditation}{57}{section.464}%
+\contentsline {section}{\numberline {2}Method of discovering the qualities}{58}{section.473}%
+\contentsline {section}{\numberline {3}By way of meditation}{58}{section.475}%
+\contentsline {section}{\numberline {4}By way of transcending}{58}{section.476}%
+\contentsline {section}{\numberline {5}By way of increasing}{59}{section.477}%
+\contentsline {section}{\numberline {6}By way of cause}{59}{section.478}%
+\contentsline {section}{\numberline {7}By way of object}{59}{section.480}%
+\contentsline {section}{\numberline {8}By way of speciality}{60}{section.481}%
+\contentsline {section}{\numberline {9}By way of plane}{61}{section.482}%
+\contentsline {section}{\numberline {10}By way of seizing}{61}{section.485}%
+\contentsline {section}{\numberline {11}By way of person}{61}{section.486}%
+\contentsline {chapter}{\numberline {VIII}Entrance into the subject of meditation}{63}{chapter.488}%
+\contentsline {section}{\numberline {1}Section One}{66}{section.489}%
+\contentsline {subsection}{\numberline {1.1}Earth kasiṇa, its practice, salient characteristic, function and near cause}{66}{subsection.491}%
+\contentsline {subsection}{\numberline {1.2}Benefits}{67}{subsection.492}%
+\contentsline {subsection}{\numberline {1.3}Meaning of kasiṇa}{67}{subsection.494}%
+\contentsline {subsection}{\numberline {1.4}Kinds of earth}{67}{subsection.496}%
+\contentsline {subsection}{\numberline {1.5}Non-prepared earth}{67}{subsection.499}%
+\contentsline {subsection}{\numberline {1.6}On making a mandala}{67}{subsection.500}%
+\contentsline {subsection}{\numberline {1.7}Method of earth kasiṇa meditation}{68}{subsection.501}%
+\contentsline {subsection}{\numberline {1.8}Tribulations of sense-desires illustrated in twenty similes}{68}{subsection.502}%
+\contentsline {subsection}{\numberline {1.9}Renunciation and its benefits}{69}{subsection.505}%
+\contentsline {subsection}{\numberline {1.10}Method of practice of earth kasiṇa}{69}{subsection.508}%
+\contentsline {subsection}{\numberline {1.11}Three ways of sign-taking}{69}{subsection.510}%
+\contentsline {subsection}{\numberline {1.12}Grasping sign}{70}{subsection.513}%
+\contentsline {subsection}{\numberline {1.13}The after-image}{71}{subsection.514}%
+\contentsline {subsection}{\numberline {1.14}The sign}{71}{subsection.515}%
+\contentsline {subsection}{\numberline {1.15}Protecting the sign}{71}{subsection.518}%
+\contentsline {subsection}{\numberline {1.16}Access-meditation}{71}{subsection.521}%
+\contentsline {subsection}{\numberline {1.17}Fixed meditation, jhāna}{72}{subsection.522}%
+\contentsline {subsection}{\numberline {1.18}Increasing of the kasiṇa}{72}{subsection.529}%
+\contentsline {subsection}{\numberline {1.19}Skilfulness in fixed meditation, jhāna}{73}{subsection.530}%
+\contentsline {subsection}{\numberline {1.20}Ten ways}{73}{subsection.531}%
+\contentsline {subsection}{\numberline {1.21}Simile of the horse-chariot}{73}{subsection.533}%
+\contentsline {subsection}{\numberline {1.22}Simile of the inked-string}{73}{subsection.535}%
+\contentsline {subsection}{\numberline {1.23}The first meditation, jhāna}{74}{subsection.538}%
+\contentsline {subsection}{\numberline {1.24}Three kinds of separation from lust and demeritorious states}{74}{subsection.540}%
+\contentsline {subsection}{\numberline {1.25}Two kinds of lust}{75}{subsection.545}%
+\contentsline {subsection}{\numberline {1.26}Roots of demerit}{75}{subsection.547}%
+\contentsline {subsection}{\numberline {1.27}Reasons for treating lust and demerit separately}{75}{subsection.550}%
+\contentsline {subsection}{\numberline {1.28}Separation from demeritorious states}{76}{subsection.552}%
+\contentsline {subsection}{\numberline {1.29}Difference between lust and demerit}{76}{subsection.554}%
+\contentsline {subsection}{\numberline {1.30}Initial and sustained application of thought}{76}{subsection.555}%
+\contentsline {subsection}{\numberline {1.31}Initial application and sustained application of thought discriminated}{77}{subsection.557}%
+\contentsline {subsection}{\numberline {1.32}Similes of the bell etc.}{77}{subsection.558}%
+\contentsline {subsection}{\numberline {1.33}Similes of the bird etc.}{77}{subsection.561}%
+\contentsline {subsection}{\numberline {1.34}Solitude}{78}{subsection.564}%
+\contentsline {subsection}{\numberline {1.35}Joy and bliss}{78}{subsection.565}%
+\contentsline {subsection}{\numberline {1.36}Five kinds of joy}{78}{subsection.570}%
+\contentsline {subsection}{\numberline {1.37}Bliss}{79}{subsection.572}%
+\contentsline {subsection}{\numberline {1.38}Five kinds of bliss}{79}{subsection.573}%
+\contentsline {subsection}{\numberline {1.39}Differences between joy and bliss}{79}{subsection.577}%
+\contentsline {subsection}{\numberline {1.40}First meditation (jhāna)}{79}{subsection.578}%
+\contentsline {subsection}{\numberline {1.41}Five hindrances}{80}{subsection.585}%
+\contentsline {subsection}{\numberline {1.42}Five factors}{81}{subsection.591}%
+\contentsline {subsection}{\numberline {1.43}Similes of chariot and army}{81}{subsection.592}%
+\contentsline {subsection}{\numberline {1.44}Three kinds of goodness}{82}{subsection.597}%
+\contentsline {subsection}{\numberline {1.45}Ten characteristics}{82}{subsection.600}%
+\contentsline {subsection}{\numberline {1.46}Twenty-five benefits}{82}{subsection.602}%
+\contentsline {subsection}{\numberline {1.47}Simile of the bath-attendant}{82}{subsection.604}%
+\contentsline {subsection}{\numberline {1.48}Three kinds of rebirth}{83}{subsection.606}%
+\contentsline {subsection}{\numberline {1.49}Meditation which partakes of deterioration, stability, distinction and penetration}{83}{subsection.608}%
+\contentsline {section}{\numberline {2}Section Two}{84}{section.611}%
+\contentsline {subsection}{\numberline {2.1}The simile of the young cow}{84}{subsection.613}%
+\contentsline {subsection}{\numberline {2.2}Entrance into the second meditation, jhāna}{85}{subsection.616}%
+\contentsline {subsection}{\numberline {2.3}Simile of the pool of water}{87}{subsection.622}%
+\contentsline {subsection}{\numberline {2.4}The third meditation, jhāna}{87}{subsection.627}%
+\contentsline {subsection}{\numberline {2.5}Simile of the calf}{89}{subsection.632}%
+\contentsline {subsection}{\numberline {2.6}Simile of the lotus pond}{90}{subsection.635}%
+\contentsline {subsection}{\numberline {2.7}The fourth meditation, jhāna}{90}{subsection.638}%
+\contentsline {subsection}{\numberline {2.8}Simile of the white cloth}{92}{subsection.647}%
+\contentsline {subsection}{\numberline {2.9}The sphere of the infinity of space}{93}{subsection.653}%
+\contentsline {subsection}{\numberline {2.10}The concentration of the sphere of infinite consciousness}{94}{subsection.659}%
+\contentsline {subsection}{\numberline {2.11}The sphere of nothingness}{95}{subsection.661}%
+\contentsline {subsection}{\numberline {2.12}The sphere of neither perception nor non-perception}{96}{subsection.663}%
+\contentsline {subsection}{\numberline {2.13}Miscellaneous teachings}{97}{subsection.665}%
+\contentsline {subsection}{\numberline {2.14}The water kasiṇa}{98}{subsection.676}%
+\contentsline {subsection}{\numberline {2.15}The fire kasiṇa}{98}{subsection.678}%
+\contentsline {subsection}{\numberline {2.16}The air kasiṇa}{99}{subsection.680}%
+\contentsline {subsection}{\numberline {2.17}The blue-green kasiṇa}{99}{subsection.681}%
+\contentsline {subsection}{\numberline {2.18}The yellow kasiṇa}{100}{subsection.685}%
+\contentsline {subsection}{\numberline {2.19}The red kasiṇa}{101}{subsection.687}%
+\contentsline {subsection}{\numberline {2.20}The white kasiṇa}{101}{subsection.689}%
+\contentsline {subsection}{\numberline {2.21}The light kasiṇa}{102}{subsection.691}%
+\contentsline {section}{\numberline {3}Section Three}{102}{section.692}%
+\contentsline {subsection}{\numberline {3.1}The (separated) space kasiṇa}{102}{subsection.693}%
+\contentsline {subsection}{\numberline {3.2}The consciousness kasiṇa}{103}{subsection.694}%
+\contentsline {subsection}{\numberline {3.3}Miscellaneous teachings}{103}{subsection.696}%
+\contentsline {subsection}{\numberline {3.4}The ten perceptions of putrescence}{104}{subsection.708}%
+\contentsline {subsubsection}{\numberline {3.4.1}(1) The perception of bloatedness}{104}{subsubsection.709}%
+\contentsline {subsubsection}{\numberline {3.4.2}(2) The perception of discolouration}{106}{subsubsection.714}%
+\contentsline {subsubsection}{\numberline {3.4.3}(3) The perception of festering}{106}{subsubsection.716}%
+\contentsline {subsubsection}{\numberline {3.4.4}(4) The perception of the fissured}{106}{subsubsection.718}%
+\contentsline {subsubsection}{\numberline {3.4.5}(5) The perception of the gnawed}{107}{subsubsection.721}%
+\contentsline {subsubsection}{\numberline {3.4.6}(6) The perception of the dismembered}{107}{subsubsection.723}%
+\contentsline {subsubsection}{\numberline {3.4.7}(7) The perception of the cut and the dismembered}{107}{subsubsection.725}%
+\contentsline {subsubsection}{\numberline {3.4.8}(8) The perception of the blood-stained}{108}{subsubsection.727}%
+\contentsline {subsubsection}{\numberline {3.4.9}(9) The perception of worminess}{108}{subsubsection.729}%
+\contentsline {subsubsection}{\numberline {3.4.10}(10) The perception of the bony}{108}{subsubsection.731}%
+\contentsline {subsubsection}{\numberline {3.4.11}Miscellaneous teachings}{108}{subsubsection.733}%
+\contentsline {subsubsection}{\numberline {3.4.12}The recollection of the Buddha}{109}{subsubsection.736}%
+\contentsline {subsubsection}{\numberline {3.4.13}The recollection of the law}{114}{subsubsection.779}%
+\contentsline {subsubsection}{\numberline {3.4.14}The recollection of the community of bhikkhus}{115}{subsubsection.782}%
+\contentsline {subsubsection}{\numberline {3.4.15}The recollection of virtue}{117}{subsubsection.784}%
+\contentsline {subsubsection}{\numberline {3.4.16}The recollection of liberality}{117}{subsubsection.787}%
+\contentsline {subsubsection}{\numberline {3.4.17}The recollection of deities}{118}{subsubsection.789}%
+\contentsline {section}{\numberline {4}Section Four}{119}{section.791}%
+\contentsline {subsection}{\numberline {4.1}Mindfulness of respiration}{119}{subsection.792}%
+\contentsline {subsection}{\numberline {4.2}Benefits}{119}{subsection.798}%
+\contentsline {subsection}{\numberline {4.3}Procedure}{119}{subsection.802}%
+\contentsline {subsection}{\numberline {4.4}Counting, connection, contacting and fixing}{121}{subsection.812}%
+\contentsline {subsection}{\numberline {4.5}Sixteen ways of training in mindfulness of respiration}{121}{subsection.815}%
+\contentsline {subsection}{\numberline {4.6}The three trainings}{122}{subsection.819}%
+\contentsline {subsection}{\numberline {4.7}The four foundations of mindfulness}{123}{subsection.829}%
+\contentsline {subsection}{\numberline {4.8}The seven enlightenment factors}{124}{subsection.831}%
+\contentsline {subsection}{\numberline {4.9}Mindfulness of death}{125}{subsection.843}%
+\contentsline {subsection}{\numberline {4.10}Similes of the foam, plantain trunk and bubble}{126}{subsection.850}%
+\contentsline {subsection}{\numberline {4.11}Mindfulness of body}{128}{subsection.859}%
+\contentsline {subsection}{\numberline {4.12}Thirty-two parts of the body}{128}{subsection.861}%
+\contentsline {subsection}{\numberline {4.13}Mindfulness in thirteen ways}{129}{subsection.863}%
+\contentsline {subsection}{\numberline {4.14}The worms that rely on the body}{131}{subsection.879}%
+\contentsline {subsection}{\numberline {4.15}Bones of the body}{132}{subsection.886}%
+\contentsline {subsection}{\numberline {4.16}Impurity of the body}{132}{subsection.887}%
+\contentsline {subsection}{\numberline {4.17}Some diseases}{132}{subsection.888}%
+\contentsline {subsection}{\numberline {4.18}The recollection of peace}{133}{subsection.889}%
+\contentsline {subsection}{\numberline {4.19}Miscellaneous teachings}{134}{subsection.896}%
+\contentsline {section}{\numberline {5}Section Five}{134}{section.897}%
+\contentsline {subsection}{\numberline {5.1}The immeasurable thought of loving-kindness}{134}{subsection.898}%
+\contentsline {subsection}{\numberline {5.2}Disadvantages of anger and resentment}{134}{subsection.901}%
+\contentsline {subsection}{\numberline {5.3}Simile of the saw}{135}{subsection.902}%
+\contentsline {subsection}{\numberline {5.4}Twelve means of removing hatred}{136}{subsection.916}%
+\contentsline {subsection}{\numberline {5.5}Simile of the pond}{137}{subsection.917}%
+\contentsline {subsection}{\numberline {5.6}Ten perfections}{138}{subsection.928}%
+\contentsline {subsection}{\numberline {5.7}The four resolves}{140}{subsection.945}%
+\contentsline {subsection}{\numberline {5.8}The immeasurable thought of compassion}{140}{subsection.956}%
+\contentsline {subsection}{\numberline {5.9}The immeasurable thought of appreciative joy}{141}{subsection.966}%
+\contentsline {subsection}{\numberline {5.10}The immeasurable thought of equanimity}{142}{subsection.967}%
+\contentsline {subsection}{\numberline {5.11}Miscellaneous teachings}{142}{subsection.970}%
+\contentsline {subsection}{\numberline {5.12}The determining of the four elements}{144}{subsection.985}%
+\contentsline {subsection}{\numberline {5.13}Twenty ways of grasping the element of earth}{145}{subsection.993}%
+\contentsline {subsection}{\numberline {5.14}Twelve ways of grasping the element of water}{145}{subsection.994}%
+\contentsline {subsection}{\numberline {5.15}Four ways of grasping the element of fire}{145}{subsection.995}%
+\contentsline {subsection}{\numberline {5.16}Six ways of grasping the element of air}{145}{subsection.996}%
+\contentsline {subsection}{\numberline {5.17}The four elements}{146}{subsection.1007}%
+\contentsline {subsection}{\numberline {5.18}Simile of the puppet}{149}{subsection.1025}%
+\contentsline {subsection}{\numberline {5.19}The loathsomeness of food}{150}{subsection.1034}%
+\contentsline {subsection}{\numberline {5.20}The dwelling of the homeless}{151}{subsection.1040}%
+\contentsline {chapter}{\numberline {IX}The five forms of higher knowledge}{153}{chapter.1047}%
+\contentsline {section}{\numberline {1}Three kinds of supernormal power}{154}{section.1053}%
+\contentsline {section}{\numberline {2}Seven kinds of supernormal power}{154}{section.1057}%
+\contentsline {section}{\numberline {3}Procedure of developing supernormal power}{155}{section.1067}%
+\contentsline {section}{\numberline {4}Supernormal power of resolve}{157}{section.1071}%
+\contentsline {section}{\numberline {5}Supernormal power of transformation}{158}{section.1081}%
+\contentsline {section}{\numberline {6}Supernormal power caused by mind}{159}{section.1083}%
+\contentsline {section}{\numberline {7}Miscellaneous teachings}{159}{section.1085}%
+\contentsline {section}{\numberline {8}Divine hearing}{159}{section.1086}%
+\contentsline {section}{\numberline {9}Knowledge of others’ thoughts}{160}{section.1089}%
+\contentsline {section}{\numberline {10}Recollection of past lives}{161}{section.1093}%
+\contentsline {section}{\numberline {11}Divine sight}{162}{section.1100}%
+\contentsline {section}{\numberline {12}Miscellaneous teachings}{165}{section.1112}%
+\contentsline {chapter}{\numberline {X}On distinguishing wisdom}{167}{chapter.1113}%
+\contentsline {section}{\numberline {1}Wisdom defined}{168}{section.1120}%
+\contentsline {section}{\numberline {2}Benefits of wisdom}{168}{section.1123}%
+\contentsline {section}{\numberline {3}Meaning of wisdom}{169}{section.1124}%
+\contentsline {section}{\numberline {4}Two kinds of wisdom}{169}{section.1125}%
+\contentsline {section}{\numberline {5}Groups of wisdom (various)}{169}{section.1128}%
+\contentsline {subsection}{\numberline {5.1}First group of three in wisdom}{169}{subsection.1129}%
+\contentsline {subsection}{\numberline {5.2}Second group of three in wisdom}{169}{subsection.1131}%
+\contentsline {subsection}{\numberline {5.3}Third group of three in wisdom}{170}{subsection.1133}%
+\contentsline {subsection}{\numberline {5.4}First group of four in wisdom}{170}{subsection.1135}%
+\contentsline {subsection}{\numberline {5.5}Second group of four in wisdom}{170}{subsection.1137}%
+\contentsline {subsection}{\numberline {5.6}Third group of four in wisdom}{170}{subsection.1139}%
+\contentsline {subsection}{\numberline {5.7}Fourth group of four in wisdom}{171}{subsection.1141}%
+\contentsline {subsection}{\numberline {5.8}Fifth group of four in wisdom}{171}{subsection.1143}%
+\contentsline {subsection}{\numberline {5.9}Sixth group of four in wisdom}{171}{subsection.1145}%
+\contentsline {subsection}{\numberline {5.10}Seventh group of four in wisdom}{171}{subsection.1147}%
+\contentsline {subsection}{\numberline {5.11}Eighth group of four in wisdom}{172}{subsection.1149}%
+\contentsline {subsection}{\numberline {5.12}Ninth group of four in wisdom}{172}{subsection.1151}%
+\contentsline {subsection}{\numberline {5.13}Tenth group of four in wisdom}{172}{subsection.1154}%
+\contentsline {subsection}{\numberline {5.14}Eleventh group of four in wisdom}{172}{subsection.1156}%
+\contentsline {chapter}{\numberline {XI}The five methods}{173}{chapter.1158}%
+\contentsline {section}{\numberline {1}Section One}{175}{section.1159}%
+\contentsline {subsection}{\numberline {1.1}The aggregate of form}{175}{subsection.1165}%
+\contentsline {subsection}{\numberline {1.2}Four primaries defined}{175}{subsection.1172}%
+\contentsline {subsection}{\numberline {1.3}Derived material qualities}{176}{subsection.1178}%
+\contentsline {subsection}{\numberline {1.4}Sense-organ of eye}{176}{subsection.1182}%
+\contentsline {subsection}{\numberline {1.5}Sense-organ of ear}{176}{subsection.1186}%
+\contentsline {subsection}{\numberline {1.6}Sense-organ of nose}{176}{subsection.1188}%
+\contentsline {subsection}{\numberline {1.7}Sense-organ of tongue}{177}{subsection.1191}%
+\contentsline {subsection}{\numberline {1.8}Sense-organ of body}{177}{subsection.1193}%
+\contentsline {subsection}{\numberline {1.9}Difference between the four primaries and derived matter}{177}{subsection.1195}%
+\contentsline {subsection}{\numberline {1.10}Simile of the three sticks}{177}{subsection.1196}%
+\contentsline {subsection}{\numberline {1.11}Material qualities by way of arising}{178}{subsection.1197}%
+\contentsline {subsection}{\numberline {1.12}Material qualities by way of group}{178}{subsection.1198}%
+\contentsline {subsection}{\numberline {1.13}Material qualities by way of birth}{179}{subsection.1205}%
+\contentsline {subsection}{\numberline {1.14}Material qualities by way of diversity,—groups of two in material qualities}{180}{subsection.1210}%
+\contentsline {subsection}{\numberline {1.15}Groups of three in material qualities}{180}{subsection.1213}%
+\contentsline {subsection}{\numberline {1.16}Four kinds of material qualities}{180}{subsection.1216}%
+\contentsline {subsection}{\numberline {1.17}Material qualities by way of unity}{180}{subsection.1217}%
+\contentsline {subsection}{\numberline {1.18}Aggregate of feeling}{181}{subsection.1218}%
+\contentsline {subsection}{\numberline {1.19}Aggregate of perception}{181}{subsection.1222}%
+\contentsline {subsection}{\numberline {1.20}Aggregate of formations}{182}{subsection.1228}%
+\contentsline {subsection}{\numberline {1.21}Thirty-one similes}{182}{subsection.1230}%
+\contentsline {subsection}{\numberline {1.22}Aggregate of consciousness}{184}{subsection.1250}%
+\contentsline {subsection}{\numberline {1.23}Through sense-organ-object}{184}{subsection.1251}%
+\contentsline {subsection}{\numberline {1.24}Through object}{184}{subsection.1252}%
+\contentsline {subsection}{\numberline {1.25}Through states}{184}{subsection.1254}%
+\contentsline {subsection}{\numberline {1.26}Through word meaning}{185}{subsection.1255}%
+\contentsline {subsection}{\numberline {1.27}Through characteristic}{185}{subsection.1256}%
+\contentsline {subsection}{\numberline {1.28}Through discrimination}{185}{subsection.1257}%
+\contentsline {subsection}{\numberline {1.29}Through comprehension}{185}{subsection.1261}%
+\contentsline {subsection}{\numberline {1.30}Twelve sense-organs and sense-objects}{186}{subsection.1263}%
+\contentsline {subsection}{\numberline {1.31}Through word meaning}{186}{subsection.1266}%
+\contentsline {subsection}{\numberline {1.32}Through limits}{186}{subsection.1268}%
+\contentsline {subsection}{\numberline {1.33}Through condition}{187}{subsection.1269}%
+\contentsline {subsection}{\numberline {1.34}Simile of the thread}{187}{subsection.1274}%
+\contentsline {subsection}{\numberline {1.35}Simile of the mango}{187}{subsection.1276}%
+\contentsline {subsection}{\numberline {1.36}Element method}{188}{subsection.1281}%
+\contentsline {subsection}{\numberline {1.37}Conditioned arising method}{189}{subsection.1283}%
+\contentsline {subsubsection}{\numberline {1.37.1}(a) Direct order}{189}{subsubsection.1284}%
+\contentsline {subsubsection}{\numberline {1.37.2}(b) Reverse order}{189}{subsubsection.1286}%
+\contentsline {subsection}{\numberline {1.38}Ignorance}{189}{subsection.1288}%
+\contentsline {subsection}{\numberline {1.39}Formations}{190}{subsection.1289}%
+\contentsline {subsection}{\numberline {1.40}Simile of the seeds}{190}{subsection.1291}%
+\contentsline {subsection}{\numberline {1.41}Simile of the sun}{190}{subsection.1292}%
+\contentsline {subsection}{\numberline {1.42}Simile of the two bundles of reeds}{190}{subsection.1293}%
+\contentsline {subsection}{\numberline {1.43}Simile of the seed, shoot and plant}{191}{subsection.1296}%
+\contentsline {subsection}{\numberline {1.44}What conditions ignorance}{191}{subsection.1301}%
+\contentsline {subsection}{\numberline {1.45}Simile of the colours of a painter}{192}{subsection.1310}%
+\contentsline {subsection}{\numberline {1.46}Conditioned arising to be known in seven ways}{192}{subsection.1313}%
+\contentsline {subsection}{\numberline {1.47}First three links}{192}{subsection.1314}%
+\contentsline {subsection}{\numberline {1.48}Death of the ignorant craving evil-doer}{192}{subsection.1319}%
+\contentsline {subsection}{\numberline {1.49}Action, action-sign, destiny, destiny-sign}{193}{subsection.1320}%
+\contentsline {subsection}{\numberline {1.50}Four group division}{193}{subsection.1330}%
+\contentsline {subsection}{\numberline {1.51}Twenty modes}{193}{subsection.1331}%
+\contentsline {subsection}{\numberline {1.52}Direct and reverse order}{194}{subsection.1333}%
+\contentsline {subsection}{\numberline {1.53}Mundane and supramundane conditioned arising}{194}{subsection.1334}%
+\contentsline {subsection}{\numberline {1.54}Four kinds of conditioned arising}{194}{subsection.1336}%
+\contentsline {subsection}{\numberline {1.55}Through comprehension}{195}{subsection.1338}%
+\contentsline {section}{\numberline {2}Section Two}{195}{section.1339}%
+\contentsline {subsection}{\numberline {2.1}The four noble truths}{195}{subsection.1340}%
+\contentsline {subsection}{\numberline {2.2}Truth of ill}{195}{subsection.1341}%
+\contentsline {subsection}{\numberline {2.3}Five groups of clinging}{196}{subsection.1348}%
+\contentsline {subsection}{\numberline {2.4}Two kinds of ill}{196}{subsection.1349}%
+\contentsline {subsection}{\numberline {2.5}Three kinds of ill}{197}{subsection.1350}%
+\contentsline {subsection}{\numberline {2.6}Truth of the origin of ill}{197}{subsection.1352}%
+\contentsline {subsection}{\numberline {2.7}Truth of the cessation of ill}{197}{subsection.1355}%
+\contentsline {subsection}{\numberline {2.8}Truth of the path leading to cessation of ill}{197}{subsection.1357}%
+\contentsline {subsection}{\numberline {2.9}Through word meaning}{199}{subsection.1367}%
+\contentsline {subsection}{\numberline {2.10}Through characteristics}{199}{subsection.1368}%
+\contentsline {subsection}{\numberline {2.11}Through series}{199}{subsection.1369}%
+\contentsline {subsection}{\numberline {2.12}In brief}{200}{subsection.1375}%
+\contentsline {subsection}{\numberline {2.13}Similes of the poisonous tree, the ship, the burden}{200}{subsection.1376}%
+\contentsline {subsection}{\numberline {2.14}Through discrimination}{201}{subsection.1385}%
+\contentsline {subsection}{\numberline {2.15}Through enumeration}{201}{subsection.1386}%
+\contentsline {subsection}{\numberline {2.16}Through sameness}{201}{subsection.1387}%
+\contentsline {subsection}{\numberline {2.17}Through difference}{201}{subsection.1391}%
+\contentsline {subsection}{\numberline {2.18}Through one kind etc.}{202}{subsection.1399}%
+\contentsline {subsection}{\numberline {2.19}Through inclusion}{204}{subsection.1435}%
+\contentsline {chapter}{\numberline {XII}On discerning truth}{205}{chapter.1441}%
+\contentsline {section}{\numberline {1}Section One}{207}{section.1442}%
+\contentsline {subsection}{\numberline {1.1}Aggregates, elements, sense-spheres}{207}{subsection.1443}%
+\contentsline {subsection}{\numberline {1.2}Similes of the three hundred halberds and of the burning head}{207}{subsection.1444}%
+\contentsline {subsection}{\numberline {1.3}Procedure}{208}{subsection.1451}%
+\contentsline {subsection}{\numberline {1.4}Differences between name and form}{208}{subsection.1457}%
+\contentsline {subsection}{\numberline {1.5}Summary of the truth of ill}{209}{subsection.1458}%
+\contentsline {subsection}{\numberline {1.6}Cause and condition of ill}{209}{subsection.1460}%
+\contentsline {subsection}{\numberline {1.7}The purity of transcending uncertainty}{209}{subsection.1461}%
+\contentsline {subsection}{\numberline {1.8}Truth of cessation}{209}{subsection.1463}%
+\contentsline {subsection}{\numberline {1.9}Truth of the path}{209}{subsection.1464}%
+\contentsline {subsection}{\numberline {1.10}One hundred and eighty ways of knowing the five clinging aggregates}{210}{subsection.1466}%
+\contentsline {subsection}{\numberline {1.11}Impermanence, ill, not-self}{210}{subsection.1470}%
+\contentsline {subsection}{\numberline {1.12}The signless, the unhankered, and the void}{211}{subsection.1471}%
+\contentsline {subsection}{\numberline {1.13}The knowledge of the rise and fall}{211}{subsection.1476}%
+\contentsline {subsection}{\numberline {1.14}Defilement-grasp}{211}{subsection.1479}%
+\contentsline {subsection}{\numberline {1.15}Concentration-grasp}{212}{subsection.1483}%
+\contentsline {subsection}{\numberline {1.16}Insight-grasp}{212}{subsection.1485}%
+\contentsline {subsection}{\numberline {1.17}Two ways of grasping of thought-characteristics}{212}{subsection.1488}%
+\contentsline {subsection}{\numberline {1.18}Characteristics of rise and fall in three ways}{213}{subsection.1489}%
+\contentsline {subsection}{\numberline {1.19}Acquiring the highest knowledge}{213}{subsection.1498}%
+\contentsline {subsection}{\numberline {1.20}Simile of the bird surrounded by fire}{214}{subsection.1499}%
+\contentsline {subsection}{\numberline {1.21}Four states}{214}{subsection.1502}%
+\contentsline {subsection}{\numberline {1.22}Non-effort in the arising of the formations}{214}{subsection.1507}%
+\contentsline {subsection}{\numberline {1.23}Reviewing of breaking up}{215}{subsection.1509}%
+\contentsline {subsection}{\numberline {1.24}Breaking up through three ways}{215}{subsection.1510}%
+\contentsline {subsubsection}{\numberline {1.24.1}(a) Through assemblage}{215}{subsubsection.1511}%
+\contentsline {subsubsection}{\numberline {1.24.2}(b) Through duality}{215}{subsubsection.1513}%
+\contentsline {subsubsection}{\numberline {1.24.3}(c) Through understanding}{215}{subsubsection.1514}%
+\contentsline {subsection}{\numberline {1.25}Similes of drum-sound, town of gods, lightning}{216}{subsection.1517}%
+\contentsline {section}{\numberline {2}Section Two}{217}{section.1520}%
+\contentsline {subsection}{\numberline {2.1}Fear knowledge}{217}{subsection.1521}%
+\contentsline {subsection}{\numberline {2.2}Similes of the man with the sword, poisonous snake, and heap of fire}{218}{subsection.1522}%
+\contentsline {subsection}{\numberline {2.3}Knowledge of the desire for release}{218}{subsection.1535}%
+\contentsline {subsection}{\numberline {2.4}Adaptive knowledge}{219}{subsection.1538}%
+\contentsline {subsection}{\numberline {2.5}Knowledge of adoption}{219}{subsection.1541}%
+\contentsline {subsection}{\numberline {2.6}Similes of the boat, lamp, and sun}{220}{subsection.1546}%
+\contentsline {subsection}{\numberline {2.7}Simile of the burning city}{221}{subsection.1555}%
+\contentsline {subsection}{\numberline {2.8}Three fetters}{221}{subsection.1558}%
+\contentsline {subsection}{\numberline {2.9}Once-returner}{222}{subsection.1569}%
+\contentsline {subsection}{\numberline {2.10}Non-returner}{222}{subsection.1571}%
+\contentsline {subsection}{\numberline {2.11}Saintship}{223}{subsection.1573}%
+\contentsline {subsection}{\numberline {2.12}Three kinds of stream-entrant}{223}{subsection.1577}%
+\contentsline {subsection}{\numberline {2.13}Five kinds of non-returner}{223}{subsection.1580}%
+\contentsline {subsection}{\numberline {2.14}Simile of the fiery sparks}{224}{subsection.1584}%
+\contentsline {subsection}{\numberline {2.15}Miscellaneous teachings}{224}{subsection.1586}%
+\contentsline {subsection}{\numberline {2.16}Serenity and insight}{224}{subsection.1588}%
+\contentsline {subsection}{\numberline {2.17}Initial application of thought and bare insight}{225}{subsection.1593}%
+\contentsline {subsection}{\numberline {2.18}Joy}{225}{subsection.1594}%
+\contentsline {subsection}{\numberline {2.19}Feeling}{225}{subsection.1595}%
+\contentsline {subsection}{\numberline {2.20}Plane}{226}{subsection.1596}%
+\contentsline {subsection}{\numberline {2.21}Faculties}{226}{subsection.1602}%
+\contentsline {subsection}{\numberline {2.22}The three emancipations}{226}{subsection.1606}%
+\contentsline {subsection}{\numberline {2.23}Emancipation and the entrance into it}{227}{subsection.1608}%
+\contentsline {subsection}{\numberline {2.24}One hundred and thirty-four defilements}{227}{subsection.1609}%
+\contentsline {subsection}{\numberline {2.25}Three immoral roots}{227}{subsection.1610}%
+\contentsline {subsection}{\numberline {2.26}The three kinds of seeking}{227}{subsection.1612}%
+\contentsline {subsection}{\numberline {2.27}The four corruptions}{228}{subsection.1614}%
+\contentsline {subsection}{\numberline {2.28}The four knots}{228}{subsection.1620}%
+\contentsline {subsection}{\numberline {2.29}The four floods}{228}{subsection.1622}%
+\contentsline {subsection}{\numberline {2.30}The four yokes}{228}{subsection.1624}%
+\contentsline {subsection}{\numberline {2.31}The four clingings}{228}{subsection.1626}%
+\contentsline {subsection}{\numberline {2.32}The four wrong courses of action}{228}{subsection.1628}%
+\contentsline {subsection}{\numberline {2.33}The five kinds of meanness}{229}{subsection.1630}%
+\contentsline {subsection}{\numberline {2.34}The five hindrances}{229}{subsection.1632}%
+\contentsline {subsection}{\numberline {2.35}The six roots of contention}{229}{subsection.1634}%
+\contentsline {subsection}{\numberline {2.36}The seven latencies}{229}{subsection.1636}%
+\contentsline {subsection}{\numberline {2.37}The eight worldly conditions}{229}{subsection.1638}%
+\contentsline {subsection}{\numberline {2.38}The nine conceits}{230}{subsection.1640}%
+\contentsline {subsection}{\numberline {2.39}The ten defilements}{230}{subsection.1642}%
+\contentsline {subsection}{\numberline {2.40}The ten courses of unskilful actions}{230}{subsection.1644}%
+\contentsline {subsection}{\numberline {2.41}The ten fetters}{230}{subsection.1646}%
+\contentsline {subsection}{\numberline {2.42}The ten errors}{231}{subsection.1648}%
+\contentsline {subsection}{\numberline {2.43}The twelve reversals}{231}{subsection.1650}%
+\contentsline {subsection}{\numberline {2.44}The twelve arisings of unskilful thought}{231}{subsection.1652}%
+\contentsline {subsection}{\numberline {2.45}The two enjoyments}{232}{subsection.1658}%
+\contentsline {subsection}{\numberline {2.46}Enjoyment of the fruit}{232}{subsection.1659}%
+\contentsline {subsection}{\numberline {2.47}A second point of view}{232}{subsection.1661}%
+\contentsline {subsection}{\numberline {2.48}A third point of view}{232}{subsection.1663}%
+\contentsline {subsection}{\numberline {2.49}The signless concentration of mind}{233}{subsection.1665}%
+\contentsline {subsection}{\numberline {2.50}The enjoyment of the dissolution of perception and sensation}{233}{subsection.1670}%
+\contentsline {part}{Appendices}{239}{part*.1689}%
+\contentsline {chapter}{\numberline {A}Contemplation in the Dhamma}{239}{chapter.1690}%
+\contentsfinish 

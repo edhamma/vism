@@ -1,0 +1,435 @@
+
+
+.. _XV:
+
+The Bases and Elements
+**************************
+
+
+
+1 A. Description of the Bases
+---------------------------------
+
+
+
+.. _XV.1:
+
+:ref:`§1 <XV.1>` *[492/550]*  ``481``  The “bases” (:ref:`XIV.32 <XIV.32>`) are the twelve bases, that is to say, the eye base, visible-data base, ear base, sound base, nose base, odour base, tongue base, flavour base, body base, tangible-data base, mind base, mental-data base.
+
+.. _XV.2:
+
+:ref:`§2 <XV.2>` Herein:
+
+
+
+
+| (1) Meaning, (2) character, (3) just so much,
+| (4) Order, and (5) in brief and detail,
+| (6) Likewise as to how to be seen—
+| Thus should be known the exposition.
+
+
+.. _XV.3:
+
+:ref:`§3 <XV.3>` *1.* Herein, [*as to meaning*\ ] firstly individually:
+
+It relishes (*cakkhati*\ ), thus it is an eye (*cakkhu*\ ); the meaning is that it enjoys a visible datum and turns it to account.
+
+It makes visible (*rūpayati*\ ), thus it is a visible datum (*rūpa*\ ); the meaning is that by undergoing an alteration in appearance (colour) it evidences what state is in the mind (lit. heart).
+
+It hears (*suṇāti*\ ), thus it is an ear (*sota*\ ).
+
+It is emitted (*sappati*\ ), thus it is sound (*sadda*\ ); the meaning is that it is uttered.
+
+It smells (*ghāyati*\ ), thus it is a nose (*ghāna*\ ).
+
+It is smelt (*gandhayati*\ ) thus it is odour (*gandha*\ ); the meaning is that it betrays its own physical basis.
+
+It evokes (*avhayati*\ ) life (*jīvita*\ ), thus it is a tongue (*jivhā*\ ).
+
+Living beings taste (*rasanti*\ ) it, thus it is flavour (*rasa*\ ); the meaning is that they enjoy it.
+
+It is the origin (*āya*\ ) of vile (*kucchita*\ ) states subject to cankers, thus it is a body (*kāya*\ ), origin being the place of arising.
+
+It is touched (*phusiyati*\ ), thus it is a tangible datum (*phoṭṭhabba*\ ).
+
+It measures (*munāti*\ ), thus it is a mind (*mano*\ ).
+
+They cause their own characteristic to be borne (*dhārayanti*\ ), thus they are mental data (*dhammā*\ ). [#1]_ 
+
+.. _XV.4:
+
+:ref:`§4 <XV.4>` *[493/551]* [As to meaning] in general, however, base (*āyatana*\ ) should be understood as such (a) because of its actuating (*āyatana*\ ), (b) because of being the range (*tanana*\ ) of the origins (*āya*\ ), and (c) because of leading on (*nayana*\ ) what is actuated (*āyata*\ ). [#2]_ 
+
+Now, the various states of consciousness and its concomitants belonging to such and such a door-cum-object among those consisting of the eye-cum-visible-datum, etc., (a) are actuated (*āyatanti*\ ), each by means of its individual function of experiencing, etc.; they are active, strive, and endeavour in these, is what is meant. And (b) these [doors-cum-objects] provide the range for (*tananti*\ ) those states that are origins (*āya*\ ); they give them scope, is what is meant. And (c) as long as this suffering of the round of rebirths, which has gone on occurring throughout the beginningless round of rebirths and so is enormously actuated (*āyata*\ ), does not recede, so long they lead on (*nayanti*\ ); they cause occurrence, is what is meant.
+
+So all these  ``482``  things are called “bases” because they actuate, because they are the range of the origins, and because they lead on what is actuated.
+
+.. _XV.5:
+
+:ref:`§5 <XV.5>` *[494/552]* Furthermore, “base, (*āyatana*\ ) should be understood in the sense of place of abode, store (mine), [#3]_  meeting place, locality of birth, and cause. For accordingly in the world in such phrases as the lord’s sphere” (*āyatana*\ ) and “Vāsudeva’s sphere” (*āyatana*\ ), it is a place of abode that is called “base”; and in such phrases as “the sphere of gold” and “the sphere of silver” it is a store (mine) that is called “base.” But in the Dispensation, in such passages as:
+
+
+
+
+| “And so in the delightful realm (*āyatana*\ )
+| Those flying in the air attend him” ( [A]_ *III 43*\  ),
+
+
+it is a meeting place; and in such phrases as “The southern land is the realm (*āyatana*\ ) of cattle” (?) it is the locality of birth; and in such passages as “He acquires the ability to be a witness of it … whenever there is an occasion (*āyatana*\ ) for it’” ( [M]_ *I 494*\  ;  [A]_ *I 258*\  ), it is a cause.
+
+.. _XV.6:
+
+:ref:`§6 <XV.6>` And these various states of consciousness and its concomitants dwell in the eye, etc., because they exist in dependence on them, so the eye, etc., are their *place of abode*\ . And they frequent the eye, etc., because they have them [respectively] as their [material] support and as their object, so the eye, etc., are their *store*\ . And the eye, etc., are their *meeting place*\  because they meet together in one or other of them, [using them] as physical basis, door, and object. And the eye, etc., are the *locality of their birth*\  because they arise just there, having them as their respective supports and objects. And the eye, etc., are their *reason*\  because they are absent when the eye, etc., are absent.
+
+.. _XV.7:
+
+:ref:`§7 <XV.7>` So for these reasons too these things are called “bases” in the sense of place of abode, store, meeting place, locality of birth, and reason.
+
+Consequently, in the sense already stated, it is an eye and that is a base, thus it is the eye base … They are mental data and those are a base, thus they are the mental-data base.
+
+This is how the exposition should be known here as to meaning.
+
+.. _XV.8:
+
+:ref:`§8 <XV.8>` *2. Character*\ : Here too the exposition should be known as to the characteristic of the eye and so on. But their characteristics should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>`).
+
+.. _XV.9:
+
+:ref:`§9 <XV.9>` *3. As to just so much*\ : as just so many. [#4]_  What is meant is this: The eye, etc., are mental data too; that being so, why is “twelve bases” said instead of simply “mental-data base?” It is for the sake of defining door-cum-object for the arising of the six consciousness groups. And here they are stated as twelve since this is how they are classed when so defined.  ``483`` 
+
+.. _XV.10:
+
+:ref:`§10 <XV.10>` For only the eye base is the door of arising, and only the visible-data base is the object, of the consciousness group comprised in a cognitive series containing eye-consciousness. Likewise the others for the others. *[495/553]* But only one part of the mind base, in other words, the life-continuum mind, [#5]_  is the door of arising, and only the mental-data base not common to all is the object, of the sixth [consciousness group].
+
+So they are called “the twelve” because they define door-cum-object for the arising of the six consciousness groups. This is how the exposition should be known here as to just so much.
+
+.. _XV.11:
+
+:ref:`§11 <XV.11>` *4. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>`), only “order of teaching” is appropriate. For the eye is taught first among the internal bases since it is obvious because it has as its objective field what is visible with resistance (see last triad, Dhs 2). After that the ear base, etc., which have as their objective fields what is invisible with resistance. Or alternatively, the eye base and ear base are taught first among the internal bases because of their great helpfulness as [respective] causes for the “incomparable of seeing” and the “incomparable of hearing” (see  [D]_ *III 250*\  ). Next, the three beginning with the nose base. And the mind base is taught last because it has as its resort the objective fields of the [other] five ( [M]_ *I 295*\  ). But among the external bases the visible-data base, etc., [are taught] each one next [to its corresponding internal base] because they are the respective resorts of the eye base, and so on.
+
+.. _XV.12:
+
+:ref:`§12 <XV.12>` Furthermore, their order may be understood as that in which the reasons for consciousness’s arising are defined; and it is said: “Due to eye and to visible objects eye-consciousness arises, … due to mind and mental objects mind-consciousness arises” ( [M]_ *I 111*\  ).
+
+This is how the exposition should be known here as to order.
+
+.. _XV.13:
+
+:ref:`§13 <XV.13>` *5. In brief and in detail*\ : in brief the twelve bases are simply mentality-materiality because the mind base and one part of the mental-data base are included in mentality, and the rest of the bases in materiality.
+
+.. _XV.14:
+
+:ref:`§14 <XV.14>` But in detail, firstly as regards the internal bases, the eye base is, as to kind, simply eye sensitivity; but when it is classified according to condition, destiny, order [of beings], and person, [#6]_  it is of infinite variety. Likewise the four beginning with the ear base. And the mind base, when classified according to profitable, unprofitable, resultant, and functional consciousness, is of eighty-nine kinds or of one hundred and twenty-one kinds, [#7]_  but it is of infinite variety when classified *[496/554]* according to physical basis, progress, and so on. [#8]_  The visible-data, sound, odour, and flavour bases are of infinite variety when classified according to dissimilarity, condition, and so on. [#9]_  The tangible-data base is of three kinds as consisting of earth element, fire element, and air element;  ``484``  but when classified according to condition, etc., it is of many kinds. The mental-data base is of many kinds when classified according to the several individual essences of feeling, perception, formations, subtle matter, and Nibbāna (see  [Vibh]_ *72*\  ).
+
+This is how the exposition should be known in brief and in detail.
+
+.. _XV.15:
+
+:ref:`§15 <XV.15>` *6. As to how to be seen*\ : here all formed bases should be regarded as having no provenance and no destination. For they do not come from anywhere prior to their rise, nor do they go anywhere after their fall. On the contrary, before their rise they had no individual essence, and after their fall their individual essences are completely dissolved. And they occur without mastery [being exercisable over them] since they exist in dependence on conditions and in between the past and the future. Hence they should be regarded as having no provenance and no destination.
+
+Likewise they should be regarded as incurious and uninterested. For it does not occur to the eye and the visible datum, etc., “Ah, that consciousness might arise from our concurrence.” And as door, physical basis, and object, they have no curiosity about, or interest in, arousing consciousness. On the contrary, it is the absolute rule that eye-consciousness, etc., come into being with the union of eye with visible datum, and so on. So they should be regarded as incurious and uninterested.
+
+.. _XV.16:
+
+:ref:`§16 <XV.16>` Furthermore, the internal bases should be regarded as an empty village because they are devoid of lastingness, pleasure, and self; and the external ones as village-raiding robbers ( [S]_ *IV 175*\  ) because they raid the internal ones. And this is said: “Bhikkhus, the eye is harassed by agreeable and disagreeable visible objects” ( [S]_ *IV 175*\  ). Furthermore, the internal ones should be regarded as like the six creatures ( [S]_ *IV 198–199*\  ) and the external ones as like their resorts.
+
+This is how the exposition should be known here as to how to be seen.
+
+This, firstly, is the section of the detailed explanation dealing with the bases.
+
+2 B. Description of the Elements
+------------------------------------
+
+
+
+.. _XV.17:
+
+:ref:`§17 <XV.17>` The “elements” next to that (:ref:`XIV.32 <XIV.32>`) are the eighteen elements, that is to say, eye element, visible-data element, eye-consciousness element; ear element, sound element, ear-consciousness element; nose element, odour element, nose-consciousness element; tongue element, flavour element, tongue-consciousness element; body element, tangible-data element, body-consciousness element; mind element, mental-data element, mind-consciousness element.
+
+.. _XV.18:
+
+:ref:`§18 <XV.18>` *[497/555]* Herein:
+
+
+
+
+| (1) As to meaning, (2) characteristic, et cetera,
+| (3) Order, (4) just so much, and (5) reckoning,
+| (6) Then condition, and (7) how to be seen—
+| Thus should be known the exposition.
+
+
+.. _XV.19:
+
+:ref:`§19 <XV.19>` *1.*\  Herein, *as to meaning*\ : first the exposition of “eye,” etc., should be known individually as to meaning in the way beginning: It relishes (*cakkhati*\ ), thus it is an eye (*cakkhu*\ ); it makes visible (*rūpayati*\ ), thus it is a visible datum;  ``485``  and the consciousness of the eye is eye-consciousness (see :ref:`§3 <XV.3>`).
+
+As to meaning in general: (a) it sorts out (*vidahati*\ ), (b) it assorts [well] (*dhīyate*\ ), (c) a sorting out (*vidhāna*\ ), (d) it is sorted out (*vidhīyate*\ ) by means of that, or (e) it causes to be sorted (*dhīyati*\ ) here, thus it is a sort (*dhātu*\  = element). [#10]_ 
+
+.. _XV.20:
+
+:ref:`§20 <XV.20>` (a) The mundane sorts (elements), when defined according to their instrumentality, *sort out*\  (*vidahanti*\ ) the suffering of the round of rebirths, which is of many kinds, just as the “sorts” (ores—see :ref:`XI.20 <XI.20>`) of gold and silver, etc., do gold and silver, and so on. (b) They assort [well] (*dhīyante*\ ) with living beings, as a burden does with burden bearers; they are borne (*dhāriyanti*\ ), is the meaning. (c) And they are only mere sortings out (*vidhāna*\ ) of suffering because no mastery is exercisable over them. (d) And by means of them as instruments the suffering of the round of rebirths is continually being sorted out (*anuvidhīyati*\ ) by living beings. (e) And that [suffering], being sorted out (*vihita*\ ) in this way, is caused to be sorted (*dhīyati*\ ) into those [sorts (elements)]; it is caused to be placed in them, is the meaning. So each thing (*dhamma*\ ) among those beginning with the eye is called a “sort” (*dhātu—*\ element) in the meaning just stated beginning “It sorts out, it assorts well.”
+
+.. _XV.21:
+
+:ref:`§21 <XV.21>` Furthermore, while the self of the sectarians does not exist with an individual essence, not so these. These, on the contrary, are elements (*dhātu*\ ) since they cause [a state’s] own individual essence to be borne (*dhārenti*\ ). [#11]_  And just as in the world the variously-coloured constituents of marble such as malachite, cinnabar, etc., are called “elements,” so too these [beginning with the *[498/556]* eye] are elements like those; [#12]_  for they are the “variously-coloured” constituents of knowledge and the knowable. Or just as the general term “elements” is used for juices, blood, etc., which are constituents of the collection called the “carcass,” when they are distinguished from each other by dissimilarity of characteristic, so too the general term “elements” should be understood as used for the constituents of the selfhood (personality) called “the pentad of aggregates”; for these things beginning with the eye are distinguished from each other by dissimilarity of characteristic.
+
+.. _XV.22:
+
+:ref:`§22 <XV.22>` Furthermore, “element” is a term for what is soulless; and for the purpose of abolishing the perception of soul the Blessed One accordingly taught the elements in such passages as “Bhikkhu, this man has six elements” ( [M]_ *III 239*\  ). Therefore the exposition should be understood here firstly as to meaning thus: it is an eye and that is an element, thus it is the eye-element … It is mind-consciousness and that is an element, thus it is mind-consciousness element.
+
+.. _XV.23:
+
+:ref:`§23 <XV.23>` *2. As to characteristic, et cetera*\ : here too the exposition should be understood as to the characteristic, etc., of the eye, and so on. And that should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>`).
+
+.. _XV.24:
+
+:ref:`§24 <XV.24>` *3. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>`), only “order of teaching” is appropriate. It is set forth according to successive definition of cause and fruit. [#13]_  For the pair, eye element and visible-data element, are the cause and eye-consciousness element is the fruit. So in each case.
+
+.. _XV.25:
+
+:ref:`§25 <XV.25>` *4. As to just so much*\ : as just so many. What is meant is this: in various places in the Suttas and Abhidhamma the following as well as other  ``486``  elements are met with—the illumination element, beauty element, base-consisting-of-boundless-space element, base-consisting-of-boundless-consciousness element, base-consisting-of-nothingness element, base-consisting-of-neither-perception-nor-non-perception element, cessation-of-perception-and-feeling element ( [S]_ *II 150*\  ); sense-desire element, ill-will element, cruelty element, renunciation element, non-ill-will element, non-cruelty element (Vibh 86); bodily-pleasure element, bodily-pain element, joy element, grief element, equanimity element, ignorance element (Vibh 85); initiative element, launching element, persistence element ( [S]_ *V 66*\  ); inferior element, medium element, superior element ( [D]_ *III 215*\  ); earth element, water element, fire element, air element, space element, consciousness element (Vibh 82); formed element, unformed element ( [M]_ *III 63*\  ); the world of many elements, of various elements ( [M]_ *I 70*\  )—that being so, why is the classification only made according to these eighteen instead of making it *[499/557]* according to all of them? Because, as far as individual essence is concerned, all existing elements are included in that [classification].
+
+.. _XV.26:
+
+:ref:`§26 <XV.26>` The visible data-element itself is the illumination element. The beauty element is bound up with visible-data and so on. Why? Because it is the sign of the beautiful. The sign of the beautiful is the beauty element and that does not exist apart from visible data and so on. Or since the visible data, etc., that are objects consisting of profitable kamma-result are themselves the beauty element, that is thus merely visible data and so on. As regards the base-consisting-of-boundless-space element, etc., the consciousness is mind-consciousness element only, while the remaining [states] are the mental-data element. But the cessation-of-perception-and-feeling element does not exist as an individual essence; for that is merely the cessation of two elements. [#14]_ 
+
+.. _XV.27:
+
+:ref:`§27 <XV.27>` The sense-desire element is either merely the mental-data element, according as it is said, “Herein, what is the sense-desire element? It is the thought, applied thought, … wrong thinking, that is associated with sense desires” ( [Vibh]_ *86*\  ), or it is the eighteen elements, according as it is said: “Making the Avīci hell the lower limit and making the Paranimmitavasavatti deities the upper limit, the aggregates, elements, bases, materiality, feeling, perception, formations, and consciousness that are in this interval, that belong here, are included here: these are called the sense desire element” ( [Vibh]_ *86*\  ).  ``487`` 
+
+.. _XV.28:
+
+:ref:`§28 <XV.28>` The renunciation element is the mental-data element; also, because of the passage, “Also all profitable states are the renunciation element” ( [Vibh]_ *86*\  ), it is the mind-consciousness element too. The elements of ill-will, cruelty, non-ill-will, non-cruelty, bodily pleasure, bodily pain, joy, grief, equanimity, ignorance, initiative, launching, and persistence are the mental-data element too.
+
+.. _XV.29:
+
+:ref:`§29 <XV.29>` The inferior, medium, and superior elements are the eighteen elements themselves; for inferior eyes, etc., are the inferior element, and medium and superior eyes, etc., are the medium and superior elements. But literally speaking, the unprofitable mental-data element and mind-consciousness element are the inferior element; both these elements, when mundane profitable or mundane indeterminate, and the eye element, etc., are the medium element; but the supramundane mental-data element and mind-consciousness element are the superior element.
+
+.. _XV.30:
+
+:ref:`§30 <XV.30>` The earth, fire, and air elements are the tangible-data element; the water element and the space element are the mental-data element only; “consciousness element” is a term summarizing the seven consciousness elements beginning with eye-consciousness.
+
+.. _XV.31:
+
+:ref:`§31 <XV.31>` Seventeen elements and one part of the mental-data element are the formed element; but the unformed element is one part of the mental-data element only. The “world of many elements, of various elements” is merely what is divided up into the eighteen elements.
+
+*[500/558]* So they are given as eighteen because, as to individual essence, all existing elements are included in that [classification].
+
+.. _XV.32:
+
+:ref:`§32 <XV.32>` Furthermore, they are stated as eighteen for the purpose of eliminating the kind of perception to be found in those who perceive a soul in consciousness, the individual essence of which is cognizing; for there are beings who perceive a soul in consciousness, the individual essence of which is cognizing. And so the Blessed One, who was desirous of eliminating the long-inherent perception of a soul, has expounded the eighteen elements thus making evident to them not only consciousness’s multiplicity when classed as eye-, ear-, nose-, tongue-and body-consciousness elements, and mind, and mind-consciousness elements, but also its impermanence, which is due to its existing in dependence on eye-cum-visible-data, etc., as conditions.
+
+.. _XV.33:
+
+:ref:`§33 <XV.33>` What is more, the inclinations of those who are teachable in this way [have to be considered]; and in order to suit the inclinations of beings who are teachable by a teaching that is neither too brief nor too long, eighteen are expounded. For:
+
+
+
+
+| By methods terse and long as need may be
+| He taught the Dhamma, so that from beings’ hearts,
+| If they have wit to learn, the dark departs
+| Melting in the Good Dhamma’s brilliancy.
+
+
+This is how the exposition should be understood here as to just so much.
+
+.. _XV.34:
+
+:ref:`§34 <XV.34>` *5. As to reckoning*\ : the eye-element, firstly, is reckoned as one thing according to kind,  ``488``  namely, eye sensitivity. Likewise, the ear, nose, tongue, body, visible-data, sound, odour, and flavour elements are reckoned as ear sensitivity, and so on (:ref:`XIV.37ff. <XIV.37>`). But the tangible-data element is reckoned as three things, namely, earth, fire and air. The eye-consciousness element is reckoned as two things, namely, profitable and unprofitable kamma-result; and likewise the consciousness elements of the ear, nose, tongue, and body. The mind element is reckoned as three things, namely, five-door adverting (70), and profitable (39) and unprofitable (55) resultant receiving. The mental-data element as twenty things, namely, three immaterial aggregates, sixteen kinds of subtle matter, and the unformed element (see  [Vibh]_ *88*\  ). [#15]_ Mind-consciousness element is reckoned as seventy-six things, namely, the remaining profitable, unprofitable, and indeterminate consciousnesses. This is how the exposition should be understood as to reckoning.
+
+.. _XV.35:
+
+:ref:`§35 <XV.35>` *6. Condition*\ : the eye element, firstly, is a condition, in six ways, namely, dissociation, pre-nascence, presence, non-disappearance, support, and faculty *[501/559]* for the eye-consciousness element. The visible-data element is a condition, in four ways, namely, prenascence, presence, non-disappearance, and object, for the eye-consciousness element. Similarly with the ear-element and the sound-element for the ear-consciousness element and so on.
+
+.. _XV.36:
+
+:ref:`§36 <XV.36>` The adverting mind element (70) is a condition, as the five conditions, namely: proximity, contiguity, absence, disappearance, and proximity-decisive-support, for these five [beginning with the eye-consciousness element]. And these five are so too for the receiving mind element ((39), (55)). And so is the receiving mind element for the investigating mind-consciousness element ((40), (41), (56)). And so is that too for the determining mind-consciousness element (71). And so is the determining mind-consciousness element for impulsion mind-consciousness element. But the impulsion mind-consciousness element is a condition, as the six conditions, namely, as the five already stated and as repetition condition, for the immediately following impulsion mind-consciousness element.
+
+This, firstly, is the way in the case of the five doors.
+
+.. _XV.37:
+
+:ref:`§37 <XV.37>` In the case of the mind door, however, the life-continuum mind-consciousness element is a condition, as the previously-stated five conditions, for the adverting mind-consciousness element (71). And the adverting mind-consciousness element is so for the impulsion mind-consciousness element.
+
+.. _XV.38:
+
+:ref:`§38 <XV.38>` The mental-data element is a condition in many ways, as conascence, mutuality, support, association, presence, non-disappearance, etc., [#16]_  for the seven consciousness elements. The eye element, etc., and some of the mental-data element, [#17]_  are conditions, as object condition, etc., for some of the mind-consciousness element.
+
+.. _XV.39:
+
+:ref:`§39 <XV.39>` And not only are the eye and visible data, etc., conditions for the eye-consciousness element, etc., [respectively], but also light, etc., are too. Hence the former teachers said: “Eye-consciousness arises due to eye, visible datum, light, and attention.  ``489``  Ear-consciousness arises due to ear, sound, aperture, and attention. Nose-consciousness arises due to nose, odour, air, and attention. Tongue-consciousness arises due to tongue, flavour, water, and attention. Body-consciousness arises due to body, tangible datum, earth, and attention. Mind-consciousness arises due to life-continuum-mind, [#18]_  mental datum, and attention.”
+
+This is in brief. But the kinds of conditions will be explained in detail in the Description of Dependent Origination (:ref:`XVII.66ff. <XVII.66>`).
+
+This is how the exposition should be understood here as to condition.
+
+.. _XV.40:
+
+:ref:`§40 <XV.40>` *7. How to be seen*\ : the meaning is that here too the exposition should be understood as to how they are to be regarded. For all formed elements are to be *[502/560]* regarded as secluded from the past and future, [#19]_  as void of any lastingness, beauty, pleasure, or self, and as existing in dependence on conditions.
+
+.. _XV.41:
+
+:ref:`§41 <XV.41>` Individually, however, the eye element should be regarded as the surface of a drum, the visible-data element as the drumstick, and the eye-consciousness element as the sound. Likewise, the eye element should be regarded as the surface of a looking-glass, the visible-data element as the face, and the eye-consciousness element as the image of the face. Or else, the eye-element should be regarded as sugarcane or sesame, the visible-data element as the [sugarcane] mill or the [sesame] wheel rod, and the eye-consciousness element as the sugarcane juice or the sesame oil. Likewise, the eye-element should be regarded as the lower fire-stick, the visible-data element as the upper fire-stick, [#20]_  and the eye-consciousness element as the fire. So too in the case of the ear and so on.
+
+.. _XV.42:
+
+:ref:`§42 <XV.42>` The mind element, however, should be regarded as the forerunner and follower of eye-consciousness, etc., as that arises.
+
+As to the mental-data element, the feeling aggregate should be regarded as a dart and as a stake, the perception and formations aggregates as a disease owing to their connection with the dart and stake of feeling. Or the ordinary man’s perception should be regarded as an empty fist because it produces pain through [disappointed] desire; or as a forest deer [with a scarecrow] because it apprehends the sign incorrectly. And the formations aggregate should be regarded as men who throw one into a pit of hot coals, because they throw one into rebirth-linking, or as thieves pursued by the king’s men because they are pursued by the pains of birth; or as the seeds of a poison-tree, because they are the root-cause of the aggregates’ continuity, which brings all kinds of harm. And materiality should be regarded as a razor-wheel (see  [J-a]_ *IV 3*\  ), because it is the sign of various kinds of dangers.
+
+The unformed element, however, should be regarded as deathless, as peace, as safety. Why? Because it is the opposite of all ill. ``490`` 
+
+.. _XV.43:
+
+:ref:`§43 <XV.43>` The mind-consciousness element should be regarded as a forest monkey, because it does not stay still on its object; or as a wild horse, because it is difficult to tame; or as a stick flung into the air, because it falls anyhow; or as a stage dancer, because it adopts the guise of the various defilements such as greed and hate.
+
+The fifteenth chapter called “The Description of the Bases and Elements” in the Treatise on the Development of Understanding in the *Path of Purification*\  composed for the purpose of gladdening good people.
+
+.. rubric:: Footnotes
+
+
+
+.. _XV.n1:
+
+.. [#1] 
+    
+    The following words in §3 are not in PED: *cakkhati*\  (it relishes), *rūpayati*\  (it makes visible—only referred to under *rūpa*\ ), *sappati*\  (it is emitted; pass. of *sapati*\ , to swear ( [Ud]_ *45*\  )), *udāhariyati*\  (it is uttered, lit. “is carried up to”), *gandhayati*\  (it is smelt), *sūcayati* (it betrays), *rasati*\  (it tastes). Be ed. of  [Vibh-a]_   reads *manayati*\  (not in PED) for *muṇāti*\  in parallel passage.
+    
+     [Vism-mhṭ]_ *(p. 508)*\   explains *cakkhati* (relishes) semantically by “tasting a flavour as in ‘relishing’ honey or sauce” and cites  [M]_ *I 503*\  . Linguistically it connects the word with *ācikkhati*\  (to show).
+    
+    “When a visible form (*rūpa*\ ) undergoes, like the visible aspect of a chameleon, an alteration in appearance (colour) at times when [the mind is] dyed with greed or corrupted with hate, etc., it makes visible what state [is prevalent] in the heart (i.e. the mind) and makes that evident as though it were an actual visible object; the meaning is that it demonstrates it by giving it, as it were, a graspable entity (*saviggaha*\ ). Or the word rūpa means demonstration, and that is the same as evidencing. Or the word *rūpa*\  can be regarded as evidencing of elements too, since it has many meanings. *Rūpayati*\  (it makes visible) is a derivative (*nibbacana*\ ) of the word *rūpa*\  that expresses appearance (colour), while *ruppati*\  (it is molested) is a derivative that expresses the materiality aggregate. [As to sound] only the sound of words (*vacana-sadda*\ ) would be covered by the meaning ‘*is uttered*\  (*udāhariyati*\ ),’ and here sound is not only the sound of words, but rather all that can be cognized by the ear is what ‘*is emitted*\  (*sappati*\ )’; the meaning is that by means of its own conditions it is emitted (*sappiyati*\ ), is made cognizable by the ear” ( [Vism-mhṭ]_ *508*\  ) (cf. also *sappari*\ , to crawl). “‘It *evokes life*\  (*jīvitaṃ avhayati*\ )’ owing to appetite for tastes in food (*āhāra*\ ), which is the cause of life (*jīvita*\ ), since the act of swallowing is rooted in approval of tastes. This is the linguistic characteristic of the word *jivhā*\  (tongue)” ( [Vism-mhṭ]_ *509*\  ).
+
+
+.. _XV.n2:
+
+.. [#2] 
+    
+    The following words in §4 are not in PED: *āyatana*\  (actuating: verbal n. fm. *āyatati*\ , to actuate); *tanana*\  (range: verbal n. fm. *tanoti*\ , to provide a range for, to extend—q.v. PED—; mentioned under *āyatana*\ , base); *nayana*\  (lead in on: verbal n. fm. *neti*\ , to lead on; lit, meaning not in PED); *āyatati*\  (to actuate—*cakkhuviññāṇādīnaṃ uppādanaṃ āyatanaṃ*\ ,  [Vism-mhṭ]_  ). See also *āyāpenti*\   [Paṭis]_ *II 21*\  .
+
+
+.. _XV.n3:
+
+.. [#3] 
+    
+    *Ākara*\  means either a mine or a store (PED apparently believes in mining for pearls—see *ratanākara*\ ).
+
+
+.. _XV.n4:
+
+.. [#4] 
+    
+    “Because of the absence of anything whatever not included in the twelve bases, there is no arguing that they are more than twelve” ( [Vism-mhṭ]_ *510*\  ).
+
+
+.. _XV.n5:
+
+.. [#5] 
+    
+    “‘*In other words, the life-continuum mind*\ ’: that which occurs twice in disturbance (see :ref:`Ch. XIV, note 46 <XIV.n46>`). Only when there has been the occurrence of the life-continuum in a state of disturbance (in a state of dissimilar occurrence) is there the arising of adverting, not otherwise. Taking it thus as the reason for adverting, what is called ‘life-continuum mind’ is a door of arising. ‘*Not common to all*\ ’ means not common to eye-consciousness and the rest” (Vism-mhṭ 510). See  [M]_ *I 293*\  .
+
+
+.. _XV.n6:
+
+.. [#6] 
+    
+    “‘*Condition*\ ’ is kamma, etc., ‘destiny’ is from hell upwards; ‘order [*of beings*\ ]’ refers to such species as elephants, horses, etc., or to the castes of the khattiyas (warrior nobles), and so on; ‘*person*\ ’ refers to any given living being’s continuity” ( [Vism-mhṭ]_ *511*\  ).
+
+
+.. _XV.n7:
+
+.. [#7] 
+    
+    There are eighty-one mundane sorts of consciousness; and since there is no path or fruition without jhāna, when the four paths and four fruitions are multiplied by the five jhānas, there are forty kinds of supramundane consciousness: 81+40 = 121.
+
+
+.. _XV.n8:
+
+.. [#8] 
+    
+    “‘*Physical basis*\ ’ is that consisting of the eye, etc.; according to that ‘*Progress*\ ’ is a painful progress, and the other three. ‘*And so on*\ ’ refers to jhāna, predominance, plane, object, and so on” ( [Vism-mhṭ]_ *512*\  ).
+
+
+.. _XV.n9:
+
+.. [#9] 
+    
+    “Blue is similar to blue; it is dissimilar to any other colour. ‘*Condition*\ ’ is kamma, and so on” ( [Vism-mhṭ]_ *512*\  ).
+
+
+.. _XV.n10:
+
+.. [#10] 
+    
+    The verb *dahati*\ , the basis of all these derivatives, means literally “to put.” “There are five meanings stated, since the word *dhātu*\  (element, sort, ‘putting’) has its form established (*siddha*\ ) here by (a) the transitive (*kattu*\ ), (b) the intransitive (*kamma*\ ), (c) the abstract noun (*bhāva*\ ), (d) the instrumental case (*kāraṇa*\ ), and (e) the causative voice (*adhikaraṇa*\ ). Supramundane elements do not sort out (*vidahanti*\ ) the suffering of the round of rebirths; on the contrary, they destroy (*vidhaṃsenti*\ ) it. That is why ‘*mundane’* is specified” ( [Vism-mhṭ]_ *513*\  ).
+
+
+.. _XV.n11:
+
+.. [#11] 
+    
+    “‘*Are elements since they cause [a state’s] own individual essence to be borne*\ ’: here, while the establishment of the word’s form should be understood as “*dadhātī ti dhātu* (it puts, sorts, thus it is an element),’ still taking the word *dhā*\  to share the meanings [of both *dadhāti*\  and *dhāreti*\  (see :ref:`XI.104 <XI.104>`)], there is also the meaning of the active voice different from the first, because the meanings of *vidhāna*\  (sorting out) and *dhāraṇa* (causing to bear) are unconnected. The causing of the bearing of mere individual essences without any permanent living being, is a basic meaning of the word *dhātu* (element), and so it is stated separately” ( [Vism-mhṭ]_ *513*\  ).
+
+
+.. _XV.n12:
+
+.. [#12] 
+    
+    “‘*Are elements like those elements*\ ’: here, just as the word “lion” (*sīha*\ ), which is properly applicable to the bearer of a mane, [is used] of a man, so too the word ‘element,’ which is properly applicable to the constituents of marble, is used of the eye and so on” ( [Vism-mhṭ]_ *513*\  ).
+
+
+.. _XV.n13:
+
+.. [#13] 
+    
+    “‘*Successive definition of cause and fruit*\ ’ is just the state of cause and fruit” ( [Vism-mhṭ]_ *514*\  ).
+
+
+.. _XV.n14:
+
+.. [#14] 
+    
+    “It is the mere cessation of the mind-consciousness element and mental-data element because it is the ceasedness of thought-arisings in the fourth immaterial state” ( [Vism-mhṭ]_ *514*\  ).
+
+
+.. _XV.n15:
+
+.. [#15] 
+    
+    In :ref:`XIV.35 <XIV.35>`–:ref:`70 <XIV.70>`, the material instances listed total 28, that is, 4 primary elements, 9 sense faculties (excluding the tangible-data faculty, which is the 3 elements except water), and 15 kinds of subtle materiality beginning with the femininity faculty (cf. treatment at Dhs §596). Other lists, however, sometimes give a total of 26 kinds, that is, 10 sense faculties (including the tangible-data faculty, which is the 3 primary elements) and 16 kinds of subtle materiality, that is, the above-mentioned 15 plus the water element, which is listed then after the space element (cf. treatment at Dhs §653 and list at  [M-a]_ *II 261*\  ). See Table I.
+
+
+.. _XV.n16:
+
+.. [#16] 
+    
+    “Here the word ‘etc.’ stands for the mind-consciousness element’s states where suitable as root-cause, predominance, kamma, kamma-result, nutriment, faculty, jhāna, and path conditions” ( [Vism-mhṭ]_ *516*\  ).
+
+
+.. _XV.n17:
+
+.. [#17] 
+    
+    “I.e. subtle materiality and Nibbāna” ( [Vism-mhṭ]_ *516*\  ).
+
+
+.. _XV.n18:
+
+.. [#18] 
+    
+    “‘*Life-continuum mind*\ ’ is the life-continuum consciousness occurring twice in disturbance” ( [Vism-mhṭ]_ *516*\  ).
+
+
+.. _XV.n19:
+
+.. [#19] 
+    
+    “Formed elements are secluded in both instances (i.e. when past and future) because their individual essences are unapprehendable then” ( [Vism-mhṭ]_ *516*\  ).
+
+
+.. _XV.n20:
+
+.. [#20] 
+    
+    *Adharāraṇi* (*adho-araṇi*\ )—“lower fire-stick” and *uttarāraṇi*\  (*uttara-araṇi*\ )—“upper fire-stick” are not in PED as such.
