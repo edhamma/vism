@@ -187,7 +187,13 @@ class LatexWriter(object):
             elif layout_type=='consciousness':
                 plastex='\\begin{tabular}{rrl}\n'+tbody+'\\end{tabular}'
                 latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,r]Q[4em,r]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
-            else: raise InvalidValue(f'latex_theme must be one of: ceylon, commentaries, consciousness (not {latex_theme}, XML line {e.sourceline}).')
+            elif layout_type=='mctb2-nana':
+                plastex='\\begin{tabular}{lll}\n'+tbody+'\\end{tabular}'
+                latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[3,l]X[1,l]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
+            elif layout_type=='mctb2-vipassana-jhana':
+                plastex='\\begin{tabular}{ll}\n'+tbody+'\\end{tabular}'
+                latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,l]X[2,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
+            else: raise ValueError(f'latex_theme must be one of: ceylon, commentaries, consciousness (not {latex_theme}, XML line {e.sourceline}).')
             return textwrap.indent(f'\n\n\\ifplastex\n{plastex}\n\\else\n{latex}\\fi\n\\noindent\n',ind)+ind
         elif e.tag=='list':
             if e.attrib['type']=='numbered':
@@ -210,7 +216,7 @@ class LatexWriter(object):
                 assert len(e)%2==0
                 for i in range(0,len(e)//2):
                     label,item=e[2*i],e[2*i+1]
-                    ret+='\n   \item['+self._recurse(label)+'] '+self._recurse(item)
+                    ret+='\n   \\item['+self._recurse(label)+'] '+self._recurse(item)
                 ret+='\n\\end{description}'
             else: raise ValueError(f'Unhandled list type: {e.attrib["type"]}')
             return textwrap.indent(ret,ind)
@@ -228,7 +234,7 @@ class LatexWriter(object):
         elif e.tag=='IGNORE': return ''
         # elif e.tag=='raw':return open('latex/'+e.attrib['file']+'.tex','r').read()
         elif e.tag=='ref':
-            return '\href{'+e.attrib['target'].replace('#','\\#')+'}{'+self._recurse(e)+'}'
+            return '\\href{'+e.attrib['target'].replace('#','\\#')+'}{'+self._recurse(e)+'}'
         elif e.tag=='graphic':
             return '\\begin{center}\\includegraphics[width=\\vismWdPercent{80}]{'+e.attrib['url']+'}\\end{center}'
         raise RuntimeError(f'Unhandled tag <{e.tag}>, line {e.sourceline}')
@@ -373,7 +379,7 @@ class SphinxWriter(object):
                 pre=('\n\n' if ord>0 else '\n\n') ## ??
                 tail=self.recurse(e)
                 # fix what looks like start of enumeration but is not
-                if len(e)>0 and e[0].tag=='span' and re.match('\([0-9]+\) |[0-9]+\. |[a-zA-Z]\. |\([a-zA-Z]\) ',tail): tail='\\'+tail
+                if len(e)>0 and e[0].tag=='span' and re.match(r'\([0-9]+\) |[0-9]+\. |[a-zA-Z]\. |\([a-zA-Z]\) ',tail): tail='\\'+tail
                 return pre+tail
         elif e.tag=='em':
             assert len(e)==0
@@ -402,7 +408,7 @@ class SphinxWriter(object):
                 self.footnotes[mark]=self.recurse(e)
                 return f' [#{mark}]_ '
             elif e.get('type',None)=='TODO':
-                return f'**TODO: {e.text}**\ '
+                return f'**TODO: {e.text}**\\ '
             raise RuntimeError(f'Unhandled <note>, line {e.sourceline}')
         elif e.tag=='lg':
             return '\n\n'+self.recurse(e)
@@ -732,6 +738,9 @@ class SphinxWriterMyST(object):
             if layout_type=='commentaries': ret+=':header-rows: 1\n\n'
             elif layout_type=='ceylon': ret+=':header-rows: 1\n:widths: 30 20 40\n\n'
             elif layout_type=='consciousness': ret+=':width: 80%\n:widths: 4 1 4\n\n'
+            elif layout_type=='mctb2-vipassana-jhana': ret+=':header-rows: 1\n:widths: 30 70\n\n'
+            elif layout_type=='mctb2-nana': ret+=':header-rows: 0\n:widths: 60 20 20\n\n'
+            else: raise RuntimeError('Unknown <table rend="{layout_type}">.')
             maxCol=max([len(tr) for tr in e])
             for irow,tr in enumerate(e):
                 assert tr.tag=='row'
