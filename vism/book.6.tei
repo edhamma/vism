@@ -274,7 +274,7 @@
             <span>Why did Bhadantācariya Buddhaghosa come to Sri Lanka? And why did his work become famous beyond the island’s shores? The bare facts without some interpretation will hardly answer these questions. Certainly, any interpretation must be speculative; but if this is borne in mind, some attempt (without claim for originality) may perhaps be made on the following lines.</span>
           </p>
           <p y="164" x="42" page_id="30" page_no="xxviii">
-            <table rend="ceylon">
+            <table rend="ceylon" style="-latex-long: 1; -latex-colspec: X[2,l]|X[4,l]|X[3,l]; -latex-long-compact: 0; -plastex-colspec: l|l|l; -sphinx-widths: 30 20 40; -sphinx-header-rows: 1;">
               <row>
                 <cell>
                   <span>Kings of Ceylon</span>
@@ -814,7 +814,7 @@
           <p y="143" x="48" page_id="35" page_no="xxxiii">
             <span rend="bold-italic">Commentaries to the Vinaya Piṭaka</span>
           </p>
-          <table rend="commentaries">
+          <table rend="commentaries" style="-latex-colspec: Q[15em]Q[15em]; -sphinx-header-rows: 1;">
             <row>
               <cell>
                 <span>Title</span>
@@ -843,7 +843,7 @@
           <p y="195" x="48" page_id="35" page_no="xxxiii">
             <span rend="bold-italic">Commentaries to the Sutta Piṭaka</span>
           </p>
-          <table rend="commentaries">
+          <table rend="commentaries" style="-latex-colspec: Q[15em]Q[15em]; -sphinx-header-rows: 1;">
             <row>
               <cell>
                 <span>Title</span>
@@ -896,7 +896,7 @@
           <p y="282" x="48" page_id="35" page_no="xxxiii">
             <span rend="bold-italic">Commentary to Suttanipāta</span>
           </p>
-          <table rend="commentaries">
+          <table rend="commentaries" style="-latex-colspec: Q[15em]Q[15em]; -sphinx-header-rows: 1;">
             <row>
               <cell>
                 <span>Title</span>
@@ -925,7 +925,7 @@
           <p y="335" x="48" page_id="35" page_no="xxxiii">
             <span rend="bold-italic">Commentaries to the Abhidhamma Piṭaka</span>
           </p>
-          <table rend="commentaries">
+          <table rend="commentaries" style="-latex-colspec: Q[15em]Q[15em]; -sphinx-header-rows: 1;">
             <row>
               <cell>
                 <span>Title</span>
@@ -29341,7 +29341,7 @@
           <p y="503" x="59" page_id="533" page_no="475">
             <span>Herein, the thirteen given as such are these: </span>
           </p>
-          <table rend="consciousness">
+          <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
             <row>
               <cell>
                 <span>contact</span>
@@ -29458,54 +29458,10 @@
               </cell>
             </row>
           </table>
-          <IGNORE>
-            <lg y="518" x="119" page_id="533" page_no="475">
-              <l>
-                <span>contact (i),</span>
-              </l>
-              <l>
-                <span>volition (ii),</span>
-              </l>
-              <l>
-                <span>applied thought (iii),</span>
-              </l>
-              <l>
-                <pb ed="BPS2011" pdf_page="534" n="476"/>
-                <span>sustained thought (iv),</span>
-              </l>
-              <l>
-                <span>happiness (v),</span>
-              </l>
-              <l>
-                <span>energy (vi),</span>
-              </l>
-              <l>
-                <span>life (vii),</span>
-              </l>
-              <l>
-                <span>concentration (viii),</span>
-              </l>
-              <l>
-                <span>(xxxvii) consciencelessness,</span>
-              </l>
-              <l>
-                <span>(xxxviii) shamelessness,</span>
-              </l>
-              <l>
-                <span>(xxxix) greed,</span>
-              </l>
-              <l>
-                <span>(xl) delusion,</span>
-              </l>
-              <l>
-                <span>(xli) wrong view.</span>
-              </l>
-            </lg>
-          </IGNORE>
           <p y="177" x="53" page_id="534" page_no="476">
             <span>The four or-whatever-states are these:</span>
           </p>
-          <table rend="consciousness">
+          <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
             <row>
               <cell>
                 <span>zeal</span>
@@ -29547,22 +29503,6 @@
           </cell>
             </row>
           </table>
-          <IGNORE>
-            <lg y="192" x="113" page_id="534" page_no="476">
-              <l>
-                <span>zeal (xxviii),</span>
-              </l>
-              <l>
-                <span>resolution (xxix),</span>
-              </l>
-              <l>
-                <span>(xlii) agitation,</span>
-              </l>
-              <l>
-                <span>attention (xxx).</span>
-              </l>
-            </lg>
-          </IGNORE>
           <p y="241" x="41" page_id="534" page_no="476" id="XIV.160" n="160">
             <span>Herein, (xxxvii) it has no conscientious scruples, thus it is </span>
             <em>consciencelessness</em>
@@ -29671,7 +29611,7 @@
             <ptr type="bib" target="Dhs" loc="§413">Dhs §413</ptr>
             <span>), four or-whatever-states, and three inconstant. Herein the eleven given as such are these:</span>
           </p>
-          <table rend="consciousness">
+          <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
             <row>
               <cell>
                 <pb ed="BPS2011" pdf_page="536" n="478"/>
@@ -29766,47 +29706,9 @@
           </cell>
             </row>
           </table>
-          <IGNORE>
-            <lg y="58" x="113" page_id="536" page_no="478">
-              <l>
-                <pb ed="BPS2011" pdf_page="536" n="478"/>
-                <span>contact (i),</span>
-              </l>
-              <l>
-                <span>volition (ii),</span>
-              </l>
-              <l>
-                <span>applied thought (iii),</span>
-              </l>
-              <l>
-                <span>sustained thought (iv),</span>
-              </l>
-              <l>
-                <span>energy (vi),</span>
-              </l>
-              <l>
-                <span>life (vii),</span>
-              </l>
-              <l>
-                <span>concentration (viii),</span>
-              </l>
-              <l>
-                <span>consciencelessness (xxxvii),</span>
-              </l>
-              <l>
-                <span>shamelessness (xxxviii),</span>
-              </l>
-              <l>
-                <span>(xiv) hate,</span>
-              </l>
-              <l>
-                <span>delusion (xl).</span>
-              </l>
-            </lg>
-          </IGNORE>
           <p y="189" x="53" page_id="536" page_no="478">
             <span>The four or-whatever-states are these:</span>
-            <table rend="consciousness">
+            <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
               <row>
                 <cell>
                   <span>zeal</span>
@@ -29842,26 +29744,10 @@
                 </cell>
               </row>
             </table>
-            <IGNORE>
-              <lg y="204" x="113" page_id="536" page_no="478">
-                <l>
-                  <span>zeal (xxviii),</span>
-                </l>
-                <l>
-                  <span>resolution (xxix),</span>
-                </l>
-                <l>
-                  <span>agitation (xlii),</span>
-                </l>
-                <l>
-                  <span>attention (xxx).</span>
-                </l>
-              </lg>
-            </IGNORE>
           </p>
           <p y="253" x="53" page_id="536" page_no="478">
             <span>The three inconstant are these:</span>
-            <table rend="consciousness">
+            <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
               <row>
                 <cell>
             </cell>
@@ -29893,19 +29779,6 @@
                 </cell>
               </row>
             </table>
-            <IGNORE>
-              <lg y="268" x="72" page_id="536" page_no="478">
-                <l>
-                  <span>(xlvi) envy,</span>
-                </l>
-                <l>
-                  <span>(xlvii) avarice,</span>
-                </l>
-                <l>
-                  <span>(xlviii) worry.</span>
-                </l>
-              </lg>
-            </IGNORE>
           </p>
           <p y="305" x="41" page_id="536" page_no="478" id="XIV.171" n="171">
             <span>Herein, (xlv) by its means they hate, or it itself hates, or it is just mere hating, thus it is </span>
@@ -29965,7 +29838,7 @@
             <pb ed="PTS" n="471"/>
             <span> are the eleven given in the texts as such thus:</span>
           </p>
-          <table rend="consciousness">
+          <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
             <row>
               <cell>
                 <span>contact</span>
@@ -30077,47 +29950,10 @@
               </cell>
             </row>
           </table>
-          <IGNORE>
-            <lg y="175" x="119" page_id="537" page_no="479">
-              <l>
-                <span>contact (i),</span>
-              </l>
-              <l>
-                <span>volition (ii),</span>
-              </l>
-              <l>
-                <span>applied thought (iii),</span>
-              </l>
-              <l>
-                <span>sustained thought (iv),</span>
-              </l>
-              <l>
-                <span>energy (vi),</span>
-              </l>
-              <l>
-                <span>life (vii),</span>
-              </l>
-              <l>
-                <span>(xlix) steadiness of consciousness,</span>
-              </l>
-              <l>
-                <span>consciencelessness (xxxvii),</span>
-              </l>
-              <l>
-                <span>shamelessness (xxxviii),</span>
-              </l>
-              <l>
-                <span>delusion (xl),</span>
-              </l>
-              <l>
-                <span>(l) uncertainty.</span>
-              </l>
-            </lg>
-          </IGNORE>
           <p y="305" x="59" page_id="537" page_no="479">
             <span>The or-whatever-states are these two:</span>
           </p>
-          <table rend="consciousness">
+          <table rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
             <row>
               <cell>
                 <span>agitation</span>
@@ -30139,16 +29975,6 @@
           </cell>
             </row>
           </table>
-          <IGNORE>
-            <lg y="320" x="119" page_id="537" page_no="479">
-              <l>
-                <span>agitation (xlii),</span>
-              </l>
-              <l>
-                <span>attention (xxx).</span>
-              </l>
-            </lg>
-          </IGNORE>
           <p y="346" x="59" page_id="537" page_no="479">
             <span>And these together total thirteen.</span>
           </p>
@@ -30202,7 +30028,7 @@
           </p>
           <p y="122" x="41" page_id="538" page_no="480">
             <span>Herein, firstly, those associated with the profitable resultant (34) and unprofitable resultant (50) eye-consciousness are the four given in the texts as such, namely:</span>
-            <table y="160" x="113" page_id="538" page_no="480" rend="consciousness">
+            <table y="160" x="113" page_id="538" page_no="480" rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
               <row>
                 <cell>
                   <span>contact</span>
@@ -30244,24 +30070,8 @@
             </cell>
               </row>
             </table>
-            <IGNORE>
-              <lg y="160" x="113" page_id="538" page_no="480">
-                <l>
-                  <span>contact (i),</span>
-                </l>
-                <l>
-                  <span>volition (ii),</span>
-                </l>
-                <l>
-                  <span>life (vii),</span>
-                </l>
-                <l>
-                  <span>steadiness of consciousness (xlix),</span>
-                </l>
-              </lg>
-            </IGNORE>
             <span>which amount to five with</span>
-            <table y="224" x="113" page_id="538" page_no="480" rend="consciousness">
+            <table y="224" x="113" page_id="538" page_no="480" rend="consciousness" style="-latex-long: 1; -latex-colspec: X[1,r]Q[4em,r]X[1,l]; -plastex-colspec: rrl; -sphinx-width: 80%; -sphinx-widths: 4 1 4;">
               <row>
                 <cell>
                   <span>attention</span>

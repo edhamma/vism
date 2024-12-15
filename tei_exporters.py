@@ -11,6 +11,27 @@ import git, urllib.parse
 vismCommit=(head:=git.Repo(search_parent_directories=True).head).object.hexsha[:7]
 vismCommitTimestampQuery=urllib.parse.quote('in version '+vismCommit+' dated '+head.commit.committed_datetime.date().isoformat())
 
+import pydantic
+import typing
+
+class TableStyle(pydantic.BaseModel,extra='forbid'):
+    latex_colspec: str
+    plastex_colspec: str|None=None
+    latex_long: bool=False
+    latex_long_compact: bool=True
+    sphinx_header_rows: int=0
+    sphinx_widths: str|None=None
+    sphinx_width: str|None=None
+
+    @staticmethod
+    def fromStyleAttr(style: str, sourceline: int) -> 'TableStyle':
+        try:
+            return TableStyle.model_validate(dict([((kv:=ss.split(':'))[0].strip().removeprefix('-').replace('-','_'),kv[1].strip()) for ss in style.split(';') if ss.strip()!='']))
+        except pydantic.ValidationError as e:
+            print(f'*** ERROR *** parsing style specification at line {sourceline}: {style}')
+            raise
+
+
 def latex_write_defs(out):
     vismCommitTimestampQuery_=vismCommitTimestampQuery.replace("%","\\%")
     open(out,'w').write(f'''
@@ -176,24 +197,34 @@ class LatexWriter(object):
             tbody='    '+'\\\\\n    '.join([' & '.join([self._recurse(td) for td in tr]).strip() for tr in e])+'\n'
             nRows,nCols=len(e),len(e[0])
             assert 'rend' in e.attrib,f'<table> without @rend at line {e.sourceline}'
-            layout_type=e.attrib['rend']
-            if layout_type=='ceylon':
-                # env,lCols,xCols='l|l|l','X[2,l]|X[4,l]|X[3,l]'
-                plastex='\\begin{tabular}{l|l|l}\n'+tbody+'\\end{tabular}'
-                latex='\\begin{longtblr}{colspec={X[2,l]|X[4,l]|X[3,l]}}\n'+tbody+'\\end{longtblr}'
-            elif layout_type=='commentaries':
-                plastex='\\begin{tabular}{ll}\n'+tbody+'\\end{tabular}'
-                latex='\\begin{tblr}{colspec={Q[15em]Q[15em]}}\n'+tbody+'\\end{tblr}'
-            elif layout_type=='consciousness':
-                plastex='\\begin{tabular}{rrl}\n'+tbody+'\\end{tabular}'
-                latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,r]Q[4em,r]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
-            elif layout_type=='mctb2-nana':
-                plastex='\\begin{tabular}{lll}\n'+tbody+'\\end{tabular}'
-                latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[3,l]X[1,l]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
-            elif layout_type=='mctb2-vipassana-jhana':
-                plastex='\\begin{tabular}{ll}\n'+tbody+'\\end{tabular}'
-                latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,l]X[2,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
-            else: raise ValueError(f'latex_theme must be one of: ceylon, commentaries, consciousness (not {latex_theme}, XML line {e.sourceline}).')
+            assert 'style' in e.attrib,f'<table> without @style at line {e.sourceline}'
+            if 1:
+                sty=TableStyle.fromStyleAttr(e.attrib['style'],e.sourceline)
+                if sty.plastex_colspec is None: sty.plastex_colspec=nCols*'l'
+                plastex='\\begin{tabular}{'+sty.plastex_colspec+'}\n'+tbody+'\\end{tabular}'
+                if sty.latex_long:
+                    opts,rowsep=(('[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]',',rowsep=0pt') if sty.latex_long_compact else ('',''))
+                    latex='\\begin{longtblr}'+opts+'{colspec={'+sty.latex_colspec+'}'+rowsep+'}\n'+tbody+'\\end{longtblr}'
+                else: latex='\\begin{tblr}{colspec={'+sty.latex_colspec+'}}\n'+tbody+'\\end{tblr}'
+            else:
+                layout_type=e.attrib['rend']
+                if layout_type=='ceylon':
+                    # env,lCols,xCols='l|l|l','X[2,l]|X[4,l]|X[3,l]'
+                    plastex='\\begin{tabular}{l|l|l}\n'+tbody+'\\end{tabular}'
+                    latex='\\begin{longtblr}{colspec={X[2,l]|X[4,l]|X[3,l]}}\n'+tbody+'\\end{longtblr}'
+                elif layout_type=='commentaries':
+                    plastex='\\begin{tabular}{ll}\n'+tbody+'\\end{tabular}'
+                    latex='\\begin{tblr}{colspec={Q[15em]Q[15em]}}\n'+tbody+'\\end{tblr}'
+                elif layout_type=='consciousness':
+                    plastex='\\begin{tabular}{rrl}\n'+tbody+'\\end{tabular}'
+                    latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,r]Q[4em,r]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
+                elif layout_type=='mctb2-nana':
+                    plastex='\\begin{tabular}{lll}\n'+tbody+'\\end{tabular}'
+                    latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[3,l]X[1,l]X[1,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
+                elif layout_type=='mctb2-vipassana-jhana':
+                    plastex='\\begin{tabular}{ll}\n'+tbody+'\\end{tabular}'
+                    latex='\\begin{longtblr}[theme=vismNaked,presep=\\smallskipamount,postsep=\\smallskipamount]{colspec={X[1,l]X[2,l]},rowsep=0pt}\n'+tbody+'\\end{longtblr}'
+                else: raise ValueError(f'latex_theme must be one of: ceylon, commentaries, consciousness (not {latex_theme}, XML line {e.sourceline}).')
             return textwrap.indent(f'\n\n\\ifplastex\n{plastex}\n\\else\n{latex}\\fi\n\\noindent\n',ind)+ind
         elif e.tag=='list':
             if e.attrib['type']=='numbered':
@@ -733,14 +764,20 @@ class SphinxWriterMyST(object):
             return f'\n\n{title}\n: '+self.recurse(e)
         elif e.tag=='IGNORE': return ''
         elif e.tag=='table':
-            layout_type=e.attrib['rend']
             ret=f'\n\n:::{{list-table}}\n'
-            if layout_type=='commentaries': ret+=':header-rows: 1\n\n'
-            elif layout_type=='ceylon': ret+=':header-rows: 1\n:widths: 30 20 40\n\n'
-            elif layout_type=='consciousness': ret+=':width: 80%\n:widths: 4 1 4\n\n'
-            elif layout_type=='mctb2-vipassana-jhana': ret+=':header-rows: 1\n:widths: 30 70\n\n'
-            elif layout_type=='mctb2-nana': ret+=':header-rows: 0\n:widths: 60 20 20\n\n'
-            else: raise RuntimeError('Unknown <table rend="{layout_type}">.')
+            if 1:
+                sty=TableStyle.fromStyleAttr(e.attrib['style'],e.sourceline)
+                if sty.sphinx_header_rows>0: ret+=':header-rows: {sty.sphinx_header_rows}'
+                if sty.sphinx_widths is not None: ret+=':widths: {sty.sphinx_widths}'
+                if sty.sphinx_width is not None: ret+=':width: {sty.sphinx_width}'
+            else:
+                layout_type=e.attrib['rend']
+                if layout_type=='commentaries': ret+=':header-rows: 1\n\n'
+                elif layout_type=='ceylon': ret+=':header-rows: 1\n:widths: 30 20 40\n\n'
+                elif layout_type=='consciousness': ret+=':width: 80%\n:widths: 4 1 4\n\n'
+                elif layout_type=='mctb2-vipassana-jhana': ret+=':header-rows: 1\n:widths: 30 70\n\n'
+                elif layout_type=='mctb2-nana': ret+=':header-rows: 0\n:widths: 60 20 20\n\n'
+                else: raise RuntimeError('Unknown <table rend="{layout_type}">.')
             maxCol=max([len(tr) for tr in e])
             for irow,tr in enumerate(e):
                 assert tr.tag=='row'
