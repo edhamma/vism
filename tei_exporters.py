@@ -767,9 +767,9 @@ class SphinxWriterMyST(object):
             ret=f'\n\n:::{{list-table}}\n'
             if 1:
                 sty=TableStyle.fromStyleAttr(e.attrib['style'],e.sourceline)
-                if sty.sphinx_header_rows>0: ret+=':header-rows: {sty.sphinx_header_rows}'
-                if sty.sphinx_widths is not None: ret+=':widths: {sty.sphinx_widths}'
-                if sty.sphinx_width is not None: ret+=':width: {sty.sphinx_width}'
+                if sty.sphinx_header_rows>0: ret+=f':header-rows: {sty.sphinx_header_rows}\n'
+                if sty.sphinx_widths is not None: ret+=f':widths: {sty.sphinx_widths}\n'
+                if sty.sphinx_width is not None: ret+=f':width: {sty.sphinx_width}\n'
             else:
                 layout_type=e.attrib['rend']
                 if layout_type=='commentaries': ret+=':header-rows: 1\n\n'
