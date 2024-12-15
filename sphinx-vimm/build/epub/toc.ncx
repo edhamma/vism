@@ -1,0 +1,2792 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="vimuttimagga"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Vimuttimagga — Digital</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Vimuttimagga</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Front</text>
+      </navLabel>
+      <content src="front.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Front</text>
+        </navLabel>
+        <content src="front.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Prefaces</text>
+        </navLabel>
+        <content src="front-A.xhtml" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>Prefaces</text>
+          </navLabel>
+          <content src="front-A.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>Electronic edition note</text>
+          </navLabel>
+          <content src="front-A.xhtml#electronic-edition-note" />  
+        </navPoint>
+        <navPoint id="navPoint7" playOrder="5">
+          <navLabel>
+            <text>Dedication quote</text>
+          </navLabel>
+          <content src="front-A.xhtml#dedication-quote" />  
+        </navPoint>
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>Editorial data</text>
+          </navLabel>
+          <content src="front-A.xhtml#editorial-data" />  
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Dedication</text>
+          </navLabel>
+          <content src="front-A.xhtml#dedication" />  
+        </navPoint>
+        <navPoint id="navPoint10" playOrder="8">
+          <navLabel>
+            <text>Prefatory Note to Original Draft Translation</text>
+          </navLabel>
+          <content src="front-A.xhtml#prefatory-note-to-original-draft-translation" />  
+        </navPoint>
+        <navPoint id="navPoint11" playOrder="9">
+          <navLabel>
+            <text>Acknowledgments (Original Draft Translation)</text>
+          </navLabel>
+          <content src="front-A.xhtml#acknowledgments-original-draft-translation" />  
+        </navPoint>
+        <navPoint id="navPoint12" playOrder="10">
+          <navLabel>
+            <text>Preface</text>
+          </navLabel>
+          <content src="front-A.xhtml#preface" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="11">
+        <navLabel>
+          <text>In Memoriam: Soma Mahā Thera (1898—1960)</text>
+        </navLabel>
+        <content src="front-B.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="12">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="front-C.xhtml" />  
+        <navPoint id="navPoint15" playOrder="12">
+          <navLabel>
+            <text>Introduction</text>
+          </navLabel>
+          <content src="front-C.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint16" playOrder="13">
+          <navLabel>
+            <text>Tipiṭaka Sanghapāla Thera of Funan</text>
+          </navLabel>
+          <content src="front-C.xhtml#tipitaka-sanghapala-thera-of-funan" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="14">
+          <navLabel>
+            <text>The Visuddhimagga</text>
+          </navLabel>
+          <content src="front-C.xhtml#the-visuddhimagga" />  
+        </navPoint>
+        <navPoint id="navPoint18" playOrder="15">
+          <navLabel>
+            <text>The Vimuttimagga and the Visuddhimagga</text>
+          </navLabel>
+          <content src="front-C.xhtml#the-vimuttimagga-and-the-visuddhimagga" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint19" playOrder="16">
+        <navLabel>
+          <text>Bibliography</text>
+        </navLabel>
+        <content src="front-D.xhtml" />  
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>Bibliography</text>
+          </navLabel>
+          <content src="front-D.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>Abbreviations</text>
+          </navLabel>
+          <content src="front-D.xhtml#abbreviations" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint22" playOrder="18">
+      <navLabel>
+        <text>I. Introductory discourse</text>
+      </navLabel>
+      <content src="ch-01.xhtml" />  
+      <navPoint id="navPoint23" playOrder="18">
+        <navLabel>
+          <text>I. Introductory discourse</text>
+        </navLabel>
+        <content src="ch-01.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="19">
+        <navLabel>
+          <text>Salutation</text>
+        </navLabel>
+        <content src="ch-01.xhtml#salutation" />  
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="20">
+        <navLabel>
+          <text>Introductory stanza</text>
+        </navLabel>
+        <content src="ch-01.xhtml#introductory-stanza" />  
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="21">
+        <navLabel>
+          <text>Path of freedom described</text>
+        </navLabel>
+        <content src="ch-01.xhtml#path-of-freedom-described" />  
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="22">
+        <navLabel>
+          <text>Merits of acknowledgement of the path</text>
+        </navLabel>
+        <content src="ch-01.xhtml#merits-of-acknowledgement-of-the-path" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="23">
+        <navLabel>
+          <text>Three trainings</text>
+        </navLabel>
+        <content src="ch-01.xhtml#three-trainings" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>The meaning of training</text>
+        </navLabel>
+        <content src="ch-01.xhtml#the-meaning-of-training" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="25">
+        <navLabel>
+          <text>Removal of impurities</text>
+        </navLabel>
+        <content src="ch-01.xhtml#removal-of-impurities" />  
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="26">
+        <navLabel>
+          <text>The three kinds of good</text>
+        </navLabel>
+        <content src="ch-01.xhtml#the-three-kinds-of-good" />  
+      </navPoint>
+      <navPoint id="navPoint32" playOrder="27">
+        <navLabel>
+          <text>The three kinds of happiness</text>
+        </navLabel>
+        <content src="ch-01.xhtml#the-three-kinds-of-happiness" />  
+      </navPoint>
+      <navPoint id="navPoint33" playOrder="28">
+        <navLabel>
+          <text>Perfection of the middle way</text>
+        </navLabel>
+        <content src="ch-01.xhtml#perfection-of-the-middle-way" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint34" playOrder="29">
+      <navLabel>
+        <text>II. On distinguishing virtue</text>
+      </navLabel>
+      <content src="ch-02.xhtml" />  
+      <navPoint id="navPoint35" playOrder="29">
+        <navLabel>
+          <text>II. On distinguishing virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="30">
+        <navLabel>
+          <text>Virtue defined</text>
+        </navLabel>
+        <content src="ch-02.xhtml#virtue-defined" />  
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="31">
+        <navLabel>
+          <text>Salient characteristic of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#salient-characteristic-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="32">
+        <navLabel>
+          <text>Function, manifestation and near cause of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#function-manifestation-and-near-cause-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint39" playOrder="33">
+        <navLabel>
+          <text>Benefits of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#benefits-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="34">
+        <navLabel>
+          <text>Meaning of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#meaning-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="35">
+        <navLabel>
+          <text>Virtue and mode of life</text>
+        </navLabel>
+        <content src="ch-02.xhtml#virtue-and-mode-of-life" />  
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="36">
+        <navLabel>
+          <text>Thee kinds of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#thee-kinds-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="37">
+        <navLabel>
+          <text>What produces virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#what-produces-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint44" playOrder="38">
+        <navLabel>
+          <text>Stages in virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#stages-in-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint45" playOrder="39">
+        <navLabel>
+          <text>Impediments and causes of virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#impediments-and-causes-of-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint46" playOrder="40">
+        <navLabel>
+          <text>Groups of virtue (various)</text>
+        </navLabel>
+        <content src="ch-02.xhtml#groups-of-virtue-various" />  
+        <navPoint id="navPoint47" playOrder="40">
+          <navLabel>
+            <text>Groups of virtue (various)</text>
+          </navLabel>
+          <content src="ch-02.xhtml#groups-of-virtue-various" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="41">
+          <navLabel>
+            <text>First group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#first-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="42">
+          <navLabel>
+            <text>Second group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#second-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="43">
+          <navLabel>
+            <text>Third group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#third-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="44">
+          <navLabel>
+            <text>Fourth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fourth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="45">
+          <navLabel>
+            <text>Fifth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fifth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="46">
+          <navLabel>
+            <text>Sixth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#sixth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint54" playOrder="47">
+          <navLabel>
+            <text>Seventh group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#seventh-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint55" playOrder="48">
+          <navLabel>
+            <text>Eighth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#eighth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="49">
+          <navLabel>
+            <text>Ninth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#ninth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="50">
+          <navLabel>
+            <text>Tenth group of two in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#tenth-group-of-two-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="51">
+          <navLabel>
+            <text>First group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#first-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint59" playOrder="52">
+          <navLabel>
+            <text>Second group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#second-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint60" playOrder="53">
+          <navLabel>
+            <text>Third group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#third-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint61" playOrder="54">
+          <navLabel>
+            <text>Fourth group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fourth-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint62" playOrder="55">
+          <navLabel>
+            <text>Fifth group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fifth-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="56">
+          <navLabel>
+            <text>Sixth group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#sixth-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint64" playOrder="57">
+          <navLabel>
+            <text>Seventh group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#seventh-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint65" playOrder="58">
+          <navLabel>
+            <text>Eighth group of three in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#eighth-group-of-three-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint66" playOrder="59">
+          <navLabel>
+            <text>First group of four in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#first-group-of-four-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint67" playOrder="60">
+          <navLabel>
+            <text>Second group of four in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#second-group-of-four-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint68" playOrder="61">
+          <navLabel>
+            <text>Third group of four in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#third-group-of-four-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint69" playOrder="62">
+          <navLabel>
+            <text>Fourth group of four in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fourth-group-of-four-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint70" playOrder="63">
+          <navLabel>
+            <text>Fifth group of four in virtue</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fifth-group-of-four-in-virtue" />  
+        </navPoint>
+        <navPoint id="navPoint71" playOrder="64">
+          <navLabel>
+            <text>Fifth group of four in virtue summarized</text>
+          </navLabel>
+          <content src="ch-02.xhtml#fifth-group-of-four-in-virtue-summarized" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint72" playOrder="65">
+        <navLabel>
+          <text>What purifies virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#what-purifies-virtue" />  
+      </navPoint>
+      <navPoint id="navPoint73" playOrder="66">
+        <navLabel>
+          <text>Causes through which one dwells in virtue</text>
+        </navLabel>
+        <content src="ch-02.xhtml#causes-through-which-one-dwells-in-virtue" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint74" playOrder="67">
+      <navLabel>
+        <text>III. On austerities</text>
+      </navLabel>
+      <content src="ch-03.xhtml" />  
+      <navPoint id="navPoint75" playOrder="67">
+        <navLabel>
+          <text>III. On austerities</text>
+        </navLabel>
+        <content src="ch-03.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint76" playOrder="68">
+        <navLabel>
+          <text>The thirteen austerities</text>
+        </navLabel>
+        <content src="ch-03.xhtml#the-thirteen-austerities" />  
+      </navPoint>
+      <navPoint id="navPoint77" playOrder="69">
+        <navLabel>
+          <text>Brief explanation of the thirteen austerities</text>
+        </navLabel>
+        <content src="ch-03.xhtml#brief-explanation-of-the-thirteen-austerities" />  
+      </navPoint>
+      <navPoint id="navPoint78" playOrder="70">
+        <navLabel>
+          <text>‘Dirt-rags’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#dirt-rags" />  
+      </navPoint>
+      <navPoint id="navPoint79" playOrder="71">
+        <navLabel>
+          <text>‘Three robes’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#three-robes" />  
+      </navPoint>
+      <navPoint id="navPoint80" playOrder="72">
+        <navLabel>
+          <text>‘Begged food’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#begged-food" />  
+      </navPoint>
+      <navPoint id="navPoint81" playOrder="73">
+        <navLabel>
+          <text>‘Regular alms-round’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#regular-alms-round" />  
+      </navPoint>
+      <navPoint id="navPoint82" playOrder="74">
+        <navLabel>
+          <text>‘One-eating’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#one-eating" />  
+      </navPoint>
+      <navPoint id="navPoint83" playOrder="75">
+        <navLabel>
+          <text>‘Measured food’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#measured-food" />  
+      </navPoint>
+      <navPoint id="navPoint84" playOrder="76">
+        <navLabel>
+          <text>‘No food after time’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#no-food-after-time" />  
+      </navPoint>
+      <navPoint id="navPoint85" playOrder="77">
+        <navLabel>
+          <text>‘Dwelling in a peaceful place’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#dwelling-in-a-peaceful-place" />  
+      </navPoint>
+      <navPoint id="navPoint86" playOrder="78">
+        <navLabel>
+          <text>‘Dwelling under a tree’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#dwelling-under-a-tree" />  
+      </navPoint>
+      <navPoint id="navPoint87" playOrder="79">
+        <navLabel>
+          <text>‘Dwelling in a dewy place’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#dwelling-in-a-dewy-place" />  
+      </navPoint>
+      <navPoint id="navPoint88" playOrder="80">
+        <navLabel>
+          <text>‘Dwelling among the graves’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#dwelling-among-the-graves" />  
+      </navPoint>
+      <navPoint id="navPoint89" playOrder="81">
+        <navLabel>
+          <text>‘Any chanced upon place’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#any-chanced-upon-place" />  
+      </navPoint>
+      <navPoint id="navPoint90" playOrder="82">
+        <navLabel>
+          <text>‘Always sitting and not lying down’</text>
+        </navLabel>
+        <content src="ch-03.xhtml#always-sitting-and-not-lying-down" />  
+      </navPoint>
+      <navPoint id="navPoint91" playOrder="83">
+        <navLabel>
+          <text>Expedience in the observance of the austerities</text>
+        </navLabel>
+        <content src="ch-03.xhtml#expedience-in-the-observance-of-the-austerities" />  
+      </navPoint>
+      <navPoint id="navPoint92" playOrder="84">
+        <navLabel>
+          <text>Miscellaneous teachings</text>
+        </navLabel>
+        <content src="ch-03.xhtml#miscellaneous-teachings" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint93" playOrder="85">
+      <navLabel>
+        <text>IV. On distinguishing concentration</text>
+      </navLabel>
+      <content src="ch-04.xhtml" />  
+      <navPoint id="navPoint94" playOrder="85">
+        <navLabel>
+          <text>IV. On distinguishing concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint95" playOrder="86">
+        <navLabel>
+          <text>Meaning of concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml#meaning-of-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint96" playOrder="87">
+        <navLabel>
+          <text>Salient characteristic etc.</text>
+        </navLabel>
+        <content src="ch-04.xhtml#salient-characteristic-etc" />  
+      </navPoint>
+      <navPoint id="navPoint97" playOrder="88">
+        <navLabel>
+          <text>Benefits produced by concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml#benefits-produced-by-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint98" playOrder="89">
+        <navLabel>
+          <text>Obstacles to concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml#obstacles-to-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint99" playOrder="90">
+        <navLabel>
+          <text>Causes of concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml#causes-of-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint100" playOrder="91">
+        <navLabel>
+          <text>Requisites of concentration</text>
+        </navLabel>
+        <content src="ch-04.xhtml#requisites-of-concentration" />  
+      </navPoint>
+      <navPoint id="navPoint101" playOrder="92">
+        <navLabel>
+          <text>Kinds of concentration (Various)</text>
+        </navLabel>
+        <content src="ch-04.xhtml#kinds-of-concentration-various" />  
+        <navPoint id="navPoint102" playOrder="92">
+          <navLabel>
+            <text>Kinds of concentration (Various)</text>
+          </navLabel>
+          <content src="ch-04.xhtml#kinds-of-concentration-various" />  
+        </navPoint>
+        <navPoint id="navPoint103" playOrder="93">
+          <navLabel>
+            <text>Two kinds of concentration</text>
+          </navLabel>
+          <content src="ch-04.xhtml#two-kinds-of-concentration" />  
+        </navPoint>
+        <navPoint id="navPoint104" playOrder="94">
+          <navLabel>
+            <text>Three kinds of concentration</text>
+          </navLabel>
+          <content src="ch-04.xhtml#three-kinds-of-concentration" />  
+        </navPoint>
+        <navPoint id="navPoint105" playOrder="95">
+          <navLabel>
+            <text>Four kinds of concentration</text>
+          </navLabel>
+          <content src="ch-04.xhtml#four-kinds-of-concentration" />  
+        </navPoint>
+        <navPoint id="navPoint106" playOrder="96">
+          <navLabel>
+            <text>Five kinds of concentration</text>
+          </navLabel>
+          <content src="ch-04.xhtml#five-kinds-of-concentration" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint107" playOrder="97">
+        <navLabel>
+          <text>Miscellaneous teachings</text>
+        </navLabel>
+        <content src="ch-04.xhtml#miscellaneous-teachings" />  
+        <navPoint id="navPoint108" playOrder="97">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-04.xhtml#miscellaneous-teachings" />  
+        </navPoint>
+        <navPoint id="navPoint109" playOrder="98">
+          <navLabel>
+            <text>Why four and five meditations are taught</text>
+          </navLabel>
+          <content src="ch-04.xhtml#why-four-and-five-meditations-are-taught" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint110" playOrder="99">
+      <navLabel>
+        <text>V. On approaching a good friend</text>
+      </navLabel>
+      <content src="ch-05.xhtml" />  
+      <navPoint id="navPoint111" playOrder="99">
+        <navLabel>
+          <text>V. On approaching a good friend</text>
+        </navLabel>
+        <content src="ch-05.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint112" playOrder="100">
+        <navLabel>
+          <text>Qualities of a good friend</text>
+        </navLabel>
+        <content src="ch-05.xhtml#qualities-of-a-good-friend" />  
+      </navPoint>
+      <navPoint id="navPoint113" playOrder="101">
+        <navLabel>
+          <text>The search for a good friend</text>
+        </navLabel>
+        <content src="ch-05.xhtml#the-search-for-a-good-friend" />  
+      </navPoint>
+      <navPoint id="navPoint114" playOrder="102">
+        <navLabel>
+          <text>A beginner’s duties</text>
+        </navLabel>
+        <content src="ch-05.xhtml#a-beginners-duties" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint115" playOrder="103">
+      <navLabel>
+        <text>VI. The distinguishing of behaviour</text>
+      </navLabel>
+      <content src="ch-06.xhtml" />  
+      <navPoint id="navPoint116" playOrder="103">
+        <navLabel>
+          <text>VI. The distinguishing of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint117" playOrder="104">
+        <navLabel>
+          <text>Kinds of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml#kinds-of-behaviour" />  
+      </navPoint>
+      <navPoint id="navPoint118" playOrder="105">
+        <navLabel>
+          <text>Fourteen kinds of persons</text>
+        </navLabel>
+        <content src="ch-06.xhtml#fourteen-kinds-of-persons" />  
+      </navPoint>
+      <navPoint id="navPoint119" playOrder="106">
+        <navLabel>
+          <text>Fourteen kinds reduced to seven</text>
+        </navLabel>
+        <content src="ch-06.xhtml#fourteen-kinds-reduced-to-seven" />  
+      </navPoint>
+      <navPoint id="navPoint120" playOrder="107">
+        <navLabel>
+          <text>Modes of practice</text>
+        </navLabel>
+        <content src="ch-06.xhtml#modes-of-practice" />  
+      </navPoint>
+      <navPoint id="navPoint121" playOrder="108">
+        <navLabel>
+          <text>Seven reduced to three</text>
+        </navLabel>
+        <content src="ch-06.xhtml#seven-reduced-to-three" />  
+      </navPoint>
+      <navPoint id="navPoint122" playOrder="109">
+        <navLabel>
+          <text>Causes of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml#causes-of-behaviour" />  
+      </navPoint>
+      <navPoint id="navPoint123" playOrder="110">
+        <navLabel>
+          <text>Elements as causes of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml#elements-as-causes-of-behaviour" />  
+      </navPoint>
+      <navPoint id="navPoint124" playOrder="111">
+        <navLabel>
+          <text>The humours as causes of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml#the-humours-as-causes-of-behaviour" />  
+      </navPoint>
+      <navPoint id="navPoint125" playOrder="112">
+        <navLabel>
+          <text>Seven aspects of behaviour</text>
+        </navLabel>
+        <content src="ch-06.xhtml#seven-aspects-of-behaviour" />  
+      </navPoint>
+      <navPoint id="navPoint126" playOrder="113">
+        <navLabel>
+          <text>On robbing, begging, sitting, sleeping and resort</text>
+        </navLabel>
+        <content src="ch-06.xhtml#on-robbing-begging-sitting-sleeping-and-resort" />  
+      </navPoint>
+      <navPoint id="navPoint127" playOrder="114">
+        <navLabel>
+          <text>Miscellaneous teachings</text>
+        </navLabel>
+        <content src="ch-06.xhtml#miscellaneous-teachings" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint128" playOrder="115">
+      <navLabel>
+        <text>VII. The distinguishing of the subjects of meditation</text>
+      </navLabel>
+      <content src="ch-07.xhtml" />  
+      <navPoint id="navPoint129" playOrder="115">
+        <navLabel>
+          <text>VII. The distinguishing of the subjects of meditation</text>
+        </navLabel>
+        <content src="ch-07.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint130" playOrder="116">
+        <navLabel>
+          <text>Thirty-eight subjects of meditation</text>
+        </navLabel>
+        <content src="ch-07.xhtml#thirty-eight-subjects-of-meditation" />  
+      </navPoint>
+      <navPoint id="navPoint131" playOrder="117">
+        <navLabel>
+          <text>Method of discovering the qualities</text>
+        </navLabel>
+        <content src="ch-07.xhtml#method-of-discovering-the-qualities" />  
+      </navPoint>
+      <navPoint id="navPoint132" playOrder="118">
+        <navLabel>
+          <text>By way of meditation</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-meditation" />  
+      </navPoint>
+      <navPoint id="navPoint133" playOrder="119">
+        <navLabel>
+          <text>By way of transcending</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-transcending" />  
+      </navPoint>
+      <navPoint id="navPoint134" playOrder="120">
+        <navLabel>
+          <text>By way of increasing</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-increasing" />  
+      </navPoint>
+      <navPoint id="navPoint135" playOrder="121">
+        <navLabel>
+          <text>By way of cause</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-cause" />  
+      </navPoint>
+      <navPoint id="navPoint136" playOrder="122">
+        <navLabel>
+          <text>By way of object</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-object" />  
+      </navPoint>
+      <navPoint id="navPoint137" playOrder="123">
+        <navLabel>
+          <text>By way of speciality</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-speciality" />  
+      </navPoint>
+      <navPoint id="navPoint138" playOrder="124">
+        <navLabel>
+          <text>By way of plane</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-plane" />  
+      </navPoint>
+      <navPoint id="navPoint139" playOrder="125">
+        <navLabel>
+          <text>By way of seizing</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-seizing" />  
+      </navPoint>
+      <navPoint id="navPoint140" playOrder="126">
+        <navLabel>
+          <text>By way of person</text>
+        </navLabel>
+        <content src="ch-07.xhtml#by-way-of-person" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint141" playOrder="127">
+      <navLabel>
+        <text>VIII. Entrance into the subject of meditation</text>
+      </navLabel>
+      <content src="ch-08.xhtml" />  
+      <navPoint id="navPoint142" playOrder="127">
+        <navLabel>
+          <text>VIII. Entrance into the subject of meditation</text>
+        </navLabel>
+        <content src="ch-08.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint143" playOrder="128">
+        <navLabel>
+          <text>Section One</text>
+        </navLabel>
+        <content src="ch-08.xhtml#section-one" />  
+        <navPoint id="navPoint144" playOrder="128">
+          <navLabel>
+            <text>Section One</text>
+          </navLabel>
+          <content src="ch-08.xhtml#section-one" />  
+        </navPoint>
+        <navPoint id="navPoint145" playOrder="129">
+          <navLabel>
+            <text>Earth kasiṇa, its practice, salient characteristic, function and near cause</text>
+          </navLabel>
+          <content src="ch-08.xhtml#earth-kasina-its-practice-salient-characteristic-function-and-near-cause" />  
+        </navPoint>
+        <navPoint id="navPoint146" playOrder="130">
+          <navLabel>
+            <text>Benefits</text>
+          </navLabel>
+          <content src="ch-08.xhtml#benefits" />  
+        </navPoint>
+        <navPoint id="navPoint147" playOrder="131">
+          <navLabel>
+            <text>Meaning of kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#meaning-of-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint148" playOrder="132">
+          <navLabel>
+            <text>Kinds of earth</text>
+          </navLabel>
+          <content src="ch-08.xhtml#kinds-of-earth" />  
+        </navPoint>
+        <navPoint id="navPoint149" playOrder="133">
+          <navLabel>
+            <text>Non-prepared earth</text>
+          </navLabel>
+          <content src="ch-08.xhtml#non-prepared-earth" />  
+        </navPoint>
+        <navPoint id="navPoint150" playOrder="134">
+          <navLabel>
+            <text>On making a mandala</text>
+          </navLabel>
+          <content src="ch-08.xhtml#on-making-a-mandala" />  
+        </navPoint>
+        <navPoint id="navPoint151" playOrder="135">
+          <navLabel>
+            <text>Method of earth kasiṇa meditation</text>
+          </navLabel>
+          <content src="ch-08.xhtml#method-of-earth-kasina-meditation" />  
+        </navPoint>
+        <navPoint id="navPoint152" playOrder="136">
+          <navLabel>
+            <text>Tribulations of sense-desires illustrated in twenty similes</text>
+          </navLabel>
+          <content src="ch-08.xhtml#tribulations-of-sense-desires-illustrated-in-twenty-similes" />  
+        </navPoint>
+        <navPoint id="navPoint153" playOrder="137">
+          <navLabel>
+            <text>Renunciation and its benefits</text>
+          </navLabel>
+          <content src="ch-08.xhtml#renunciation-and-its-benefits" />  
+        </navPoint>
+        <navPoint id="navPoint154" playOrder="138">
+          <navLabel>
+            <text>Method of practice of earth kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#method-of-practice-of-earth-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint155" playOrder="139">
+          <navLabel>
+            <text>Three ways of sign-taking</text>
+          </navLabel>
+          <content src="ch-08.xhtml#three-ways-of-sign-taking" />  
+        </navPoint>
+        <navPoint id="navPoint156" playOrder="140">
+          <navLabel>
+            <text>Grasping sign</text>
+          </navLabel>
+          <content src="ch-08.xhtml#grasping-sign" />  
+        </navPoint>
+        <navPoint id="navPoint157" playOrder="141">
+          <navLabel>
+            <text>The after-image</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-after-image" />  
+        </navPoint>
+        <navPoint id="navPoint158" playOrder="142">
+          <navLabel>
+            <text>The sign</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-sign" />  
+        </navPoint>
+        <navPoint id="navPoint159" playOrder="143">
+          <navLabel>
+            <text>Protecting the sign</text>
+          </navLabel>
+          <content src="ch-08.xhtml#protecting-the-sign" />  
+        </navPoint>
+        <navPoint id="navPoint160" playOrder="144">
+          <navLabel>
+            <text>Access-meditation</text>
+          </navLabel>
+          <content src="ch-08.xhtml#access-meditation" />  
+        </navPoint>
+        <navPoint id="navPoint161" playOrder="145">
+          <navLabel>
+            <text>Fixed meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#fixed-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint162" playOrder="146">
+          <navLabel>
+            <text>Increasing of the kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#increasing-of-the-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint163" playOrder="147">
+          <navLabel>
+            <text>Skilfulness in fixed meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#skilfulness-in-fixed-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint164" playOrder="148">
+          <navLabel>
+            <text>Ten ways</text>
+          </navLabel>
+          <content src="ch-08.xhtml#ten-ways" />  
+        </navPoint>
+        <navPoint id="navPoint165" playOrder="149">
+          <navLabel>
+            <text>Simile of the horse-chariot</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-horse-chariot" />  
+        </navPoint>
+        <navPoint id="navPoint166" playOrder="150">
+          <navLabel>
+            <text>Simile of the inked-string</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-inked-string" />  
+        </navPoint>
+        <navPoint id="navPoint167" playOrder="151">
+          <navLabel>
+            <text>The first meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-first-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint168" playOrder="152">
+          <navLabel>
+            <text>Three kinds of separation from lust and demeritorious states</text>
+          </navLabel>
+          <content src="ch-08.xhtml#three-kinds-of-separation-from-lust-and-demeritorious-states" />  
+        </navPoint>
+        <navPoint id="navPoint169" playOrder="153">
+          <navLabel>
+            <text>Two kinds of lust</text>
+          </navLabel>
+          <content src="ch-08.xhtml#two-kinds-of-lust" />  
+        </navPoint>
+        <navPoint id="navPoint170" playOrder="154">
+          <navLabel>
+            <text>Roots of demerit</text>
+          </navLabel>
+          <content src="ch-08.xhtml#roots-of-demerit" />  
+        </navPoint>
+        <navPoint id="navPoint171" playOrder="155">
+          <navLabel>
+            <text>Reasons for treating lust and demerit separately</text>
+          </navLabel>
+          <content src="ch-08.xhtml#reasons-for-treating-lust-and-demerit-separately" />  
+        </navPoint>
+        <navPoint id="navPoint172" playOrder="156">
+          <navLabel>
+            <text>Separation from demeritorious states</text>
+          </navLabel>
+          <content src="ch-08.xhtml#separation-from-demeritorious-states" />  
+        </navPoint>
+        <navPoint id="navPoint173" playOrder="157">
+          <navLabel>
+            <text>Difference between lust and demerit</text>
+          </navLabel>
+          <content src="ch-08.xhtml#difference-between-lust-and-demerit" />  
+        </navPoint>
+        <navPoint id="navPoint174" playOrder="158">
+          <navLabel>
+            <text>Initial and sustained application of thought</text>
+          </navLabel>
+          <content src="ch-08.xhtml#initial-and-sustained-application-of-thought" />  
+        </navPoint>
+        <navPoint id="navPoint175" playOrder="159">
+          <navLabel>
+            <text>Initial application and sustained application of thought discriminated</text>
+          </navLabel>
+          <content src="ch-08.xhtml#initial-application-and-sustained-application-of-thought-discriminated" />  
+        </navPoint>
+        <navPoint id="navPoint176" playOrder="160">
+          <navLabel>
+            <text>Similes of the bell etc.</text>
+          </navLabel>
+          <content src="ch-08.xhtml#similes-of-the-bell-etc" />  
+        </navPoint>
+        <navPoint id="navPoint177" playOrder="161">
+          <navLabel>
+            <text>Similes of the bird etc.</text>
+          </navLabel>
+          <content src="ch-08.xhtml#similes-of-the-bird-etc" />  
+        </navPoint>
+        <navPoint id="navPoint178" playOrder="162">
+          <navLabel>
+            <text>Solitude</text>
+          </navLabel>
+          <content src="ch-08.xhtml#solitude" />  
+        </navPoint>
+        <navPoint id="navPoint179" playOrder="163">
+          <navLabel>
+            <text>Joy and bliss</text>
+          </navLabel>
+          <content src="ch-08.xhtml#joy-and-bliss" />  
+        </navPoint>
+        <navPoint id="navPoint180" playOrder="164">
+          <navLabel>
+            <text>Five kinds of joy</text>
+          </navLabel>
+          <content src="ch-08.xhtml#five-kinds-of-joy" />  
+        </navPoint>
+        <navPoint id="navPoint181" playOrder="165">
+          <navLabel>
+            <text>Bliss</text>
+          </navLabel>
+          <content src="ch-08.xhtml#bliss" />  
+        </navPoint>
+        <navPoint id="navPoint182" playOrder="166">
+          <navLabel>
+            <text>Five kinds of bliss</text>
+          </navLabel>
+          <content src="ch-08.xhtml#five-kinds-of-bliss" />  
+        </navPoint>
+        <navPoint id="navPoint183" playOrder="167">
+          <navLabel>
+            <text>Differences between joy and bliss</text>
+          </navLabel>
+          <content src="ch-08.xhtml#differences-between-joy-and-bliss" />  
+        </navPoint>
+        <navPoint id="navPoint184" playOrder="168">
+          <navLabel>
+            <text>First meditation (jhāna)</text>
+          </navLabel>
+          <content src="ch-08.xhtml#first-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint185" playOrder="169">
+          <navLabel>
+            <text>Five hindrances</text>
+          </navLabel>
+          <content src="ch-08.xhtml#five-hindrances" />  
+        </navPoint>
+        <navPoint id="navPoint186" playOrder="170">
+          <navLabel>
+            <text>Five factors</text>
+          </navLabel>
+          <content src="ch-08.xhtml#five-factors" />  
+        </navPoint>
+        <navPoint id="navPoint187" playOrder="171">
+          <navLabel>
+            <text>Similes of chariot and army</text>
+          </navLabel>
+          <content src="ch-08.xhtml#similes-of-chariot-and-army" />  
+        </navPoint>
+        <navPoint id="navPoint188" playOrder="172">
+          <navLabel>
+            <text>Three kinds of goodness</text>
+          </navLabel>
+          <content src="ch-08.xhtml#three-kinds-of-goodness" />  
+        </navPoint>
+        <navPoint id="navPoint189" playOrder="173">
+          <navLabel>
+            <text>Ten characteristics</text>
+          </navLabel>
+          <content src="ch-08.xhtml#ten-characteristics" />  
+        </navPoint>
+        <navPoint id="navPoint190" playOrder="174">
+          <navLabel>
+            <text>Twenty-five benefits</text>
+          </navLabel>
+          <content src="ch-08.xhtml#twenty-five-benefits" />  
+        </navPoint>
+        <navPoint id="navPoint191" playOrder="175">
+          <navLabel>
+            <text>Simile of the bath-attendant</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-bath-attendant" />  
+        </navPoint>
+        <navPoint id="navPoint192" playOrder="176">
+          <navLabel>
+            <text>Three kinds of rebirth</text>
+          </navLabel>
+          <content src="ch-08.xhtml#three-kinds-of-rebirth" />  
+        </navPoint>
+        <navPoint id="navPoint193" playOrder="177">
+          <navLabel>
+            <text>Meditation which partakes of deterioration, stability, distinction and penetration</text>
+          </navLabel>
+          <content src="ch-08.xhtml#meditation-which-partakes-of-deterioration-stability-distinction-and-penetration" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint194" playOrder="178">
+        <navLabel>
+          <text>Section Two</text>
+        </navLabel>
+        <content src="ch-08.xhtml#section-two" />  
+        <navPoint id="navPoint195" playOrder="178">
+          <navLabel>
+            <text>Section Two</text>
+          </navLabel>
+          <content src="ch-08.xhtml#section-two" />  
+        </navPoint>
+        <navPoint id="navPoint196" playOrder="179">
+          <navLabel>
+            <text>The simile of the young cow</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-simile-of-the-young-cow" />  
+        </navPoint>
+        <navPoint id="navPoint197" playOrder="180">
+          <navLabel>
+            <text>Entrance into the second meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#entrance-into-the-second-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint198" playOrder="181">
+          <navLabel>
+            <text>Simile of the pool of water</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-pool-of-water" />  
+        </navPoint>
+        <navPoint id="navPoint199" playOrder="182">
+          <navLabel>
+            <text>The third meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-third-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint200" playOrder="183">
+          <navLabel>
+            <text>Simile of the calf</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-calf" />  
+        </navPoint>
+        <navPoint id="navPoint201" playOrder="184">
+          <navLabel>
+            <text>Simile of the lotus pond</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-lotus-pond" />  
+        </navPoint>
+        <navPoint id="navPoint202" playOrder="185">
+          <navLabel>
+            <text>The fourth meditation, jhāna</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-fourth-meditation-jhana" />  
+        </navPoint>
+        <navPoint id="navPoint203" playOrder="186">
+          <navLabel>
+            <text>Simile of the white cloth</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-white-cloth" />  
+        </navPoint>
+        <navPoint id="navPoint204" playOrder="187">
+          <navLabel>
+            <text>The sphere of the infinity of space</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-sphere-of-the-infinity-of-space" />  
+        </navPoint>
+        <navPoint id="navPoint205" playOrder="188">
+          <navLabel>
+            <text>The concentration of the sphere of infinite consciousness</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-concentration-of-the-sphere-of-infinite-consciousness" />  
+        </navPoint>
+        <navPoint id="navPoint206" playOrder="189">
+          <navLabel>
+            <text>The sphere of nothingness</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-sphere-of-nothingness" />  
+        </navPoint>
+        <navPoint id="navPoint207" playOrder="190">
+          <navLabel>
+            <text>The sphere of neither perception nor non-perception</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-sphere-of-neither-perception-nor-non-perception" />  
+        </navPoint>
+        <navPoint id="navPoint208" playOrder="191">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-08.xhtml#miscellaneous-teachings" />  
+        </navPoint>
+        <navPoint id="navPoint209" playOrder="192">
+          <navLabel>
+            <text>The water kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-water-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint210" playOrder="193">
+          <navLabel>
+            <text>The fire kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-fire-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint211" playOrder="194">
+          <navLabel>
+            <text>The air kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-air-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint212" playOrder="195">
+          <navLabel>
+            <text>The blue-green kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-blue-green-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint213" playOrder="196">
+          <navLabel>
+            <text>The yellow kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-yellow-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint214" playOrder="197">
+          <navLabel>
+            <text>The red kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-red-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint215" playOrder="198">
+          <navLabel>
+            <text>The white kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-white-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint216" playOrder="199">
+          <navLabel>
+            <text>The light kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-light-kasina" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint217" playOrder="200">
+        <navLabel>
+          <text>Section Three</text>
+        </navLabel>
+        <content src="ch-08.xhtml#section-three" />  
+        <navPoint id="navPoint218" playOrder="200">
+          <navLabel>
+            <text>Section Three</text>
+          </navLabel>
+          <content src="ch-08.xhtml#section-three" />  
+        </navPoint>
+        <navPoint id="navPoint219" playOrder="201">
+          <navLabel>
+            <text>The (separated) space kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-separated-space-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint220" playOrder="202">
+          <navLabel>
+            <text>The consciousness kasiṇa</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-consciousness-kasina" />  
+        </navPoint>
+        <navPoint id="navPoint221" playOrder="203">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-08.xhtml#id126" />  
+        </navPoint>
+        <navPoint id="navPoint222" playOrder="204">
+          <navLabel>
+            <text>The ten perceptions of putrescence</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-ten-perceptions-of-putrescence" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint223" playOrder="205">
+        <navLabel>
+          <text>Section Four</text>
+        </navLabel>
+        <content src="ch-08.xhtml#section-four" />  
+        <navPoint id="navPoint224" playOrder="205">
+          <navLabel>
+            <text>Section Four</text>
+          </navLabel>
+          <content src="ch-08.xhtml#section-four" />  
+        </navPoint>
+        <navPoint id="navPoint225" playOrder="206">
+          <navLabel>
+            <text>Mindfulness of respiration</text>
+          </navLabel>
+          <content src="ch-08.xhtml#mindfulness-of-respiration" />  
+        </navPoint>
+        <navPoint id="navPoint226" playOrder="207">
+          <navLabel>
+            <text>Benefits</text>
+          </navLabel>
+          <content src="ch-08.xhtml#id198" />  
+        </navPoint>
+        <navPoint id="navPoint227" playOrder="208">
+          <navLabel>
+            <text>Procedure</text>
+          </navLabel>
+          <content src="ch-08.xhtml#procedure" />  
+        </navPoint>
+        <navPoint id="navPoint228" playOrder="209">
+          <navLabel>
+            <text>Counting, connection, contacting and fixing</text>
+          </navLabel>
+          <content src="ch-08.xhtml#counting-connection-contacting-and-fixing" />  
+        </navPoint>
+        <navPoint id="navPoint229" playOrder="210">
+          <navLabel>
+            <text>Sixteen ways of training in mindfulness of respiration</text>
+          </navLabel>
+          <content src="ch-08.xhtml#sixteen-ways-of-training-in-mindfulness-of-respiration" />  
+        </navPoint>
+        <navPoint id="navPoint230" playOrder="211">
+          <navLabel>
+            <text>The three trainings</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-three-trainings" />  
+        </navPoint>
+        <navPoint id="navPoint231" playOrder="212">
+          <navLabel>
+            <text>The four foundations of mindfulness</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-four-foundations-of-mindfulness" />  
+        </navPoint>
+        <navPoint id="navPoint232" playOrder="213">
+          <navLabel>
+            <text>The seven enlightenment factors</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-seven-enlightenment-factors" />  
+        </navPoint>
+        <navPoint id="navPoint233" playOrder="214">
+          <navLabel>
+            <text>Mindfulness of death</text>
+          </navLabel>
+          <content src="ch-08.xhtml#mindfulness-of-death" />  
+        </navPoint>
+        <navPoint id="navPoint234" playOrder="215">
+          <navLabel>
+            <text>Similes of the foam, plantain trunk and bubble</text>
+          </navLabel>
+          <content src="ch-08.xhtml#similes-of-the-foam-plantain-trunk-and-bubble" />  
+        </navPoint>
+        <navPoint id="navPoint235" playOrder="216">
+          <navLabel>
+            <text>Mindfulness of body</text>
+          </navLabel>
+          <content src="ch-08.xhtml#mindfulness-of-body" />  
+        </navPoint>
+        <navPoint id="navPoint236" playOrder="217">
+          <navLabel>
+            <text>Thirty-two parts of the body</text>
+          </navLabel>
+          <content src="ch-08.xhtml#thirty-two-parts-of-the-body" />  
+        </navPoint>
+        <navPoint id="navPoint237" playOrder="218">
+          <navLabel>
+            <text>Mindfulness in thirteen ways</text>
+          </navLabel>
+          <content src="ch-08.xhtml#mindfulness-in-thirteen-ways" />  
+        </navPoint>
+        <navPoint id="navPoint238" playOrder="219">
+          <navLabel>
+            <text>The worms that rely on the body</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-worms-that-rely-on-the-body" />  
+        </navPoint>
+        <navPoint id="navPoint239" playOrder="220">
+          <navLabel>
+            <text>Bones of the body</text>
+          </navLabel>
+          <content src="ch-08.xhtml#bones-of-the-body" />  
+        </navPoint>
+        <navPoint id="navPoint240" playOrder="221">
+          <navLabel>
+            <text>Impurity of the body</text>
+          </navLabel>
+          <content src="ch-08.xhtml#impurity-of-the-body" />  
+        </navPoint>
+        <navPoint id="navPoint241" playOrder="222">
+          <navLabel>
+            <text>Some diseases</text>
+          </navLabel>
+          <content src="ch-08.xhtml#some-diseases" />  
+        </navPoint>
+        <navPoint id="navPoint242" playOrder="223">
+          <navLabel>
+            <text>The recollection of peace</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-recollection-of-peace" />  
+        </navPoint>
+        <navPoint id="navPoint243" playOrder="224">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-08.xhtml#id270" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint244" playOrder="225">
+        <navLabel>
+          <text>Section Five</text>
+        </navLabel>
+        <content src="ch-08.xhtml#section-five" />  
+        <navPoint id="navPoint245" playOrder="225">
+          <navLabel>
+            <text>Section Five</text>
+          </navLabel>
+          <content src="ch-08.xhtml#section-five" />  
+        </navPoint>
+        <navPoint id="navPoint246" playOrder="226">
+          <navLabel>
+            <text>The immeasurable thought of loving-kindness</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-immeasurable-thought-of-loving-kindness" />  
+        </navPoint>
+        <navPoint id="navPoint247" playOrder="227">
+          <navLabel>
+            <text>Disadvantages of anger and resentment</text>
+          </navLabel>
+          <content src="ch-08.xhtml#disadvantages-of-anger-and-resentment" />  
+        </navPoint>
+        <navPoint id="navPoint248" playOrder="228">
+          <navLabel>
+            <text>Simile of the saw</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-saw" />  
+        </navPoint>
+        <navPoint id="navPoint249" playOrder="229">
+          <navLabel>
+            <text>Twelve means of removing hatred</text>
+          </navLabel>
+          <content src="ch-08.xhtml#twelve-means-of-removing-hatred" />  
+        </navPoint>
+        <navPoint id="navPoint250" playOrder="230">
+          <navLabel>
+            <text>Simile of the pond</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-pond" />  
+        </navPoint>
+        <navPoint id="navPoint251" playOrder="231">
+          <navLabel>
+            <text>Ten perfections</text>
+          </navLabel>
+          <content src="ch-08.xhtml#ten-perfections" />  
+        </navPoint>
+        <navPoint id="navPoint252" playOrder="232">
+          <navLabel>
+            <text>The four resolves</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-four-resolves" />  
+        </navPoint>
+        <navPoint id="navPoint253" playOrder="233">
+          <navLabel>
+            <text>The immeasurable thought of compassion</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-immeasurable-thought-of-compassion" />  
+        </navPoint>
+        <navPoint id="navPoint254" playOrder="234">
+          <navLabel>
+            <text>The immeasurable thought of appreciative joy</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-immeasurable-thought-of-appreciative-joy" />  
+        </navPoint>
+        <navPoint id="navPoint255" playOrder="235">
+          <navLabel>
+            <text>The immeasurable thought of equanimity</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-immeasurable-thought-of-equanimity" />  
+        </navPoint>
+        <navPoint id="navPoint256" playOrder="236">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-08.xhtml#id324" />  
+        </navPoint>
+        <navPoint id="navPoint257" playOrder="237">
+          <navLabel>
+            <text>The determining of the four elements</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-determining-of-the-four-elements" />  
+        </navPoint>
+        <navPoint id="navPoint258" playOrder="238">
+          <navLabel>
+            <text>Twenty ways of grasping the element of earth</text>
+          </navLabel>
+          <content src="ch-08.xhtml#twenty-ways-of-grasping-the-element-of-earth" />  
+        </navPoint>
+        <navPoint id="navPoint259" playOrder="239">
+          <navLabel>
+            <text>Twelve ways of grasping the element of water</text>
+          </navLabel>
+          <content src="ch-08.xhtml#twelve-ways-of-grasping-the-element-of-water" />  
+        </navPoint>
+        <navPoint id="navPoint260" playOrder="240">
+          <navLabel>
+            <text>Four ways of grasping the element of fire</text>
+          </navLabel>
+          <content src="ch-08.xhtml#four-ways-of-grasping-the-element-of-fire" />  
+        </navPoint>
+        <navPoint id="navPoint261" playOrder="241">
+          <navLabel>
+            <text>Six ways of grasping the element of air</text>
+          </navLabel>
+          <content src="ch-08.xhtml#six-ways-of-grasping-the-element-of-air" />  
+        </navPoint>
+        <navPoint id="navPoint262" playOrder="242">
+          <navLabel>
+            <text>The four elements</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-four-elements" />  
+        </navPoint>
+        <navPoint id="navPoint263" playOrder="243">
+          <navLabel>
+            <text>Simile of the puppet</text>
+          </navLabel>
+          <content src="ch-08.xhtml#simile-of-the-puppet" />  
+        </navPoint>
+        <navPoint id="navPoint264" playOrder="244">
+          <navLabel>
+            <text>The loathsomeness of food</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-loathsomeness-of-food" />  
+        </navPoint>
+        <navPoint id="navPoint265" playOrder="245">
+          <navLabel>
+            <text>The dwelling of the homeless</text>
+          </navLabel>
+          <content src="ch-08.xhtml#the-dwelling-of-the-homeless" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint266" playOrder="246">
+      <navLabel>
+        <text>IX. The five forms of higher knowledge</text>
+      </navLabel>
+      <content src="ch-09.xhtml" />  
+      <navPoint id="navPoint267" playOrder="246">
+        <navLabel>
+          <text>IX. The five forms of higher knowledge</text>
+        </navLabel>
+        <content src="ch-09.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint268" playOrder="247">
+        <navLabel>
+          <text>Three kinds of supernormal power</text>
+        </navLabel>
+        <content src="ch-09.xhtml#three-kinds-of-supernormal-power" />  
+      </navPoint>
+      <navPoint id="navPoint269" playOrder="248">
+        <navLabel>
+          <text>Seven kinds of supernormal power</text>
+        </navLabel>
+        <content src="ch-09.xhtml#seven-kinds-of-supernormal-power" />  
+      </navPoint>
+      <navPoint id="navPoint270" playOrder="249">
+        <navLabel>
+          <text>Procedure of developing supernormal power</text>
+        </navLabel>
+        <content src="ch-09.xhtml#procedure-of-developing-supernormal-power" />  
+      </navPoint>
+      <navPoint id="navPoint271" playOrder="250">
+        <navLabel>
+          <text>Supernormal power of resolve</text>
+        </navLabel>
+        <content src="ch-09.xhtml#supernormal-power-of-resolve" />  
+      </navPoint>
+      <navPoint id="navPoint272" playOrder="251">
+        <navLabel>
+          <text>Supernormal power of transformation</text>
+        </navLabel>
+        <content src="ch-09.xhtml#supernormal-power-of-transformation" />  
+      </navPoint>
+      <navPoint id="navPoint273" playOrder="252">
+        <navLabel>
+          <text>Supernormal power caused by mind</text>
+        </navLabel>
+        <content src="ch-09.xhtml#supernormal-power-caused-by-mind" />  
+      </navPoint>
+      <navPoint id="navPoint274" playOrder="253">
+        <navLabel>
+          <text>Miscellaneous teachings</text>
+        </navLabel>
+        <content src="ch-09.xhtml#miscellaneous-teachings" />  
+      </navPoint>
+      <navPoint id="navPoint275" playOrder="254">
+        <navLabel>
+          <text>Divine hearing</text>
+        </navLabel>
+        <content src="ch-09.xhtml#divine-hearing" />  
+      </navPoint>
+      <navPoint id="navPoint276" playOrder="255">
+        <navLabel>
+          <text>Knowledge of others’ thoughts</text>
+        </navLabel>
+        <content src="ch-09.xhtml#knowledge-of-others-thoughts" />  
+      </navPoint>
+      <navPoint id="navPoint277" playOrder="256">
+        <navLabel>
+          <text>Recollection of past lives</text>
+        </navLabel>
+        <content src="ch-09.xhtml#recollection-of-past-lives" />  
+      </navPoint>
+      <navPoint id="navPoint278" playOrder="257">
+        <navLabel>
+          <text>Divine sight</text>
+        </navLabel>
+        <content src="ch-09.xhtml#divine-sight" />  
+      </navPoint>
+      <navPoint id="navPoint279" playOrder="258">
+        <navLabel>
+          <text>Miscellaneous teachings</text>
+        </navLabel>
+        <content src="ch-09.xhtml#id50" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint280" playOrder="259">
+      <navLabel>
+        <text>X. On distinguishing wisdom</text>
+      </navLabel>
+      <content src="ch-10.xhtml" />  
+      <navPoint id="navPoint281" playOrder="259">
+        <navLabel>
+          <text>X. On distinguishing wisdom</text>
+        </navLabel>
+        <content src="ch-10.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint282" playOrder="260">
+        <navLabel>
+          <text>Wisdom defined</text>
+        </navLabel>
+        <content src="ch-10.xhtml#wisdom-defined" />  
+      </navPoint>
+      <navPoint id="navPoint283" playOrder="261">
+        <navLabel>
+          <text>Benefits of wisdom</text>
+        </navLabel>
+        <content src="ch-10.xhtml#benefits-of-wisdom" />  
+      </navPoint>
+      <navPoint id="navPoint284" playOrder="262">
+        <navLabel>
+          <text>Meaning of wisdom</text>
+        </navLabel>
+        <content src="ch-10.xhtml#meaning-of-wisdom" />  
+      </navPoint>
+      <navPoint id="navPoint285" playOrder="263">
+        <navLabel>
+          <text>Two kinds of wisdom</text>
+        </navLabel>
+        <content src="ch-10.xhtml#two-kinds-of-wisdom" />  
+      </navPoint>
+      <navPoint id="navPoint286" playOrder="264">
+        <navLabel>
+          <text>Groups of wisdom (various)</text>
+        </navLabel>
+        <content src="ch-10.xhtml#groups-of-wisdom-various" />  
+        <navPoint id="navPoint287" playOrder="264">
+          <navLabel>
+            <text>Groups of wisdom (various)</text>
+          </navLabel>
+          <content src="ch-10.xhtml#groups-of-wisdom-various" />  
+        </navPoint>
+        <navPoint id="navPoint288" playOrder="265">
+          <navLabel>
+            <text>First group of three in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#first-group-of-three-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint289" playOrder="266">
+          <navLabel>
+            <text>Second group of three in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#second-group-of-three-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint290" playOrder="267">
+          <navLabel>
+            <text>Third group of three in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#third-group-of-three-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint291" playOrder="268">
+          <navLabel>
+            <text>First group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#first-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint292" playOrder="269">
+          <navLabel>
+            <text>Second group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#second-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint293" playOrder="270">
+          <navLabel>
+            <text>Third group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#third-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint294" playOrder="271">
+          <navLabel>
+            <text>Fourth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#fourth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint295" playOrder="272">
+          <navLabel>
+            <text>Fifth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#fifth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint296" playOrder="273">
+          <navLabel>
+            <text>Sixth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#sixth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint297" playOrder="274">
+          <navLabel>
+            <text>Seventh group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#seventh-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint298" playOrder="275">
+          <navLabel>
+            <text>Eighth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#eighth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint299" playOrder="276">
+          <navLabel>
+            <text>Ninth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#ninth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint300" playOrder="277">
+          <navLabel>
+            <text>Tenth group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#tenth-group-of-four-in-wisdom" />  
+        </navPoint>
+        <navPoint id="navPoint301" playOrder="278">
+          <navLabel>
+            <text>Eleventh group of four in wisdom</text>
+          </navLabel>
+          <content src="ch-10.xhtml#eleventh-group-of-four-in-wisdom" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint302" playOrder="279">
+      <navLabel>
+        <text>XI. The five methods</text>
+      </navLabel>
+      <content src="ch-11.xhtml" />  
+      <navPoint id="navPoint303" playOrder="279">
+        <navLabel>
+          <text>XI. The five methods</text>
+        </navLabel>
+        <content src="ch-11.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint304" playOrder="280">
+        <navLabel>
+          <text>Section One</text>
+        </navLabel>
+        <content src="ch-11.xhtml#section-one" />  
+        <navPoint id="navPoint305" playOrder="280">
+          <navLabel>
+            <text>Section One</text>
+          </navLabel>
+          <content src="ch-11.xhtml#section-one" />  
+        </navPoint>
+        <navPoint id="navPoint306" playOrder="281">
+          <navLabel>
+            <text>The aggregate of form</text>
+          </navLabel>
+          <content src="ch-11.xhtml#the-aggregate-of-form" />  
+        </navPoint>
+        <navPoint id="navPoint307" playOrder="282">
+          <navLabel>
+            <text>Four primaries defined</text>
+          </navLabel>
+          <content src="ch-11.xhtml#four-primaries-defined" />  
+        </navPoint>
+        <navPoint id="navPoint308" playOrder="283">
+          <navLabel>
+            <text>Derived material qualities</text>
+          </navLabel>
+          <content src="ch-11.xhtml#derived-material-qualities" />  
+        </navPoint>
+        <navPoint id="navPoint309" playOrder="284">
+          <navLabel>
+            <text>Sense-organ of eye</text>
+          </navLabel>
+          <content src="ch-11.xhtml#sense-organ-of-eye" />  
+        </navPoint>
+        <navPoint id="navPoint310" playOrder="285">
+          <navLabel>
+            <text>Sense-organ of ear</text>
+          </navLabel>
+          <content src="ch-11.xhtml#sense-organ-of-ear" />  
+        </navPoint>
+        <navPoint id="navPoint311" playOrder="286">
+          <navLabel>
+            <text>Sense-organ of nose</text>
+          </navLabel>
+          <content src="ch-11.xhtml#sense-organ-of-nose" />  
+        </navPoint>
+        <navPoint id="navPoint312" playOrder="287">
+          <navLabel>
+            <text>Sense-organ of tongue</text>
+          </navLabel>
+          <content src="ch-11.xhtml#sense-organ-of-tongue" />  
+        </navPoint>
+        <navPoint id="navPoint313" playOrder="288">
+          <navLabel>
+            <text>Sense-organ of body</text>
+          </navLabel>
+          <content src="ch-11.xhtml#sense-organ-of-body" />  
+        </navPoint>
+        <navPoint id="navPoint314" playOrder="289">
+          <navLabel>
+            <text>Difference between the four primaries and derived matter</text>
+          </navLabel>
+          <content src="ch-11.xhtml#difference-between-the-four-primaries-and-derived-matter" />  
+        </navPoint>
+        <navPoint id="navPoint315" playOrder="290">
+          <navLabel>
+            <text>Simile of the three sticks</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-three-sticks" />  
+        </navPoint>
+        <navPoint id="navPoint316" playOrder="291">
+          <navLabel>
+            <text>Material qualities by way of arising</text>
+          </navLabel>
+          <content src="ch-11.xhtml#material-qualities-by-way-of-arising" />  
+        </navPoint>
+        <navPoint id="navPoint317" playOrder="292">
+          <navLabel>
+            <text>Material qualities by way of group</text>
+          </navLabel>
+          <content src="ch-11.xhtml#material-qualities-by-way-of-group" />  
+        </navPoint>
+        <navPoint id="navPoint318" playOrder="293">
+          <navLabel>
+            <text>Material qualities by way of birth</text>
+          </navLabel>
+          <content src="ch-11.xhtml#material-qualities-by-way-of-birth" />  
+        </navPoint>
+        <navPoint id="navPoint319" playOrder="294">
+          <navLabel>
+            <text>Material qualities by way of diversity,—groups of two in material qualities</text>
+          </navLabel>
+          <content src="ch-11.xhtml#material-qualities-by-way-of-diversity-groups-of-two-in-material-qualities" />  
+        </navPoint>
+        <navPoint id="navPoint320" playOrder="295">
+          <navLabel>
+            <text>Groups of three in material qualities</text>
+          </navLabel>
+          <content src="ch-11.xhtml#groups-of-three-in-material-qualities" />  
+        </navPoint>
+        <navPoint id="navPoint321" playOrder="296">
+          <navLabel>
+            <text>Four kinds of material qualities</text>
+          </navLabel>
+          <content src="ch-11.xhtml#four-kinds-of-material-qualities" />  
+        </navPoint>
+        <navPoint id="navPoint322" playOrder="297">
+          <navLabel>
+            <text>Material qualities by way of unity</text>
+          </navLabel>
+          <content src="ch-11.xhtml#material-qualities-by-way-of-unity" />  
+        </navPoint>
+        <navPoint id="navPoint323" playOrder="298">
+          <navLabel>
+            <text>Aggregate of feeling</text>
+          </navLabel>
+          <content src="ch-11.xhtml#aggregate-of-feeling" />  
+        </navPoint>
+        <navPoint id="navPoint324" playOrder="299">
+          <navLabel>
+            <text>Aggregate of perception</text>
+          </navLabel>
+          <content src="ch-11.xhtml#aggregate-of-perception" />  
+        </navPoint>
+        <navPoint id="navPoint325" playOrder="300">
+          <navLabel>
+            <text>Aggregate of formations</text>
+          </navLabel>
+          <content src="ch-11.xhtml#aggregate-of-formations" />  
+        </navPoint>
+        <navPoint id="navPoint326" playOrder="301">
+          <navLabel>
+            <text>Thirty-one similes</text>
+          </navLabel>
+          <content src="ch-11.xhtml#thirty-one-similes" />  
+        </navPoint>
+        <navPoint id="navPoint327" playOrder="302">
+          <navLabel>
+            <text>Aggregate of consciousness</text>
+          </navLabel>
+          <content src="ch-11.xhtml#aggregate-of-consciousness" />  
+        </navPoint>
+        <navPoint id="navPoint328" playOrder="303">
+          <navLabel>
+            <text>Through sense-organ-object</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-sense-organ-object" />  
+        </navPoint>
+        <navPoint id="navPoint329" playOrder="304">
+          <navLabel>
+            <text>Through object</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-object" />  
+        </navPoint>
+        <navPoint id="navPoint330" playOrder="305">
+          <navLabel>
+            <text>Through states</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-states" />  
+        </navPoint>
+        <navPoint id="navPoint331" playOrder="306">
+          <navLabel>
+            <text>Through word meaning</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-word-meaning" />  
+        </navPoint>
+        <navPoint id="navPoint332" playOrder="307">
+          <navLabel>
+            <text>Through characteristic</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-characteristic" />  
+        </navPoint>
+        <navPoint id="navPoint333" playOrder="308">
+          <navLabel>
+            <text>Through discrimination</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-discrimination" />  
+        </navPoint>
+        <navPoint id="navPoint334" playOrder="309">
+          <navLabel>
+            <text>Through comprehension</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-comprehension" />  
+        </navPoint>
+        <navPoint id="navPoint335" playOrder="310">
+          <navLabel>
+            <text>Twelve sense-organs and sense-objects</text>
+          </navLabel>
+          <content src="ch-11.xhtml#twelve-sense-organs-and-sense-objects" />  
+        </navPoint>
+        <navPoint id="navPoint336" playOrder="311">
+          <navLabel>
+            <text>Through word meaning</text>
+          </navLabel>
+          <content src="ch-11.xhtml#id69" />  
+        </navPoint>
+        <navPoint id="navPoint337" playOrder="312">
+          <navLabel>
+            <text>Through limits</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-limits" />  
+        </navPoint>
+        <navPoint id="navPoint338" playOrder="313">
+          <navLabel>
+            <text>Through condition</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-condition" />  
+        </navPoint>
+        <navPoint id="navPoint339" playOrder="314">
+          <navLabel>
+            <text>Simile of the thread</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-thread" />  
+        </navPoint>
+        <navPoint id="navPoint340" playOrder="315">
+          <navLabel>
+            <text>Simile of the mango</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-mango" />  
+        </navPoint>
+        <navPoint id="navPoint341" playOrder="316">
+          <navLabel>
+            <text>Element method</text>
+          </navLabel>
+          <content src="ch-11.xhtml#element-method" />  
+        </navPoint>
+        <navPoint id="navPoint342" playOrder="317">
+          <navLabel>
+            <text>Conditioned arising method</text>
+          </navLabel>
+          <content src="ch-11.xhtml#conditioned-arising-method" />  
+        </navPoint>
+        <navPoint id="navPoint343" playOrder="318">
+          <navLabel>
+            <text>Ignorance</text>
+          </navLabel>
+          <content src="ch-11.xhtml#ignorance" />  
+        </navPoint>
+        <navPoint id="navPoint344" playOrder="319">
+          <navLabel>
+            <text>Formations</text>
+          </navLabel>
+          <content src="ch-11.xhtml#formations" />  
+        </navPoint>
+        <navPoint id="navPoint345" playOrder="320">
+          <navLabel>
+            <text>Simile of the seeds</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-seeds" />  
+        </navPoint>
+        <navPoint id="navPoint346" playOrder="321">
+          <navLabel>
+            <text>Simile of the sun</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-sun" />  
+        </navPoint>
+        <navPoint id="navPoint347" playOrder="322">
+          <navLabel>
+            <text>Simile of the two bundles of reeds</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-two-bundles-of-reeds" />  
+        </navPoint>
+        <navPoint id="navPoint348" playOrder="323">
+          <navLabel>
+            <text>Simile of the seed, shoot and plant</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-seed-shoot-and-plant" />  
+        </navPoint>
+        <navPoint id="navPoint349" playOrder="324">
+          <navLabel>
+            <text>What conditions ignorance</text>
+          </navLabel>
+          <content src="ch-11.xhtml#what-conditions-ignorance" />  
+        </navPoint>
+        <navPoint id="navPoint350" playOrder="325">
+          <navLabel>
+            <text>Simile of the colours of a painter</text>
+          </navLabel>
+          <content src="ch-11.xhtml#simile-of-the-colours-of-a-painter" />  
+        </navPoint>
+        <navPoint id="navPoint351" playOrder="326">
+          <navLabel>
+            <text>Conditioned arising to be known in seven ways</text>
+          </navLabel>
+          <content src="ch-11.xhtml#conditioned-arising-to-be-known-in-seven-ways" />  
+        </navPoint>
+        <navPoint id="navPoint352" playOrder="327">
+          <navLabel>
+            <text>First three links</text>
+          </navLabel>
+          <content src="ch-11.xhtml#first-three-links" />  
+        </navPoint>
+        <navPoint id="navPoint353" playOrder="328">
+          <navLabel>
+            <text>Death of the ignorant craving evil-doer</text>
+          </navLabel>
+          <content src="ch-11.xhtml#death-of-the-ignorant-craving-evil-doer" />  
+        </navPoint>
+        <navPoint id="navPoint354" playOrder="329">
+          <navLabel>
+            <text>Action, action-sign, destiny, destiny-sign</text>
+          </navLabel>
+          <content src="ch-11.xhtml#action-action-sign-destiny-destiny-sign" />  
+        </navPoint>
+        <navPoint id="navPoint355" playOrder="330">
+          <navLabel>
+            <text>Four group division</text>
+          </navLabel>
+          <content src="ch-11.xhtml#four-group-division" />  
+        </navPoint>
+        <navPoint id="navPoint356" playOrder="331">
+          <navLabel>
+            <text>Twenty modes</text>
+          </navLabel>
+          <content src="ch-11.xhtml#twenty-modes" />  
+        </navPoint>
+        <navPoint id="navPoint357" playOrder="332">
+          <navLabel>
+            <text>Direct and reverse order</text>
+          </navLabel>
+          <content src="ch-11.xhtml#direct-and-reverse-order" />  
+        </navPoint>
+        <navPoint id="navPoint358" playOrder="333">
+          <navLabel>
+            <text>Mundane and supramundane conditioned arising</text>
+          </navLabel>
+          <content src="ch-11.xhtml#mundane-and-supramundane-conditioned-arising" />  
+        </navPoint>
+        <navPoint id="navPoint359" playOrder="334">
+          <navLabel>
+            <text>Four kinds of conditioned arising</text>
+          </navLabel>
+          <content src="ch-11.xhtml#four-kinds-of-conditioned-arising" />  
+        </navPoint>
+        <navPoint id="navPoint360" playOrder="335">
+          <navLabel>
+            <text>Through comprehension</text>
+          </navLabel>
+          <content src="ch-11.xhtml#id105" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint361" playOrder="336">
+        <navLabel>
+          <text>Section Two</text>
+        </navLabel>
+        <content src="ch-11.xhtml#section-two" />  
+        <navPoint id="navPoint362" playOrder="336">
+          <navLabel>
+            <text>Section Two</text>
+          </navLabel>
+          <content src="ch-11.xhtml#section-two" />  
+        </navPoint>
+        <navPoint id="navPoint363" playOrder="337">
+          <navLabel>
+            <text>The four noble truths</text>
+          </navLabel>
+          <content src="ch-11.xhtml#the-four-noble-truths" />  
+        </navPoint>
+        <navPoint id="navPoint364" playOrder="338">
+          <navLabel>
+            <text>Truth of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#truth-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint365" playOrder="339">
+          <navLabel>
+            <text>Five groups of clinging</text>
+          </navLabel>
+          <content src="ch-11.xhtml#five-groups-of-clinging" />  
+        </navPoint>
+        <navPoint id="navPoint366" playOrder="340">
+          <navLabel>
+            <text>Two kinds of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#two-kinds-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint367" playOrder="341">
+          <navLabel>
+            <text>Three kinds of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#three-kinds-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint368" playOrder="342">
+          <navLabel>
+            <text>Truth of the origin of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#truth-of-the-origin-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint369" playOrder="343">
+          <navLabel>
+            <text>Truth of the cessation of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#truth-of-the-cessation-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint370" playOrder="344">
+          <navLabel>
+            <text>Truth of the path leading to cessation of ill</text>
+          </navLabel>
+          <content src="ch-11.xhtml#truth-of-the-path-leading-to-cessation-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint371" playOrder="345">
+          <navLabel>
+            <text>Through word meaning</text>
+          </navLabel>
+          <content src="ch-11.xhtml#id119" />  
+        </navPoint>
+        <navPoint id="navPoint372" playOrder="346">
+          <navLabel>
+            <text>Through characteristics</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-characteristics" />  
+        </navPoint>
+        <navPoint id="navPoint373" playOrder="347">
+          <navLabel>
+            <text>Through series</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-series" />  
+        </navPoint>
+        <navPoint id="navPoint374" playOrder="348">
+          <navLabel>
+            <text>In brief</text>
+          </navLabel>
+          <content src="ch-11.xhtml#in-brief" />  
+        </navPoint>
+        <navPoint id="navPoint375" playOrder="349">
+          <navLabel>
+            <text>Similes of the poisonous tree, the ship, the burden</text>
+          </navLabel>
+          <content src="ch-11.xhtml#similes-of-the-poisonous-tree-the-ship-the-burden" />  
+        </navPoint>
+        <navPoint id="navPoint376" playOrder="350">
+          <navLabel>
+            <text>Through discrimination</text>
+          </navLabel>
+          <content src="ch-11.xhtml#id123" />  
+        </navPoint>
+        <navPoint id="navPoint377" playOrder="351">
+          <navLabel>
+            <text>Through enumeration</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-enumeration" />  
+        </navPoint>
+        <navPoint id="navPoint378" playOrder="352">
+          <navLabel>
+            <text>Through sameness</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-sameness" />  
+        </navPoint>
+        <navPoint id="navPoint379" playOrder="353">
+          <navLabel>
+            <text>Through difference</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-difference" />  
+        </navPoint>
+        <navPoint id="navPoint380" playOrder="354">
+          <navLabel>
+            <text>Through one kind etc.</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-one-kind-etc" />  
+        </navPoint>
+        <navPoint id="navPoint381" playOrder="355">
+          <navLabel>
+            <text>Through inclusion</text>
+          </navLabel>
+          <content src="ch-11.xhtml#through-inclusion" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint382" playOrder="356">
+      <navLabel>
+        <text>XII. On discerning truth</text>
+      </navLabel>
+      <content src="ch-12.xhtml" />  
+      <navPoint id="navPoint383" playOrder="356">
+        <navLabel>
+          <text>XII. On discerning truth</text>
+        </navLabel>
+        <content src="ch-12.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint384" playOrder="357">
+        <navLabel>
+          <text>Section One</text>
+        </navLabel>
+        <content src="ch-12.xhtml#section-one" />  
+        <navPoint id="navPoint385" playOrder="357">
+          <navLabel>
+            <text>Section One</text>
+          </navLabel>
+          <content src="ch-12.xhtml#section-one" />  
+        </navPoint>
+        <navPoint id="navPoint386" playOrder="358">
+          <navLabel>
+            <text>Aggregates, elements, sense-spheres</text>
+          </navLabel>
+          <content src="ch-12.xhtml#aggregates-elements-sense-spheres" />  
+        </navPoint>
+        <navPoint id="navPoint387" playOrder="359">
+          <navLabel>
+            <text>Similes of the three hundred halberds and of the burning head</text>
+          </navLabel>
+          <content src="ch-12.xhtml#similes-of-the-three-hundred-halberds-and-of-the-burning-head" />  
+        </navPoint>
+        <navPoint id="navPoint388" playOrder="360">
+          <navLabel>
+            <text>Procedure</text>
+          </navLabel>
+          <content src="ch-12.xhtml#procedure" />  
+        </navPoint>
+        <navPoint id="navPoint389" playOrder="361">
+          <navLabel>
+            <text>Differences between name and form</text>
+          </navLabel>
+          <content src="ch-12.xhtml#differences-between-name-and-form" />  
+        </navPoint>
+        <navPoint id="navPoint390" playOrder="362">
+          <navLabel>
+            <text>Summary of the truth of ill</text>
+          </navLabel>
+          <content src="ch-12.xhtml#summary-of-the-truth-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint391" playOrder="363">
+          <navLabel>
+            <text>Cause and condition of ill</text>
+          </navLabel>
+          <content src="ch-12.xhtml#cause-and-condition-of-ill" />  
+        </navPoint>
+        <navPoint id="navPoint392" playOrder="364">
+          <navLabel>
+            <text>The purity of transcending uncertainty</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-purity-of-transcending-uncertainty" />  
+        </navPoint>
+        <navPoint id="navPoint393" playOrder="365">
+          <navLabel>
+            <text>Truth of cessation</text>
+          </navLabel>
+          <content src="ch-12.xhtml#truth-of-cessation" />  
+        </navPoint>
+        <navPoint id="navPoint394" playOrder="366">
+          <navLabel>
+            <text>Truth of the path</text>
+          </navLabel>
+          <content src="ch-12.xhtml#truth-of-the-path" />  
+        </navPoint>
+        <navPoint id="navPoint395" playOrder="367">
+          <navLabel>
+            <text>One hundred and eighty ways of knowing the five clinging aggregates</text>
+          </navLabel>
+          <content src="ch-12.xhtml#one-hundred-and-eighty-ways-of-knowing-the-five-clinging-aggregates" />  
+        </navPoint>
+        <navPoint id="navPoint396" playOrder="368">
+          <navLabel>
+            <text>Impermanence, ill, not-self</text>
+          </navLabel>
+          <content src="ch-12.xhtml#impermanence-ill-not-self" />  
+        </navPoint>
+        <navPoint id="navPoint397" playOrder="369">
+          <navLabel>
+            <text>The signless, the unhankered, and the void</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-signless-the-unhankered-and-the-void" />  
+        </navPoint>
+        <navPoint id="navPoint398" playOrder="370">
+          <navLabel>
+            <text>The knowledge of the rise and fall</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-knowledge-of-the-rise-and-fall" />  
+        </navPoint>
+        <navPoint id="navPoint399" playOrder="371">
+          <navLabel>
+            <text>Defilement-grasp</text>
+          </navLabel>
+          <content src="ch-12.xhtml#defilement-grasp" />  
+        </navPoint>
+        <navPoint id="navPoint400" playOrder="372">
+          <navLabel>
+            <text>Concentration-grasp</text>
+          </navLabel>
+          <content src="ch-12.xhtml#concentration-grasp" />  
+        </navPoint>
+        <navPoint id="navPoint401" playOrder="373">
+          <navLabel>
+            <text>Insight-grasp</text>
+          </navLabel>
+          <content src="ch-12.xhtml#insight-grasp" />  
+        </navPoint>
+        <navPoint id="navPoint402" playOrder="374">
+          <navLabel>
+            <text>Two ways of grasping of thought-characteristics</text>
+          </navLabel>
+          <content src="ch-12.xhtml#two-ways-of-grasping-of-thought-characteristics" />  
+        </navPoint>
+        <navPoint id="navPoint403" playOrder="375">
+          <navLabel>
+            <text>Characteristics of rise and fall in three ways</text>
+          </navLabel>
+          <content src="ch-12.xhtml#characteristics-of-rise-and-fall-in-three-ways" />  
+        </navPoint>
+        <navPoint id="navPoint404" playOrder="376">
+          <navLabel>
+            <text>Acquiring the highest knowledge</text>
+          </navLabel>
+          <content src="ch-12.xhtml#acquiring-the-highest-knowledge" />  
+        </navPoint>
+        <navPoint id="navPoint405" playOrder="377">
+          <navLabel>
+            <text>Simile of the bird surrounded by fire</text>
+          </navLabel>
+          <content src="ch-12.xhtml#simile-of-the-bird-surrounded-by-fire" />  
+        </navPoint>
+        <navPoint id="navPoint406" playOrder="378">
+          <navLabel>
+            <text>Four states</text>
+          </navLabel>
+          <content src="ch-12.xhtml#four-states" />  
+        </navPoint>
+        <navPoint id="navPoint407" playOrder="379">
+          <navLabel>
+            <text>Non-effort in the arising of the formations</text>
+          </navLabel>
+          <content src="ch-12.xhtml#non-effort-in-the-arising-of-the-formations" />  
+        </navPoint>
+        <navPoint id="navPoint408" playOrder="380">
+          <navLabel>
+            <text>Reviewing of breaking up</text>
+          </navLabel>
+          <content src="ch-12.xhtml#reviewing-of-breaking-up" />  
+        </navPoint>
+        <navPoint id="navPoint409" playOrder="381">
+          <navLabel>
+            <text>Breaking up through three ways</text>
+          </navLabel>
+          <content src="ch-12.xhtml#breaking-up-through-three-ways" />  
+        </navPoint>
+        <navPoint id="navPoint410" playOrder="382">
+          <navLabel>
+            <text>Similes of drum-sound, town of gods, lightning</text>
+          </navLabel>
+          <content src="ch-12.xhtml#similes-of-drum-sound-town-of-gods-lightning" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint411" playOrder="383">
+        <navLabel>
+          <text>Section Two</text>
+        </navLabel>
+        <content src="ch-12.xhtml#section-two" />  
+        <navPoint id="navPoint412" playOrder="383">
+          <navLabel>
+            <text>Section Two</text>
+          </navLabel>
+          <content src="ch-12.xhtml#section-two" />  
+        </navPoint>
+        <navPoint id="navPoint413" playOrder="384">
+          <navLabel>
+            <text>Fear knowledge</text>
+          </navLabel>
+          <content src="ch-12.xhtml#fear-knowledge" />  
+        </navPoint>
+        <navPoint id="navPoint414" playOrder="385">
+          <navLabel>
+            <text>Similes of the man with the sword, poisonous snake, and heap of fire</text>
+          </navLabel>
+          <content src="ch-12.xhtml#similes-of-the-man-with-the-sword-poisonous-snake-and-heap-of-fire" />  
+        </navPoint>
+        <navPoint id="navPoint415" playOrder="386">
+          <navLabel>
+            <text>Knowledge of the desire for release</text>
+          </navLabel>
+          <content src="ch-12.xhtml#knowledge-of-the-desire-for-release" />  
+        </navPoint>
+        <navPoint id="navPoint416" playOrder="387">
+          <navLabel>
+            <text>Adaptive knowledge</text>
+          </navLabel>
+          <content src="ch-12.xhtml#adaptive-knowledge" />  
+        </navPoint>
+        <navPoint id="navPoint417" playOrder="388">
+          <navLabel>
+            <text>Knowledge of adoption</text>
+          </navLabel>
+          <content src="ch-12.xhtml#knowledge-of-adoption" />  
+        </navPoint>
+        <navPoint id="navPoint418" playOrder="389">
+          <navLabel>
+            <text>Similes of the boat, lamp, and sun</text>
+          </navLabel>
+          <content src="ch-12.xhtml#similes-of-the-boat-lamp-and-sun" />  
+        </navPoint>
+        <navPoint id="navPoint419" playOrder="390">
+          <navLabel>
+            <text>Simile of the burning city</text>
+          </navLabel>
+          <content src="ch-12.xhtml#simile-of-the-burning-city" />  
+        </navPoint>
+        <navPoint id="navPoint420" playOrder="391">
+          <navLabel>
+            <text>Three fetters</text>
+          </navLabel>
+          <content src="ch-12.xhtml#three-fetters" />  
+        </navPoint>
+        <navPoint id="navPoint421" playOrder="392">
+          <navLabel>
+            <text>Once-returner</text>
+          </navLabel>
+          <content src="ch-12.xhtml#once-returner" />  
+        </navPoint>
+        <navPoint id="navPoint422" playOrder="393">
+          <navLabel>
+            <text>Non-returner</text>
+          </navLabel>
+          <content src="ch-12.xhtml#non-returner" />  
+        </navPoint>
+        <navPoint id="navPoint423" playOrder="394">
+          <navLabel>
+            <text>Saintship</text>
+          </navLabel>
+          <content src="ch-12.xhtml#saintship" />  
+        </navPoint>
+        <navPoint id="navPoint424" playOrder="395">
+          <navLabel>
+            <text>Three kinds of stream-entrant</text>
+          </navLabel>
+          <content src="ch-12.xhtml#three-kinds-of-stream-entrant" />  
+        </navPoint>
+        <navPoint id="navPoint425" playOrder="396">
+          <navLabel>
+            <text>Five kinds of non-returner</text>
+          </navLabel>
+          <content src="ch-12.xhtml#five-kinds-of-non-returner" />  
+        </navPoint>
+        <navPoint id="navPoint426" playOrder="397">
+          <navLabel>
+            <text>Simile of the fiery sparks</text>
+          </navLabel>
+          <content src="ch-12.xhtml#simile-of-the-fiery-sparks" />  
+        </navPoint>
+        <navPoint id="navPoint427" playOrder="398">
+          <navLabel>
+            <text>Miscellaneous teachings</text>
+          </navLabel>
+          <content src="ch-12.xhtml#miscellaneous-teachings" />  
+        </navPoint>
+        <navPoint id="navPoint428" playOrder="399">
+          <navLabel>
+            <text>Serenity and insight</text>
+          </navLabel>
+          <content src="ch-12.xhtml#serenity-and-insight" />  
+        </navPoint>
+        <navPoint id="navPoint429" playOrder="400">
+          <navLabel>
+            <text>Initial application of thought and bare insight</text>
+          </navLabel>
+          <content src="ch-12.xhtml#initial-application-of-thought-and-bare-insight" />  
+        </navPoint>
+        <navPoint id="navPoint430" playOrder="401">
+          <navLabel>
+            <text>Joy</text>
+          </navLabel>
+          <content src="ch-12.xhtml#joy" />  
+        </navPoint>
+        <navPoint id="navPoint431" playOrder="402">
+          <navLabel>
+            <text>Feeling</text>
+          </navLabel>
+          <content src="ch-12.xhtml#feeling" />  
+        </navPoint>
+        <navPoint id="navPoint432" playOrder="403">
+          <navLabel>
+            <text>Plane</text>
+          </navLabel>
+          <content src="ch-12.xhtml#plane" />  
+        </navPoint>
+        <navPoint id="navPoint433" playOrder="404">
+          <navLabel>
+            <text>Faculties</text>
+          </navLabel>
+          <content src="ch-12.xhtml#faculties" />  
+        </navPoint>
+        <navPoint id="navPoint434" playOrder="405">
+          <navLabel>
+            <text>The three emancipations</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-three-emancipations" />  
+        </navPoint>
+        <navPoint id="navPoint435" playOrder="406">
+          <navLabel>
+            <text>Emancipation and the entrance into it</text>
+          </navLabel>
+          <content src="ch-12.xhtml#emancipation-and-the-entrance-into-it" />  
+        </navPoint>
+        <navPoint id="navPoint436" playOrder="407">
+          <navLabel>
+            <text>One hundred and thirty-four defilements</text>
+          </navLabel>
+          <content src="ch-12.xhtml#one-hundred-and-thirty-four-defilements" />  
+        </navPoint>
+        <navPoint id="navPoint437" playOrder="408">
+          <navLabel>
+            <text>Three immoral roots</text>
+          </navLabel>
+          <content src="ch-12.xhtml#three-immoral-roots" />  
+        </navPoint>
+        <navPoint id="navPoint438" playOrder="409">
+          <navLabel>
+            <text>The three kinds of seeking</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-three-kinds-of-seeking" />  
+        </navPoint>
+        <navPoint id="navPoint439" playOrder="410">
+          <navLabel>
+            <text>The four corruptions</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-corruptions" />  
+        </navPoint>
+        <navPoint id="navPoint440" playOrder="411">
+          <navLabel>
+            <text>The four knots</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-knots" />  
+        </navPoint>
+        <navPoint id="navPoint441" playOrder="412">
+          <navLabel>
+            <text>The four floods</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-floods" />  
+        </navPoint>
+        <navPoint id="navPoint442" playOrder="413">
+          <navLabel>
+            <text>The four yokes</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-yokes" />  
+        </navPoint>
+        <navPoint id="navPoint443" playOrder="414">
+          <navLabel>
+            <text>The four clingings</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-clingings" />  
+        </navPoint>
+        <navPoint id="navPoint444" playOrder="415">
+          <navLabel>
+            <text>The four wrong courses of action</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-four-wrong-courses-of-action" />  
+        </navPoint>
+        <navPoint id="navPoint445" playOrder="416">
+          <navLabel>
+            <text>The five kinds of meanness</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-five-kinds-of-meanness" />  
+        </navPoint>
+        <navPoint id="navPoint446" playOrder="417">
+          <navLabel>
+            <text>The five hindrances</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-five-hindrances" />  
+        </navPoint>
+        <navPoint id="navPoint447" playOrder="418">
+          <navLabel>
+            <text>The six roots of contention</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-six-roots-of-contention" />  
+        </navPoint>
+        <navPoint id="navPoint448" playOrder="419">
+          <navLabel>
+            <text>The seven latencies</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-seven-latencies" />  
+        </navPoint>
+        <navPoint id="navPoint449" playOrder="420">
+          <navLabel>
+            <text>The eight worldly conditions</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-eight-worldly-conditions" />  
+        </navPoint>
+        <navPoint id="navPoint450" playOrder="421">
+          <navLabel>
+            <text>The nine conceits</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-nine-conceits" />  
+        </navPoint>
+        <navPoint id="navPoint451" playOrder="422">
+          <navLabel>
+            <text>The ten defilements</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-ten-defilements" />  
+        </navPoint>
+        <navPoint id="navPoint452" playOrder="423">
+          <navLabel>
+            <text>The ten courses of unskilful actions</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-ten-courses-of-unskilful-actions" />  
+        </navPoint>
+        <navPoint id="navPoint453" playOrder="424">
+          <navLabel>
+            <text>The ten fetters</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-ten-fetters" />  
+        </navPoint>
+        <navPoint id="navPoint454" playOrder="425">
+          <navLabel>
+            <text>The ten errors</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-ten-errors" />  
+        </navPoint>
+        <navPoint id="navPoint455" playOrder="426">
+          <navLabel>
+            <text>The twelve reversals</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-twelve-reversals" />  
+        </navPoint>
+        <navPoint id="navPoint456" playOrder="427">
+          <navLabel>
+            <text>The twelve arisings of unskilful thought</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-twelve-arisings-of-unskilful-thought" />  
+        </navPoint>
+        <navPoint id="navPoint457" playOrder="428">
+          <navLabel>
+            <text>The two enjoyments</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-two-enjoyments" />  
+        </navPoint>
+        <navPoint id="navPoint458" playOrder="429">
+          <navLabel>
+            <text>Enjoyment of the fruit</text>
+          </navLabel>
+          <content src="ch-12.xhtml#enjoyment-of-the-fruit" />  
+        </navPoint>
+        <navPoint id="navPoint459" playOrder="430">
+          <navLabel>
+            <text>A second point of view</text>
+          </navLabel>
+          <content src="ch-12.xhtml#a-second-point-of-view" />  
+        </navPoint>
+        <navPoint id="navPoint460" playOrder="431">
+          <navLabel>
+            <text>A third point of view</text>
+          </navLabel>
+          <content src="ch-12.xhtml#a-third-point-of-view" />  
+        </navPoint>
+        <navPoint id="navPoint461" playOrder="432">
+          <navLabel>
+            <text>The signless concentration of mind</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-signless-concentration-of-mind" />  
+        </navPoint>
+        <navPoint id="navPoint462" playOrder="433">
+          <navLabel>
+            <text>The enjoyment of the dissolution of perception and sensation</text>
+          </navLabel>
+          <content src="ch-12.xhtml#the-enjoyment-of-the-dissolution-of-perception-and-sensation" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint463" playOrder="434">
+      <navLabel>
+        <text>Contemplation in the Dhamma</text>
+      </navLabel>
+      <content src="back-A.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>

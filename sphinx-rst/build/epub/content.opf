@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="visuddhimagga"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:title>Visuddhimagga — Digital</dc:title>
+    <dc:description>unknown</dc:description>
+    <dc:creator>Bhadantācariya Buddhaghosa</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
+    <dc:publisher>~~ edhamma.github.io/vism WIP ~~</dc:publisher>
+    <dc:rights>Digital</dc:rights>
+    <dc:identifier id="visuddhimagga">978-955-24-0023-6</dc:identifier>
+    <dc:date>2024-12-15T09:03:24Z</dc:date>
+    <meta property="dcterms:modified">2024-12-15T09:03:24Z</meta>
+    <meta property="ibooks:version">0.1</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
+    <meta name="cover" content="epub-34"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="ch-01.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="ch-02.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="ch-03.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="ch-04.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="ch-05.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="ch-06.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="ch-07.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="ch-08.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="ch-09.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="ch-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="ch-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="ch-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="ch-13.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="ch-14.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="ch-15.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="ch-16.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-16" href="ch-17.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-17" href="ch-18.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="ch-19.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="ch-20.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-20" href="ch-21.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-21" href="ch-22.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-22" href="ch-23.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-23" href="front-A.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-24" href="front-B.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-25" href="front-C.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-26" href="front.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-27" href="glossary.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-28" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-29" href="index_.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-30" href="part-I.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-31" href="part-II.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-32" href="part-III.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-33" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-34" href="_static/cover.jpg" media-type="image/jpeg" />
+    <item id="epub-35" href="_static/custom.css" media-type="text/css" />
+    <item id="epub-36" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-37" href="_static/file.png" media-type="image/png" />
+    <item id="epub-38" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-39" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-40" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-41" href="epub-cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-41" />
+    <itemref idref="epub-28" />
+    <itemref idref="epub-26" />
+    <itemref idref="epub-23" />
+    <itemref idref="epub-24" />
+    <itemref idref="epub-25" />
+    <itemref idref="epub-30" />
+    <itemref idref="epub-0" />
+    <itemref idref="epub-1" />
+    <itemref idref="epub-31" />
+    <itemref idref="epub-2" />
+    <itemref idref="epub-3" />
+    <itemref idref="epub-4" />
+    <itemref idref="epub-5" />
+    <itemref idref="epub-6" />
+    <itemref idref="epub-7" />
+    <itemref idref="epub-8" />
+    <itemref idref="epub-9" />
+    <itemref idref="epub-10" />
+    <itemref idref="epub-11" />
+    <itemref idref="epub-12" />
+    <itemref idref="epub-32" />
+    <itemref idref="epub-13" />
+    <itemref idref="epub-14" />
+    <itemref idref="epub-15" />
+    <itemref idref="epub-16" />
+    <itemref idref="epub-17" />
+    <itemref idref="epub-18" />
+    <itemref idref="epub-19" />
+    <itemref idref="epub-20" />
+    <itemref idref="epub-21" />
+    <itemref idref="epub-22" />
+    <itemref idref="epub-29" />
+    <itemref idref="epub-27" />
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="epub-cover.xhtml" />
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
+  </guide>
+</package>

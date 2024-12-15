@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Visuddhimagga & Vimuttimagga — digital</title>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+		<style>dt { font-weight:bold; } body {margin: 8%; font-family:'Lora'; } </style>
+	</head>
+	<body>
+	(👑=top-quality, ✅=good, ❌=bad, ⛔=deprecated)
+	<h1>Vissudhimagga</h1>
+		<ul>
+			<li>LaTeX: <a href="latex/vism.pdf" download="vism.pdf">👑 PDF</a>, <a href="latex/html/index.html">✅ HTML</a> (via PlastTeX)</li>
+			<li>Sphinx: <a href="sphinx/build/html/index.html">✅ HTML</a>, <a href="sphinx/build/epub/vism.epub" download="vism.epub">✅ ePub</a></li>
+			<li>HTML5 + CSS for paged media: <a href="html5/vism.weasyprint.pdf">❌ Weasyprint PDF</a>, <a href="html5/vism.vivliostyle.pdf">❌ Vivliostyle PDF</a></li>
+			<li>DocBook: <a href="docbook/vism.docbook.pdf" download="vism.docbook.pdf">⛔ PDF</a> (via Apache FOP), <a href="docbook/vism.xhtml">⛔ HTML</a> (XHTML5)</li>
+		</ul>
+	<h1>Vimuttimagga</h1>
+		<ul>
+			<li>LaTeX: <a href="latex/vimm.pdf" download="vimm.pdf">👑 PDF</a>, <a href="latex/vimm/index.html">✅ HTML</a> (via PlasTeX)</li>
+			<li>Sphinx: <a href="sphinx-vimm/build/html/index.html">✅ HTML</a>, <a href="sphinx-vimm/build/epub/vimm.epub" download="vism.epub">✅ ePub</a></li>
+			<li>HTML5 + CSS for paged media: <a href="html5/vimm.weasyprint.pdf">❌ Weasyprint PDF</a>  </li> <!-- , <a href="html5/vism.vivliostyle.pdf">❌ Vivliostyle PDF</a> -->
+			<!--
+				<li>DocBook: <a href="docbook/vimm.docbook.pdf" download="vism.docbook.pdf">⛔ PDF</a>, <a href="docbook/vimm.xhtml">⛔ HTML</a></li>
+			-->
+		</ul>
+	<h1>About this project</h1>
+		<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
+		<p><em>Vimuttimagga</em> is an earlier meditation manual, with strong influence on <em>Visuddhimagga</em>. Recently, a new translation by Bhikkhu Nyanatusita was published, but is only available in paper form. Therefore, this work is based on the translation by Soma &amp; Kheminda Theras.</p>
+		<h2>Goal</h2>
+			<p>Providing high-quality machine-readable Visuddhimagga, plus several machine-generated electronic editions (such as HTML, ePub, PDF). The primary focus is English reader, not Pali scholar.</p>
+			<h3>Visuddhimagga steps</h3>
+				<dl>
+					<dt>(0. ✅ politics)</dt><dd><em>Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.</em> It would be nice to have green light (or even source data) from BPS. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
+					<dt>1. ✅ semantic representation</dt><dd>The BPS edition was used as a basis for ≈<a href="https://tei-c.org/">TEI</a> representation of the contents (≈ denotes light customization); TEI is academic XML-based standard for this kind of work. The result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such). Outputs generated from these data show their soundness.
+					<dt>2. ✅ verification</dt><dd> This seems to be done: making sure that the current data are complete and did not suffer from a structural problem during the automated conversion.</dd>
+					<dt>3. ✅ automation</dt><dd>The repository had CI (continuous integration) which produces various formats. Tuning those formats is not yet the objective, but they look good and are already usable.</dd>
+					<dt>4. 🔧 corrections</dt><dd>Hand-editing the data to fix non-structural errors mentioned above. <b>LaTeX- and Sphinx-based formats have issue hyperlinks on page numbers and § labels</b> — thus it is easy to help. Those include:
+						<ul>
+							<li>✅ obvious errors in the BPS edition (few);</li>
+							<li>✅ trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
+							<li>cross-references which were not parsed correctly;</li>
+							<li>✅ incorrectly parsed entries in the index and glossary;</li>
+							<li>✅ some (sub)section header are missing, as they were not parsed correctly;</li>
+							<li>tables: format-specific;
+								<ul>
+									<li>✅ tables in the introduction (not particularly pretty)</li>
+									<li>appendix tables (not a priority).</li>
+								</ul>
+							</li>
+						</ul>
+					<dt>5. 🔧 enhancements</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for Tipitaka references). </dd>
+					<dt>6. ✨ publication</dt><dd>Final and fine-tuned outputs.</dd>
+				</dl>
+			<h3>Vimuttimagga steps</h3>
+				<p>The basis data is OCRed scan of the print, with is semantically tagged and saved in ODT (LibreOffice) format. This format is used as starting point (ODT → ≈TEI → other outputs, using the same machinery as <em>Visuddhimagga</em>. The following tasks are outstanding:</p>
+				<dl>
+					<dt>1. Improve sectioning within chapters</dt><dd>The sectioning is flat and relatively difficult to navigate. Sectioning in the Nyanatusita's edition (not yet looked at) could be an inspiration.</dd>
+					<dt>2. Fix bibliographical references</dt><dd>Convert quotation locations in the canon to modern format (so that they can hyperlink to suttacentral.net)</dd>
+					<dt>3. Correct Pali quotations in footnotes</dt><dd>Use current electronic Pali texts to fuzzy-match footnotes and fix any typos there (possibly many due to OCR)</dd>
+				</dl>
+		<h2>How can you help?</h2>
+			<p>If you spot anything wrong, <a href="https://github.com/edhamma/vism/issues">file an issue at github</a> or open a pull request with corrected data.</p>
+			<p>If you want to work on any of the other points, go ahead and let me know!</p>
+	</body>
+</html>
